@@ -1,0 +1,127 @@
+# lemma|POS|English gloss (default sense)|gender (m/f, nouns only)|article override (optional, e.g. "la" for aspirated h)
+# Proper names are excluded from coverage counts.
+Léa|PROPN|Léa (a girl's name)
+Paris|PROPN|Paris
+Lyon|PROPN|Lyon (a city in France)
+Thomas|PROPN|Thomas (a boy's name)
+être|VERB|to be
+avoir|VERB|to have
+dans|PREP|in, inside
+le|DET|the
+un|DET|a, an, one
+son|DET|his, her, its
+ce|DET|this, that
+train|NOUN|train|m
+elle|PRON|she, her, it
+il|PRON|he, it
+lui|PRON|him, to him
+se|PRON|oneself (reflexive pronoun)
+regarder|VERB|to look at, to watch
+par|PREP|by, through
+fenêtre|NOUN|window|f
+grand|ADJ|big, tall, large
+et|CONJ|and
+mais|CONJ|but
+beau|ADJ|beautiful, nice, handsome
+arrêter|VERB|to stop
+descendre|VERB|to go down, to get off
+de|PREP|of, from
+à|PREP|to, at, in
+valise|NOUN|suitcase|f
+rouge|ADJ|red
+homme|NOUN|man|m
+dire|VERB|to say
+bonjour|INTJ|hello, good morning
+madame|NOUN|madam, Mrs, lady|f
+monsieur|NOUN|sir, Mr, gentleman|m
+sourire|VERB|to smile
+répondre|VERB|to answer, to reply
+chercher|VERB|to look for, to search for
+métro|NOUN|metro, subway|m
+il y a|EXPR|there is, there are
+beaucoup de|EXPR|a lot of, many
+beaucoup|ADV|a lot, very much
+monde|NOUN|world; people|m
+gare|NOUN|train station|f
+avoir faim|EXPR|to be hungry
+vouloir|VERB|to want
+café|NOUN|coffee; café|m
+croissant|NOUN|croissant|m
+entrer|VERB|to enter, to go in
+petit|ADJ|small, little
+serveur|NOUN|waiter|m
+s'il vous plaît|EXPR|please
+oui|INTJ|yes
+tout de suite|EXPR|right away, immediately
+dehors|ADV|outside
+il fait beau|EXPR|the weather is nice
+ciel|NOUN|sky|m
+bleu|ADJ|blue
+manger|VERB|to eat
+boire|VERB|to drink
+penser|VERB|to think
+ville|NOUN|city, town|f
+heureux|ADJ|happy
+aimer|VERB|to like, to love
+trouver|VERB|to find
+plan|NOUN|map, plan|m
+ligne|NOUN|line|f
+jaune|ADJ|yellow
+acheter|VERB|to buy
+billet|NOUN|ticket|m
+coûter|VERB|to cost
+deux|NUM|two
+euro|NOUN|euro|m
+dame|NOUN|lady|f
+à côté de|PREP|next to
+excusez-moi|EXPR|excuse me
+où|ADV|where
+là-bas|ADV|over there
+à droite|ADV|on the right
+merci|INTJ|thank you, thanks
+arriver|VERB|to arrive
+prendre|VERB|to take
+plein|ADJ|full
+debout|ADV|standing, upright
+station|NOUN|station, stop|f
+sortir|VERB|to go out, to get off
+parc|NOUN|park|m
+devant|PREP|in front of
+pays|NOUN|country|m
+arbre|NOUN|tree|m
+fleur|NOUN|flower|f
+très|ADV|very
+hier|ADV|yesterday
+pleuvoir|VERB|to rain
+marcher|VERB|to walk
+vers|PREP|toward, around
+avec|PREP|with
+parapluie|NOUN|umbrella|m
+fatigué|ADJ|tired
+lit|NOUN|bed|m
+bus|NOUN|bus|m
+voir|VERB|to see
+vieux|ADJ|old
+ne|ADV|not (negation, used with pas)
+pas de|EXPR|no, not any
+avoir froid|EXPR|to be cold
+hésiter|VERB|to hesitate
+moment|NOUN|moment|m
+puis|ADV|then
+donner|VERB|to give
+jeune|ADJ|young
+sous|PREP|under, in (the rain)
+pluie|NOUN|rain|f
+courir|VERB|to run
+jusque|PREP|until, as far as
+mouillé|ADJ|wet
+content|ADJ|happy, pleased
+le lendemain|EXPR|the next day
+attendre|VERB|to wait for
+arrêt|NOUN|stop (as in bus stop)|m
+rendre|VERB|to give back
+aussi|ADV|also, too
+gâteau|NOUN|cake|m
+chocolat|NOUN|chocolate|m
+pour|PREP|for
+rougir|VERB|to blush

@@ -1,0 +1,52 @@
+{
+  "id": "lea-1",
+  "series_id": "lea-paris",
+  "episode": 1,
+  "title": "Léa arrive à Paris",
+  "title_en": "Léa arrives in Paris",
+  "level": "A1",
+  "summary_en": "Léa steps off the train in Paris with a big red suitcase. She is hungry, so she finds a café.",
+  "tags": ["travel", "city", "food"],
+  "key_vocab": ["train", "gare", "café", "regarder", "chercher", "vouloir", "manger", "petit", "grand", "beau"],
+  "source": "original",
+  "license": "CC0",
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Léa est dans le train.", "en": "Léa is on the train."},
+          {"fr": "Elle regarde par la fenêtre.", "en": "She looks out of the window."},
+          {"fr": "Paris est grand et beau.", "en": "Paris is big and beautiful."},
+          {"fr": "Le train s'arrête.", "en": "The train stops."}
+        ]},
+        {"sentences": [
+          {"fr": "Léa descend du train.", "en": "Léa gets off the train."},
+          {"fr": "Elle a une grande valise rouge.", "en": "She has a big red suitcase."},
+          {"fr": "Un homme dit : « Bonjour, madame ! »", "en": "A man says: “Hello, madam!”"},
+          {"fr": "Léa sourit et répond : « Bonjour, monsieur ! »", "en": "Léa smiles and replies: “Hello, sir!”"}
+        ]},
+        {"sentences": [
+          {"fr": "Elle cherche le métro.", "en": "She is looking for the metro."},
+          {"fr": "Il y a beaucoup de monde dans la gare.", "en": "There are a lot of people in the station.",
+           "ov": {"2": {"g": "people, a crowd"}}},
+          {"fr": "Léa a faim.", "en": "Léa is hungry."},
+          {"fr": "Elle veut un café et un croissant.", "en": "She wants a coffee and a croissant."},
+          {"fr": "Elle entre dans un petit café.", "en": "She goes into a small café."}
+        ]},
+        {"sentences": [
+          {"fr": "Le serveur sourit.", "en": "The waiter smiles."},
+          {"fr": "« Un café, s'il vous plaît », dit Léa.", "en": "“A coffee, please,” says Léa."},
+          {"fr": "« Oui, tout de suite ! » répond le serveur.", "en": "“Yes, right away!” replies the waiter."}
+        ]},
+        {"sentences": [
+          {"fr": "Dehors, il fait beau.", "en": "Outside, the weather is nice."},
+          {"fr": "Le ciel est bleu.", "en": "The sky is blue."},
+          {"fr": "Léa mange son croissant et boit son café.", "en": "Léa eats her croissant and drinks her coffee."},
+          {"fr": "Elle pense : « Paris est une belle ville ! »", "en": "She thinks: “Paris is a beautiful city!”"},
+          {"fr": "Elle est heureuse.", "en": "She is happy."}
+        ]}
+      ]
+    }
+  ]
+}

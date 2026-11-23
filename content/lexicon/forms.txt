@@ -1,0 +1,132 @@
+# surface form (lowercase, ' for apostrophes)|lemma|POS|form note
+# One line per surface form. Ambiguous forms get a per-occurrence override in the story source ("ov").
+léa|Léa|PROPN|
+paris|Paris|PROPN|
+lyon|Lyon|PROPN|
+thomas|Thomas|PROPN|
+est|être|VERB|present (il/elle)
+était|être|VERB|imparfait (il/elle)
+a|avoir|VERB|present (il/elle)
+avait|avoir|VERB|imparfait (il/elle)
+dans|dans|PREP|
+le|le|DET|
+la|le|DET|feminine
+un|un|DET|
+une|un|DET|feminine
+des|un|DET|plural (some)
+son|son|DET|
+ce|ce|DET|
+train|train|NOUN|
+elle|elle|PRON|
+il|il|PRON|
+lui|lui|PRON|
+s'|se|PRON|before a vowel
+regarde|regarder|VERB|present (il/elle)
+par|par|PREP|
+fenêtre|fenêtre|NOUN|
+grand|grand|ADJ|
+grande|grand|ADJ|feminine
+et|et|CONJ|
+mais|mais|CONJ|
+beau|beau|ADJ|
+belle|beau|ADJ|feminine
+arrête|arrêter|VERB|present (il/elle)
+descend|descendre|VERB|present (il/elle)
+descendu|descendre|VERB|past participle
+du|de|PREP|de + le
+de|de|PREP|
+à|à|PREP|
+au|à|PREP|à + le
+valise|valise|NOUN|
+rouge|rouge|ADJ|
+homme|homme|NOUN|
+dit|dire|VERB|present (il/elle)
+dit-elle|dire|VERB|inverted: "she says"
+bonjour|bonjour|INTJ|
+madame|madame|NOUN|
+monsieur|monsieur|NOUN|
+sourit|sourire|VERB|present (il/elle)
+souri|sourire|VERB|past participle
+répond|répondre|VERB|present (il/elle)
+cherche|chercher|VERB|present (il/elle)
+métro|métro|NOUN|
+beaucoup|beaucoup|ADV|
+monde|monde|NOUN|
+gare|gare|NOUN|
+veut|vouloir|VERB|present (il/elle)
+café|café|NOUN|
+croissant|croissant|NOUN|
+entre|entrer|VERB|present (il/elle)
+petit|petit|ADJ|
+serveur|serveur|NOUN|
+oui|oui|INTJ|
+dehors|dehors|ADV|
+ciel|ciel|NOUN|
+bleu|bleu|ADJ|
+mange|manger|VERB|present (il/elle)
+boit|boire|VERB|present (il/elle)
+pense|penser|VERB|present (il/elle)
+pensait|penser|VERB|imparfait (il/elle)
+ville|ville|NOUN|
+heureuse|heureux|ADJ|feminine
+aime|aimer|VERB|present (il/elle)
+trouve|trouver|VERB|present (il/elle)
+plan|plan|NOUN|
+ligne|ligne|NOUN|
+jaune|jaune|ADJ|
+achète|acheter|VERB|present (il/elle)
+billet|billet|NOUN|
+coûte|coûter|VERB|present (il/elle)
+deux|deux|NUM|
+euros|euro|NOUN|plural
+dame|dame|NOUN|
+excusez-moi|excusez-moi|EXPR|
+où|où|ADV|
+là-bas|là-bas|ADV|
+merci|merci|INTJ|
+arrive|arriver|VERB|present (il/elle)
+prend|prendre|VERB|present (il/elle)
+plein|plein|ADJ|
+debout|debout|ADV|
+station|station|NOUN|
+sort|sortir|VERB|present (il/elle)
+parc|parc|NOUN|
+devant|devant|PREP|
+pays|pays|NOUN|
+arbres|arbre|NOUN|plural
+fleurs|fleur|NOUN|plural
+très|très|ADV|
+hier|hier|ADV|
+pleuvait|pleuvoir|VERB|imparfait (il)
+marchait|marcher|VERB|imparfait (il/elle)
+vers|vers|PREP|
+avec|avec|PREP|
+parapluie|parapluie|NOUN|
+fatigué|fatigué|ADJ|
+lit|lit|NOUN|
+bus|bus|NOUN|
+vu|voir|VERB|past participle
+vieille|vieux|ADJ|feminine
+n'|ne|ADV|before a vowel
+pas|pas|ADV|
+avait|avoir|VERB|imparfait (il/elle)
+hésité|hésiter|VERB|past participle
+moment|moment|NOUN|
+puis|puis|ADV|
+donné|donner|VERB|past participle
+jeune|jeune|ADJ|
+sous|sous|PREP|
+pluie|pluie|NOUN|
+couru|courir|VERB|past participle
+jusqu'|jusque|PREP|before a vowel
+mouillé|mouillé|ADJ|
+content|content|ADJ|
+l'|le|DET|before a vowel
+attendait|attendre|VERB|imparfait (il/elle)
+arrêt|arrêt|NOUN|
+rendu|rendre|VERB|past participle
+aussi|aussi|ADV|
+gâteau|gâteau|NOUN|
+chocolat|chocolat|NOUN|
+pour|pour|PREP|
+rougi|rougir|VERB|past participle

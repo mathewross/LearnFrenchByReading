@@ -1,0 +1,47 @@
+{
+  "id": "lea-2",
+  "series_id": "lea-paris",
+  "episode": 2,
+  "title": "Léa prend le métro",
+  "title_en": "Léa takes the metro",
+  "level": "A1",
+  "summary_en": "Léa buys a ticket, asks a kind lady for help, and takes the yellow line to a big park.",
+  "tags": ["travel", "city", "transport"],
+  "key_vocab": ["métro", "ligne", "billet", "chercher", "regarder", "jaune", "dame", "parc", "aimer", "arriver"],
+  "source": "original",
+  "license": "CC0",
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Léa trouve le métro.", "en": "Léa finds the metro."},
+          {"fr": "Elle regarde le plan.", "en": "She looks at the map."},
+          {"fr": "Elle cherche la ligne jaune.", "en": "She is looking for the yellow line."},
+          {"fr": "Elle achète un billet.", "en": "She buys a ticket."},
+          {"fr": "Le billet coûte deux euros.", "en": "The ticket costs two euros."}
+        ]},
+        {"sentences": [
+          {"fr": "Une dame est à côté de Léa.", "en": "A lady is next to Léa."},
+          {"fr": "« Excusez-moi, madame. Où est la ligne jaune ? »", "en": "“Excuse me, madam. Where is the yellow line?”"},
+          {"fr": "La dame sourit.", "en": "The lady smiles."},
+          {"fr": "« Là-bas, à droite ! » dit-elle.", "en": "“Over there, on the right!” she says."}
+        ]},
+        {"sentences": [
+          {"fr": "Léa dit : « Merci beaucoup ! »", "en": "Léa says: “Thank you very much!”"},
+          {"fr": "Le métro arrive.", "en": "The metro arrives."},
+          {"fr": "Il est jaune et plein.", "en": "It is yellow and full."},
+          {"fr": "Elle prend le métro.", "en": "She takes the metro."},
+          {"fr": "Léa est debout.", "en": "Léa is standing."}
+        ]},
+        {"sentences": [
+          {"fr": "À la station, elle sort.", "en": "At the station, she gets out."},
+          {"fr": "Un grand parc est devant elle.", "en": "A big park is in front of her."},
+          {"fr": "Dans le parc, il y a des arbres et des fleurs.", "en": "In the park, there are trees and flowers."},
+          {"fr": "Léa sourit : elle aime ce pays !", "en": "Léa smiles: she loves this country!"},
+          {"fr": "Elle est très heureuse.", "en": "She is very happy."}
+        ]}
+      ]
+    }
+  ]
+}

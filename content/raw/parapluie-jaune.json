@@ -1,0 +1,47 @@
+{
+  "id": "parapluie-jaune",
+  "series_id": null,
+  "episode": null,
+  "title": "Le parapluie jaune",
+  "title_en": "The yellow umbrella",
+  "level": "A2",
+  "summary_en": "On a rainy day in Lyon, Thomas gives his umbrella to an old lady on the bus. The next day, she has a surprise for him.",
+  "tags": ["kindness", "weather", "city"],
+  "key_vocab": ["parapluie", "pluie", "dame", "donner", "rendre", "gare", "bus", "gâteau", "content", "fatigué"],
+  "source": "original",
+  "license": "CC0",
+  "chapters": [
+    {
+      "title": "",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Hier, il pleuvait beaucoup à Lyon.", "en": "Yesterday, it was raining a lot in Lyon."},
+          {"fr": "Thomas marchait vers la gare avec un parapluie jaune.", "en": "Thomas was walking toward the station with a yellow umbrella."},
+          {"fr": "Il était fatigué et il pensait à son lit.", "en": "He was tired and he was thinking about his bed."}
+        ]},
+        {"sentences": [
+          {"fr": "Dans le bus, il a vu une vieille dame.", "en": "On the bus, he saw an old lady."},
+          {"fr": "Elle n'avait pas de parapluie et elle avait froid.", "en": "She didn't have an umbrella and she was cold."},
+          {"fr": "Thomas a hésité un moment.", "en": "Thomas hesitated for a moment."},
+          {"fr": "Puis il a souri et il a donné son parapluie à la dame.", "en": "Then he smiled and gave his umbrella to the lady."}
+        ]},
+        {"sentences": [
+          {"fr": "« Merci, jeune homme ! » a dit la dame.", "en": "“Thank you, young man!” said the lady.",
+           "ov": {"4": {"m": "past participle"}}},
+          {"fr": "Thomas est descendu du bus sous la pluie.", "en": "Thomas got off the bus in the rain."},
+          {"fr": "Il a couru jusqu'à la gare.", "en": "He ran all the way to the station."},
+          {"fr": "Il était mouillé, mais il était content.", "en": "He was wet, but he was happy."}
+        ]},
+        {"sentences": [
+          {"fr": "Le lendemain, la dame l'attendait à l'arrêt de bus.", "en": "The next day, the lady was waiting for him at the bus stop.",
+           "ov": {"3": {"p": "PRON", "g": "him", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "Elle a rendu le parapluie à Thomas.", "en": "She gave the umbrella back to Thomas."},
+          {"fr": "Elle avait aussi un gâteau au chocolat pour lui.", "en": "She also had a chocolate cake for him.",
+           "ov": {"5": {"g": "with (gâteau au chocolat = chocolate cake)"}}},
+          {"fr": "Thomas a rougi et il a dit merci.", "en": "Thomas blushed and said thank you.",
+           "ov": {"6": {"m": "past participle"}}}
+        ]}
+      ]
+    }
+  ]
+}

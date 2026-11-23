@@ -1,0 +1,13 @@
+# token sequence (lowercase, ' for apostrophes, space-separated)|lemma|POS|form note
+# Multi-word expressions are merged into ONE tappable token that spans all the words.
+il y a|il y a|EXPR|
+beaucoup de|beaucoup de|EXPR|
+a faim|avoir faim|EXPR|present (il/elle)
+avait froid|avoir froid|EXPR|imparfait (il/elle)
+s' il vous plaît|s'il vous plaît|EXPR|
+tout de suite|tout de suite|EXPR|
+il fait beau|il fait beau|EXPR|
+à côté de|à côté de|PREP|
+à droite|à droite|ADV|
+pas de|pas de|EXPR|
+le lendemain|le lendemain|EXPR|
