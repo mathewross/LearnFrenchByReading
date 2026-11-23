@@ -141,5 +141,43 @@
         ]}
       ]
     }
+  ],
+  "quiz": [
+    {"q": "Pourquoi Hélène a-t-elle raté le dernier train ?", "q_en": "Why did Hélène miss the last train?",
+     "o": [{"fr": "Elle s'est trompée d'heure de départ", "en": "She got the departure time wrong"},
+           {"fr": "Sa dernière réunion a fini trop tard", "en": "Her last meeting ended too late"},
+           {"fr": "Elle n'a pas osé quitter le dîner la première", "en": "She did not dare leave the dinner first"},
+           {"fr": "Elle cherchait un hôtel près de la gare", "en": "She was looking for a hotel near the station"}],
+     "a": 2, "why": "The dinner with the regional director dragged on, and her politeness in not leaving first cost her the train."},
+    {"q": "Pourquoi Hélène passe-t-elle la nuit dans la gare ?", "q_en": "Why does Hélène spend the night in the station?",
+     "o": [{"fr": "Un congrès a rempli tous les hôtels proches", "en": "A conference has filled all the nearby hotels"},
+           {"fr": "Son téléphone n'a presque plus de batterie", "en": "Her phone has almost no battery left"},
+           {"fr": "Les hôtels de Bordeaux sont trop chers", "en": "Bordeaux hotels are too expensive"},
+           {"fr": "Son mari lui demande d'attendre le premier train", "en": "Her husband asks her to wait for the first train"}],
+     "a": 0, "why": "The two hotels she calls have no rooms left because of a medical conference."},
+    {"q": "Seule dans le hall, que comprend Hélène sur sa propre vie ?", "q_en": "Alone in the hall, what does Hélène realise about her own life?",
+     "o": [{"fr": "Elle aimerait travailler à Bordeaux", "en": "She would like to work in Bordeaux"},
+           {"fr": "Elle a besoin de changer de métier", "en": "She needs to change jobs"},
+           {"fr": "Elle préfère être seule la nuit", "en": "She prefers being alone at night"},
+           {"fr": "Elle court sans cesse et manque l'essentiel", "en": "She is always rushing and missing what matters"}],
+     "a": 3, "why": "Thinking of the bedtime story her daughter missed, she wonders when her life became a race between two trains."},
+    {"q": "Pourquoi Hélène rapproche-t-elle sa valise quand Lucien s'assoit ?", "q_en": "Why does Hélène pull her suitcase closer when Lucien sits down?",
+     "o": [{"fr": "Elle veut lui laisser de la place", "en": "She wants to leave him room"},
+           {"fr": "La nuit, elle se méfie d'un inconnu", "en": "At night, she is wary of a stranger"},
+           {"fr": "Elle s'apprête à changer de banc", "en": "She is about to move to another bench"},
+           {"fr": "Elle y cherche son téléphone éteint", "en": "She is looking in it for her switched-off phone"}],
+     "a": 1, "why": "The text says that at night in a station prudence seemed more reasonable to her than curiosity."},
+    {"q": "Pourquoi Lucien vient-il à la gare tous les mardis soir ?", "q_en": "Why does Lucien come to the station every Tuesday evening?",
+     "o": [{"fr": "Pour attendre le retour de sa femme", "en": "To wait for his wife to come back"},
+           {"fr": "Pour prendre enfin le dernier train", "en": "To finally catch the last train"},
+           {"fr": "Parce qu'il est perdu et un peu malade", "en": "Because he is lost and somewhat ill"},
+           {"fr": "Pour faire ce que Mireille avait fait pour lui", "en": "To do what Mireille had once done for him"}],
+     "a": 3, "why": "Mireille once stayed all night with him on that bench; since her death he brings tea to the travellers the last train leaves behind."},
+    {"q": "À la fin, quel autre train Hélène a-t-elle l'impression d'avoir attrapé ?", "q_en": "At the end, what other train does Hélène feel she has caught?",
+     "o": [{"fr": "Une rencontre qui change son regard sur les autres", "en": "An encounter that changes how she sees others"},
+           {"fr": "Un train plus rapide pour La Rochelle", "en": "A faster train to La Rochelle"},
+           {"fr": "Une nouvelle chance dans son travail", "en": "A new chance in her work"},
+           {"fr": "Un voyage à faire avec sa fille", "en": "A trip to take with her daughter"}],
+     "a": 0, "why": "The night with Lucien felt slower and more important, and she promises to stop for the next person alone on a bench."}
   ]
 }

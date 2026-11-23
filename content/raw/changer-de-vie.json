@@ -265,5 +265,127 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Quel est le métier de Camille à Paris ?",
+   "q_en": "What is Camille's job in Paris?",
+   "o": [
+    {
+     "fr": "Libraire dans un petit village",
+     "en": "Bookseller in a small village"
+    },
+    {
+     "fr": "Graphiste dans une agence",
+     "en": "Graphic designer at an agency"
+    },
+    {
+     "fr": "Employée dans une banque",
+     "en": "Employee at a bank"
+    },
+    {
+     "fr": "Propriétaire d'une boutique",
+     "en": "Owner of a shop"
+    }
+   ],
+   "a": 1,
+   "why": "The story opens by saying she works as a graphic designer at an agency in Paris."
+  },
+  {
+   "q": "Pourquoi la liste de Camille l'inquiète-t-elle ?",
+   "q_en": "Why does Camille's list worry her?",
+   "o": [
+    {
+     "fr": "Elle n'a rien à écrire dans la première colonne",
+     "en": "She has nothing to write in the first column"
+    },
+    {
+     "fr": "Sa sœur n'aime pas son idée",
+     "en": "Her sister does not like her idea"
+    },
+    {
+     "fr": "Elle a perdu la feuille avec ses idées",
+     "en": "She lost the sheet with her ideas"
+    },
+    {
+     "fr": "La colonne des risques est plus longue",
+     "en": "The column of risks is longer"
+    }
+   ],
+   "a": 3,
+   "why": "The second column, with earning less, leaving friends and failing, is longer, and that worries her."
+  },
+  {
+   "q": "Qu'est-ce qui manque au village de Saint-Aubin ?",
+   "q_en": "What is missing in the village of Saint-Aubin?",
+   "o": [
+    {
+     "fr": "Une librairie, et même un kiosque",
+     "en": "A bookshop, and even a newsstand"
+    },
+    {
+     "fr": "Une boulangerie sur la place",
+     "en": "A bakery on the square"
+    },
+    {
+     "fr": "Une église et une fontaine",
+     "en": "A church and a fountain"
+    },
+    {
+     "fr": "Des maisons en pierre",
+     "en": "Stone houses"
+    }
+   ],
+   "a": 0,
+   "why": "The village has a bakery, a church and a fountain, but no bookshop, not even a newsstand."
+  },
+  {
+   "q": "Dans le train du retour, qu'est-ce qui aide Camille à choisir ?",
+   "q_en": "On the train home, what helps Camille choose?",
+   "o": [
+    {
+     "fr": "Sa sœur lui promet de l'argent",
+     "en": "Her sister promises her money"
+    },
+    {
+     "fr": "Elle n'a plus peur du tout",
+     "en": "She is not afraid at all anymore"
+    },
+    {
+     "fr": "Elle a plus peur de ne jamais essayer",
+     "en": "She is more afraid of never trying"
+    },
+    {
+     "fr": "La propriétaire lui fait un petit prix",
+     "en": "The owner gives her a low price"
+    }
+   ],
+   "a": 2,
+   "why": "She says she will be afraid every day if she opens the shop, but afraid of never trying if she stays, and Hélène sees she already has her answer."
+  },
+  {
+   "q": "À la fin, comment se sent Camille ?",
+   "q_en": "At the end, how does Camille feel?",
+   "o": [
+    {
+     "fr": "Elle n'a plus aucune peur",
+     "en": "She has no fear at all anymore"
+    },
+    {
+     "fr": "Elle a encore peur, mais elle est heureuse",
+     "en": "She is still afraid, but she is happy"
+    },
+    {
+     "fr": "Elle regrette de quitter son métier",
+     "en": "She regrets leaving her job"
+    },
+    {
+     "fr": "Elle est triste de quitter Paris",
+     "en": "She is sad to leave Paris"
+    }
+   ],
+   "a": 1,
+   "why": "The last paragraph says she is still a little afraid, but in the metro she finally smiles."
+  }
  ]
 }

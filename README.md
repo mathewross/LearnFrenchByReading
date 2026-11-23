@@ -36,6 +36,9 @@ Each paragraph can carry a scene: `{"pic": {"id": "lea-1-train", "alt": "English
 2. Run `python3 tools/build.py`. For each "no lexicon form for …" error, add the word to `lemmas.txt` / `forms.txt`.
 3. Check the printed ladder, then commit.
 
+## Quiz and auto-listen
+Each story has an optional `quiz` array in its raw JSON (`q`, `q_en`, `o` options `{fr,en}`, `a` answer index, `why`); the build validates it. The reader shows it after you finish the story and behind the ? button. Settings → Auto-listen plays a word or sentence as soon as you tap it.
+
 ## Known limits (honest list)
 - Each new story has a per-story lexicon sidecar `content/lexicon/stories/<id>.lex` (formats in `content/STORY_BRIEF.md`); check one with `python3 -I tools/build.py --check content/raw/<id>.json`. Scene modules for pictures live in `tools/scenes/`.
 - **Lexicon is hand-curated for 3 stories.** That does not scale to 60. The M6 plan is to generate lemma/POS/morphology with spaCy (`fr_core_news_*`) or simplemma at build time and have an LLM write glosses, with the build checking them. That needs a network-enabled environment to install.

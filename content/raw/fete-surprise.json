@@ -245,5 +245,95 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Pourquoi les amis font-ils une fête ?",
+   "q_en": "Why do the friends have a party?",
+   "o": [
+    {
+     "fr": "C'est l'anniversaire de Lucas",
+     "en": "It is Lucas's birthday"
+    },
+    {
+     "fr": "Lucas part en voyage",
+     "en": "Lucas is going on a trip"
+    },
+    {
+     "fr": "Lucas a un nouveau travail",
+     "en": "Lucas has a new job"
+    }
+   ],
+   "a": 0,
+   "why": "The story says it was Lucas's birthday and his friends wanted a surprise."
+  },
+  {
+   "q": "Qu'est-ce que Maxime achète ?",
+   "q_en": "What does Maxime buy?",
+   "o": [
+    {
+     "fr": "Le gâteau",
+     "en": "The cake"
+    },
+    {
+     "fr": "Des ballons",
+     "en": "Balloons"
+    },
+    {
+     "fr": "Des bougies",
+     "en": "Candles"
+    },
+    {
+     "fr": "Des fleurs",
+     "en": "Flowers"
+    }
+   ],
+   "a": 1,
+   "why": "Maxime says he will buy balloons."
+  },
+  {
+   "q": "Pourquoi Lucas rentre-t-il plus tôt ?",
+   "q_en": "Why does Lucas come home early?",
+   "o": [
+    {
+     "fr": "Il veut voir ses amis",
+     "en": "He wants to see his friends"
+    },
+    {
+     "fr": "Il a faim",
+     "en": "He is hungry"
+    },
+    {
+     "fr": "Il a mal à la tête",
+     "en": "He has a headache"
+    }
+   ],
+   "a": 2,
+   "why": "The story says he had a headache, so he left earlier."
+  },
+  {
+   "q": "Qu'est-ce que Lucas voit derrière le canapé ?",
+   "q_en": "What does Lucas see behind the sofa?",
+   "o": [
+    {
+     "fr": "Un gâteau",
+     "en": "A cake"
+    },
+    {
+     "fr": "Des ballons",
+     "en": "Balloons"
+    },
+    {
+     "fr": "Inès",
+     "en": "Inès"
+    },
+    {
+     "fr": "Les pieds de Maxime",
+     "en": "Maxime's feet"
+    }
+   ],
+   "a": 3,
+   "why": "He sees two big feet and says he can see Maxime's feet."
+  }
  ]
 }

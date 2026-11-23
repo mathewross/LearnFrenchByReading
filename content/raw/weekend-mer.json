@@ -261,5 +261,95 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Où va la famille Roux samedi matin ?",
+   "q_en": "Where does the Roux family go on Saturday morning?",
+   "o": [
+    {
+     "fr": "À la montagne",
+     "en": "To the mountains"
+    },
+    {
+     "fr": "À la mer",
+     "en": "To the sea"
+    },
+    {
+     "fr": "À la campagne",
+     "en": "To the countryside"
+    }
+   ],
+   "a": 1,
+   "why": "The first sentence says the family left for the sea."
+  },
+  {
+   "q": "Qu'est-ce que la famille mange à la plage ?",
+   "q_en": "What does the family eat at the beach?",
+   "o": [
+    {
+     "fr": "Du pain, du fromage et des pommes",
+     "en": "Bread, cheese and apples"
+    },
+    {
+     "fr": "Des pâtes",
+     "en": "Pasta"
+    },
+    {
+     "fr": "Du poisson",
+     "en": "Fish"
+    },
+    {
+     "fr": "Des gâteaux",
+     "en": "Cakes"
+    }
+   ],
+   "a": 0,
+   "why": "Mom takes out a picnic with bread, cheese and apples."
+  },
+  {
+   "q": "Pourquoi Julie court-elle ?",
+   "q_en": "Why does Julie run?",
+   "o": [
+    {
+     "fr": "Elle a froid",
+     "en": "She is cold"
+    },
+    {
+     "fr": "Elle joue avec Hugo",
+     "en": "She is playing with Hugo"
+    },
+    {
+     "fr": "Le vent prend son chapeau",
+     "en": "The wind takes her hat"
+    }
+   ],
+   "a": 2,
+   "why": "Her hat flew away in the wind and she ran after it."
+  },
+  {
+   "q": "Qui sort le chapeau de l'eau ?",
+   "q_en": "Who gets the hat out of the water?",
+   "o": [
+    {
+     "fr": "Hugo",
+     "en": "Hugo"
+    },
+    {
+     "fr": "Maman",
+     "en": "Mom"
+    },
+    {
+     "fr": "Julie",
+     "en": "Julie"
+    },
+    {
+     "fr": "Papa",
+     "en": "Dad"
+    }
+   ],
+   "a": 3,
+   "why": "Dad takes a stick and gently gets the hat out of the water."
+  }
  ]
 }

@@ -212,5 +212,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "À qui Léa téléphone-t-elle ?",
+   "q_en": "Who does Léa call?",
+   "o": [
+    {
+     "fr": "À sa mère",
+     "en": "Her mother"
+    },
+    {
+     "fr": "À Monsieur Poire",
+     "en": "Mr Poire"
+    },
+    {
+     "fr": "À son père",
+     "en": "Her father"
+    }
+   ],
+   "a": 0,
+   "why": "'Elle téléphone à sa mère.'"
+  },
+  {
+   "q": "Où est Léa le soir ?",
+   "q_en": "Where is Léa in the evening?",
+   "o": [
+    {
+     "fr": "Dans le parc",
+     "en": "In the park"
+    },
+    {
+     "fr": "Dans le métro",
+     "en": "In the metro"
+    },
+    {
+     "fr": "Dans un hôtel",
+     "en": "In a hotel"
+    }
+   ],
+   "a": 2,
+   "why": "'Le soir, Léa est dans sa chambre. L'hôtel est petit.'"
+  },
+  {
+   "q": "Léa aime Paris ?",
+   "q_en": "Does Léa like Paris?",
+   "o": [
+    {
+     "fr": "Non, pas beaucoup",
+     "en": "No, not much"
+    },
+    {
+     "fr": "Elle ne dit rien",
+     "en": "She says nothing"
+    },
+    {
+     "fr": "Oui, beaucoup",
+     "en": "Yes, a lot"
+    }
+   ],
+   "a": 2,
+   "why": "'Oui, j'aime beaucoup Paris !' says Léa."
+  }
  ]
 }

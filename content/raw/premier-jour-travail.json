@@ -228,5 +228,95 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Où Sarah commence-t-elle à travailler ?",
+   "q_en": "Where does Sarah start working?",
+   "o": [
+    {
+     "fr": "Dans une librairie",
+     "en": "In a bookshop"
+    },
+    {
+     "fr": "Dans une école",
+     "en": "In a school"
+    },
+    {
+     "fr": "Dans un café",
+     "en": "In a cafe"
+    }
+   ],
+   "a": 0,
+   "why": "She starts in a small bookshop near the station."
+  },
+  {
+   "q": "Pourquoi Sarah est-elle nerveuse le matin ?",
+   "q_en": "Why is Sarah nervous in the morning?",
+   "o": [
+    {
+     "fr": "Elle est en retard",
+     "en": "She is late"
+    },
+    {
+     "fr": "C'est son premier jour de travail",
+     "en": "It is her first day of work"
+    },
+    {
+     "fr": "Elle n'aime pas les livres",
+     "en": "She does not like books"
+    }
+   ],
+   "a": 1,
+   "why": "She says she was nervous because it was her first day of work."
+  },
+  {
+   "q": "Qu'est-ce qui ne va pas avec le livre pour la cliente ?",
+   "q_en": "What is wrong with the book for the customer?",
+   "o": [
+    {
+     "fr": "Il est trop cher",
+     "en": "It is too expensive"
+    },
+    {
+     "fr": "Il est sale",
+     "en": "It is dirty"
+    },
+    {
+     "fr": "Ce n'est pas le bon livre",
+     "en": "It is not the right book"
+    },
+    {
+     "fr": "Il est trop petit",
+     "en": "It is too small"
+    }
+   ],
+   "a": 2,
+   "why": "The customer says it is not the same author, so it was the wrong book."
+  },
+  {
+   "q": "Qui aide Sarah à trouver le bon livre ?",
+   "q_en": "Who helps Sarah find the right book?",
+   "o": [
+    {
+     "fr": "Madame Girard",
+     "en": "Madame Girard"
+    },
+    {
+     "fr": "La cliente",
+     "en": "The customer"
+    },
+    {
+     "fr": "Sa mère",
+     "en": "Her mother"
+    },
+    {
+     "fr": "Hugo",
+     "en": "Hugo"
+    }
+   ],
+   "a": 3,
+   "why": "Hugo comes to help and finds the book in a big box."
+  }
  ]
 }

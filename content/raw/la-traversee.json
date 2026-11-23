@@ -471,5 +471,151 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Qu'est-ce qui pousse enfin Soazig à acheter son billet ?",
+   "q_en": "What finally pushes Soazig to buy her ticket?",
+   "o": [
+    {
+     "fr": "L'enterrement de son père sur l'île",
+     "en": "Her father's funeral on the island"
+    },
+    {
+     "fr": "Une invitation de Fanch, un ami d'enfance",
+     "en": "An invitation from Fanch, a childhood friend"
+    },
+    {
+     "fr": "La fin de son contrat de traductrice",
+     "en": "The end of her translating contract"
+    },
+    {
+     "fr": "La lettre du notaire sur la maison de son père",
+     "en": "The notary's letter about her father's house"
+    }
+   ],
+   "a": 3,
+   "why": "She knew she would return, but it took the notary's letter about her father's house to make her buy the ticket."
+  },
+  {
+   "q": "Que suggère la comparaison avec un rendez-vous que l'on redoute ?",
+   "q_en": "What does the comparison with a dreaded appointment suggest?",
+   "o": [
+    {
+     "fr": "Elle a peur de rater le bateau de nuit",
+     "en": "She is afraid of missing the night boat"
+    },
+    {
+     "fr": "Ce retour la remplit d'appréhension",
+     "en": "This return fills her with apprehension"
+    },
+    {
+     "fr": "Elle doit voir le notaire dès son arrivée",
+     "en": "She must see the notary as soon as she arrives"
+    },
+    {
+     "fr": "Elle craint le mal de mer pendant la traversée",
+     "en": "She fears seasickness during the crossing"
+    }
+   ],
+   "a": 1,
+   "why": "She arrives too early as one does for a meeting one dreads, and on the gangway her legs tremble: the island, not the boat, is what frightens her."
+  },
+  {
+   "q": "Pourquoi la voix de Fanch change-t-elle quand Soazig nomme son père ?",
+   "q_en": "Why does Fanch's voice change when Soazig names her father?",
+   "o": [
+    {
+     "fr": "Il a bien connu Jean et ce nom le touche",
+     "en": "He knew Jean well and the name moves him"
+    },
+    {
+     "fr": "Il en voulait encore au gardien du phare",
+     "en": "He still held a grudge against the lighthouse keeper"
+    },
+    {
+     "fr": "Il ignorait que Jean avait une fille",
+     "en": "He did not know Jean had a daughter"
+    },
+    {
+     "fr": "Il refuse de parler des morts",
+     "en": "He refuses to speak of the dead"
+    }
+   ],
+   "a": 0,
+   "why": "Fanch fished with Jean, knew the family and remembers Soazig as a girl, so the name carries a whole shared past."
+  },
+  {
+   "q": "Que révèle l'aveu de Soazig au sujet de l'enterrement ?",
+   "q_en": "What does Soazig's confession about the funeral reveal?",
+   "o": [
+    {
+     "fr": "Elle n'a appris la mort de son père que tard",
+     "en": "She learned of her father's death only late"
+    },
+    {
+     "fr": "Elle n'aimait pas vraiment son père",
+     "en": "She did not really love her father"
+    },
+    {
+     "fr": "Elle se reproche d'avoir toujours trouvé des excuses",
+     "en": "She blames herself for always finding excuses"
+    },
+    {
+     "fr": "Elle n'a jamais eu les moyens de revenir",
+     "en": "She never had the means to come back"
+    }
+   ],
+   "a": 2,
+   "why": "She lists a contract, a winter, an expensive flight as reasons that were always there, which reads as guilt; Fanch answers gently that one returns when the tide allows."
+  },
+  {
+   "q": "Pour Jean, que représentait la lumière du phare ?",
+   "q_en": "For Jean, what did the lighthouse beam represent?",
+   "o": [
+    {
+     "fr": "Un travail qu'il était obligé de faire",
+     "en": "A job he was obliged to do"
+    },
+    {
+     "fr": "Un signal pour guider les pêcheurs de homard",
+     "en": "A signal to guide lobster fishermen"
+    },
+    {
+     "fr": "Une manière de compter ses années de solitude",
+     "en": "A way of counting his years of solitude"
+    },
+    {
+     "fr": "Une façon de parler à sa fille au loin",
+     "en": "A way of speaking to his distant daughter"
+    }
+   ],
+   "a": 3,
+   "why": "The lighthouse was automated, yet he climbed up every night because the light was his way of writing to her, sending a signal west to Canada."
+  },
+  {
+   "q": "Que suggère la dernière image, où Soazig se retourne vers la mer ?",
+   "q_en": "What does the final image, where Soazig turns back towards the sea, suggest?",
+   "o": [
+    {
+     "fr": "Elle regrette déjà d'avoir quitté Montréal",
+     "en": "She already regrets leaving Montreal"
+    },
+    {
+     "fr": "Elle n'est plus la jeune fille qui fuyait",
+     "en": "She is no longer the girl who ran away"
+    },
+    {
+     "fr": "Elle a décidé de vendre la maison",
+     "en": "She has decided to sell the house"
+    },
+    {
+     "fr": "Elle cherche des yeux le phare éteint",
+     "en": "She is searching for the unlit lighthouse"
+    }
+   ],
+   "a": 1,
+   "why": "At eighteen she left without looking back once; now her suitcase is no longer too big and she turns towards the sea as if greeting someone she will see again."
+  }
  ]
 }

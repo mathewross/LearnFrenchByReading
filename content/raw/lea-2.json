@@ -6,8 +6,23 @@
   "title_en": "Léa takes the metro",
   "level": "A1",
   "summary_en": "Léa buys a ticket, asks a kind lady for help, and takes the yellow line to a big park.",
-  "tags": ["travel", "city", "transport"],
-  "key_vocab": ["métro", "ligne", "billet", "chercher", "regarder", "jaune", "dame", "parc", "aimer", "arriver"],
+  "tags": [
+    "travel",
+    "city",
+    "transport"
+  ],
+  "key_vocab": [
+    "métro",
+    "ligne",
+    "billet",
+    "chercher",
+    "regarder",
+    "jaune",
+    "dame",
+    "parc",
+    "aimer",
+    "arriver"
+  ],
   "cover": "lea-2-park",
   "source": "original",
   "license": "CC0",
@@ -15,54 +30,258 @@
     {
       "title": "",
       "paragraphs": [
-        {"pic": {"id": "lea-2-map", "alt": "Léa studies the metro map and buys a two-euro ticket."}, "sentences": [
-          {"fr": "Léa arrive dans la station.", "en": "Léa arrives in the station."},
-          {"fr": "Il y a beaucoup de monde.", "en": "There are a lot of people.",
-           "ov": {"2": {"g": "people, a crowd"}}},
-          {"fr": "Léa trouve le métro.", "en": "Léa finds the metro."},
-          {"fr": "Elle regarde le plan.", "en": "She looks at the map."},
-          {"fr": "Elle cherche la ligne jaune.", "en": "She is looking for the yellow line."},
-          {"fr": "La ligne jaune va au parc.", "en": "The yellow line goes to the park."},
-          {"fr": "Léa aime les grands parcs.", "en": "Léa loves big parks."},
-          {"fr": "Elle achète un billet.", "en": "She buys a ticket."},
-          {"fr": "Le billet coûte deux euros.", "en": "The ticket costs two euros."},
-          {"fr": "Elle regarde le billet.", "en": "She looks at the ticket."},
-          {"fr": "Le plan est grand.", "en": "The map is big."}
-        ]},
-        {"pic": {"id": "lea-2-lady", "alt": "A kind lady points Léa toward the yellow line."}, "sentences": [
-          {"fr": "Léa ne trouve pas la ligne.", "en": "Léa cannot find the line."},
-          {"fr": "Elle cherche de l'aide.", "en": "She looks for some help."},
-          {"fr": "Une dame est à côté de Léa.", "en": "A lady is next to Léa."},
-          {"fr": "« Excusez-moi, madame. Où est la ligne jaune ? »", "en": "“Excuse me, madam. Where is the yellow line?”"},
-          {"fr": "La dame regarde le plan.", "en": "The lady looks at the map."},
-          {"fr": "La dame sourit.", "en": "The lady smiles."},
-          {"fr": "« Là-bas, à droite ! » dit-elle.", "en": "“Over there, on the right!” she says."},
-          {"fr": "Elle est gentille.", "en": "She is kind."}
-        ]},
-        {"pic": {"id": "lea-2-metro", "alt": "The yellow metro is full, so Léa stands."}, "sentences": [
-          {"fr": "Léa dit : « Merci beaucoup ! »", "en": "Léa says: “Thank you very much!”"},
-          {"fr": "Le métro arrive.", "en": "The metro arrives."},
-          {"fr": "Il est jaune et plein.", "en": "It is yellow and full."},
-          {"fr": "Elle prend le métro.", "en": "She takes the metro."},
-          {"fr": "Elle cherche une place.", "en": "She looks for a seat."},
-          {"fr": "Il n'y a pas de place.", "en": "There is no seat."},
-          {"fr": "Léa est debout.", "en": "Léa is standing."},
-          {"fr": "Elle regarde les gens.", "en": "She watches the people."}
-        ]},
-        {"pic": {"id": "lea-2-park", "alt": "Léa arrives at a big park full of trees and flowers."}, "sentences": [
-          {"fr": "À la station, elle sort.", "en": "At the station, she gets out."},
-          {"fr": "Un grand parc est devant elle.", "en": "A big park is in front of her."},
-          {"fr": "Elle arrive dans le parc.", "en": "She arrives in the park."},
-          {"fr": "Il y a des arbres et des fleurs.", "en": "There are trees and flowers."},
-          {"fr": "Elle regarde les fleurs.", "en": "She looks at the flowers."},
-          {"fr": "Le ciel est bleu.", "en": "The sky is blue."},
-          {"fr": "Il fait beau.", "en": "The weather is nice."},
-          {"fr": "Le parc est très beau.", "en": "The park is very beautiful."},
-          {"fr": "Léa sourit : elle aime ce pays !", "en": "Léa smiles: she loves this country!"},
-          {"fr": "Elle aime les arbres.", "en": "She likes the trees."},
-          {"fr": "Elle est très heureuse.", "en": "She is very happy."}
-        ]}
+        {
+          "pic": {
+            "id": "lea-2-map",
+            "alt": "Léa studies the metro map and buys a two-euro ticket."
+          },
+          "sentences": [
+            {
+              "fr": "Léa arrive dans la station.",
+              "en": "Léa arrives in the station."
+            },
+            {
+              "fr": "Il y a beaucoup de monde.",
+              "en": "There are a lot of people.",
+              "ov": {
+                "2": {
+                  "g": "people, a crowd"
+                }
+              }
+            },
+            {
+              "fr": "Léa trouve le métro.",
+              "en": "Léa finds the metro."
+            },
+            {
+              "fr": "Elle regarde le plan.",
+              "en": "She looks at the map."
+            },
+            {
+              "fr": "Elle cherche la ligne jaune.",
+              "en": "She is looking for the yellow line."
+            },
+            {
+              "fr": "La ligne jaune va au parc.",
+              "en": "The yellow line goes to the park."
+            },
+            {
+              "fr": "Léa aime les grands parcs.",
+              "en": "Léa loves big parks."
+            },
+            {
+              "fr": "Elle achète un billet.",
+              "en": "She buys a ticket."
+            },
+            {
+              "fr": "Le billet coûte deux euros.",
+              "en": "The ticket costs two euros."
+            },
+            {
+              "fr": "Elle regarde le billet.",
+              "en": "She looks at the ticket."
+            },
+            {
+              "fr": "Le plan est grand.",
+              "en": "The map is big."
+            }
+          ]
+        },
+        {
+          "pic": {
+            "id": "lea-2-lady",
+            "alt": "A kind lady points Léa toward the yellow line."
+          },
+          "sentences": [
+            {
+              "fr": "Léa ne trouve pas la ligne.",
+              "en": "Léa cannot find the line."
+            },
+            {
+              "fr": "Elle cherche de l'aide.",
+              "en": "She looks for some help."
+            },
+            {
+              "fr": "Une dame est à côté de Léa.",
+              "en": "A lady is next to Léa."
+            },
+            {
+              "fr": "« Excusez-moi, madame. Où est la ligne jaune ? »",
+              "en": "“Excuse me, madam. Where is the yellow line?”"
+            },
+            {
+              "fr": "La dame regarde le plan.",
+              "en": "The lady looks at the map."
+            },
+            {
+              "fr": "La dame sourit.",
+              "en": "The lady smiles."
+            },
+            {
+              "fr": "« Là-bas, à droite ! » dit-elle.",
+              "en": "“Over there, on the right!” she says."
+            },
+            {
+              "fr": "Elle est gentille.",
+              "en": "She is kind."
+            }
+          ]
+        },
+        {
+          "pic": {
+            "id": "lea-2-metro",
+            "alt": "The yellow metro is full, so Léa stands."
+          },
+          "sentences": [
+            {
+              "fr": "Léa dit : « Merci beaucoup ! »",
+              "en": "Léa says: “Thank you very much!”"
+            },
+            {
+              "fr": "Le métro arrive.",
+              "en": "The metro arrives."
+            },
+            {
+              "fr": "Il est jaune et plein.",
+              "en": "It is yellow and full."
+            },
+            {
+              "fr": "Elle prend le métro.",
+              "en": "She takes the metro."
+            },
+            {
+              "fr": "Elle cherche une place.",
+              "en": "She looks for a seat."
+            },
+            {
+              "fr": "Il n'y a pas de place.",
+              "en": "There is no seat."
+            },
+            {
+              "fr": "Léa est debout.",
+              "en": "Léa is standing."
+            },
+            {
+              "fr": "Elle regarde les gens.",
+              "en": "She watches the people."
+            }
+          ]
+        },
+        {
+          "pic": {
+            "id": "lea-2-park",
+            "alt": "Léa arrives at a big park full of trees and flowers."
+          },
+          "sentences": [
+            {
+              "fr": "À la station, elle sort.",
+              "en": "At the station, she gets out."
+            },
+            {
+              "fr": "Un grand parc est devant elle.",
+              "en": "A big park is in front of her."
+            },
+            {
+              "fr": "Elle arrive dans le parc.",
+              "en": "She arrives in the park."
+            },
+            {
+              "fr": "Il y a des arbres et des fleurs.",
+              "en": "There are trees and flowers."
+            },
+            {
+              "fr": "Elle regarde les fleurs.",
+              "en": "She looks at the flowers."
+            },
+            {
+              "fr": "Le ciel est bleu.",
+              "en": "The sky is blue."
+            },
+            {
+              "fr": "Il fait beau.",
+              "en": "The weather is nice."
+            },
+            {
+              "fr": "Le parc est très beau.",
+              "en": "The park is very beautiful."
+            },
+            {
+              "fr": "Léa sourit : elle aime ce pays !",
+              "en": "Léa smiles: she loves this country!"
+            },
+            {
+              "fr": "Elle aime les arbres.",
+              "en": "She likes the trees."
+            },
+            {
+              "fr": "Elle est très heureuse.",
+              "en": "She is very happy."
+            }
+          ]
+        }
       ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Quelle ligne cherche Léa ?",
+      "q_en": "Which line is Léa looking for?",
+      "o": [
+        {
+          "fr": "La ligne bleue",
+          "en": "The blue line"
+        },
+        {
+          "fr": "La ligne rouge",
+          "en": "The red line"
+        },
+        {
+          "fr": "La ligne jaune",
+          "en": "The yellow line"
+        }
+      ],
+      "a": 2,
+      "why": "'Elle cherche la ligne jaune.'"
+    },
+    {
+      "q": "Qui aide Léa ?",
+      "q_en": "Who helps Léa?",
+      "o": [
+        {
+          "fr": "Une dame",
+          "en": "A lady"
+        },
+        {
+          "fr": "Un homme",
+          "en": "A man"
+        },
+        {
+          "fr": "Un serveur",
+          "en": "A waiter"
+        }
+      ],
+      "a": 0,
+      "why": "Léa asks 'une dame', who says 'Là-bas, à droite !'"
+    },
+    {
+      "q": "Où va Léa en métro ?",
+      "q_en": "Where does Léa go by metro?",
+      "o": [
+        {
+          "fr": "À la gare",
+          "en": "To the station"
+        },
+        {
+          "fr": "Au parc",
+          "en": "To the park"
+        },
+        {
+          "fr": "Au café",
+          "en": "To the café"
+        }
+      ],
+      "a": 1,
+      "why": "The yellow line goes to the park and she arrives in a big park."
     }
   ]
 }

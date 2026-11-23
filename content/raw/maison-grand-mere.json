@@ -448,5 +448,151 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Pourquoi le frère et la sœur viennent-ils au village ?",
+   "q_en": "Why do the brother and sister come to the village?",
+   "o": [
+    {
+     "fr": "Pour l'enterrement de leur grand-mère",
+     "en": "For their grandmother's funeral"
+    },
+    {
+     "fr": "Pour vider la maison avant sa mise en vente",
+     "en": "To clear the house before it goes on sale"
+    },
+    {
+     "fr": "Pour y passer les vacances d'été",
+     "en": "To spend the summer holidays there"
+    },
+    {
+     "fr": "Pour rencontrer le petit-fils de Madame Brun",
+     "en": "To meet Madame Brun's grandson"
+    }
+   ],
+   "a": 1,
+   "why": "The notary has said the house goes on sale on Monday, so they have two days to sort through it; the funeral was in the summer."
+  },
+  {
+   "q": "Que montre le geste d'Antoine qui remonte l'horloge sans réfléchir ?",
+   "q_en": "What does Antoine's gesture of winding the clock without thinking show?",
+   "o": [
+    {
+     "fr": "Il veut vérifier l'horloge avant la vente",
+     "en": "He wants to check the clock before the sale"
+    },
+    {
+     "fr": "Il est pressé et veut savoir l'heure",
+     "en": "He is in a hurry and wants to know the time"
+    },
+    {
+     "fr": "Il veut que la maison plaise aux acheteurs",
+     "en": "He wants the house to please buyers"
+    },
+    {
+     "fr": "Il garde des habitudes liées à sa grand-mère",
+     "en": "He keeps habits tied to his grandmother"
+    }
+   ],
+   "a": 3,
+   "why": "He winds it as she used to ask him to, a reflex from childhood that brings her presence back for a moment."
+  },
+  {
+   "q": "Selon la narratrice, pourquoi garder la bassine en cuivre ?",
+   "q_en": "According to the narrator, why keep the copper basin?",
+   "o": [
+    {
+     "fr": "C'est une question de mémoire, pas de place",
+     "en": "It is a matter of memory, not space"
+    },
+    {
+     "fr": "Elle a assez de place dans son studio",
+     "en": "She has enough room in her studio"
+    },
+    {
+     "fr": "Elle veut faire des confitures chaque août",
+     "en": "She wants to make jam every August"
+    },
+    {
+     "fr": "Le cuivre vaut cher aujourd'hui",
+     "en": "Copper is worth a lot today"
+    }
+   ],
+   "a": 0,
+   "why": "When Antoine asks where she will put it in her studio, she answers that it is about memory, not space."
+  },
+  {
+   "q": "Que découvre la narratrice quand Antoine trouve le couteau ?",
+   "q_en": "What does the narrator discover when Antoine finds the knife?",
+   "o": [
+    {
+     "fr": "Son frère veut vendre ce couteau ancien",
+     "en": "Her brother wants to sell this old knife"
+    },
+    {
+     "fr": "Sa grand-mère avait jeté le couteau",
+     "en": "Her grandmother had thrown the knife away"
+    },
+    {
+     "fr": "Son frère pressé a lui aussi des souvenirs",
+     "en": "Her hurried brother has memories too"
+    },
+    {
+     "fr": "Antoine ne voulait pas venir au village",
+     "en": "Antoine did not want to come to the village"
+    }
+   ],
+   "a": 2,
+   "why": "Seeing him turn the shepherd's knife in his hand, she realises that her reasonable, hurried brother also has memories hidden in the drawers."
+  },
+  {
+   "q": "Quel message la grand-mère laisse-t-elle à la dernière page du carnet ?",
+   "q_en": "What message does the grandmother leave on the last page of the notebook?",
+   "o": [
+    {
+     "fr": "Elle leur demande de ne jamais vendre la maison",
+     "en": "She asks them never to sell the house"
+    },
+    {
+     "fr": "Les souvenirs vivent quand les gens les partagent",
+     "en": "Memories live on when people share them"
+    },
+    {
+     "fr": "Les murs gardent la mémoire d'une famille",
+     "en": "Walls keep a family's memory"
+    },
+    {
+     "fr": "Antoine doit apprendre à aimer les oignons",
+     "en": "Antoine must learn to like onions"
+    }
+   ],
+   "a": 1,
+   "why": "She writes that walls keep nothing, it is people who keep things as long as they share them, and that she will not blame them for selling."
+  },
+  {
+   "q": "Pourquoi vendre au petit-fils de Madame Brun console-t-il la narratrice ?",
+   "q_en": "Why does selling to Madame Brun's grandson comfort the narrator?",
+   "o": [
+    {
+     "fr": "Il paiera la maison plus cher",
+     "en": "He will pay more for the house"
+    },
+    {
+     "fr": "Elle pourra y revenir chaque été",
+     "en": "She will be able to come back every summer"
+    },
+    {
+     "fr": "Madame Brun gardera tous les meubles",
+     "en": "Madame Brun will keep all the furniture"
+    },
+    {
+     "fr": "D'autres enfants grandiront dans cette maison",
+     "en": "Other children will grow up in this house"
+    }
+   ],
+   "a": 3,
+   "why": "The idea that a child might one day measure his height on the same door frame makes the sale feel much less sad."
+  }
  ]
 }

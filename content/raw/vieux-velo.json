@@ -225,5 +225,95 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Où Théo trouve-t-il le vélo ?",
+   "q_en": "Where does Théo find the bike?",
+   "o": [
+    {
+     "fr": "Dans le garage de son grand-père",
+     "en": "In his grandfather's garage"
+    },
+    {
+     "fr": "Dans la rue",
+     "en": "In the street"
+    },
+    {
+     "fr": "À l'école",
+     "en": "At school"
+    }
+   ],
+   "a": 0,
+   "why": "Théo is playing in his grandfather's garage when he sees the bike."
+  },
+  {
+   "q": "Comment est le vélo au début ?",
+   "q_en": "What is the bike like at first?",
+   "o": [
+    {
+     "fr": "Il est neuf",
+     "en": "It is new"
+    },
+    {
+     "fr": "Il est rouge",
+     "en": "It is red"
+    },
+    {
+     "fr": "Il est sale, avec des pneus plats",
+     "en": "It is dirty, with flat tyres"
+    },
+    {
+     "fr": "Il est très petit",
+     "en": "It is very small"
+    }
+   ],
+   "a": 2,
+   "why": "The story says it was dirty and the tyres were flat."
+  },
+  {
+   "q": "Pourquoi le grand-père sourit-il ?",
+   "q_en": "Why does the grandfather smile?",
+   "o": [
+    {
+     "fr": "Le vélo est cher",
+     "en": "The bike is expensive"
+    },
+    {
+     "fr": "C'est son premier vélo",
+     "en": "It is his first bike"
+    },
+    {
+     "fr": "Il a un nouveau vélo",
+     "en": "He has a new bike"
+    }
+   ],
+   "a": 1,
+   "why": "He says it is his first bike and remembers happy days with it."
+  },
+  {
+   "q": "Que font Théo et son grand-père pour le vélo ?",
+   "q_en": "What do Théo and his grandfather do with the bike?",
+   "o": [
+    {
+     "fr": "Ils le vendent",
+     "en": "They sell it"
+    },
+    {
+     "fr": "Ils le cachent",
+     "en": "They hide it"
+    },
+    {
+     "fr": "Ils le peignent en rouge",
+     "en": "They paint it red"
+    },
+    {
+     "fr": "Ils le réparent",
+     "en": "They repair it"
+    }
+   ],
+   "a": 3,
+   "why": "They wash it, oil the chain and pump up the tyres together."
+  }
  ]
 }

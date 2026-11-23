@@ -182,5 +182,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Que cherche Théo ?",
+   "q_en": "What is Théo looking for?",
+   "o": [
+    {
+     "fr": "Ses clés",
+     "en": "His keys"
+    },
+    {
+     "fr": "Son chat",
+     "en": "His cat"
+    },
+    {
+     "fr": "Son lait",
+     "en": "His milk"
+    }
+   ],
+   "a": 0,
+   "why": "'Je cherche mes clés !'"
+  },
+  {
+   "q": "De quelle couleur est le salon ?",
+   "q_en": "What colour is the living room?",
+   "o": [
+    {
+     "fr": "Vert",
+     "en": "Green"
+    },
+    {
+     "fr": "Blanc",
+     "en": "White"
+    },
+    {
+     "fr": "Bleu",
+     "en": "Blue"
+    }
+   ],
+   "a": 2,
+   "why": "'Voici mon salon, il est bleu.'"
+  },
+  {
+   "q": "Où sont les clés ?",
+   "q_en": "Where are the keys?",
+   "o": [
+    {
+     "fr": "Sous le lit",
+     "en": "Under the bed"
+    },
+    {
+     "fr": "Sur la table",
+     "en": "On the table"
+    },
+    {
+     "fr": "Dans le frigo",
+     "en": "In the fridge"
+    }
+   ],
+   "a": 2,
+   "why": "'Mes clés sont dans le frigo, avec le lait !'"
+  }
  ]
 }

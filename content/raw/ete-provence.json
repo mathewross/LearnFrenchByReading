@@ -270,5 +270,127 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Qu'est-ce qui rappelle cet été à la narratrice ?",
+   "q_en": "What reminds the narrator of that summer?",
+   "o": [
+    {
+     "fr": "Une lettre de Louis",
+     "en": "A letter from Louis"
+    },
+    {
+     "fr": "L'odeur du pain dans une boulangerie",
+     "en": "The smell of bread in a bakery"
+    },
+    {
+     "fr": "Un petit sac de lavande dans le métro",
+     "en": "A small bag of lavender in the metro"
+    },
+    {
+     "fr": "Une photo de la ferme",
+     "en": "A photo of the farm"
+    }
+   ],
+   "a": 2,
+   "why": "A woman in the metro holds a small bag of lavender, and the smell takes her back sixteen years."
+  },
+  {
+   "q": "Pourquoi tout le monde se lève-t-il à cinq heures ?",
+   "q_en": "Why does everyone get up at five?",
+   "o": [
+    {
+     "fr": "Pour finir avant la grande chaleur",
+     "en": "To finish before the great heat"
+    },
+    {
+     "fr": "Pour voir les étoiles avant le jour",
+     "en": "To see the stars before daylight"
+    },
+    {
+     "fr": "Parce qu'Odile fait le pain très tôt",
+     "en": "Because Odile makes bread very early"
+    },
+    {
+     "fr": "Parce que les abeilles arrivent à midi",
+     "en": "Because the bees arrive at noon"
+    }
+   ],
+   "a": 0,
+   "why": "Marcel says they must finish before noon, otherwise it will be too hot."
+  },
+  {
+   "q": "Au début, pourquoi Louis et la narratrice se parlent-ils peu ?",
+   "q_en": "At first, why do Louis and the narrator speak so little?",
+   "o": [
+    {
+     "fr": "Louis est fâché contre elle",
+     "en": "Louis is angry with her"
+    },
+    {
+     "fr": "Le tracteur fait trop de bruit",
+     "en": "The tractor makes too much noise"
+    },
+    {
+     "fr": "Elle s'endort toujours très tôt",
+     "en": "She always falls asleep very early"
+    },
+    {
+     "fr": "Ils sont timides tous les deux",
+     "en": "They are both shy"
+    }
+   ],
+   "a": 3,
+   "why": "She says Louis was shy, and so was she, so they worked in silence."
+  },
+  {
+   "q": "Louis avait déjà posé une couverture sur le toit. Qu'est-ce que cela montre ?",
+   "q_en": "Louis had already put a blanket on the roof. What does that show?",
+   "o": [
+    {
+     "fr": "Il dormait toujours sur le toit",
+     "en": "He always slept on the roof"
+    },
+    {
+     "fr": "Il avait préparé cette soirée avec soin",
+     "en": "He had prepared that evening with care"
+    },
+    {
+     "fr": "Sa mère lui avait demandé de le faire",
+     "en": "His mother had asked him to do it"
+    },
+    {
+     "fr": "Il voulait faire sécher la couverture",
+     "en": "He wanted to dry the blanket"
+    }
+   ],
+   "a": 1,
+   "why": "The blanket was already there before they climbed up, so he had planned to share the stars with her."
+  },
+  {
+   "q": "Que ressent la narratrice aujourd'hui en pensant à cet été ?",
+   "q_en": "What does the narrator feel today when she thinks of that summer?",
+   "o": [
+    {
+     "fr": "De la colère contre Louis",
+     "en": "Anger towards Louis"
+    },
+    {
+     "fr": "Du regret d'avoir travaillé à la ferme",
+     "en": "Regret at having worked on the farm"
+    },
+    {
+     "fr": "De la nostalgie, mais avec le sourire",
+     "en": "Nostalgia, but with a smile"
+    },
+    {
+     "fr": "Rien, c'est un souvenir sans importance",
+     "en": "Nothing, it is an unimportant memory"
+    }
+   ],
+   "a": 2,
+   "why": "Her heart tightens but she smiles, and she would love to see the family, the smell and the stars again."
+  }
  ]
 }

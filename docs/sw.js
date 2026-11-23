@@ -1,5 +1,5 @@
 // Service worker. VERSION is stamped by tools/build.py (hash of shipped files).
-const VERSION = 'f067b5efcd';
+const VERSION = '1087a2d57f';
 const SHELL_CACHE = 'lecture-shell-' + VERSION;
 const DATA_CACHE = 'lecture-data'; // library, examples and stories: stale-while-revalidate
 const SHELL = [

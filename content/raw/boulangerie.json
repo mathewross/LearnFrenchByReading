@@ -206,5 +206,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Où va Claire à sept heures ?",
+   "q_en": "Where does Claire go at seven?",
+   "o": [
+    {
+     "fr": "Au travail",
+     "en": "To work"
+    },
+    {
+     "fr": "À la boulangerie",
+     "en": "To the bakery"
+    },
+    {
+     "fr": "Au bus",
+     "en": "To the bus"
+    }
+   ],
+   "a": 1,
+   "why": "She enters the boulangerie because she wants bread."
+  },
+  {
+   "q": "Que prend Claire ?",
+   "q_en": "What does Claire buy?",
+   "o": [
+    {
+     "fr": "Du lait",
+     "en": "Milk"
+    },
+    {
+     "fr": "Un gâteau",
+     "en": "A cake"
+    },
+    {
+     "fr": "Une baguette et des croissants",
+     "en": "A baguette and croissants"
+    }
+   ],
+   "a": 2,
+   "why": "She asks for a baguette, two croissants and a pain au chocolat."
+  },
+  {
+   "q": "Pourquoi le boulanger donne un cadeau ?",
+   "q_en": "Why does the baker give a gift?",
+   "o": [
+    {
+     "fr": "Elle est gentille",
+     "en": "She is nice"
+    },
+    {
+     "fr": "Elle est triste",
+     "en": "She is sad"
+    },
+    {
+     "fr": "Elle a faim",
+     "en": "She is hungry"
+    }
+   ],
+   "a": 0,
+   "why": "'C'est parce que vous êtes gentille.'"
+  }
  ]
 }

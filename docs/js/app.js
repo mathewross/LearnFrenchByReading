@@ -5,7 +5,7 @@ import { Reader } from './reader.js';
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
 const COLORS = ['#5f7f73', '#9b6f5a', '#5d7088', '#857550', '#8c5f6a', '#4f7c82'];
 const THEME_COLORS = { light: '#f6f4ef', sepia: '#f1e7d0', dark: '#17181a' };
-const DEFAULTS = { theme: 'light', font: 'serif', size: 20, lh: 1.6, margin: 22, rate: 0.9, pics: 'on' };
+const DEFAULTS = { theme: 'light', font: 'serif', size: 20, lh: 1.6, margin: 22, rate: 0.9, pics: 'on', auto: 'off' };
 const POS = { NOUN: 'noun', VERB: 'verb', ADJ: 'adjective', ADV: 'adverb', PRON: 'pronoun', DET: 'determiner', PREP: 'preposition', CONJ: 'conjunction', INTJ: 'interjection', EXPR: 'expression', NUM: 'number', PROPN: 'name', AUX: 'auxiliary' };
 
 const ICON = {
@@ -20,6 +20,7 @@ const ICON = {
   chart: '<svg viewBox="0 0 24 24"><path d="M5 20V10M12 20V4M19 20v-7"/></svg>',
   gear: '<svg viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg>',
   sentence: '<svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h9"/></svg>',
+  quiz: '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.5a2.5 2.5 0 114 2c-.9.6-1.6 1-1.6 2.2M12 16.8v.1"/></svg>',
   more: '<svg viewBox="0 0 24 24"><path d="M5 7h14M5 12h14M5 17h14"/></svg>',
 };
 
@@ -76,6 +77,8 @@ const artText = (info, lemma) => (info.a ? (info.a === "l'" ? "l'" : info.a + ' 
 
 // ------------------------------------------------------------------ sheet (shared bottom sheet)
 let sheetEl, scrimEl, sheetOpen = false, sheetClick = null, sheetClosed = null, sheetTapClose = true;
+document.addEventListener('contextmenu', (e) => { if (!e.target.closest('input,textarea')) e.preventDefault(); });
+document.addEventListener('selectstart', (e) => { if (!e.target.closest || !e.target.closest('input,textarea')) e.preventDefault(); });
 function ensureSheet() {
   scrimEl = document.createElement('div'); scrimEl.className = 'scrim';
   sheetEl = document.createElement('div'); sheetEl.className = 'sheet';
@@ -203,6 +206,10 @@ function displayControlsHtml() {
     <div class="row"><label>Line spacing</label><input type="range" data-k="lh" min="1.3" max="2.1" step="0.05" value="${s.lh}"></div>
     <div class="row"><label>Margins</label><input type="range" data-k="margin" min="8" max="56" step="2" value="${s.margin}"></div>`;
 }
+function listenRowHtml() {
+  return `<div class="row"><label>Auto-listen</label><div class="seg" data-seg="auto">${[['off', 'Off'], ['on', 'On']].map(([v, t]) => `<button class="${settings.auto === v ? 'on' : ''}" data-v="${v}">${t}</button>`).join('')}</div></div>
+    <div class="hint">When on, tapping a word or long-pressing a sentence plays it straight away.</div>`;
+}
 function bindDisplayControls(root, onChange) {
   root.querySelectorAll('[data-seg]').forEach((seg) => seg.addEventListener('click', (e) => {
     const b = e.target.closest('button'); if (!b) return;
@@ -221,6 +228,7 @@ async function openReader(id) {
   app.innerHTML = `<div class="reader">
     <div class="rbar top" id="rtop"><button class="ibtn" id="back" aria-label="Back to library">${ICON.back}</button>
       <div class="rtitle">${esc(entry.title)}</div>
+      <button class="ibtn" id="quizb" aria-label="Quiz" hidden>${ICON.quiz}</button>
       <button class="ibtn" id="listen" aria-label="Read aloud">${ICON.play}</button>
       <button class="ibtn" id="aa" aria-label="Display settings">${ICON.aa}</button></div>
     <div class="stage" id="stage"><div class="vp" id="vp"></div></div>
@@ -248,7 +256,11 @@ async function openReader(id) {
     const P = progress(); const p = P[id] || { secs: 0 };
     p.pos = info.pos; p.last = Date.now();
     p.frac = reader.atEnd() ? 1 : info.pos / Math.max(1, info.total);
-    if (reader.atEnd() && !p.done) { p.done = true; markKnown(); toast('Story finished. Words you didn’t look up are now counted as known.'); }
+    if (reader.atEnd() && !p.done) {
+      p.done = true; markKnown();
+      if (story.quiz) setTimeout(() => { if (reader) openSheet(`<div class="pos">Story finished</div><div class="sent-fr">Check you understood it?</div><div class="sent-en">${story.quiz.length} short questions. Optional, and you can find the quiz later with the ? button.</div><div class="actions"><button class="btn primary" data-a="quiz">Take the quiz</button><button class="btn" data-a="skip">Not now</button></div>`, { onClick: (a) => { closeSheet(); if (a === 'quiz') openQuiz(); } }); }, 400);
+      else toast('Story finished. Words you didn’t look up are now counted as known.');
+    }
     P[id] = p; set('progress', P);
   };
   const hideBars = () => $('#rtop').classList.add('hide');
@@ -300,6 +312,7 @@ async function openReader(id) {
     if (info.p === 'NOUN' && info.a) lemmaLine = `<span class="gender-${info.x}">${esc(artText(info, tk.l))}</span> · ${info.x === 'm' ? 'masculine' : 'feminine'} noun`;
     else if (differs && pos !== 'PROPN') lemmaLine = `Dictionary form: ${esc(tk.l)}`;
     const saved = !!rec.saved;
+    if (settings.auto === 'on' && tts.supported()) tts.speak(surface, { rate: settings.rate });
     openSheet(`<div class="sh-head"><span class="sh-word">${esc(surface)}</span><span class="pos">${POS[pos] || pos.toLowerCase()}</span></div>
       <div class="gloss">${esc(gloss)}</div>
       ${tk.m ? `<div class="note">${esc(tk.m)}</div>` : ''}
@@ -338,6 +351,7 @@ async function openReader(id) {
     const s = reader.sents[si];
     reader.highlightSentence(si);
     const saved = (get('sentences', [])).some((x) => x.fr === s.fr);
+    if (settings.auto === 'on' && tts.supported()) tts.speak(s.fr, { rate: settings.rate });
     openSheet(`<div class="pos">Sentence</div><div class="sent-fr">${esc(s.fr)}</div><div class="sent-en">${esc(s.en)}</div>
       <div class="actions"><button class="btn" data-a="say">${ICON.speaker} Listen</button>
       <button class="btn ${saved ? 'on' : ''}" data-a="save">${ICON.star} <span>${saved ? 'Saved' : 'Save'}</span></button></div>`,
@@ -367,15 +381,49 @@ async function openReader(id) {
     };
     step();
   }
+  if (story.quiz) { $('#quizb').hidden = false; $('#quizb').addEventListener('click', () => openQuiz()); }
+  function openQuiz() {
+    stopListen(); closeSheet();
+    const Q = story.quiz.map((q) => { const idx = q.o.map((_, i) => i).sort(() => Math.random() - 0.5); return { ...q, o: idx.map((i) => q.o[i]), a: idx.indexOf(q.a) }; });
+    let qi = 0, score = 0, en = false;
+    const ov = document.createElement('div'); ov.className = 'quiz';
+    document.body.append(ov);
+    const close = () => ov.remove();
+    const paint = (picked) => {
+      if (qi >= Q.length) {
+        const P = progress(); const p = P[id] || (P[id] = { secs: 0 });
+        p.quiz = { last: score, total: Q.length, best: Math.max(score, (p.quiz && p.quiz.best) || 0), ts: Date.now() }; set('progress', P);
+        const msg = score === Q.length ? 'Perfect. You understood the whole story.' : score >= Q.length * 0.6 ? 'Good. You followed most of it.' : 'Worth a second read, then try again.';
+        ov.innerHTML = `<div class="qbox"><div class="qscore">${score} / ${Q.length}</div><div class="sent-en" style="text-align:center">${msg}</div>
+          <div class="actions" style="justify-content:center"><button class="btn" data-q="retry">Try again</button><button class="btn primary" data-q="done">Done</button></div></div>`;
+        return;
+      }
+      const q = Q[qi]; const answered = picked != null;
+      ov.innerHTML = `<div class="qbox"><div class="qtop"><span class="pos">Question ${qi + 1} of ${Q.length}</span><button class="btn" data-q="en">${en ? 'Hide English' : 'Show English'}</button><button class="x" data-q="done" aria-label="Close">×</button></div>
+        <div class="qq">${esc(q.q)}</div>${en ? `<div class="qen">${esc(q.q_en)}</div>` : ''}
+        ${q.o.map((o, i) => `<button class="qopt ${answered ? (i === q.a ? 'right' : i === picked ? 'wrong' : 'dim') : ''}" data-q="o" data-i="${i}" ${answered ? 'disabled' : ''}>${esc(o.fr)}${en ? `<small>${esc(o.en)}</small>` : ''}</button>`).join('')}
+        ${answered ? `<div class="qwhy"><b>${picked === q.a ? 'Correct.' : 'Not quite.'}</b> ${esc(q.why)}</div><div class="actions"><button class="btn primary" data-q="next">${qi + 1 < Q.length ? 'Next' : 'See result'}</button></div>` : ''}</div>`;
+    };
+    ov.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-q]'); if (!b) return; const a = b.dataset.q;
+      if (a === 'done') close();
+      else if (a === 'en') { en = !en; paint(ov._picked); }
+      else if (a === 'o') { ov._picked = +b.dataset.i; if (ov._picked === Q[qi].a) score++; paint(ov._picked); }
+      else if (a === 'next') { qi++; ov._picked = null; paint(null); }
+      else if (a === 'retry') { qi = 0; score = 0; ov._picked = null; Q.sort(() => Math.random() - 0.5); paint(null); }
+    });
+    paint(null);
+  }
+  const quizCleanup = () => { document.querySelectorAll('.quiz').forEach((n) => n.remove()); };
   $('#listen').addEventListener('click', () => (listening ? stopListen() : startListen()));
   $('#back').addEventListener('click', () => { location.hash = '#/'; });
   $('#aa').addEventListener('click', () => {
-    openSheet(`<div class="pos">Display</div>${displayControlsHtml()}`, { scrim: 'clear', tapClose: false });
+    openSheet(`<div class="pos">Display</div>${displayControlsHtml()}${listenRowHtml()}`, { scrim: 'clear', tapClose: false });
     bindDisplayControls(sheetEl, () => { reader.layout(); updateBottom(); });
   });
 
   readerCleanup = () => {
-    stopListen(); clearInterval(timer); clearTimeout(relayoutT); if (ro) ro.disconnect();
+    quizCleanup(); stopListen(); clearInterval(timer); clearTimeout(relayoutT); if (ro) ro.disconnect();
     document.removeEventListener('keydown', onKey); reader = null; story = null;
   };
 }
@@ -430,6 +478,7 @@ function viewSettings() {
   app.innerHTML = `<div class="view"><h1>Settings</h1>
     <div class="panel"><h3>Reading</h3>${displayControlsHtml()}<div class="sample" id="sample">Il fait beau à Paris. Léa mange un croissant.</div></div>
     <div class="panel"><h3>Listening</h3>
+      ${listenRowHtml()}
       <div class="row"><label>Speech speed</label><input type="range" id="rate" min="0.5" max="1.2" step="0.05" value="${settings.rate}"></div>
       <div class="hint" id="voice">${esc(v.text)}</div>
       <div class="setting-btns"><button class="btn" id="test">${ICON.speaker} Test voice</button></div></div>

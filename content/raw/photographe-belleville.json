@@ -512,5 +512,151 @@
         }
       ]
     }
+  ],
+  "quiz": [
+    {
+      "q": "Selon Lucien, pourquoi photographier à l'aube plutôt qu'à midi ?",
+      "q_en": "According to Lucien, why photograph at dawn rather than at noon?",
+      "o": [
+        {
+          "fr": "À midi, il y a trop de monde dans les rues",
+          "en": "At noon there are too many people in the streets"
+        },
+        {
+          "fr": "Les grands-mères ne sortent qu'à l'aube",
+          "en": "The grandmothers only come out at dawn"
+        },
+        {
+          "fr": "La lumière de l'aube est douce, comme une confidence",
+          "en": "Dawn light is gentle, like a confidence"
+        },
+        {
+          "fr": "La lumière de midi est trop bleue",
+          "en": "Noon light is too blue"
+        }
+      ],
+      "a": 2,
+      "why": "He says noon light is a police interrogation, while dawn light is a confidence."
+    },
+    {
+      "q": "D'après Lucien, quel est l'essentiel du métier de photographe ?",
+      "q_en": "According to Lucien, what is the essence of the photographer's trade?",
+      "o": [
+        {
+          "fr": "Savoir attendre la bonne lumière",
+          "en": "Knowing how to wait for the right light"
+        },
+        {
+          "fr": "Avoir des doigts rapides et sûrs",
+          "en": "Having quick, sure fingers"
+        },
+        {
+          "fr": "Prendre le plus de photos possible",
+          "en": "Taking as many photos as possible"
+        },
+        {
+          "fr": "Aller chercher les visages des gens",
+          "en": "Going after people's faces"
+        }
+      ],
+      "a": 0,
+      "why": "He always waits for the light; that, he says, is the essential part, the rest being just a matter of fingers."
+    },
+    {
+      "q": "Que pensent Inès et Lucien de sa réponse, Belleville n'est plus tout à fait Belleville ?",
+      "q_en": "What do Inès and Lucien think of his answer that Belleville is no longer quite Belleville?",
+      "o": [
+        {
+          "fr": "C'est la preuve que le quartier est mort",
+          "en": "It is proof that the neighbourhood is dead"
+        },
+        {
+          "fr": "Lucien admire Ronis plus que lui-même",
+          "en": "Lucien admires Ronis more than himself"
+        },
+        {
+          "fr": "Lucien veut bientôt quitter le quartier",
+          "en": "Lucien wants to leave the neighbourhood soon"
+        },
+        {
+          "fr": "C'est une façon d'éviter la vraie raison",
+          "en": "It is a way of dodging the real reason"
+        }
+      ],
+      "a": 3,
+      "why": "The narrator calls it a pirouette, and the look they exchange shows they both know it."
+    },
+    {
+      "q": "Pourquoi Lucien ne photographie-t-il plus de visages ?",
+      "q_en": "Why does Lucien no longer photograph faces?",
+      "o": [
+        {
+          "fr": "Il trouve les mains plus belles que les visages",
+          "en": "He finds hands more beautiful than faces"
+        },
+        {
+          "fr": "Sa maladie efface le centre de ce qu'il voit",
+          "en": "His illness erases the centre of what he sees"
+        },
+        {
+          "fr": "Il l'a promis aux dames du tai-chi",
+          "en": "He promised the tai chi ladies"
+        },
+        {
+          "fr": "Un ophtalmo lui a interdit de photographier",
+          "en": "An eye doctor has forbidden him to take photos"
+        }
+      ],
+      "a": 1,
+      "why": "He reveals macular degeneration: the centre of the image goes, faces dissolve, and he will not steal what he can no longer see."
+    },
+    {
+      "q": "Que signifie le geste de Lucien qui fait glisser le Leica vers Inès ?",
+      "q_en": "What does Lucien's gesture of sliding the Leica to Inès mean?",
+      "o": [
+        {
+          "fr": "Il lui transmet le métier, et les visages",
+          "en": "He hands on the trade to her, faces included"
+        },
+        {
+          "fr": "Il veut qu'elle lui achète l'appareil",
+          "en": "He wants her to buy the camera from him"
+        },
+        {
+          "fr": "Il trouve l'appareil devenu trop lourd",
+          "en": "He finds the camera has become too heavy"
+        },
+        {
+          "fr": "Il lui demande de photographier le patron",
+          "en": "He asks her to photograph the owner"
+        }
+      ],
+      "a": 0,
+      "why": "He tells her faces will now be her domain and asks her to start with his, passing on what he can no longer do."
+    },
+    {
+      "q": "Que veut dire Lucien quand Inès lui décrit son visage ?",
+      "q_en": "What does Lucien mean after Inès describes his face to him?",
+      "o": [
+        {
+          "fr": "Inès est déjà meilleure photographe que lui",
+          "en": "Inès is already a better photographer than him"
+        },
+        {
+          "fr": "Une description vaut mieux qu'une photo ratée",
+          "en": "A description is better than a failed photo"
+        },
+        {
+          "fr": "Un visage existe quand quelqu'un prend le temps de le rendre",
+          "en": "A face exists when someone takes the time to give it back"
+        },
+        {
+          "fr": "Il faut décrire un quartier comme un visage",
+          "en": "One must describe a neighbourhood like a face"
+        }
+      ],
+      "a": 2,
+      "why": "Listening with his eyes closed, he says a face may be just that: someone who takes the time to give it back to you."
+    }
   ]
 }

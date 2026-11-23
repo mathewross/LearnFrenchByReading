@@ -204,5 +204,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Quel âge a Hugo ?",
+   "q_en": "How old is Hugo?",
+   "o": [
+    {
+     "fr": "Dix ans",
+     "en": "Ten"
+    },
+    {
+     "fr": "Six ans",
+     "en": "Six"
+    },
+    {
+     "fr": "Trois ans",
+     "en": "Three"
+    }
+   ],
+   "a": 0,
+   "why": "'Je m'appelle Hugo et j'ai dix ans.'"
+  },
+  {
+   "q": "Qui est boulanger ?",
+   "q_en": "Who is a baker?",
+   "o": [
+    {
+     "fr": "La mère",
+     "en": "The mother"
+    },
+    {
+     "fr": "Le père",
+     "en": "The father"
+    },
+    {
+     "fr": "Emma",
+     "en": "Emma"
+    }
+   ],
+   "a": 1,
+   "why": "'Mon père s'appelle Marc... Il est boulanger.'"
+  },
+  {
+   "q": "Qui est drôle pour Emma ?",
+   "q_en": "Who is funny for Emma?",
+   "o": [
+    {
+     "fr": "Papa",
+     "en": "Dad"
+    },
+    {
+     "fr": "Maman",
+     "en": "Mum"
+    },
+    {
+     "fr": "Pompon",
+     "en": "Pompon"
+    }
+   ],
+   "a": 2,
+   "why": "Emma says 'C'est Pompon, il est drôle !'"
+  }
  ]
 }

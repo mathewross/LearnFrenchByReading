@@ -253,6 +253,17 @@ def enrich_story(raw, forms, phrases, lemmas, errors, missing=None):
         elif counts[kv] < 3:
             soft.append(f"{kv} x{counts[kv]}")
 
+    quiz = []
+    for qi, q in enumerate(raw.get("quiz") or []):
+        ok = all(isinstance(q.get(k), str) and q[k].strip() for k in ("q", "q_en", "why"))
+        opts = q.get("o")
+        if not ok or not isinstance(opts, list) or not 2 <= len(opts) <= 4 \
+                or not all(isinstance(o, dict) and o.get("fr") and o.get("en") for o in opts) \
+                or not isinstance(q.get("a"), int) or not 0 <= q["a"] < len(opts):
+            errors.append(f"{sid}: quiz question {qi + 1} is malformed (needs q, q_en, why, 2-4 options o[{{fr,en}}], answer index a)")
+            continue
+        quiz.append({"q": q["q"], "q_en": q["q_en"], "o": opts, "a": q["a"], "why": q["why"]})
+
     msl = statistics.mean(sent_lens) if sent_lens else 0
     mwl = word_len_sum / max(token_total, 1)
     tense_share = tense_sents / max(sent_total, 1)
@@ -276,6 +287,8 @@ def enrich_story(raw, forms, phrases, lemmas, errors, missing=None):
         "words": total_words, "difficulty": difficulty,
         "pics": pics, "cover": cover, "lemmas": story_lemmas, "chapters": chapters_out,
     }
+    if quiz:
+        story["quiz"] = quiz
     stats = {"msl": round(msl, 1), "max_sl": max(sent_lens) if sent_lens else 0, "mwl": round(mwl, 2), "tense": round(tense_share, 2)}
     return story, stats, warnings
 

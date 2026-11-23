@@ -198,5 +198,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Où va Léa ce matin ?",
+   "q_en": "Where does Léa go this morning?",
+   "o": [
+    {
+     "fr": "Au marché",
+     "en": "To the market"
+    },
+    {
+     "fr": "Au café",
+     "en": "To the café"
+    },
+    {
+     "fr": "À l'hôtel",
+     "en": "To the hotel"
+    }
+   ],
+   "a": 0,
+   "why": "'Ce matin, Léa va au marché.'"
+  },
+  {
+   "q": "Comment s'appelle le vendeur ?",
+   "q_en": "What is the seller's name?",
+   "o": [
+    {
+     "fr": "Monsieur Pomme",
+     "en": "Mr Apple"
+    },
+    {
+     "fr": "Monsieur Pain",
+     "en": "Mr Bread"
+    },
+    {
+     "fr": "Monsieur Poire",
+     "en": "Mr Pear"
+    }
+   ],
+   "a": 2,
+   "why": "'Je m'appelle Monsieur Poire.'"
+  },
+  {
+   "q": "Que prend Léa ?",
+   "q_en": "What does Léa buy?",
+   "o": [
+    {
+     "fr": "Du pain et du lait",
+     "en": "Bread and milk"
+    },
+    {
+     "fr": "Des pommes et des poires",
+     "en": "Apples and pears"
+    },
+    {
+     "fr": "Des légumes",
+     "en": "Vegetables"
+    }
+   ],
+   "a": 1,
+   "why": "She takes a kilo of apples and two pears."
+  }
  ]
 }

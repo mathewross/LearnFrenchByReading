@@ -184,5 +184,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Comment s'appelle le voisin ?",
+   "q_en": "What is the neighbour's name?",
+   "o": [
+    {
+     "fr": "Karim",
+     "en": "Karim"
+    },
+    {
+     "fr": "Hugo",
+     "en": "Hugo"
+    },
+    {
+     "fr": "Marc",
+     "en": "Marc"
+    }
+   ],
+   "a": 0,
+   "why": "'Oui, je m'appelle Karim.'"
+  },
+  {
+   "q": "Que fait Karim comme travail ?",
+   "q_en": "What is Karim's job?",
+   "o": [
+    {
+     "fr": "Il est boulanger",
+     "en": "He is a baker"
+    },
+    {
+     "fr": "Il est professeur",
+     "en": "He is a teacher"
+    },
+    {
+     "fr": "Il est cuisinier",
+     "en": "He is a cook"
+    }
+   ],
+   "a": 2,
+   "why": "'Je suis cuisinier dans un restaurant.'"
+  },
+  {
+   "q": "Que font Inès et Karim à la fin ?",
+   "q_en": "What do Inès and Karim do at the end?",
+   "o": [
+    {
+     "fr": "Ils boivent un café",
+     "en": "They drink coffee"
+    },
+    {
+     "fr": "Ils vont au restaurant",
+     "en": "They go to a restaurant"
+    },
+    {
+     "fr": "Ils mangent du pain",
+     "en": "They eat bread"
+    }
+   ],
+   "a": 0,
+   "why": "'Ils boivent le café ensemble.'"
+  }
  ]
 }

@@ -178,5 +178,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Qu'y a-t-il dans le bol ?",
+   "q_en": "What is in the bowl?",
+   "o": [
+    {
+     "fr": "Du lait",
+     "en": "Milk"
+    },
+    {
+     "fr": "Un poisson rouge",
+     "en": "A red fish"
+    },
+    {
+     "fr": "Un oiseau",
+     "en": "A bird"
+    }
+   ],
+   "a": 1,
+   "why": "'Dans le bol, il y a un petit poisson rouge.'"
+  },
+  {
+   "q": "Que touche Max avec sa patte ?",
+   "q_en": "What does Max touch with his paw?",
+   "o": [
+    {
+     "fr": "L'eau du bol",
+     "en": "The bowl water"
+    },
+    {
+     "fr": "Emma",
+     "en": "Emma"
+    },
+    {
+     "fr": "La fenêtre",
+     "en": "The window"
+    }
+   ],
+   "a": 0,
+   "why": "'Il touche l'eau du bol avec sa patte.'"
+  },
+  {
+   "q": "Qui arrive dans la cuisine ?",
+   "q_en": "Who comes into the kitchen?",
+   "o": [
+    {
+     "fr": "Bulle",
+     "en": "Bulle"
+    },
+    {
+     "fr": "Le chat",
+     "en": "The cat"
+    },
+    {
+     "fr": "Emma",
+     "en": "Emma"
+    }
+   ],
+   "a": 2,
+   "why": "'Emma arrive dans la cuisine.'"
+  }
  ]
 }

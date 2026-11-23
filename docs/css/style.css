@@ -132,3 +132,19 @@ a { color: inherit; text-decoration: none; }
 .pic figcaption { font: italic 13px/1.35 var(--ui); color: var(--muted); margin-top: 6px; }
 body.theme-dark .pic img { filter: brightness(.82) saturate(.92); }
 body.nopics .pic { display: none; }
+
+/* quiz */
+.quiz { position: fixed; inset: 0; z-index: 40; background: var(--bg); overflow-y: auto; padding: calc(16px + var(--safe-t, 0px)) 18px calc(24px + var(--safe-b)); }
+.qbox { max-width: 560px; margin: 0 auto; }
+.qtop { display: flex; align-items: center; gap: 10px; margin-bottom: 18px; } .qtop .pos { flex: 1; }
+.qq { font-family: var(--serif); font-size: 21px; line-height: 1.4; margin-bottom: 6px; }
+.qen { color: var(--muted); font-size: 14px; margin-bottom: 8px; }
+.qopt { display: block; width: 100%; text-align: left; padding: 13px 14px; margin-top: 10px; border-radius: 12px; border: 1px solid var(--line); background: var(--card); font-size: 16px; color: var(--fg); }
+.qopt small { display: block; color: var(--muted); font-size: 13px; margin-top: 3px; }
+.qopt.right { border-color: #3a8f5a; background: rgba(58,143,90,.16); } .qopt.wrong { border-color: #c4553d; background: rgba(196,85,61,.15); } .qopt.dim { opacity: .55; }
+.qwhy { margin-top: 16px; font-size: 15px; line-height: 1.45; }
+.qscore { font-family: var(--serif); font-size: 56px; text-align: center; margin: 60px 0 8px; }
+
+/* no native text selection / Google "tap to search" panel anywhere except form fields */
+body, .sheet, .quiz, .view { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+input, textarea, select { -webkit-user-select: text; user-select: text; }

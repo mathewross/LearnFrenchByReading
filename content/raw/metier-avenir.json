@@ -101,5 +101,43 @@
         ]}
       ]
     }
+  ],
+  "quiz": [
+    {"q": "Que fait Inès le dimanche depuis qu'elle est petite ?", "q_en": "What has Inès done on Sundays since she was little?",
+     "o": [{"fr": "Elle aide son père à la banque", "en": "She helps her father at the bank"},
+           {"fr": "Elle travaille dans l'atelier d'un ébéniste", "en": "She works in a cabinetmaker's workshop"},
+           {"fr": "Elle restaure de vieux meubles chez sa grand-mère", "en": "She restores old furniture at her grandmother's"},
+           {"fr": "Elle étudie l'analyse de données", "en": "She studies data analysis"}],
+     "a": 2, "why": "She has spent her Sundays in her grandmother's garage sanding old furniture nobody wanted."},
+    {"q": "Pourquoi le père d'Inès tient-il tant à la sécurité ?", "q_en": "Why is Inès's father so attached to security?",
+     "o": [{"fr": "Il a grandi en comptant chaque euro", "en": "He grew up counting every euro"},
+           {"fr": "Il a peur de perdre son emploi à la banque", "en": "He is afraid of losing his bank job"},
+           {"fr": "Il veut qu'elle travaille avec lui à Nantes", "en": "He wants her to work with him in Nantes"},
+           {"fr": "Il trouve la restauration de meubles ennuyeuse", "en": "He finds furniture restoration boring"}],
+     "a": 0, "why": "He reminds her that he grew up in a small flat where every euro was counted at the end of the month."},
+    {"q": "Pourquoi Monsieur Lacombe propose-t-il une semaine à l'atelier ?", "q_en": "Why does Monsieur Lacombe offer a week at the workshop?",
+     "o": [{"fr": "Pour avoir de l'aide gratuite à l'atelier", "en": "To get free help in the workshop"},
+           {"fr": "Pour prouver que son père a tort", "en": "To prove her father is wrong"},
+           {"fr": "Pour lui vendre une chaise ancienne", "en": "To sell her an antique chair"},
+           {"fr": "Pour qu'Inès se fasse sa propre idée", "en": "So that Inès can form her own opinion"}],
+     "a": 3, "why": "After admitting her father is not wrong, he invites her so she can judge the trade for herself."},
+    {"q": "Que comprend Inès en réparant la chaise le jeudi ?", "q_en": "What does Inès understand while repairing the chair on Thursday?",
+     "o": [{"fr": "Le métier est trop dur pour elle", "en": "The trade is too hard for her"},
+           {"fr": "Sa passion est une concentration totale, pas un caprice", "en": "Her passion is total concentration, not a whim"},
+           {"fr": "Le talent compte plus que la patience", "en": "Talent matters more than patience"},
+           {"fr": "Elle préfère vendre des meubles sur internet", "en": "She prefers selling furniture online"}],
+     "a": 1, "why": "She loses track of time until night falls and realises her passion is a form of absolute concentration, not a whim."},
+    {"q": "Pourquoi Inès invite-t-elle son père à l'atelier plutôt que de parler à la maison ?", "q_en": "Why does Inès invite her father to the workshop rather than talk at home?",
+     "o": [{"fr": "Pour qu'il rencontre le futur successeur", "en": "So he can meet the future successor"},
+           {"fr": "Parce que Lacombe veut lui demander de l'argent", "en": "Because Lacombe wants to ask him for money"},
+           {"fr": "Pour lui montrer son travail au lieu d'argumenter", "en": "To show him her work instead of arguing"},
+           {"fr": "Parce qu'il refuse de discuter à la maison", "en": "Because he refuses to talk at home"}],
+     "a": 2, "why": "Seeing the repaired chair silences him and fills him with pride, which words at home had never achieved."},
+    {"q": "Que signifie la dernière phrase, un métier d'avenir : le sien ?", "q_en": "What does the last line, a job with a future: her own, mean?",
+     "o": [{"fr": "Un métier d'avenir est celui qu'on a vraiment choisi", "en": "A job with a future is one you truly chose"},
+           {"fr": "Le métier le mieux payé est le meilleur", "en": "The best-paid job is the best one"},
+           {"fr": "L'analyse de données reste le vrai métier d'avenir", "en": "Data analysis is still the real job of the future"},
+           {"fr": "Elle prendra un jour la place de son père", "en": "She will one day take her father's place"}],
+     "a": 0, "why": "She turns her father's phrase around: the future lies in a job that makes you want to get up in the morning, the one she chose."}
   ]
 }

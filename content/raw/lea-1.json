@@ -6,8 +6,23 @@
   "title_en": "Léa arrives in Paris",
   "level": "A1",
   "summary_en": "Léa steps off the train in Paris with a big red suitcase. She is hungry, so she finds a café.",
-  "tags": ["travel", "city", "food"],
-  "key_vocab": ["train", "gare", "café", "regarder", "chercher", "vouloir", "manger", "petit", "grand", "beau"],
+  "tags": [
+    "travel",
+    "city",
+    "food"
+  ],
+  "key_vocab": [
+    "train",
+    "gare",
+    "café",
+    "regarder",
+    "chercher",
+    "vouloir",
+    "manger",
+    "petit",
+    "grand",
+    "beau"
+  ],
   "cover": "lea-1-sun",
   "source": "original",
   "license": "CC0",
@@ -15,57 +30,267 @@
     {
       "title": "",
       "paragraphs": [
-        {"pic": {"id": "lea-1-train", "alt": "Léa looks out of the train window at Paris."}, "sentences": [
-          {"fr": "Léa est dans le train.", "en": "Léa is on the train."},
-          {"fr": "Elle regarde par la fenêtre.", "en": "She looks out of the window."},
-          {"fr": "Paris est grand et beau.", "en": "Paris is big and beautiful."},
-          {"fr": "Elle regarde les petites maisons.", "en": "She looks at the little houses."},
-          {"fr": "Léa est très contente.", "en": "Léa is very happy."},
-          {"fr": "Le train s'arrête.", "en": "The train stops."},
-          {"fr": "Léa veut descendre du train.", "en": "Léa wants to get off the train."}
-        ]},
-        {"pic": {"id": "lea-1-platform", "alt": "Léa steps off the train with her red suitcase and greets a man."}, "sentences": [
-          {"fr": "Léa descend du train.", "en": "Léa gets off the train."},
-          {"fr": "Elle est dans la gare.", "en": "She is in the station."},
-          {"fr": "Elle a une grande valise rouge.", "en": "She has a big red suitcase."},
-          {"fr": "La valise est très lourde.", "en": "The suitcase is very heavy."},
-          {"fr": "Un homme dit : « Bonjour, madame ! »", "en": "A man says: “Hello, madam!”"},
-          {"fr": "Léa sourit et répond : « Bonjour, monsieur ! »", "en": "Léa smiles and replies: “Hello, sir!”"},
-          {"fr": "Elle cherche la sortie.", "en": "She looks for the exit."}
-        ]},
-        {"sentences": [
-          {"fr": "Elle cherche le métro.", "en": "She is looking for the metro."},
-          {"fr": "Il y a beaucoup de monde dans la gare.", "en": "There are a lot of people in the station.",
-           "ov": {"2": {"g": "people, a crowd"}}},
-          {"fr": "La gare est grande.", "en": "The station is big."},
-          {"fr": "Léa regarde partout.", "en": "Léa looks everywhere."},
-          {"fr": "Léa a faim.", "en": "Léa is hungry."},
-          {"fr": "Elle veut manger.", "en": "She wants to eat."},
-          {"fr": "Elle veut un café et un croissant.", "en": "She wants a coffee and a croissant."},
-          {"fr": "Elle cherche un petit café.", "en": "She looks for a small café."},
-          {"fr": "Elle entre dans un petit café.", "en": "She goes into a small café."}
-        ]},
-        {"pic": {"id": "lea-1-cafe", "alt": "Léa orders a coffee and the waiter smiles."}, "sentences": [
-          {"fr": "Le café est petit mais joli.", "en": "The café is small but pretty."},
-          {"fr": "Le serveur sourit.", "en": "The waiter smiles."},
-          {"fr": "« Un café, s'il vous plaît », dit Léa.", "en": "“A coffee, please,” says Léa."},
-          {"fr": "« Oui, tout de suite ! » répond le serveur.", "en": "“Yes, right away!” replies the waiter."},
-          {"fr": "Léa veut aussi manger un croissant.", "en": "Léa also wants to eat a croissant."}
-        ]},
-        {"pic": {"id": "lea-1-sun", "alt": "Sitting in the sunshine, Léa enjoys her croissant and her coffee."}, "sentences": [
-          {"fr": "Dehors, il fait beau.", "en": "Outside, the weather is nice."},
-          {"fr": "Le ciel est bleu.", "en": "The sky is blue."},
-          {"fr": "Léa mange son croissant et boit son café.", "en": "Léa eats her croissant and drinks her coffee."},
-          {"fr": "Il est très bon.", "en": "It is very good."},
-          {"fr": "Elle regarde les gens dans la rue.", "en": "She watches the people in the street."},
-          {"fr": "Il y a beaucoup de monde dans la rue.", "en": "There are a lot of people in the street.",
-           "ov": {"2": {"g": "people, a crowd"}}},
-          {"fr": "La rue est belle.", "en": "The street is beautiful."},
-          {"fr": "Elle aime Paris.", "en": "She likes Paris."},
-          {"fr": "Elle pense : « Paris est une belle ville ! »", "en": "She thinks: “Paris is a beautiful city!”"},
-          {"fr": "Elle est heureuse.", "en": "She is happy."}
-        ]}
+        {
+          "pic": {
+            "id": "lea-1-train",
+            "alt": "Léa looks out of the train window at Paris."
+          },
+          "sentences": [
+            {
+              "fr": "Léa est dans le train.",
+              "en": "Léa is on the train."
+            },
+            {
+              "fr": "Elle regarde par la fenêtre.",
+              "en": "She looks out of the window."
+            },
+            {
+              "fr": "Paris est grand et beau.",
+              "en": "Paris is big and beautiful."
+            },
+            {
+              "fr": "Elle regarde les petites maisons.",
+              "en": "She looks at the little houses."
+            },
+            {
+              "fr": "Léa est très contente.",
+              "en": "Léa is very happy."
+            },
+            {
+              "fr": "Le train s'arrête.",
+              "en": "The train stops."
+            },
+            {
+              "fr": "Léa veut descendre du train.",
+              "en": "Léa wants to get off the train."
+            }
+          ]
+        },
+        {
+          "pic": {
+            "id": "lea-1-platform",
+            "alt": "Léa steps off the train with her red suitcase and greets a man."
+          },
+          "sentences": [
+            {
+              "fr": "Léa descend du train.",
+              "en": "Léa gets off the train."
+            },
+            {
+              "fr": "Elle est dans la gare.",
+              "en": "She is in the station."
+            },
+            {
+              "fr": "Elle a une grande valise rouge.",
+              "en": "She has a big red suitcase."
+            },
+            {
+              "fr": "La valise est très lourde.",
+              "en": "The suitcase is very heavy."
+            },
+            {
+              "fr": "Un homme dit : « Bonjour, madame ! »",
+              "en": "A man says: “Hello, madam!”"
+            },
+            {
+              "fr": "Léa sourit et répond : « Bonjour, monsieur ! »",
+              "en": "Léa smiles and replies: “Hello, sir!”"
+            },
+            {
+              "fr": "Elle cherche la sortie.",
+              "en": "She looks for the exit."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "Elle cherche le métro.",
+              "en": "She is looking for the metro."
+            },
+            {
+              "fr": "Il y a beaucoup de monde dans la gare.",
+              "en": "There are a lot of people in the station.",
+              "ov": {
+                "2": {
+                  "g": "people, a crowd"
+                }
+              }
+            },
+            {
+              "fr": "La gare est grande.",
+              "en": "The station is big."
+            },
+            {
+              "fr": "Léa regarde partout.",
+              "en": "Léa looks everywhere."
+            },
+            {
+              "fr": "Léa a faim.",
+              "en": "Léa is hungry."
+            },
+            {
+              "fr": "Elle veut manger.",
+              "en": "She wants to eat."
+            },
+            {
+              "fr": "Elle veut un café et un croissant.",
+              "en": "She wants a coffee and a croissant."
+            },
+            {
+              "fr": "Elle cherche un petit café.",
+              "en": "She looks for a small café."
+            },
+            {
+              "fr": "Elle entre dans un petit café.",
+              "en": "She goes into a small café."
+            }
+          ]
+        },
+        {
+          "pic": {
+            "id": "lea-1-cafe",
+            "alt": "Léa orders a coffee and the waiter smiles."
+          },
+          "sentences": [
+            {
+              "fr": "Le café est petit mais joli.",
+              "en": "The café is small but pretty."
+            },
+            {
+              "fr": "Le serveur sourit.",
+              "en": "The waiter smiles."
+            },
+            {
+              "fr": "« Un café, s'il vous plaît », dit Léa.",
+              "en": "“A coffee, please,” says Léa."
+            },
+            {
+              "fr": "« Oui, tout de suite ! » répond le serveur.",
+              "en": "“Yes, right away!” replies the waiter."
+            },
+            {
+              "fr": "Léa veut aussi manger un croissant.",
+              "en": "Léa also wants to eat a croissant."
+            }
+          ]
+        },
+        {
+          "pic": {
+            "id": "lea-1-sun",
+            "alt": "Sitting in the sunshine, Léa enjoys her croissant and her coffee."
+          },
+          "sentences": [
+            {
+              "fr": "Dehors, il fait beau.",
+              "en": "Outside, the weather is nice."
+            },
+            {
+              "fr": "Le ciel est bleu.",
+              "en": "The sky is blue."
+            },
+            {
+              "fr": "Léa mange son croissant et boit son café.",
+              "en": "Léa eats her croissant and drinks her coffee."
+            },
+            {
+              "fr": "Il est très bon.",
+              "en": "It is very good."
+            },
+            {
+              "fr": "Elle regarde les gens dans la rue.",
+              "en": "She watches the people in the street."
+            },
+            {
+              "fr": "Il y a beaucoup de monde dans la rue.",
+              "en": "There are a lot of people in the street.",
+              "ov": {
+                "2": {
+                  "g": "people, a crowd"
+                }
+              }
+            },
+            {
+              "fr": "La rue est belle.",
+              "en": "The street is beautiful."
+            },
+            {
+              "fr": "Elle aime Paris.",
+              "en": "She likes Paris."
+            },
+            {
+              "fr": "Elle pense : « Paris est une belle ville ! »",
+              "en": "She thinks: “Paris is a beautiful city!”"
+            },
+            {
+              "fr": "Elle est heureuse.",
+              "en": "She is happy."
+            }
+          ]
+        }
       ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Où est Léa au début ?",
+      "q_en": "Where is Léa at the start?",
+      "o": [
+        {
+          "fr": "Dans un café",
+          "en": "In a café"
+        },
+        {
+          "fr": "Dans le train",
+          "en": "On the train"
+        },
+        {
+          "fr": "Dans la rue",
+          "en": "In the street"
+        }
+      ],
+      "a": 1,
+      "why": "The story begins with 'Léa est dans le train.'"
+    },
+    {
+      "q": "Comment est la valise de Léa ?",
+      "q_en": "What is Léa's suitcase like?",
+      "o": [
+        {
+          "fr": "Petite et bleue",
+          "en": "Small and blue"
+        },
+        {
+          "fr": "Grande et rouge",
+          "en": "Big and red"
+        },
+        {
+          "fr": "Petite et lourde",
+          "en": "Small and heavy"
+        }
+      ],
+      "a": 1,
+      "why": "'Elle a une grande valise rouge.' and it is very heavy."
+    },
+    {
+      "q": "Que mange Léa au café ?",
+      "q_en": "What does Léa eat at the café?",
+      "o": [
+        {
+          "fr": "Un croissant",
+          "en": "A croissant"
+        },
+        {
+          "fr": "Du pain",
+          "en": "Bread"
+        },
+        {
+          "fr": "Une pomme",
+          "en": "An apple"
+        }
+      ],
+      "a": 0,
+      "why": "'Léa mange son croissant et boit son café.'"
     }
   ]
 }

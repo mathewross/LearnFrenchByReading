@@ -259,5 +259,91 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Pourquoi Antoine est-il en retard ?",
+   "q_en": "Why is Antoine late?",
+   "o": [
+    {
+     "fr": "Le réveil n'a pas sonné",
+     "en": "The alarm clock did not ring"
+    },
+    {
+     "fr": "Il n'a pas de voiture",
+     "en": "He has no car"
+    },
+    {
+     "fr": "Il est malade",
+     "en": "He is sick"
+    }
+   ],
+   "a": 0,
+   "why": "The alarm clock was broken and did not ring on Monday morning."
+  },
+  {
+   "q": "Qu'est-ce qu'Antoine oublie à la maison ?",
+   "q_en": "What does Antoine forget at home?",
+   "o": [
+    {
+     "fr": "Son parapluie",
+     "en": "His umbrella"
+    },
+    {
+     "fr": "Son portefeuille",
+     "en": "His wallet"
+    },
+    {
+     "fr": "Son café",
+     "en": "His coffee"
+    },
+    {
+     "fr": "Son téléphone",
+     "en": "His phone"
+    }
+   ],
+   "a": 1,
+   "why": "He left his wallet on the kitchen table."
+  },
+  {
+   "q": "Qui paie le billet d'Antoine ?",
+   "q_en": "Who pays for Antoine's ticket?",
+   "o": [
+    {
+     "fr": "Le chauffeur",
+     "en": "The driver"
+    },
+    {
+     "fr": "Paul",
+     "en": "Paul"
+    },
+    {
+     "fr": "Une jeune femme",
+     "en": "A young woman"
+    }
+   ],
+   "a": 2,
+   "why": "A young woman smiled and said she would pay for his ticket."
+  },
+  {
+   "q": "Pourquoi Antoine veut-il acheter un nouveau réveil ?",
+   "q_en": "Why does Antoine want to buy a new alarm clock?",
+   "o": [
+    {
+     "fr": "Il aime les réveils",
+     "en": "He likes alarm clocks"
+    },
+    {
+     "fr": "Son réveil est cassé",
+     "en": "His alarm clock is broken"
+    },
+    {
+     "fr": "Camille a un réveil",
+     "en": "Camille has an alarm clock"
+    }
+   ],
+   "a": 1,
+   "why": "His alarm clock was broken, which started his bad day."
+  }
  ]
 }

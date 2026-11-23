@@ -189,5 +189,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Que veut Julie ?",
+   "q_en": "What does Julie want?",
+   "o": [
+    {
+     "fr": "Le poulet",
+     "en": "The chicken"
+    },
+    {
+     "fr": "Le poisson",
+     "en": "The fish"
+    },
+    {
+     "fr": "La soupe",
+     "en": "The soup"
+    }
+   ],
+   "a": 0,
+   "why": "'Je veux le poulet', says Julie."
+  },
+  {
+   "q": "Pourquoi Julie prend le poisson ?",
+   "q_en": "Why does Julie take the fish?",
+   "o": [
+    {
+     "fr": "Elle aime l'eau",
+     "en": "She likes water"
+    },
+    {
+     "fr": "Il y a un gâteau",
+     "en": "There is a cake"
+    },
+    {
+     "fr": "Il n'y a plus de poulet",
+     "en": "There is no more chicken"
+    }
+   ],
+   "a": 2,
+   "why": "The waiter says 'Il n'y a plus de poulet.'"
+  },
+  {
+   "q": "Qui paie l'addition ?",
+   "q_en": "Who pays the bill?",
+   "o": [
+    {
+     "fr": "Julie",
+     "en": "Julie"
+    },
+    {
+     "fr": "Hugo",
+     "en": "Hugo"
+    },
+    {
+     "fr": "Le serveur",
+     "en": "The waiter"
+    }
+   ],
+   "a": 1,
+   "why": "'Hugo paie l'addition avec sa carte.'"
+  }
  ]
 }

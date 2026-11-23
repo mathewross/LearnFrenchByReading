@@ -297,5 +297,95 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Où est Clara samedi après-midi ?",
+   "q_en": "Where is Clara on Saturday afternoon?",
+   "o": [
+    {
+     "fr": "À l'école",
+     "en": "At school"
+    },
+    {
+     "fr": "Dans le parc",
+     "en": "In the park"
+    },
+    {
+     "fr": "À la maison",
+     "en": "At home"
+    }
+   ],
+   "a": 1,
+   "why": "The story begins with Clara playing in the park."
+  },
+  {
+   "q": "Comment est le chien ?",
+   "q_en": "What is the dog like?",
+   "o": [
+    {
+     "fr": "Il est noir et gros",
+     "en": "He is black and big"
+    },
+    {
+     "fr": "Il est blanc",
+     "en": "He is white"
+    },
+    {
+     "fr": "Il est brun avec un collier rouge",
+     "en": "He is brown with a red collar"
+    },
+    {
+     "fr": "Il est jaune",
+     "en": "He is yellow"
+    }
+   ],
+   "a": 2,
+   "why": "Clara sees a brown dog with a red collar."
+  },
+  {
+   "q": "Pourquoi Clara et son père font-ils une affiche ?",
+   "q_en": "Why do Clara and her father make a poster?",
+   "o": [
+    {
+     "fr": "Pour trouver le maître du chien",
+     "en": "To find the dog's owner"
+    },
+    {
+     "fr": "Pour vendre le chien",
+     "en": "To sell the dog"
+    },
+    {
+     "fr": "Pour une fête",
+     "en": "For a party"
+    }
+   ],
+   "a": 0,
+   "why": "They know the dog is lost and want to help it find its home."
+  },
+  {
+   "q": "Qui est Max ?",
+   "q_en": "Who is Max?",
+   "o": [
+    {
+     "fr": "Le père de Clara",
+     "en": "Clara's father"
+    },
+    {
+     "fr": "Le voisin",
+     "en": "The neighbor"
+    },
+    {
+     "fr": "Le vieux monsieur",
+     "en": "The old man"
+    },
+    {
+     "fr": "Le chien",
+     "en": "The dog"
+    }
+   ],
+   "a": 3,
+   "why": "The old man shouts Max and the dog runs to him, so Max is the dog."
+  }
  ]
 }

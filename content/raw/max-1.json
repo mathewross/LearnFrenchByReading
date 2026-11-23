@@ -206,5 +206,67 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Qui est Max ?",
+   "q_en": "Who is Max?",
+   "o": [
+    {
+     "fr": "Un chat gris",
+     "en": "A grey cat"
+    },
+    {
+     "fr": "Un oiseau bleu",
+     "en": "A blue bird"
+    },
+    {
+     "fr": "Un petit garçon",
+     "en": "A little boy"
+    }
+   ],
+   "a": 0,
+   "why": "'Max est un chat gris.'"
+  },
+  {
+   "q": "Que veut attraper Max ?",
+   "q_en": "What does Max want to catch?",
+   "o": [
+    {
+     "fr": "Le poisson",
+     "en": "The fish"
+    },
+    {
+     "fr": "Emma",
+     "en": "Emma"
+    },
+    {
+     "fr": "L'oiseau",
+     "en": "The bird"
+    }
+   ],
+   "a": 2,
+   "why": "'Max veut attraper l'oiseau.'"
+  },
+  {
+   "q": "Où tombe Max ?",
+   "q_en": "Where does Max fall?",
+   "o": [
+    {
+     "fr": "Dans son bol d'eau",
+     "en": "In his water bowl"
+    },
+    {
+     "fr": "Dans l'arbre",
+     "en": "In the tree"
+    },
+    {
+     "fr": "Dans la boîte",
+     "en": "In the box"
+    }
+   ],
+   "a": 0,
+   "why": "'Max tombe dans son bol d'eau.'"
+  }
  ]
 }

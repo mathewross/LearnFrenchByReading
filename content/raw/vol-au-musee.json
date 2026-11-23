@@ -254,5 +254,127 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Comment l'inspecteur Roche va-t-il au musée ?",
+   "q_en": "How does Inspector Roche go to the museum?",
+   "o": [
+    {
+     "fr": "En courant, car c'est urgent",
+     "en": "Running, because it is urgent"
+    },
+    {
+     "fr": "En voiture avec la directrice",
+     "en": "By car with the director"
+    },
+    {
+     "fr": "En métro avec le gardien",
+     "en": "By metro with the guard"
+    },
+    {
+     "fr": "À pied, car il pense mieux en marchant",
+     "en": "On foot, because he thinks better while walking"
+    }
+   ],
+   "a": 3,
+   "why": "Roche loves walking because his best ideas come to him on the way, so he leaves on foot."
+  },
+  {
+   "q": "Pourquoi Madame Verdier est-elle si inquiète ?",
+   "q_en": "Why is Madame Verdier so worried?",
+   "o": [
+    {
+     "fr": "Sans le tableau, elle devra fermer le musée",
+     "en": "Without the painting, she will have to close the museum"
+    },
+    {
+     "fr": "Le tableau appartient à sa famille",
+     "en": "The painting belongs to her family"
+    },
+    {
+     "fr": "Bernard a perdu sa clé",
+     "en": "Bernard has lost his key"
+    },
+    {
+     "fr": "Les journalistes l'accusent du vol",
+     "en": "The journalists accuse her of the theft"
+    }
+   ],
+   "a": 0,
+   "why": "She says the museum gets only ten visitors a week and she will have to close it if the painting is not found."
+  },
+  {
+   "q": "Quel indice Roche trouve-t-il sous le tableau ?",
+   "q_en": "What clue does Roche find under the painting?",
+   "o": [
+    {
+     "fr": "Un clou cassé par le voleur",
+     "en": "A nail broken by the thief"
+    },
+    {
+     "fr": "Une petite tache de café",
+     "en": "A small coffee stain"
+    },
+    {
+     "fr": "Une clé tombée par terre",
+     "en": "A key dropped on the floor"
+    },
+    {
+     "fr": "Une fenêtre restée ouverte",
+     "en": "A window left open"
+    }
+   ],
+   "a": 1,
+   "why": "Under the lighter rectangle he finds a small brown stain, smells it and realises it is coffee."
+  },
+  {
+   "q": "Pourquoi Roche dit-il que le tableau est une copie ?",
+   "q_en": "Why does Roche say the painting is a copy?",
+   "o": [
+    {
+     "fr": "Pour rassurer les visiteurs du musée",
+     "en": "To reassure the museum's visitors"
+    },
+    {
+     "fr": "Parce que le vrai est dans un coffre",
+     "en": "Because the real one is in a safe"
+    },
+    {
+     "fr": "Pour pousser la voleuse à se trahir",
+     "en": "To push the thief into giving herself away"
+    },
+    {
+     "fr": "Parce que Bernard le lui a dit",
+     "en": "Because Bernard told him so"
+    }
+   ],
+   "a": 2,
+   "why": "It is a trap: the director protests that it is authentic and reveals it is in her cupboard, falling into his trap."
+  },
+  {
+   "q": "Finalement, pourquoi la directrice a-t-elle pris le tableau ?",
+   "q_en": "In the end, why did the director take the painting?",
+   "o": [
+    {
+     "fr": "Pour faire venir des visiteurs au musée",
+     "en": "To bring visitors to the museum"
+    },
+    {
+     "fr": "Pour le vendre et gagner de l'argent",
+     "en": "To sell it and make money"
+    },
+    {
+     "fr": "Pour le protéger d'un vrai voleur",
+     "en": "To protect it from a real thief"
+    },
+    {
+     "fr": "Pour faire accuser le gardien Bernard",
+     "en": "To get the guard Bernard accused"
+    }
+   ],
+   "a": 0,
+   "why": "She admits she only wanted people to come, hoping the papers would finally talk about the museum."
+  }
  ]
 }

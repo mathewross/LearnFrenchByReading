@@ -207,5 +207,127 @@
     }
    ]
   }
+ ],
+ "quiz": [
+  {
+   "q": "Où Hélène trouve-t-elle l'enveloppe ?",
+   "q_en": "Where does Hélène find the envelope?",
+   "o": [
+    {
+     "fr": "Dans sa boîte aux lettres",
+     "en": "In her letterbox"
+    },
+    {
+     "fr": "Sur un banc près du parc",
+     "en": "On a bench near the park"
+    },
+    {
+     "fr": "Dans un vieux roman acheté d'occasion",
+     "en": "In an old second-hand novel she bought"
+    },
+    {
+     "fr": "Dans une maison de la rue des Tilleuls",
+     "en": "In a house on the rue des Tilleuls"
+    }
+   ],
+   "a": 2,
+   "why": "She opens the second-hand novel at home and a yellow envelope falls to the floor."
+  },
+  {
+   "q": "Pourquoi Colette a-t-elle écrit cette lettre ?",
+   "q_en": "Why did Colette write this letter?",
+   "o": [
+    {
+     "fr": "Pour inviter Jeanne à manger des gâteaux",
+     "en": "To invite Jeanne to eat cakes"
+    },
+    {
+     "fr": "Pour demander pardon à Jeanne",
+     "en": "To ask Jeanne for forgiveness"
+    },
+    {
+     "fr": "Pour dire qu'elle quittait la ville",
+     "en": "To say she was leaving town"
+    },
+    {
+     "fr": "Pour remercier Jeanne d'un cadeau",
+     "en": "To thank Jeanne for a present"
+    }
+   ],
+   "a": 1,
+   "why": "After a quarrel, Colette writes that she regrets it and ends with Pardonne-moi."
+  },
+  {
+   "q": "Comment Hélène trouve-t-elle la famille de Jeanne ?",
+   "q_en": "How does Hélène find Jeanne's family?",
+   "o": [
+    {
+     "fr": "Elle trouve son numéro de téléphone",
+     "en": "She finds her phone number"
+    },
+    {
+     "fr": "Le petit-fils de Jeanne vient à la librairie",
+     "en": "Jeanne's grandson comes to the bookshop"
+    },
+    {
+     "fr": "Colette lui donne l'adresse",
+     "en": "Colette gives her the address"
+    },
+    {
+     "fr": "Le libraire connaît la maison d'où vient le livre",
+     "en": "The bookseller knows the house the book came from"
+    }
+   ],
+   "a": 3,
+   "why": "The bookseller has no phone number but says the book came from a house on the rue des Tilleuls."
+  },
+  {
+   "q": "Comment Hélène peut-elle appeler Colette ?",
+   "q_en": "How is Hélène able to call Colette?",
+   "o": [
+    {
+     "fr": "Un numéro est écrit au crayon sur l'enveloppe",
+     "en": "A number is written in pencil on the envelope"
+    },
+    {
+     "fr": "Jeanne a gardé l'adresse de Colette",
+     "en": "Jeanne kept Colette's address"
+    },
+    {
+     "fr": "Le jeune homme connaît son numéro",
+     "en": "The young man knows her number"
+    },
+    {
+     "fr": "Le libraire lui donne le numéro",
+     "en": "The bookseller gives her the number"
+    }
+   ],
+   "a": 0,
+   "why": "Jeanne lost Colette's address, but Hélène sees a small number in pencil on the back of the envelope."
+  },
+  {
+   "q": "Quelle est l'idée principale de l'histoire ?",
+   "q_en": "What is the main idea of the story?",
+   "o": [
+    {
+     "fr": "Il ne faut jamais lire les lettres des autres",
+     "en": "You should never read other people's letters"
+    },
+    {
+     "fr": "Les vieux livres cachent toujours des secrets",
+     "en": "Old books always hide secrets"
+    },
+    {
+     "fr": "On peut réparer une amitié, même très tard",
+     "en": "A friendship can be mended, even very late"
+    },
+    {
+     "fr": "Les petites disputes n'ont pas d'importance",
+     "en": "Small quarrels do not matter"
+    }
+   ],
+   "a": 2,
+   "why": "After forty years Jeanne tells Colette it is never too late, and the two friends will meet again on their bench."
+  }
  ]
 }
