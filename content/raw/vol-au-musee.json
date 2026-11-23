@@ -1,0 +1,258 @@
+{
+ "id": "vol-au-musee",
+ "series_id": "inspecteur-roche",
+ "episode": 1,
+ "title": "Le vol au musée",
+ "title_en": "The theft at the museum",
+ "level": "B1",
+ "summary_en": "Inspector Roche, who loves coffee and long walks, investigates the theft of a small painting from a little museum in Lyon. One odd detail on the floor tells him more than any witness.",
+ "tags": [
+  "mystery",
+  "lyon",
+  "humour"
+ ],
+ "key_vocab": [
+  "tableau",
+  "musée",
+  "café",
+  "voleur",
+  "clé",
+  "directrice",
+  "inspecteur",
+  "gardien",
+  "visiteur",
+  "porte"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Le lundi matin, l'inspecteur Roche buvait son deuxième café quand le téléphone a sonné.",
+       "en": "On Monday morning, Inspector Roche was drinking his second coffee when the phone rang."
+      },
+      {
+       "fr": "Un petit tableau avait disparu du musée des Soies, dans le vieux Lyon.",
+       "en": "A small painting had disappeared from the Silk Museum, in old Lyon."
+      },
+      {
+       "fr": "Roche n'aimait pas courir, mais il adorait marcher longtemps, car ses meilleures idées lui venaient toujours en route.",
+       "en": "Roche did not like to run, but he loved walking for a long time, because his best ideas always came to him on the way."
+      },
+      {
+       "fr": "Il a donc fini son café, il a pris son manteau gris et il est parti à pied.",
+       "en": "So he finished his coffee, took his grey coat and set off on foot."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le musée était petit, calme et un peu sombre.",
+       "en": "The museum was small, quiet and a little dark."
+      },
+      {
+       "fr": "Devant la porte, un gardien aux yeux fatigués attendait l'inspecteur.",
+       "en": "In front of the door, a guard with tired eyes was waiting for the inspector."
+      },
+      {
+       "fr": "« Je m'appelle Bernard, dit-il, et c'est moi qui ai découvert le vol ce matin. »",
+       "en": "\"My name is Bernard,\" he said, \"and I am the one who discovered the theft this morning.\""
+      },
+      {
+       "fr": "« La veille, j'avais fermé toutes les portes à dix-huit heures, comme chaque soir. »",
+       "en": "\"The evening before, I had locked all the doors at six o'clock, like every evening.\""
+      },
+      {
+       "fr": "« Où étiez-vous cette nuit ? » a demandé Roche.",
+       "en": "\"Where were you last night?\" Roche asked."
+      },
+      {
+       "fr": "« Chez moi, je dormais, a répondu Bernard, car je ne bois jamais de café le soir ! »",
+       "en": "\"At home, I was sleeping,\" Bernard answered, \"because I never drink coffee in the evening!\""
+      },
+      {
+       "fr": "Roche l'a regardé avec pitié : pour lui, un monde sans café était un monde bien triste.",
+       "en": "Roche looked at him with pity: for him, a world without coffee was a very sad world."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La directrice, Madame Verdier, est arrivée presque en courant.",
+       "en": "The director, Madame Verdier, arrived almost at a run."
+      },
+      {
+       "fr": "C'était une femme élégante qui parlait très vite et qui avait l'air très inquiète.",
+       "en": "She was an elegant woman who spoke very fast and who looked very worried."
+      },
+      {
+       "fr": "« Ce tableau est un paysage de la Saône, a-t-elle expliqué, et il est précieux pour nous. »",
+       "en": "\"This painting is a landscape of the Saône,\" she explained, \"and it is precious to us.\""
+      },
+      {
+       "fr": "« Nous ne recevons que dix visiteurs par semaine, et si on ne le retrouve pas, je devrai fermer le musée. »",
+       "en": "\"We only get ten visitors a week, and if we don't find it, I will have to close the museum.\"",
+       "ov": {
+        "3": {
+         "g": "only (ne ... que)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Roche a regardé la salle lentement, car il aimait prendre son temps.",
+       "en": "Roche looked around the room slowly, because he liked to take his time."
+      },
+      {
+       "fr": "« Un voleur aurait pu entrer par la fenêtre, a-t-il murmuré, mais elle est beaucoup trop haute. »",
+       "en": "\"A thief could have come in through the window,\" he murmured, \"but it is far too high.\""
+      },
+      {
+       "fr": "« Il serait donc entré par la porte, avec une clé. »",
+       "en": "\"So he would have come in through the door, with a key.\""
+      },
+      {
+       "fr": "« Seuls Bernard et moi avons une clé, a dit la directrice, et l'alarme n'a pas sonné. »",
+       "en": "\"Only Bernard and I have a key,\" said the director, \"and the alarm did not ring.\"",
+       "ov": {
+        "0": {
+         "g": "only"
+        }
+       }
+      },
+      {
+       "fr": "Le gardien a rougi et il a regardé ses chaussures.",
+       "en": "The guard blushed and looked at his shoes."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Roche est resté seul dans la salle où le tableau était accroché.",
+       "en": "Roche stayed alone in the room where the painting had hung."
+      },
+      {
+       "fr": "Il a marché de long en large, les mains dans le dos.",
+       "en": "He paced up and down, his hands behind his back."
+      },
+      {
+       "fr": "Sur le mur, il y avait un rectangle plus clair, et le clou était toujours là.",
+       "en": "On the wall, there was a lighter rectangle, and the nail was still there."
+      },
+      {
+       "fr": "Le voleur n'avait donc rien cassé : il avait décroché le tableau avec soin.",
+       "en": "So the thief had broken nothing: he had taken the painting down with care."
+      },
+      {
+       "fr": "Sous le rectangle, sur le sol, Roche a trouvé une petite tache brune.",
+       "en": "Under the rectangle, on the floor, Roche found a small brown stain."
+      },
+      {
+       "fr": "Il s'est baissé, il a senti la tache et il a souri : c'était du café !",
+       "en": "He bent down, smelled the stain and smiled: it was coffee!"
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Voilà un voleur qui a bon goût, a pensé l'inspecteur, et ce n'est certainement pas Bernard. »",
+       "en": "\"Here is a thief with good taste,\" the inspector thought, \"and it is certainly not Bernard.\""
+      },
+      {
+       "fr": "Dans le bureau de la directrice, une grande machine à café brillait près de la fenêtre.",
+       "en": "In the director's office, a big coffee machine was shining near the window."
+      },
+      {
+       "fr": "Roche n'a rien dit et il a pris son carnet.",
+       "en": "Roche said nothing and took out his notebook."
+      },
+      {
+       "fr": "Le voleur connaissait le musée, il avait une clé et il buvait du café : la liste était courte.",
+       "en": "The thief knew the museum, had a key and drank coffee: the list was short."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "À midi, quelques journalistes attendaient devant le musée, car on les avait prévenus très tôt.",
+       "en": "At noon, a few journalists were waiting in front of the museum, because someone had warned them very early."
+      },
+      {
+       "fr": "Roche a souri et il a pris la parole.",
+       "en": "Roche smiled and began to speak."
+      },
+      {
+       "fr": "« Rassurez-vous, ce tableau n'était qu'une copie, dit-il, et le vrai est dans un coffre depuis des années. »",
+       "en": "\"Rest assured, this painting was only a copy,\" he said, \"and the real one has been in a safe for years.\"",
+       "ov": {
+        "5": {
+         "g": "only (ne ... que)"
+        }
+       }
+      },
+      {
+       "fr": "« Le voleur a donc volé du vent, et il faut qu'il le sache. »",
+       "en": "\"So the thief has stolen nothing but air, and he needs to know it.\""
+      },
+      {
+       "fr": "Madame Verdier est devenue rouge.",
+       "en": "Madame Verdier turned red."
+      },
+      {
+       "fr": "« Une copie ? Jamais ! s'est-elle écriée. Il est authentique, et il est dans mon armoire, derrière la machine à café ! »",
+       "en": "\"A copy? Never!\" she cried. \"It is genuine, and it is in my cupboard, behind the coffee machine!\""
+      },
+      {
+       "fr": "Elle a mis la main sur sa bouche, mais il était trop tard : elle était tombée dans le panneau.",
+       "en": "She put her hand over her mouth, but it was too late: she had fallen into the trap."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Vous aviez peur de la fermeture, a dit Roche doucement. Cette nuit-là, vous aviez pris le tableau avec votre clé. »",
+       "en": "\"You were afraid of the closure,\" Roche said gently. \"That night, you had taken the painting with your key.\""
+      },
+      {
+       "fr": "« Votre tasse était tombée par terre, et vous espériez que les journaux parleraient enfin du musée. »",
+       "en": "\"Your cup had fallen on the floor, and you hoped that the newspapers would finally talk about the museum.\""
+      },
+      {
+       "fr": "« Je voulais seulement que les gens viennent, a avoué la directrice, les larmes aux yeux. »",
+       "en": "\"I only wanted people to come,\" the director admitted, with tears in her eyes."
+      },
+      {
+       "fr": "Elle a rendu le tableau, et Roche a promis de ne rien écrire dans son rapport.",
+       "en": "She gave the painting back, and Roche promised to write nothing in his report."
+      },
+      {
+       "fr": "Le gardien, content, a ouvert la porte à tous les visiteurs.",
+       "en": "The guard, happy, opened the door to all the visitors."
+      },
+      {
+       "fr": "Le lendemain, une longue file de visiteurs faisait la queue devant le musée, car tout Lyon voulait voir le tableau célèbre.",
+       "en": "The next day, a long line of visitors was queuing in front of the museum, because all of Lyon wanted to see the famous painting."
+      },
+      {
+       "fr": "Roche, lui, buvait un café en marchant au bord de la Saône.",
+       "en": "Roche, for his part, was drinking a coffee while walking along the Saône."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

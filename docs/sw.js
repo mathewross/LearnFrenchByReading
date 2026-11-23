@@ -1,5 +1,5 @@
 // Service worker. VERSION is stamped by tools/build.py (hash of shipped files).
-const VERSION = '76cfb024f0';
+const VERSION = 'f067b5efcd';
 const SHELL_CACHE = 'lecture-shell-' + VERSION;
 const DATA_CACHE = 'lecture-data'; // library, examples and stories: stale-while-revalidate
 const SHELL = [
@@ -27,7 +27,7 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
   if (url.origin !== location.origin) return;
 
-  if (url.pathname.includes('/data/')) {
+  if (url.pathname.includes('/data/') || url.pathname.includes('/img/')) {
     e.respondWith((async () => {
       const cache = await caches.open(DATA_CACHE);
       // newest copy first (data cache), then the precached shell copy

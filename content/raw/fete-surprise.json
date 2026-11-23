@@ -1,0 +1,249 @@
+{
+ "id": "fete-surprise",
+ "series_id": null,
+ "episode": null,
+ "title": "La fête surprise",
+ "title_en": "The surprise party",
+ "level": "A2",
+ "summary_en": "Three friends prepare a surprise birthday party for Lucas. But he comes home early, and they must save the day.",
+ "tags": [
+  "friends",
+  "birthday",
+  "humor"
+ ],
+ "key_vocab": [
+  "anniversaire",
+  "surprise",
+  "fête",
+  "ami",
+  "ballon",
+  "gâteau",
+  "se cacher",
+  "rire",
+  "bougie",
+  "chanter"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Samedi, c'était l'anniversaire de Lucas.",
+       "en": "On Saturday, it was Lucas's birthday."
+      },
+      {
+       "fr": "Ses amis voulaient lui faire une surprise.",
+       "en": "His friends wanted to give him a surprise."
+      },
+      {
+       "fr": "Chloé, sa sœur, a téléphoné à Maxime et à Inès.",
+       "en": "Chloé, his sister, phoned Maxime and Inès."
+      },
+      {
+       "fr": "« On va faire une fête chez Lucas ! » a-t-elle dit.",
+       "en": "\"We are going to have a party at Lucas's place!\" she said."
+      },
+      {
+       "fr": "« Moi, je vais apporter le gâteau », a répondu Inès.",
+       "en": "\"I am going to bring the cake,\" replied Inès."
+      },
+      {
+       "fr": "« Et moi, je vais acheter des ballons », a dit Maxime.",
+       "en": "\"And I am going to buy some balloons,\" said Maxime."
+      },
+      {
+       "fr": "« On va se cacher dans le salon », a dit Chloé.",
+       "en": "\"We are going to hide in the living room,\" said Chloé."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Lucas travaillait au bureau jusqu'à six heures.",
+       "en": "Lucas was working at the office until six o'clock."
+      },
+      {
+       "fr": "Chloé avait la clé de son appartement.",
+       "en": "Chloé had the key to his apartment."
+      },
+      {
+       "fr": "À quatre heures, les trois amis sont entrés.",
+       "en": "At four o'clock, the three friends went in."
+      },
+      {
+       "fr": "Maxime a gonflé les ballons et Chloé a préparé la table.",
+       "en": "Maxime blew up the balloons and Chloé set the table."
+      },
+      {
+       "fr": "Inès a mis le gâteau dans la cuisine.",
+       "en": "Inès put the cake in the kitchen."
+      },
+      {
+       "fr": "À cinq heures, tout était prêt pour la fête.",
+       "en": "At five o'clock, everything was ready for the party."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Soudain, une clé a tourné dans la porte !",
+       "en": "Suddenly, a key turned in the door!"
+      },
+      {
+       "fr": "Lucas rentrait déjà !",
+       "en": "Lucas was already coming home!"
+      },
+      {
+       "fr": "Il avait mal à la tête, alors il est parti plus tôt.",
+       "en": "He had a headache, so he left earlier."
+      },
+      {
+       "fr": "« Vite, cachez-vous ! » a murmuré Chloé.",
+       "en": "\"Quick, hide!\" whispered Chloé."
+      },
+      {
+       "fr": "Maxime s'est caché derrière le canapé.",
+       "en": "Maxime hid behind the sofa."
+      },
+      {
+       "fr": "Inès s'est cachée derrière le rideau.",
+       "en": "Inès hid behind the curtain."
+      },
+      {
+       "fr": "Chloé a couru dans la cuisine.",
+       "en": "Chloé ran into the kitchen."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Lucas est entré dans le salon.",
+       "en": "Lucas came into the living room."
+      },
+      {
+       "fr": "Il a vu les ballons partout.",
+       "en": "He saw the balloons everywhere."
+      },
+      {
+       "fr": "« Qu'est-ce que c'est ? » a-t-il demandé.",
+       "en": "\"What is this?\" he asked."
+      },
+      {
+       "fr": "Personne n'a répondu.",
+       "en": "Nobody answered."
+      },
+      {
+       "fr": "Puis il a regardé derrière le canapé.",
+       "en": "Then he looked behind the sofa."
+      },
+      {
+       "fr": "Il a vu deux grands pieds.",
+       "en": "He saw two big feet."
+      },
+      {
+       "fr": "« Maxime, je vois tes pieds ! » a-t-il dit.",
+       "en": "\"Maxime, I can see your feet!\" he said."
+      },
+      {
+       "fr": "Maxime s'est levé, tout rouge.",
+       "en": "Maxime stood up, all red.",
+       "ov": {
+        "4": {
+         "g": "all, completely",
+         "p": "ADV"
+        }
+       }
+      },
+      {
+       "fr": "« Euh... surprise ? » a-t-il dit.",
+       "en": "\"Um... surprise?\" he said."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Lucas a regardé ses amis et il a ri.",
+       "en": "Lucas looked at his friends and laughed."
+      },
+      {
+       "fr": "« Je n'ai rien vu ! » a-t-il dit.",
+       "en": "\"I didn't see anything!\" he said."
+      },
+      {
+       "fr": "« Je vais sortir, et je vais revenir dans cinq minutes. »",
+       "en": "\"I am going to go out, and I am going to come back in five minutes.\""
+      },
+      {
+       "fr": "Il a fermé la porte derrière lui.",
+       "en": "He closed the door behind him."
+      },
+      {
+       "fr": "Les amis ont ri, puis ils se sont cachés encore une fois.",
+       "en": "The friends laughed, then they hid once more."
+      },
+      {
+       "fr": "Cinq minutes plus tard, Lucas a ouvert la porte.",
+       "en": "Five minutes later, Lucas opened the door."
+      },
+      {
+       "fr": "« Surprise ! » ont crié tous ses amis.",
+       "en": "\"Surprise!\" shouted all his friends."
+      },
+      {
+       "fr": "« Oh ! Quelle belle surprise ! » a dit Lucas.",
+       "en": "\"Oh! What a lovely surprise!\" said Lucas."
+      },
+      {
+       "fr": "Il a joué l'étonné, mais il riait beaucoup.",
+       "en": "He pretended to be amazed, but he was laughing a lot."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Inès a apporté le gâteau avec les bougies.",
+       "en": "Inès brought the cake with the candles."
+      },
+      {
+       "fr": "Il y avait beaucoup de bougies.",
+       "en": "There were a lot of candles."
+      },
+      {
+       "fr": "Tout le monde a chanté « Joyeux anniversaire ».",
+       "en": "Everybody sang \"Happy Birthday\"."
+      },
+      {
+       "fr": "Lucas a fermé les yeux et il a soufflé les bougies.",
+       "en": "Lucas closed his eyes and blew out the candles."
+      },
+      {
+       "fr": "« C'est mon meilleur anniversaire ! » a-t-il dit.",
+       "en": "\"It's my best birthday!\" he said."
+      },
+      {
+       "fr": "Maxime chantait très fort, mais tout le monde riait.",
+       "en": "Maxime sang very loudly, but everybody was laughing."
+      },
+      {
+       "fr": "Ils ont mangé le gâteau et ils ont chanté encore une fois.",
+       "en": "They ate the cake and sang once more."
+      },
+      {
+       "fr": "C'était une très belle fête.",
+       "en": "It was a very lovely party."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

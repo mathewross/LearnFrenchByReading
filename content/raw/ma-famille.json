@@ -1,0 +1,208 @@
+{
+ "id": "ma-famille",
+ "series_id": null,
+ "episode": null,
+ "title": "Ma famille",
+ "title_en": "My family",
+ "level": "A1",
+ "summary_en": "Ten-year-old Hugo introduces his family: his parents, his little sister and a cat. Then he asks who is the funniest.",
+ "tags": [
+  "family",
+  "pets",
+  "home"
+ ],
+ "key_vocab": [
+  "famille",
+  "s'appeler",
+  "an",
+  "aimer",
+  "chat",
+  "drôle",
+  "rire",
+  "boîte",
+  "avoir",
+  "dire"
+ ],
+ "cover": "ma-famille-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Je m'appelle Hugo et j'ai dix ans.",
+       "en": "My name is Hugo and I am ten years old."
+      },
+      {
+       "fr": "J'habite à Lyon avec ma famille.",
+       "en": "I live in Lyon with my family."
+      },
+      {
+       "fr": "Ma famille est petite.",
+       "en": "My family is small."
+      },
+      {
+       "fr": "Voici ma famille !",
+       "en": "Here is my family!"
+      }
+     ],
+     "pic": {
+      "id": "ma-famille-1",
+      "alt": "Hugo, his parents, his little sister and the cat Pompon stand together."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Mon père s'appelle Marc.",
+       "en": "My father is called Marc."
+      },
+      {
+       "fr": "Il a quarante ans.",
+       "en": "He is forty years old."
+      },
+      {
+       "fr": "Il est boulanger.",
+       "en": "He is a baker."
+      },
+      {
+       "fr": "Le matin, il fait du bon pain.",
+       "en": "In the morning, he makes good bread."
+      },
+      {
+       "fr": "Il fait aussi de bons gâteaux.",
+       "en": "He also makes good cakes."
+      },
+      {
+       "fr": "Il aime le pain et le football.",
+       "en": "He likes bread and football."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ma mère s'appelle Sophie.",
+       "en": "My mother is called Sophie."
+      },
+      {
+       "fr": "Elle a trente-huit ans.",
+       "en": "She is thirty-eight years old."
+      },
+      {
+       "fr": "Elle est professeur.",
+       "en": "She is a teacher."
+      },
+      {
+       "fr": "Elle aime les livres et la musique.",
+       "en": "She likes books and music."
+      },
+      {
+       "fr": "Elle boit beaucoup de café.",
+       "en": "She drinks a lot of coffee."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ma sœur s'appelle Emma.",
+       "en": "My sister is called Emma."
+      },
+      {
+       "fr": "Elle a six ans.",
+       "en": "She is six years old."
+      },
+      {
+       "fr": "Elle aime dessiner des chats et des fleurs.",
+       "en": "She likes drawing cats and flowers."
+      },
+      {
+       "fr": "Son chat est rouge et bleu !",
+       "en": "Her cat is red and blue!"
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Nous avons aussi un chat.",
+       "en": "We also have a cat."
+      },
+      {
+       "fr": "Il s'appelle Pompon et il a trois ans.",
+       "en": "He is called Pompon and he is three years old."
+      },
+      {
+       "fr": "Il est gros et blanc.",
+       "en": "He is fat and white."
+      },
+      {
+       "fr": "Il aime dormir et manger.",
+       "en": "He likes sleeping and eating."
+      },
+      {
+       "fr": "Il dort dans mon lit.",
+       "en": "He sleeps in my bed."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Qui est drôle dans ma famille ?",
+       "en": "Who is funny in my family?"
+      },
+      {
+       "fr": "Papa dit : « C'est moi, je suis drôle ! »",
+       "en": "Dad says: \"It's me, I am funny!\""
+      },
+      {
+       "fr": "Maman dit : « Non, c'est moi ! »",
+       "en": "Mum says: \"No, it's me!\""
+      },
+      {
+       "fr": "Mais Pompon saute dans une boîte.",
+       "en": "But Pompon jumps into a box."
+      },
+      {
+       "fr": "Il est trop gros pour la boîte !",
+       "en": "He is too big for the box!"
+      },
+      {
+       "fr": "Papa rit.",
+       "en": "Dad laughs."
+      },
+      {
+       "fr": "Maman rit aussi.",
+       "en": "Mum laughs too."
+      },
+      {
+       "fr": "Et moi, je ris aussi.",
+       "en": "And I laugh too."
+      },
+      {
+       "fr": "Emma dit : « C'est Pompon, il est drôle ! »",
+       "en": "Emma says: \"It's Pompon, he is funny!\""
+      },
+      {
+       "fr": "Je pense qu'elle a raison.",
+       "en": "I think she is right."
+      },
+      {
+       "fr": "Pompon est content dans sa boîte.",
+       "en": "Pompon is happy in his box."
+      }
+     ],
+     "pic": {
+      "id": "ma-famille-2",
+      "alt": "Pompon the fat white cat is too big for the box and the whole family laughs."
+     }
+    }
+   ]
+  }
+ ]
+}

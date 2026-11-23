@@ -1,0 +1,301 @@
+{
+ "id": "chien-perdu",
+ "series_id": null,
+ "episode": null,
+ "title": "Le chien perdu",
+ "title_en": "The lost dog",
+ "level": "A2",
+ "summary_en": "Clara finds a lost brown dog in the park. With her father, she tries everything to find its owner.",
+ "tags": [
+  "dog",
+  "kindness",
+  "family"
+ ],
+ "key_vocab": [
+  "chien",
+  "parc",
+  "père",
+  "affiche",
+  "voisin",
+  "vieux",
+  "monsieur",
+  "maître",
+  "triste",
+  "brun",
+  "perdu",
+  "arbre"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Samedi après-midi, Clara jouait dans le parc.",
+       "en": "Saturday afternoon, Clara was playing in the park."
+      },
+      {
+       "fr": "Son père lisait sur un banc.",
+       "en": "Her father was reading on a bench."
+      },
+      {
+       "fr": "Soudain, elle a vu un chien brun sous un arbre.",
+       "en": "Suddenly, she saw a brown dog under a tree."
+      },
+      {
+       "fr": "Il était seul et perdu, et il avait l'air triste.",
+       "en": "He was alone and lost, and he looked sad."
+      },
+      {
+       "fr": "Il avait un collier rouge, mais son maître n'était pas là.",
+       "en": "He had a red collar, but his owner was not there."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Viens ici, petit chien ! » a dit Clara doucement.",
+       "en": "“Come here, little dog!” said Clara gently.",
+       "ov": {
+        "5": {
+         "m": "past participle"
+        },
+        "0": {
+         "m": "imperative (tu)"
+        }
+       }
+      },
+      {
+       "fr": "Le chien est venu vers elle.",
+       "en": "The dog came toward her."
+      },
+      {
+       "fr": "Il a mangé le biscuit de Clara.",
+       "en": "He ate Clara's cookie."
+      },
+      {
+       "fr": "Elle a caressé sa tête, et il a remué la queue.",
+       "en": "She petted his head, and he wagged his tail."
+      },
+      {
+       "fr": "« Papa, regarde ! Ce chien est perdu ! » a crié Clara.",
+       "en": "“Dad, look! This dog is lost!” shouted Clara.",
+       "ov": {
+        "1": {
+         "m": "imperative (tu)"
+        }
+       }
+      },
+      {
+       "fr": "Son père a regardé le chien.",
+       "en": "Her father looked at the dog."
+      },
+      {
+       "fr": "« Oui, il est perdu et il cherche sa maison », a dit Papa.",
+       "en": "“Yes, he is lost and he is looking for his home,” said Dad.",
+       "ov": {
+        "10": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "« Où est son maître ? » a demandé Clara.",
+       "en": "“Where is his owner?” asked Clara."
+      },
+      {
+       "fr": "« Nous allons l'aider ! » a dit son père.",
+       "en": "“We are going to help him!” said her father.",
+       "ov": {
+        "5": {
+         "m": "past participle"
+        },
+        "2": {
+         "p": "PRON",
+         "g": "him",
+         "m": "object pronoun (before a vowel)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "À la maison, Clara et son père ont fait une affiche.",
+       "en": "At home, Clara and her father made a poster."
+      },
+      {
+       "fr": "Clara a dessiné le chien brun.",
+       "en": "Clara drew the brown dog."
+      },
+      {
+       "fr": "Papa a écrit : « Chien trouvé ! Il est brun et gentil. »",
+       "en": "Dad wrote: “Dog found! He is brown and kind.”"
+      },
+      {
+       "fr": "Il a aussi écrit leur numéro de téléphone.",
+       "en": "He also wrote their phone number."
+      },
+      {
+       "fr": "Puis ils ont collé l'affiche sur un arbre du parc.",
+       "en": "Then they stuck the poster on a tree in the park."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ensuite, ils sont allés chez les voisins.",
+       "en": "Then they went to the neighbors' houses."
+      },
+      {
+       "fr": "Le chien marchait à côté de Clara.",
+       "en": "The dog walked next to Clara."
+      },
+      {
+       "fr": "Ils ont sonné à chaque porte.",
+       "en": "They rang at every door."
+      },
+      {
+       "fr": "Une voisine a regardé le chien.",
+       "en": "A neighbor looked at the dog."
+      },
+      {
+       "fr": "« Il est très beau, mais ce n'est pas mon chien », a dit la voisine.",
+       "en": "“He is very nice, but he is not my dog,” said the neighbor.",
+       "ov": {
+        "12": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "Un autre voisin a dit : « Désolé, je ne connais pas ce chien. »",
+       "en": "Another neighbor said, “Sorry, I don't know this dog.”",
+       "ov": {
+        "4": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "Clara était un peu triste.",
+       "en": "Clara was a little sad."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le soir, ils sont retournés au parc et ils ont attendu.",
+       "en": "In the evening, they went back to the park and waited."
+      },
+      {
+       "fr": "Ils se sont assis sous l'arbre, près de l'affiche.",
+       "en": "They sat down under the tree, near the poster."
+      },
+      {
+       "fr": "Le chien était fatigué et il dormait près de Clara.",
+       "en": "The dog was tired and he was sleeping near Clara."
+      },
+      {
+       "fr": "Clara aimait déjà ce chien, mais il avait un maître.",
+       "en": "Clara already liked this dog, but he had an owner."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Soudain, un vieux monsieur est arrivé.",
+       "en": "Suddenly, an old man arrived."
+      },
+      {
+       "fr": "Il marchait lentement avec une canne.",
+       "en": "He was walking slowly with a cane."
+      },
+      {
+       "fr": "« Max ! » a crié le vieux monsieur.",
+       "en": "“Max!” shouted the old man."
+      },
+      {
+       "fr": "Le chien a couru vers lui, très content.",
+       "en": "The dog ran to him, very happy."
+      },
+      {
+       "fr": "Le monsieur a pris le chien dans ses bras.",
+       "en": "The man took the dog in his arms."
+      },
+      {
+       "fr": "Il pleurait de joie.",
+       "en": "He was crying with joy."
+      },
+      {
+       "fr": "« Max est parti ce matin. »",
+       "en": "“Max left this morning.”"
+      },
+      {
+       "fr": "« Je l'ai cherché partout ! » a dit le monsieur.",
+       "en": "“I looked for him everywhere!” said the man.",
+       "ov": {
+        "6": {
+         "m": "past participle"
+        },
+        "1": {
+         "p": "PRON",
+         "g": "him",
+         "m": "object pronoun (before a vowel)"
+        }
+       }
+      },
+      {
+       "fr": "« Merci, ma petite ! Tu as un grand cœur. »",
+       "en": "“Thank you, my dear! You have a big heart.”",
+       "ov": {
+        "2": {
+         "g": "dear (affectionate, lit. little one)",
+         "p": "NOUN"
+        }
+       }
+      },
+      {
+       "fr": "Clara a souri, mais ses yeux brillaient.",
+       "en": "Clara smiled, but her eyes were shining."
+      },
+      {
+       "fr": "« Demain, Max et moi, nous allons venir au parc », a dit le vieux monsieur.",
+       "en": "“Tomorrow, Max and I are going to come to the park,” said the old man.",
+       "ov": {
+        "10": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "« Venez nous voir ! »",
+       "en": "“Come and see us!”",
+       "ov": {
+        "0": {
+         "m": "imperative (vous)"
+        }
+       }
+      },
+      {
+       "fr": "Clara était triste et heureuse en même temps.",
+       "en": "Clara was sad and happy at the same time."
+      },
+      {
+       "fr": "Elle avait maintenant deux nouveaux amis.",
+       "en": "She now had two new friends."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -5,7 +5,7 @@ import { Reader } from './reader.js';
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
 const COLORS = ['#5f7f73', '#9b6f5a', '#5d7088', '#857550', '#8c5f6a', '#4f7c82'];
 const THEME_COLORS = { light: '#f6f4ef', sepia: '#f1e7d0', dark: '#17181a' };
-const DEFAULTS = { theme: 'light', font: 'serif', size: 20, lh: 1.6, margin: 22, rate: 0.9 };
+const DEFAULTS = { theme: 'light', font: 'serif', size: 20, lh: 1.6, margin: 22, rate: 0.9, pics: 'on' };
 const POS = { NOUN: 'noun', VERB: 'verb', ADJ: 'adjective', ADV: 'adverb', PRON: 'pronoun', DET: 'determiner', PREP: 'preposition', CONJ: 'conjunction', INTJ: 'interjection', EXPR: 'expression', NUM: 'number', PROPN: 'name', AUX: 'auxiliary' };
 
 const ICON = {
@@ -43,7 +43,7 @@ function toast(msg) {
 }
 function applySettings() {
   const s = settings, r = document.documentElement.style;
-  document.body.className = 'theme-' + s.theme;
+  document.body.className = 'theme-' + s.theme + (s.pics === 'off' ? ' nopics' : '');
   r.setProperty('--fs', s.size + 'px'); r.setProperty('--lh', s.lh); r.setProperty('--margin', s.margin + 'px');
   r.setProperty('--rfont', s.font === 'sans' ? 'var(--ui)' : 'var(--serif)');
   $('#theme-color').content = THEME_COLORS[s.theme];
@@ -146,7 +146,8 @@ function visibleStories() {
 function cardHtml(s) {
   const P = progress()[s.id] || {};
   const ser = s.series && lib.series[s.series] ? `${lib.series[s.series].title} · Ep. ${s.episode}` : '';
-  return `<button class="card" data-id="${s.id}"><div class="cover" style="background:${colorFor(s)}">
+  const bg = s.cover ? `background-color:${colorFor(s)};background-image:linear-gradient(to bottom,rgba(0,0,0,0) 45%,rgba(0,0,0,.66)),url('${s.cover}')` : `background:${colorFor(s)}`;
+  return `<button class="card" data-id="${s.id}"><div class="cover" style="${bg}">
     <span class="lvl">${s.level}</span>${P.done ? '<span class="done">✓</span>' : ''}
     ${ser ? `<div class="ser">${esc(ser)}</div>` : ''}<div class="ct">${esc(s.title)}</div></div>
     <div class="cmeta"><span>${minutes(s.words)} min · ${s.words} words</span>
@@ -196,6 +197,7 @@ function preview(id) {
 function displayControlsHtml() {
   const s = settings;
   return `<div class="row"><label>Theme</label><div class="seg" data-seg="theme">${['light', 'sepia', 'dark'].map((t) => `<button class="t-${t} ${s.theme === t ? 'on' : ''}" data-v="${t}">${t[0].toUpperCase() + t.slice(1)}</button>`).join('')}</div></div>
+    <div class="row"><label>Pictures</label><div class="seg" data-seg="pics">${[['on', 'On'], ['off', 'Off']].map(([v, t]) => `<button class="${s.pics === v ? 'on' : ''}" data-v="${v}">${t}</button>`).join('')}</div></div>
     <div class="row"><label>Font</label><div class="seg" data-seg="font">${[['serif', 'Serif'], ['sans', 'Sans']].map(([v, t]) => `<button class="${s.font === v ? 'on' : ''}" data-v="${v}">${t}</button>`).join('')}</div></div>
     <div class="row"><label>Text size</label><input type="range" data-k="size" min="15" max="32" step="1" value="${s.size}"></div>
     <div class="row"><label>Line spacing</label><input type="range" data-k="lh" min="1.3" max="2.1" step="0.05" value="${s.lh}"></div>
@@ -449,7 +451,12 @@ function viewSettings() {
       const cache = await caches.open('lecture-data'); let n = 0;
       for (const s of lib.stories) {
         const url = `data/stories/${s.id}.json`;
-        const res = await fetch(url); if (res.ok) { await cache.put(url, res.clone()); n++; }
+        const res = await fetch(url);
+        if (res.ok) {
+          const story = await res.clone().json();
+          await cache.put(url, res.clone()); n++;
+          for (const pic of Object.values(story.pics || {})) { const r = await fetch(pic.src); if (r.ok) await cache.put(pic.src, r); }
+        }
         btn.textContent = `Downloading… ${n}/${lib.stories.length}`;
       }
       btn.textContent = 'Download all stories'; toast(`${n} stories saved for offline.`);

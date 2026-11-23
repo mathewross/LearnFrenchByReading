@@ -1,0 +1,274 @@
+{
+ "id": "ete-provence",
+ "series_id": null,
+ "episode": null,
+ "title": "Un été en Provence",
+ "title_en": "A summer in Provence",
+ "level": "B1",
+ "summary_en": "On the metro, a woman smells lavender and remembers the summer she worked on a farm in Provence at nineteen, and the boy she met there.",
+ "tags": [
+  "memories",
+  "summer",
+  "love"
+ ],
+ "key_vocab": [
+  "lavande",
+  "ferme",
+  "odeur",
+  "soleil",
+  "chaleur",
+  "étoile",
+  "famille",
+  "toit",
+  "travailler",
+  "heureux",
+  "cœur"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Ce matin, dans le métro, une femme tenait un petit sac de lavande.",
+       "en": "This morning, on the metro, a woman was holding a small bag of lavender."
+      },
+      {
+       "fr": "L'odeur m'a tout de suite ramenée seize ans en arrière.",
+       "en": "The smell immediately took me back sixteen years."
+      },
+      {
+       "fr": "J'avais dix-neuf ans et je partais travailler dans une ferme en Provence.",
+       "en": "I was nineteen and I was leaving to work on a farm in Provence."
+      },
+      {
+       "fr": "Je n'avais jamais quitté ma ville, et ma mère pleurait un peu à la gare.",
+       "en": "I had never left my town, and my mother was crying a little at the station."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La ferme appartenait à la famille Rousseau, qui cultivait la lavande depuis trois générations.",
+       "en": "The farm belonged to the Rousseau family, who had grown lavender for three generations."
+      },
+      {
+       "fr": "Le père, Marcel, était un grand homme au visage tanné, que le soleil avait marqué.",
+       "en": "The father, Marcel, was a tall man with a brown face, which the sun had marked.",
+       "ov": {
+        "10": {
+         "g": "which, whom (relative)",
+         "p": "PRON"
+        }
+       }
+      },
+      {
+       "fr": "Sa femme, Odile, faisait un pain délicieux et parlait sans arrêt.",
+       "en": "His wife, Odile, made delicious bread and talked non-stop."
+      },
+      {
+       "fr": "Leur fils, Louis, avait vingt ans et conduisait le vieux tracteur bleu.",
+       "en": "Their son, Louis, was twenty and drove the old blue tractor."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Dans la ferme, chaque pièce avait son odeur : le pain, le foin, le café.",
+       "en": "In the farmhouse, every room had its own smell: bread, hay, coffee."
+      },
+      {
+       "fr": "Le premier jour, Odile m'a montré ma chambre, sous le toit.",
+       "en": "On the first day, Odile showed me my room, under the roof."
+      },
+      {
+       "fr": "« Tu verras, il fait chaud, mais la nuit, on dort bien », m'a-t-elle dit.",
+       "en": "\"You'll see, it's hot, but at night you sleep well,\" she told me."
+      },
+      {
+       "fr": "Elle avait raison pour la nuit, mais pas pour la chaleur !",
+       "en": "She was right about the night, but not about the heat!"
+      },
+      {
+       "fr": "Nous nous levions à cinq heures, avant que le soleil soit trop fort.",
+       "en": "We got up at five o'clock, before the sun was too strong."
+      },
+      {
+       "fr": "« Il faut que nous finissions avant midi, disait Marcel, sinon il fera trop chaud. »",
+       "en": "\"We have to finish before noon,\" Marcel would say, \"otherwise it will be too hot.\""
+      },
+      {
+       "fr": "Pour lui, la chaleur donnait à la lavande sa meilleure odeur.",
+       "en": "For him, the heat gave the lavender its best smell."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Je n'oublierai jamais ce travail.",
+       "en": "I will never forget that work."
+      },
+      {
+       "fr": "Nous coupions la lavande avec une petite faucille, et nos mains sentaient bon toute la journée.",
+       "en": "We cut the lavender with a small sickle, and our hands smelled good all day long."
+      },
+      {
+       "fr": "Les abeilles bourdonnaient autour de nous, et au loin, les cigales faisaient un bruit continu.",
+       "en": "The bees hummed around us, and in the distance, the cicadas made a constant noise."
+      },
+      {
+       "fr": "Vers dix heures, le soleil tapait déjà fort sur mon dos.",
+       "en": "Around ten o'clock, the sun was already beating down hard on my back."
+      },
+      {
+       "fr": "Le soir, toute la famille dînait sous un grand arbre, et les mains de Marcel sentaient le foin.",
+       "en": "In the evening, the whole family had dinner under a big tree, and Marcel's hands smelled of hay."
+      },
+      {
+       "fr": "Mes bras me faisaient mal, mais j'étais heureuse et j'avais le cœur léger.",
+       "en": "My arms hurt, but I was happy and my heart was light."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Au début, Louis ne me parlait presque pas.",
+       "en": "At first, Louis hardly spoke to me."
+      },
+      {
+       "fr": "Il travaillait à côté de moi sans dire un mot.",
+       "en": "He worked next to me without saying a word."
+      },
+      {
+       "fr": "Il était timide, et moi aussi, alors nous travaillions en silence.",
+       "en": "He was shy, and so was I, so we worked in silence."
+      },
+      {
+       "fr": "Un après-midi, il m'a donné une bouteille d'eau fraîche.",
+       "en": "One afternoon, he gave me a bottle of cold water."
+      },
+      {
+       "fr": "Puis il m'a demandé : « Tu as déjà vu les étoiles ici ? »",
+       "en": "Then he asked me: \"Have you ever seen the stars here?\""
+      },
+      {
+       "fr": "Je lui ai répondu que non, parce que je m'endormais toujours très tôt.",
+       "en": "I answered that I hadn't, because I always fell asleep very early."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ce soir-là, nous sommes montés sur le toit du hangar, où il avait déjà posé une vieille couverture.",
+       "en": "That evening, we climbed onto the roof of the shed, where he had already put an old blanket."
+      },
+      {
+       "fr": "Le ciel était noir, et je n'avais jamais vu autant d'étoiles.",
+       "en": "The sky was black, and I had never seen so many stars."
+      },
+      {
+       "fr": "Louis m'a expliqué les noms des étoiles, qu'il avait appris avec son grand-père.",
+       "en": "Louis explained the names of the stars to me, which he had learned from his grandfather.",
+       "ov": {
+        "8": {
+         "g": "which, whom (relative)",
+         "p": "PRON"
+        }
+       }
+      },
+      {
+       "fr": "Il était heureux de partager son ciel avec moi.",
+       "en": "He was happy to share his sky with me."
+      },
+      {
+       "fr": "Nous avons parlé pendant des heures, et nous avons ri comme de vieux amis.",
+       "en": "We talked for hours, and we laughed like old friends."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Pendant les semaines suivantes, nous avons passé presque toutes les soirées ensemble.",
+       "en": "During the following weeks, we spent almost every evening together."
+      },
+      {
+       "fr": "Le toit du hangar est devenu notre secret.",
+       "en": "The roof of the shed became our secret."
+      },
+      {
+       "fr": "Un soir, il m'a pris la main sans rien dire, et mon cœur a battu très fort.",
+       "en": "One evening, he took my hand without saying anything, and my heart beat very hard."
+      },
+      {
+       "fr": "C'était un petit amour, doux et simple, qui sentait la lavande.",
+       "en": "It was a little love, sweet and simple, that smelled of lavender."
+      },
+      {
+       "fr": "Cet été-là, j'étais plus heureuse que jamais.",
+       "en": "That summer, I was happier than ever.",
+       "ov": {
+        "6": {
+         "g": "than",
+         "p": "CONJ"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Fin août, j'ai dû rentrer à Paris pour reprendre mes études.",
+       "en": "At the end of August, I had to go back to Paris to resume my studies."
+      },
+      {
+       "fr": "Le dernier matin, Odile m'a offert un sac de lavande et elle m'a serrée dans ses bras.",
+       "en": "On the last morning, Odile gave me a bag of lavender and hugged me."
+      },
+      {
+       "fr": "Louis, lui, n'a presque rien dit, mais il m'a promis qu'il m'écrirait.",
+       "en": "Louis, for his part, hardly said anything, but he promised me that he would write to me."
+      },
+      {
+       "fr": "Nous nous sommes écrit pendant un an, puis la vie a pris le dessus.",
+       "en": "We wrote to each other for a year, and then life took over."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Aujourd'hui, dans le métro, j'ai senti mon cœur se serrer, mais je souriais.",
+       "en": "Today, on the metro, I felt my heart tighten, but I was smiling."
+      },
+      {
+       "fr": "Je sais que Louis a repris la ferme de ses parents, où les fleurs sont toujours violettes en juillet.",
+       "en": "I know that Louis has taken over his parents' farm, where the flowers are always purple in July."
+      },
+      {
+       "fr": "J'aimerais tant revoir cette famille, cette odeur, cette chaleur et ces étoiles.",
+       "en": "I would so love to see that family again, and that smell, that heat and those stars again."
+      },
+      {
+       "fr": "Si je pouvais, je partirais demain, et je prendrais le premier train pour la Provence.",
+       "en": "If I could, I would leave tomorrow and take the first train to Provence."
+      },
+      {
+       "fr": "Peut-être qu'un jour, je le ferai.",
+       "en": "Maybe one day I will."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

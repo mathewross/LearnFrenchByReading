@@ -1,0 +1,452 @@
+{
+ "id": "maison-grand-mere",
+ "series_id": null,
+ "episode": null,
+ "title": "La maison de ma grand-mère",
+ "title_en": "My grandmother's house",
+ "level": "B2",
+ "summary_en": "After their grandmother's death, a woman and her brother spend one last weekend sorting her house in an Auvergne village before it is put up for sale. Every drawer holds a memory, and not everything is easy to let go of.",
+ "tags": [
+  "family",
+  "memory",
+  "countryside",
+  "cooking"
+ ],
+ "key_vocab": [
+  "maison",
+  "grand-mère",
+  "souvenir",
+  "vendre",
+  "carnet",
+  "recette",
+  "cuisine",
+  "frère",
+  "tiroir",
+  "garder",
+  "odeur",
+  "tarte",
+  "myrtille"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "Les volets fermés",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Nous sommes arrivés au village un vendredi soir de novembre, alors que la brume descendait déjà sur les toits d'ardoise.",
+       "en": "We arrived in the village one Friday evening in November, just as the mist was already coming down over the slate roofs."
+      },
+      {
+       "fr": "Mon frère Antoine avait conduit depuis Lyon sans presque rien dire, les mains serrées sur le volant.",
+       "en": "My brother Antoine had driven from Lyon almost without saying anything, his hands tight on the steering wheel."
+      },
+      {
+       "fr": "Devant la maison de notre grand-mère, il a coupé le moteur, et le silence nous a semblé immense.",
+       "en": "In front of our grandmother's house, he switched off the engine, and the silence seemed immense to us."
+      },
+      {
+       "fr": "Les volets étaient fermés depuis l'été, depuis l'enterrement.",
+       "en": "The shutters had been closed since the summer, since the funeral."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le notaire nous avait expliqué que la maison serait mise en vente dès le lundi suivant.",
+       "en": "The notary had explained to us that the house would be put up for sale as early as the following Monday."
+      },
+      {
+       "fr": "Il nous restait donc deux jours pour trier ce qu'elle contenait : les meubles, la vaisselle, les papiers, et surtout les souvenirs.",
+       "en": "So we had two days left to sort through what it held: the furniture, the dishes, the papers, and above all the memories.",
+       "ov": {
+        "9": {
+         "p": "PRON",
+         "g": "what (ce que = what)"
+        }
+       }
+      },
+      {
+       "fr": "« On garde l'essentiel et on donne le reste, d'accord ? » a dit Antoine en cherchant la clé sous le pot de géraniums.",
+       "en": "“We keep what matters and give away the rest, okay?” said Antoine, looking for the key under the pot of geraniums.",
+       "ov": {
+        "11": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "J'ai répondu oui, mais je savais déjà que l'essentiel serait difficile à définir.",
+       "en": "I said yes, but I already knew that what mattered would be hard to define."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Dès que la porte s'est ouverte, l'odeur nous a saisis : la cire, les pommes, le bois humide et quelque chose de plus doux, qui n'appartenait qu'à elle.",
+       "en": "As soon as the door opened, the smell took hold of us: wax, apples, damp wood and something sweeter that belonged only to her.",
+       "ov": {
+        "26": {
+         "g": "only (ne... que)"
+        }
+       }
+      },
+      {
+       "fr": "Rien n'avait bougé.",
+       "en": "Nothing had moved."
+      },
+      {
+       "fr": "Son tablier pendait encore derrière la porte de la cuisine, et l'horloge du couloir s'était arrêtée à quatre heures dix.",
+       "en": "Her apron was still hanging behind the kitchen door, and the clock in the hallway had stopped at ten past four."
+      },
+      {
+       "fr": "Antoine l'a remontée sans réfléchir, comme elle le lui demandait autrefois, et le tic-tac a rempli la maison.",
+       "en": "Antoine wound it up without thinking, as she used to ask him to, and the ticking filled the house.",
+       "ov": {
+        "1": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        },
+        "8": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "Pendant un instant, j'ai cru l'entendre nous appeler depuis la cuisine.",
+       "en": "For a moment, I thought I heard her calling us from the kitchen.",
+       "ov": {
+        "6": {
+         "p": "PRON",
+         "g": "her (object pronoun)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ce soir-là, nous avons mangé une soupe en boîte à la grande table, sous la lampe qui grésillait.",
+       "en": "That evening, we ate soup from a can at the big table, under the lamp that buzzed."
+      },
+      {
+       "fr": "Antoine parlait de l'agence immobilière, des diagnostics, du prix qu'on pourrait en tirer.",
+       "en": "Antoine talked about the estate agency, the inspections, the price we could get for it.",
+       "ov": {
+        "6": {
+         "l": "de",
+         "p": "PREP",
+         "m": "de + les"
+        },
+        "10": {
+         "p": "PRON",
+         "g": "that, which (relative pronoun)"
+        },
+        "13": {
+         "p": "PRON",
+         "g": "out of it"
+        }
+       }
+      },
+      {
+       "fr": "Moi, je regardais les marques de crayon sur le chambranle, là où elle mesurait notre taille chaque été.",
+       "en": "I was looking at the pencil marks on the door frame, where she used to measure our height every summer."
+      },
+      {
+       "fr": "Je suis restée silencieuse, mais je me demandais comment on pouvait vendre une maison où l'on avait grandi un peu chaque année.",
+       "en": "I stayed silent, but I wondered how you could sell a house where you had grown a little every year.",
+       "ov": {
+        "7": {
+         "l": "se demander",
+         "m": "imparfait (je)"
+        },
+        "15": {
+         "g": "(no meaning: added before on for sound)"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Les tiroirs",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Le samedi matin, nous avons commencé par le grenier, parce que c'était, selon Antoine, le plus facile.",
+       "en": "On Saturday morning, we started with the attic, because it was, according to Antoine, the easiest part."
+      },
+      {
+       "fr": "Il avait tort.",
+       "en": "He was wrong."
+      },
+      {
+       "fr": "Chaque carton contenait une époque entière : nos cahiers d'école, les robes de bal de sa jeunesse, des lettres nouées avec un ruban fané.",
+       "en": "Every box held a whole era: our school exercise books, the ball gowns of her youth, letters tied with a faded ribbon."
+      },
+      {
+       "fr": "Mon frère voulait aller vite ; moi, j'ouvrais chaque tiroir comme on ouvre une lettre.",
+       "en": "My brother wanted to go fast; I opened each drawer the way you open a letter."
+      },
+      {
+       "fr": "Nous avons tout trié en trois piles, à garder, à donner, à jeter, mais la pile à garder grandissait plus vite que les autres.",
+       "en": "We sorted everything into three piles, to keep, to give away, to throw out, but the pile to keep grew faster than the others."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Vers midi, nous nous sommes disputés pour la première fois.",
+       "en": "Around noon, we argued for the first time."
+      },
+      {
+       "fr": "L'objet du conflit était une vieille bassine en cuivre, celle où elle faisait ses confitures de myrtilles chaque mois d'août.",
+       "en": "The cause of the conflict was an old copper pan, the one she made her blueberry jam in every August."
+      },
+      {
+       "fr": "« Tu vas la mettre où, dans ton studio ? » m'a demandé Antoine, un peu sèchement.",
+       "en": "“Where are you going to put it, in your studio flat?” Antoine asked me, a little curtly.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "Je lui ai répondu qu'il ne s'agissait pas de place, mais de mémoire, et qu'il le savait très bien.",
+       "en": "I answered that it wasn't a question of space but of memory, and that he knew that very well.",
+       "ov": {
+        "8": {
+         "g": "not (a question) of"
+        },
+        "16": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "Il a soupiré, puis il a posé la bassine sur ma pile sans un mot.",
+       "en": "He sighed, then he put the pan on my pile without a word."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "L'après-midi, c'est lui qui s'est arrêté le plus longtemps devant un objet.",
+       "en": "In the afternoon, it was he who stopped the longest in front of an object."
+      },
+      {
+       "fr": "Dans le tiroir de la table de nuit, il avait trouvé le vieux couteau de notre grand-père, un couteau de berger au manche de corne.",
+       "en": "In the drawer of the bedside table, he had found our grandfather's old knife, a shepherd's knife with a horn handle.",
+       "ov": {
+        "20": {
+         "g": "handle (masculine here: le manche)"
+        }
+       }
+      },
+      {
+       "fr": "Il l'a fait tourner longtemps dans sa main, puis il m'a raconté que, petit, il avait été autorisé à s'en servir pour tailler des bâtons.",
+       "en": "He turned it over in his hand for a long time, then he told me that, as a little boy, he had been allowed to use it to whittle sticks.",
+       "ov": {
+        "1": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        },
+        "15": {
+         "g": "as a little boy"
+        },
+        "18": {
+         "l": "être",
+         "m": "past participle"
+        },
+        "22": {
+         "p": "PRON",
+         "g": "of it (se servir de = to use)"
+        }
+       }
+      },
+      {
+       "fr": "« Je croyais qu'elle l'avait jeté », a-t-il murmuré.",
+       "en": "“I thought she had thrown it away,” he murmured.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "Je me suis rendu compte que mon frère, si raisonnable, si pressé, avait lui aussi ses souvenirs cachés dans les tiroirs.",
+       "en": "I realised that my brother, so sensible, in such a hurry, also had his memories hidden in the drawers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Le carnet bleu",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Le dimanche, il ne restait plus que la cuisine.",
+       "en": "On Sunday, only the kitchen was left."
+      },
+      {
+       "fr": "J'avais gardé cette pièce pour la fin, sans doute parce que c'était là que notre grand-mère avait passé la plus grande partie de sa vie.",
+       "en": "I had kept this room for last, probably because that was where our grandmother had spent the greater part of her life."
+      },
+      {
+       "fr": "En vidant le buffet, j'ai trouvé, coincé derrière les pots de confiture vides, un carnet à la couverture bleue, gonflé par l'humidité.",
+       "en": "While emptying the dresser, I found, wedged behind the empty jam jars, a notebook with a blue cover, swollen by the damp."
+      },
+      {
+       "fr": "C'était son carnet de recettes.",
+       "en": "It was her recipe notebook."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Les pages étaient couvertes de son écriture penchée, tachées de beurre et de farine.",
+       "en": "The pages were covered in her slanting handwriting, stained with butter and flour."
+      },
+      {
+       "fr": "Il y avait la potée du dimanche, le pounti, la tarte aux myrtilles, et dans les marges, des remarques qui nous ont fait rire : « trop salé », « Antoine n'aime pas les oignons ».",
+       "en": "There was the Sunday potée, the pounti, the blueberry tart, and in the margins, notes that made us laugh: “too salty”, “Antoine doesn't like onions”."
+      },
+      {
+       "fr": "Chaque recette était liée à un souvenir précis, à un dimanche, à une odeur.",
+       "en": "Each recipe was linked to a particular memory, to a Sunday, to a smell."
+      },
+      {
+       "fr": "Mais c'est la dernière page qui nous a arrêtés.",
+       "en": "But it was the last page that stopped us."
+      },
+      {
+       "fr": "Elle avait été écrite récemment, d'une main plus tremblante, et elle nous était adressée.",
+       "en": "It had been written recently, in a shakier hand, and it was addressed to us.",
+       "ov": {
+        "2": {
+         "l": "être",
+         "m": "past participle"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Notre grand-mère écrivait qu'elle savait que nous vendrions la maison, et qu'elle ne nous en voudrait pas.",
+       "en": "Our grandmother wrote that she knew we would sell the house, and that she would not hold it against us."
+      },
+      {
+       "fr": "Les murs, disait-elle, ne gardent rien ; ce sont les gens qui gardent les choses, à condition de les partager.",
+       "en": "Walls, she said, keep nothing; it is people who keep things, as long as they share them.",
+       "ov": {
+        "15": {
+         "p": "PRON",
+         "g": "them (object pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "« Faites la tarte ensemble, et vous verrez que la maison vous suivra partout », avait-elle ajouté en bas de la page.",
+       "en": "“Make the tart together, and you will see that the house will follow you everywhere,” she had added at the bottom of the page."
+      },
+      {
+       "fr": "Antoine a retiré ses lunettes et il s'est essuyé les yeux avec la manche de son pull.",
+       "en": "Antoine took off his glasses and wiped his eyes with the sleeve of his sweater."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Nous n'avons pas discuté longtemps.",
+       "en": "We did not discuss it for long."
+      },
+      {
+       "fr": "La maison serait vendue, puisqu'aucun de nous deux ne pouvait y vivre, mais nous avons décidé de la vendre autrement.",
+       "en": "The house would be sold, since neither of us could live in it, but we decided to sell it differently.",
+       "ov": {
+        "18": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "Antoine a téléphoné à la voisine, Madame Brun, dont le petit-fils cherchait justement une maison au village pour s'y installer avec sa famille.",
+       "en": "Antoine phoned the neighbour, Madame Brun, whose grandson happened to be looking for a house in the village to settle there with his family."
+      },
+      {
+       "fr": "L'idée qu'un enfant mesurerait peut-être un jour sa taille sur le même chambranle m'a semblé, tout à coup, beaucoup moins triste.",
+       "en": "The idea that a child might one day measure his height on the same door frame suddenly seemed much less sad to me."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le soir, nous avons trouvé dans le congélateur un sachet de myrtilles qu'elle avait cueillies en août, et nous avons suivi la recette à la lettre.",
+       "en": "In the evening, we found in the freezer a bag of blueberries she had picked in August, and we followed the recipe to the letter.",
+       "ov": {
+        "12": {
+         "p": "PRON",
+         "g": "that, which (relative pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "La pâte était trop épaisse, le four trop chaud, et Antoine a renversé du sucre partout.",
+       "en": "The pastry was too thick, the oven too hot, and Antoine spilled sugar everywhere."
+      },
+      {
+       "fr": "Mais quand l'odeur de la tarte a envahi la cuisine, la maison a semblé respirer de nouveau.",
+       "en": "But when the smell of the tart filled the kitchen, the house seemed to breathe again."
+      },
+      {
+       "fr": "Nous l'avons mangée tous les deux, debout près de la fenêtre, pendant que l'horloge continuait son tic-tac dans le couloir.",
+       "en": "The two of us ate it standing by the window, while the clock kept up its ticking in the hallway.",
+       "ov": {
+        "1": {
+         "p": "PRON",
+         "g": "it (object pronoun)"
+        }
+       }
+      },
+      {
+       "fr": "Le lendemain, en fermant les volets pour la dernière fois, j'ai glissé le carnet bleu dans mon sac.",
+       "en": "The next day, closing the shutters for the last time, I slipped the blue notebook into my bag."
+      },
+      {
+       "fr": "J'ai compris alors qu'on n'emporte pas une maison avec soi ; on emporte ce qu'elle nous a appris, et c'est bien assez.",
+       "en": "I understood then that you don't take a house with you; you take what it taught you, and that is quite enough.",
+       "ov": {
+        "16": {
+         "p": "PRON",
+         "g": "what (ce que = what)"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

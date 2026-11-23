@@ -7,7 +7,7 @@ from pathlib import Path
 
 DOCS = Path(__file__).resolve().parent.parent / "docs"
 SHELL_GZ_BUDGET = 100 * 1024
-STORY_BUDGET = 60 * 1024
+STORY_BUDGET = 40 * 1024  # gzipped: what GitHub Pages actually sends
 LIBRARY_BUDGET = 3 * 1024 * 1024
 
 
@@ -24,14 +24,16 @@ def main():
         problems.append("app shell over budget")
     total = 0
     for p in sorted((DOCS / "data" / "stories").glob("*.json")):
-        size = p.stat().st_size
-        total += size
+        total += p.stat().st_size
+        size = gz(p)
         if size > STORY_BUDGET:
-            problems.append(f"{p.name}: {size / 1024:.1f} KB > {STORY_BUDGET // 1024} KB")
+            problems.append(f"{p.name}: {size / 1024:.1f} KB gzipped > {STORY_BUDGET // 1024} KB")
     for p in (DOCS / "data").glob("*.json"):
         total += p.stat().st_size
     icons = sum(p.stat().st_size for p in (DOCS / "icons").glob("*.png"))
-    total += icons
+    imgs = sum(p.stat().st_size for p in (DOCS / "img").glob("*.svg")) if (DOCS / "img").exists() else 0
+    total += icons + imgs
+    print(f"story pictures: {imgs / 1024:.1f} KB")
     print(f"library + data + icons: {total / 1024:.1f} KB (budget {LIBRARY_BUDGET // 1024} KB)")
     if total > LIBRARY_BUDGET:
         problems.append("library over budget")

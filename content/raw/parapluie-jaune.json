@@ -14,32 +14,59 @@
     {
       "title": "",
       "paragraphs": [
-        {"sentences": [
+        {"pic": {"id": "pj-rain", "alt": "On a rainy day in Lyon, tired Thomas walks under his yellow umbrella, dreaming of his bed."}, "sentences": [
           {"fr": "Hier, il pleuvait beaucoup à Lyon.", "en": "Yesterday, it was raining a lot in Lyon."},
+          {"fr": "La pluie tombait sur la ville.", "en": "The rain was falling on the city."},
+          {"fr": "Les gens couraient sous la pluie.", "en": "People were running in the rain."},
           {"fr": "Thomas marchait vers la gare avec un parapluie jaune.", "en": "Thomas was walking toward the station with a yellow umbrella."},
-          {"fr": "Il était fatigué et il pensait à son lit.", "en": "He was tired and he was thinking about his bed."}
+          {"fr": "Son parapluie était grand et solide.", "en": "His umbrella was big and sturdy."},
+          {"fr": "Il travaillait beaucoup cette semaine.", "en": "He had been working a lot this week."},
+          {"fr": "Il était fatigué et il pensait à son lit.", "en": "He was tired and he was thinking about his bed."},
+          {"fr": "Il voulait rentrer chez lui.", "en": "He wanted to go home."}
         ]},
-        {"sentences": [
+        {"pic": {"id": "pj-bus", "alt": "On the bus, Thomas gives his umbrella to a cold old lady."}, "sentences": [
           {"fr": "Dans le bus, il a vu une vieille dame.", "en": "On the bus, he saw an old lady."},
           {"fr": "Elle n'avait pas de parapluie et elle avait froid.", "en": "She didn't have an umbrella and she was cold."},
+          {"fr": "Elle était aussi très fatiguée.", "en": "She was also very tired."},
+          {"fr": "Le bus était plein de gens mouillés.", "en": "The bus was full of wet people."},
+          {"fr": "Elle regardait la pluie par la fenêtre.", "en": "She was watching the rain through the window."},
+          {"fr": "Thomas était assis près de la porte.", "en": "Thomas was sitting near the door."},
           {"fr": "Thomas a hésité un moment.", "en": "Thomas hesitated for a moment."},
+          {"fr": "Il a pensé : « Je peux donner mon parapluie. »", "en": "He thought: “I can give my umbrella.”"},
           {"fr": "Puis il a souri et il a donné son parapluie à la dame.", "en": "Then he smiled and gave his umbrella to the lady."}
         ]},
-        {"sentences": [
+        {"pic": {"id": "pj-run", "alt": "Thomas runs through the rain to the station, wet but happy."}, "sentences": [
           {"fr": "« Merci, jeune homme ! » a dit la dame.", "en": "“Thank you, young man!” said the lady.",
            "ov": {"4": {"m": "past participle"}}},
+          {"fr": "Elle a aussi dit : « Je vais vous rendre votre parapluie demain ! »", "en": "She also said: “I am going to give you your umbrella back tomorrow!”"},
           {"fr": "Thomas est descendu du bus sous la pluie.", "en": "Thomas got off the bus in the rain."},
+          {"fr": "Les voitures roulaient lentement dans la rue.", "en": "The cars were driving slowly down the street."},
           {"fr": "Il a couru jusqu'à la gare.", "en": "He ran all the way to the station."},
-          {"fr": "Il était mouillé, mais il était content.", "en": "He was wet, but he was happy."}
+          {"fr": "Il était mouillé, mais il était content.", "en": "He was wet, but he was happy."},
+          {"fr": "Dans la gare, il a attendu son train avec un grand sourire.", "en": "In the station, he waited for his train with a big smile.",
+           "ov": {"11": {"p": "NOUN", "g": "smile"}}},
+          {"fr": "Il pensait à la dame et il se sentait bien.", "en": "He was thinking about the lady and he felt good.",
+           "ov": {"8": {"g": "felt (se sentir = to feel)"}}}
         ]},
-        {"sentences": [
+        {"pic": {"id": "pj-cake", "alt": "The next day, the lady gives back the umbrella and a chocolate cake."}, "sentences": [
           {"fr": "Le lendemain, la dame l'attendait à l'arrêt de bus.", "en": "The next day, the lady was waiting for him at the bus stop.",
            "ov": {"3": {"p": "PRON", "g": "him", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "Dehors, il pleuvait encore.", "en": "Outside, it was still raining."},
+          {"fr": "Elle était contente de voir Thomas.", "en": "She was happy to see Thomas."},
+          {"fr": "Elle avait un grand sourire.", "en": "She had a big smile.",
+           "ov": {"4": {"p": "NOUN", "g": "smile"}}},
           {"fr": "Elle a rendu le parapluie à Thomas.", "en": "She gave the umbrella back to Thomas."},
+          {"fr": "Elle a dit : « Je voulais vous rendre votre parapluie. »", "en": "She said: “I wanted to give you your umbrella back.”"},
           {"fr": "Elle avait aussi un gâteau au chocolat pour lui.", "en": "She also had a chocolate cake for him.",
            "ov": {"5": {"g": "with (gâteau au chocolat = chocolate cake)"}}},
+          {"fr": "Elle a dit : « Je voulais vous donner quelque chose. »", "en": "She said: “I wanted to give you something.”"},
+          {"fr": "Le gâteau était encore chaud et il sentait très bon.", "en": "The cake was still warm and it smelled very good."},
+          {"fr": "Thomas était très surpris.", "en": "Thomas was very surprised."},
+          {"fr": "Il ne savait pas quoi dire.", "en": "He didn't know what to say."},
           {"fr": "Thomas a rougi et il a dit merci.", "en": "Thomas blushed and said thank you.",
-           "ov": {"6": {"m": "past participle"}}}
+           "ov": {"6": {"m": "past participle"}}},
+          {"fr": "Ce soir-là, il a mangé le gâteau chez lui.", "en": "That evening, he ate the cake at home."},
+          {"fr": "Il était fatigué, mais il était très content.", "en": "He was tired, but he was very happy."}
         ]}
       ]
     }

@@ -1,0 +1,269 @@
+{
+ "id": "changer-de-vie",
+ "series_id": null,
+ "episode": null,
+ "title": "Changer de vie",
+ "title_en": "Changing your life",
+ "level": "B1",
+ "summary_en": "Camille, a graphic designer in Paris, dreams of opening a small bookshop in a village. She weighs the risks, talks to her sister and visits the place before making her decision.",
+ "tags": [
+  "dreams",
+  "work",
+  "village",
+  "books"
+ ],
+ "key_vocab": [
+  "librairie",
+  "village",
+  "livre",
+  "peur",
+  "sœur",
+  "quitter",
+  "premier",
+  "boutique",
+  "client",
+  "soir"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Camille a trente-deux ans et elle travaille comme graphiste dans une agence à Paris.",
+       "en": "Camille is thirty-two and works as a graphic designer at an agency in Paris."
+      },
+      {
+       "fr": "Elle aime son métier, mais depuis un an, elle rêve d'autre chose.",
+       "en": "She likes her job, but for a year now she has been dreaming of something else."
+      },
+      {
+       "fr": "Chaque soir, dans le métro bondé, elle ferme les yeux et elle imagine une petite librairie dans un village.",
+       "en": "Every evening, in the packed metro, she closes her eyes and imagines a small bookshop in a village."
+      },
+      {
+       "fr": "Elle y voit des livres du sol au plafond, un vieux fauteuil et un chat qui dort près de la porte.",
+       "en": "She sees books from floor to ceiling, an old armchair and a cat sleeping near the door."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le week-end, elle regarde des annonces sur son ordinateur.",
+       "en": "At the weekend, she looks at ads on her computer."
+      },
+      {
+       "fr": "Un matin, elle en trouve une qui lui plaît : une boutique à louer à Saint-Aubin, un petit village du sud-ouest.",
+       "en": "One morning, she finds one she likes: a shop to rent in Saint-Aubin, a small village in the south-west.",
+       "ov": {
+        "3": {
+         "p": "PRON",
+         "g": "of them (en + une = one of them)"
+        }
+       }
+      },
+      {
+       "fr": "« Ce serait fou, pense-t-elle. Je n'ai pas assez d'argent, et je ne connais personne là-bas. »",
+       "en": "\"That would be crazy,\" she thinks. \"I don't have enough money, and I don't know anyone there.\""
+      },
+      {
+       "fr": "Mais l'idée ne la quitte plus.",
+       "en": "But the idea won't leave her alone.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "her",
+         "m": "object pronoun"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Alors elle prend une feuille et elle trace deux colonnes.",
+       "en": "So she takes a sheet of paper and draws two columns."
+      },
+      {
+       "fr": "Dans la première, elle écrit : « Vivre au calme. Choisir mes journées. Parler de livres toute la journée. »",
+       "en": "In the first one, she writes: \"Live in peace. Choose my own days. Talk about books all day long.\""
+      },
+      {
+       "fr": "Dans l'autre, elle écrit : « Gagner moins. Quitter mes amis. Échouer. »",
+       "en": "In the other, she writes: \"Earn less. Leave my friends. Fail.\""
+      },
+      {
+       "fr": "La deuxième colonne est plus longue, et cela l'inquiète beaucoup.",
+       "en": "The second column is longer, and that worries her a lot."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Dimanche, Camille téléphone à sa sœur Hélène, qui habite à Lyon.",
+       "en": "On Sunday, Camille phones her sister Hélène, who lives in Lyon."
+      },
+      {
+       "fr": "« Tu es sûre ? demande Hélène. Il faut que tu réfléchisses bien avant de quitter un métier stable. »",
+       "en": "\"Are you sure?\" asks Hélène. \"You have to think carefully before leaving a stable job.\""
+      },
+      {
+       "fr": "« Je sais, répond Camille. Mais si je ne le fais pas maintenant, je le regretterai toute ma vie. »",
+       "en": "\"I know,\" Camille answers. \"But if I don't do it now, I will regret it all my life.\"",
+       "ov": {
+        "8": {
+         "p": "PRON",
+         "g": "it",
+         "m": "object pronoun"
+        },
+        "13": {
+         "p": "PRON",
+         "g": "it",
+         "m": "object pronoun"
+        }
+       }
+      },
+      {
+       "fr": "Hélène rit doucement.",
+       "en": "Hélène laughs gently."
+      },
+      {
+       "fr": "« Alors il faut que tu ailles voir ce village. Je viendrai avec toi, si tu veux. »",
+       "en": "\"Then you have to go and see that village. I'll come with you, if you like.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Deux semaines plus tard, les deux sœurs prennent le train, puis un petit car, jusqu'à Saint-Aubin.",
+       "en": "Two weeks later, the two sisters take the train, then a small coach, all the way to Saint-Aubin."
+      },
+      {
+       "fr": "Le village est minuscule : une place avec une fontaine, une boulangerie, une église et des maisons en pierre.",
+       "en": "The village is tiny: a square with a fountain, a bakery, a church and stone houses.",
+       "ov": {
+        "16": {
+         "g": "made of",
+         "p": "PREP"
+        }
+       }
+      },
+      {
+       "fr": "Il n'y a pas de librairie, pas même un kiosque à journaux.",
+       "en": "There is no bookshop, not even a newspaper kiosk."
+      },
+      {
+       "fr": "« Voilà ton premier client », dit Hélène en montrant un vieil homme assis sur un banc.",
+       "en": "\"There's your first customer,\" says Hélène, pointing at an old man sitting on a bench."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La boutique à louer se trouve près de la place.",
+       "en": "The shop for rent is near the square."
+      },
+      {
+       "fr": "Elle est petite et un peu sombre, mais elle a de grandes fenêtres et un beau plancher en bois.",
+       "en": "It is small and a little dark, but it has big windows and a lovely wooden floor.",
+       "ov": {
+        "17": {
+         "g": "made of",
+         "p": "PREP"
+        }
+       }
+      },
+      {
+       "fr": "Camille imagine déjà, dans cette boutique, les étagères, les lampes et une table pour les enfants.",
+       "en": "Camille is already picturing, in this shop, the shelves, the lamps and a table for children."
+      },
+      {
+       "fr": "La propriétaire, une dame souriante, lui explique que les gens du village adoreraient avoir une librairie.",
+       "en": "The owner, a smiling lady, explains to her that the villagers would love to have a bookshop."
+      },
+      {
+       "fr": "« Ici, il faut que nous prenions la voiture pour acheter un livre ! » dit-elle.",
+       "en": "\"Here, we have to take the car to buy a book!\" she says."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le soir, dans le train du retour, Camille ne dit presque rien.",
+       "en": "In the evening, on the train home, Camille hardly says anything."
+      },
+      {
+       "fr": "Elle regarde la nuit par la fenêtre.",
+       "en": "She watches the night through the window."
+      },
+      {
+       "fr": "Elle dit enfin : « Si j'ouvre la librairie, j'aurai peur tous les jours. »",
+       "en": "Finally she says: \"If I open the bookshop, I will be afraid every day.\""
+      },
+      {
+       "fr": "« Mais si je reste, j'aurai peur de ne jamais essayer. »",
+       "en": "\"But if I stay, I will be afraid of never trying.\""
+      },
+      {
+       "fr": "Sa sœur lui prend la main.",
+       "en": "Her sister takes her hand."
+      },
+      {
+       "fr": "« Tu as déjà ta réponse, non ? »",
+       "en": "\"You already have your answer, don't you?\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La semaine suivante, Camille annonce à son chef qu'elle partira en juin.",
+       "en": "The following week, Camille tells her boss that she will leave in June."
+      },
+      {
+       "fr": "Il est surpris, mais il lui souhaite bonne chance.",
+       "en": "He is surprised, but he wishes her good luck."
+      },
+      {
+       "fr": "Elle calcule son budget et elle demande un prêt à la banque.",
+       "en": "She works out her budget and asks the bank for a loan."
+      },
+      {
+       "fr": "Elle garde aussi quelques clients, pour qui elle dessinera des affiches à distance.",
+       "en": "She also keeps a few clients, for whom she will design posters remotely."
+      },
+      {
+       "fr": "Elle dessine elle-même le logo de la librairie : un chat assis sur une pile de livres.",
+       "en": "She designs the bookshop's logo herself: a cat sitting on a pile of books."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Camille a encore un peu peur et elle ne sait pas si elle réussira, mais ce soir, dans le métro, elle sourit enfin.",
+       "en": "Camille is still a little afraid and doesn't know whether she will succeed, but tonight, on the metro, she is finally smiling."
+      },
+      {
+       "fr": "Dans quelques mois, elle ouvrira la porte de sa librairie, et une petite cloche sonnera pour la première fois.",
+       "en": "In a few months, she will open the door of her bookshop, and a little bell will ring for the first time."
+      },
+      {
+       "fr": "Elle fermera les yeux une seconde, puis elle dira bonjour à son premier client.",
+       "en": "She will close her eyes for a second, then say hello to her first customer."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

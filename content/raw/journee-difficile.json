@@ -1,0 +1,263 @@
+{
+ "id": "journee-difficile",
+ "series_id": null,
+ "episode": null,
+ "title": "Une journée difficile",
+ "title_en": "A difficult day",
+ "level": "A2",
+ "summary_en": "Antoine's Monday goes wrong from the very first minute: no alarm, a missed bus, rain and a forgotten wallet. Will anything go right?",
+ "tags": [
+  "humor",
+  "work",
+  "city"
+ ],
+ "key_vocab": [
+  "réveil",
+  "bus",
+  "pluie",
+  "café",
+  "billet",
+  "portefeuille",
+  "journée",
+  "chemise",
+  "réunion",
+  "femme"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Lundi matin, le réveil n'a pas sonné.",
+       "en": "Monday morning, the alarm clock did not ring."
+      },
+      {
+       "fr": "Antoine s'est réveillé à huit heures vingt.",
+       "en": "Antoine woke up at eight twenty."
+      },
+      {
+       "fr": "Il avait une réunion importante à neuf heures.",
+       "en": "He had an important meeting at nine o'clock."
+      },
+      {
+       "fr": "Il a regardé le réveil : il était cassé !",
+       "en": "He looked at the alarm clock: it was broken!"
+      },
+      {
+       "fr": "« Oh non ! » a crié Antoine.",
+       "en": "“Oh no!” shouted Antoine."
+      },
+      {
+       "fr": "Il s'est habillé en trois minutes et il est sorti de la maison.",
+       "en": "He got dressed in three minutes and left the house."
+      },
+      {
+       "fr": "Sa journée commençait très mal.",
+       "en": "His day was starting very badly."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Au coin de la rue, il a vu son bus partir.",
+       "en": "At the corner of the street, he saw his bus leave."
+      },
+      {
+       "fr": "Antoine a couru, mais le bus est parti sans lui.",
+       "en": "Antoine ran, but the bus left without him."
+      },
+      {
+       "fr": "Il a attendu le prochain bus pendant dix minutes.",
+       "en": "He waited for the next bus for ten minutes."
+      },
+      {
+       "fr": "Alors la pluie a commencé à tomber.",
+       "en": "Then the rain started to fall."
+      },
+      {
+       "fr": "La pluie était forte.",
+       "en": "The rain was heavy."
+      },
+      {
+       "fr": "Antoine n'avait pas de parapluie.",
+       "en": "Antoine did not have an umbrella."
+      },
+      {
+       "fr": "Il était mouillé et il avait froid.",
+       "en": "He was wet and he was cold."
+      },
+      {
+       "fr": "« Quelle journée ! » a pensé Antoine.",
+       "en": "“What a day!” thought Antoine."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Enfin, un autre bus est arrivé.",
+       "en": "At last, another bus arrived."
+      },
+      {
+       "fr": "Antoine a voulu acheter un billet.",
+       "en": "Antoine wanted to buy a ticket."
+      },
+      {
+       "fr": "Il a cherché son portefeuille dans son sac.",
+       "en": "He looked for his wallet in his bag."
+      },
+      {
+       "fr": "Il n'était pas là !",
+       "en": "It was not there!"
+      },
+      {
+       "fr": "Antoine a oublié son portefeuille sur la table de la cuisine.",
+       "en": "Antoine forgot his wallet on the kitchen table."
+      },
+      {
+       "fr": "Sans portefeuille, il n'avait pas d'argent pour le billet.",
+       "en": "Without a wallet, he had no money for the ticket."
+      },
+      {
+       "fr": "Le chauffeur a regardé Antoine sans sourire.",
+       "en": "The driver looked at Antoine without smiling."
+      },
+      {
+       "fr": "Antoine est devenu tout rouge.",
+       "en": "Antoine turned all red."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Une jeune femme a souri.",
+       "en": "A young woman smiled."
+      },
+      {
+       "fr": "« Je vais payer votre billet », a dit la jeune femme.",
+       "en": "“I am going to pay for your ticket,” said the young woman.",
+       "ov": {
+        "6": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "« Merci, madame ! Vous êtes très gentille ! » a dit Antoine.",
+       "en": "“Thank you, madam! You are very kind!” said Antoine.",
+       "ov": {
+        "7": {
+         "m": "past participle"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "À neuf heures dix, Antoine est entré dans le bureau.",
+       "en": "At ten past nine, Antoine walked into the office."
+      },
+      {
+       "fr": "Il était en retard, mouillé et fatigué.",
+       "en": "He was late, wet and tired."
+      },
+      {
+       "fr": "Il a pris un café à la machine.",
+       "en": "He got a coffee from the machine."
+      },
+      {
+       "fr": "Son collègue Paul l'a appelé.",
+       "en": "His colleague Paul called him.",
+       "ov": {
+        "3": {
+         "p": "PRON",
+         "g": "him",
+         "m": "object pronoun (before a vowel)"
+        }
+       }
+      },
+      {
+       "fr": "Antoine s'est retourné trop vite.",
+       "en": "Antoine turned around too fast."
+      },
+      {
+       "fr": "Il a renversé son café sur sa chemise blanche.",
+       "en": "He spilled his coffee on his white shirt."
+      },
+      {
+       "fr": "« Oh non, pas ma chemise ! » a dit Antoine.",
+       "en": "“Oh no, not my shirt!” said Antoine.",
+       "ov": {
+        "6": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "Tout le monde a ri, et Antoine aussi.",
+       "en": "Everyone laughed, and Antoine too."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Heureusement, la réunion n'a pas commencé.",
+       "en": "Luckily, the meeting did not start."
+      },
+      {
+       "fr": "Le patron était en retard, lui aussi, à cause de la pluie.",
+       "en": "The boss was late too, because of the rain."
+      },
+      {
+       "fr": "La jeune femme du bus est entrée dans la salle de réunion.",
+       "en": "The young woman from the bus came into the meeting room."
+      },
+      {
+       "fr": "C'était la nouvelle collègue !",
+       "en": "She was the new colleague!"
+      },
+      {
+       "fr": "Elle a regardé la chemise d'Antoine et elle a souri.",
+       "en": "She looked at Antoine's shirt and smiled."
+      },
+      {
+       "fr": "« Je m'appelle Camille. Je vais vous offrir un autre café », a dit Camille.",
+       "en": "“My name is Camille. I am going to buy you another coffee,” said Camille.",
+       "ov": {
+        "12": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "Antoine a ri.",
+       "en": "Antoine laughed."
+      },
+      {
+       "fr": "« Demain, je vais acheter un nouveau réveil ! » a dit Antoine.",
+       "en": "“Tomorrow, I am going to buy a new alarm clock!” said Antoine.",
+       "ov": {
+        "8": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "C'était une journée difficile, mais elle finissait bien.",
+       "en": "It was a difficult day, but it was ending well."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

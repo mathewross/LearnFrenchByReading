@@ -1,0 +1,229 @@
+{
+ "id": "vieux-velo",
+ "series_id": null,
+ "episode": null,
+ "title": "Le vieux vélo",
+ "title_en": "The old bicycle",
+ "level": "A2",
+ "summary_en": "Théo finds his grandfather's old bicycle in the garage. Together they clean it, repair it, and get ready for a first ride.",
+ "tags": [
+  "family",
+  "bicycle",
+  "memories"
+ ],
+ "key_vocab": [
+  "vélo",
+  "grand-père",
+  "garage",
+  "jeune",
+  "rouler",
+  "réparer",
+  "pneu",
+  "rivière",
+  "vieux",
+  "selle"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Théo était un jeune garçon curieux.",
+       "en": "Théo was a curious young boy."
+      },
+      {
+       "fr": "Un samedi, il jouait dans le garage de son grand-père.",
+       "en": "One Saturday, he was playing in his grandfather's garage."
+      },
+      {
+       "fr": "Soudain, il a vu quelque chose sous un grand drap.",
+       "en": "Suddenly, he saw something under a big sheet."
+      },
+      {
+       "fr": "Il a tiré le drap.",
+       "en": "He pulled off the sheet."
+      },
+      {
+       "fr": "C'était un vieux vélo bleu !",
+       "en": "It was an old blue bicycle!"
+      },
+      {
+       "fr": "Il était sale et les pneus étaient plats.",
+       "en": "It was dirty and the tyres were flat."
+      },
+      {
+       "fr": "« Papi, viens voir ! » a crié Théo.",
+       "en": "\"Grandpa, come and see!\" shouted Théo."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Son grand-père est arrivé et il a regardé le vélo.",
+       "en": "His grandfather came and looked at the bike."
+      },
+      {
+       "fr": "Il a souri, et ses yeux brillaient.",
+       "en": "He smiled, and his eyes were shining."
+      },
+      {
+       "fr": "« C'est mon premier vélo », a-t-il dit.",
+       "en": "\"It's my first bike,\" he said."
+      },
+      {
+       "fr": "« Quand j'étais jeune, je roulais tous les jours avec lui. »",
+       "en": "\"When I was young, I rode it every day.\""
+      },
+      {
+       "fr": "« J'allais à l'école avec ce vélo. »",
+       "en": "\"I went to school on this bike.\""
+      },
+      {
+       "fr": "« J'étais très heureux avec lui. »",
+       "en": "\"I was very happy with it.\""
+      },
+      {
+       "fr": "« Le dimanche, mes amis et moi, nous allions à la rivière. »",
+       "en": "\"On Sundays, my friends and I would go to the river.\""
+      },
+      {
+       "fr": "« Il y avait un long chemin au bord de la rivière. »",
+       "en": "\"There was a long path along the river.\""
+      },
+      {
+       "fr": "« Nous roulions très vite ! »",
+       "en": "\"We rode very fast!\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« On peut le réparer, Papi ? » a demandé Théo.",
+       "en": "\"Can we repair it, Grandpa?\" asked Théo."
+      },
+      {
+       "fr": "Son grand-père a réfléchi un moment.",
+       "en": "His grandfather thought for a moment."
+      },
+      {
+       "fr": "« Oui, on va le réparer ensemble », a-t-il répondu.",
+       "en": "\"Yes, we are going to repair it together,\" he answered."
+      },
+      {
+       "fr": "Ils ont sorti le vélo du garage, devant la maison.",
+       "en": "They took the bike out of the garage, in front of the house."
+      },
+      {
+       "fr": "Ils ont travaillé longtemps.",
+       "en": "They worked for a long time."
+      },
+      {
+       "fr": "Ils ont pris un seau d'eau et des chiffons.",
+       "en": "They took a bucket of water and some cloths."
+      },
+      {
+       "fr": "Théo a lavé le vélo et il a frotté très fort.",
+       "en": "Théo washed the bike and scrubbed very hard."
+      },
+      {
+       "fr": "Peu à peu, le vélo est redevenu bleu.",
+       "en": "Little by little, the bike became blue again."
+      },
+      {
+       "fr": "Son grand-père a mis de l'huile sur la chaîne.",
+       "en": "His grandfather put oil on the chain."
+      },
+      {
+       "fr": "Il a aussi gonflé les pneus avec une pompe.",
+       "en": "He also pumped up the tyres with a pump."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Après deux heures, le vélo était réparé et prêt.",
+       "en": "After two hours, the bike was repaired and ready."
+      },
+      {
+       "fr": "Les pneus tournaient très bien.",
+       "en": "The tyres turned very well."
+      },
+      {
+       "fr": "Le grand-père a baissé la selle pour Théo.",
+       "en": "The grandfather lowered the seat for Théo."
+      },
+      {
+       "fr": "Théo a mis son casque et il est monté sur le vélo.",
+       "en": "Théo put on his helmet and climbed onto the bike."
+      },
+      {
+       "fr": "Au début, il était un peu nerveux.",
+       "en": "At first, he was a little nervous."
+      },
+      {
+       "fr": "Son grand-père tenait la selle derrière lui.",
+       "en": "His grandfather was holding the seat behind him."
+      },
+      {
+       "fr": "Puis il a lâché la selle.",
+       "en": "Then he let go of the seat."
+      },
+      {
+       "fr": "Théo a pédalé dans la rue.",
+       "en": "Théo pedalled down the street."
+      },
+      {
+       "fr": "« Regarde, Papi, je roule ! » a-t-il crié.",
+       "en": "\"Look, Grandpa, I'm riding!\" he shouted."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Son grand-père riait et il applaudissait.",
+       "en": "His grandfather was laughing and clapping."
+      },
+      {
+       "fr": "« Le vélo et moi, nous sommes vieux, mais nous roulons encore ! »",
+       "en": "\"The bike and I, we are old, but we are still riding!\""
+      },
+      {
+       "fr": "« Tu roules comme moi, quand j'étais jeune ! » a-t-il dit.",
+       "en": "\"You ride like I did when I was young!\" he said."
+      },
+      {
+       "fr": "Théo est revenu, tout content.",
+       "en": "Théo came back, all happy.",
+       "ov": {
+        "4": {
+         "g": "all, completely",
+         "p": "ADV"
+        }
+       }
+      },
+      {
+       "fr": "« Demain, on va aller à la rivière ? » a-t-il demandé.",
+       "en": "\"Tomorrow, are we going to go to the river?\" he asked."
+      },
+      {
+       "fr": "« Oui, nous allons rouler ensemble, comme avant », a dit son grand-père.",
+       "en": "\"Yes, we are going to ride together, like before,\" said his grandfather."
+      },
+      {
+       "fr": "Le vieux vélo était propre, et il attendait déjà demain dans le garage.",
+       "en": "The old bike was clean, and it was already waiting for tomorrow in the garage."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

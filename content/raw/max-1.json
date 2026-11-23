@@ -1,0 +1,210 @@
+{
+ "id": "max-1",
+ "series_id": "max-chat",
+ "episode": 1,
+ "title": "Max le chat",
+ "title_en": "Max the cat",
+ "level": "A1",
+ "summary_en": "Max is a grey cat with green eyes who lives with Emma. One sunny morning he sees a little bird from the window and has a big plan.",
+ "tags": [
+  "animals",
+  "home",
+  "humour"
+ ],
+ "key_vocab": [
+  "chat",
+  "oiseau",
+  "fenêtre",
+  "regarder",
+  "manger",
+  "vouloir",
+  "avoir faim",
+  "petit",
+  "grand",
+  "dormir",
+  "aimer",
+  "arbre"
+ ],
+ "cover": "max-1-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Max est un chat gris.",
+       "en": "Max is a grey cat."
+      },
+      {
+       "fr": "Il a de grands yeux verts.",
+       "en": "He has big green eyes."
+      },
+      {
+       "fr": "Il habite avec Emma dans un petit appartement.",
+       "en": "He lives with Emma in a small flat."
+      },
+      {
+       "fr": "Emma est une jeune fille.",
+       "en": "Emma is a young girl."
+      },
+      {
+       "fr": "Elle aime beaucoup son chat.",
+       "en": "She loves her cat very much."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le matin, Max a faim.",
+       "en": "In the morning, Max is hungry."
+      },
+      {
+       "fr": "Il va dans la cuisine.",
+       "en": "He goes into the kitchen."
+      },
+      {
+       "fr": "Il dit : « Miaou, miaou ! »",
+       "en": "He says: “Meow, meow!”"
+      },
+      {
+       "fr": "Emma ouvre une boîte de poisson.",
+       "en": "Emma opens a can of fish."
+      },
+      {
+       "fr": "Le chat mange le poisson très vite.",
+       "en": "The cat eats the fish very fast."
+      },
+      {
+       "fr": "Emma a faim aussi.",
+       "en": "Emma is hungry too."
+      },
+      {
+       "fr": "Emma mange du pain et boit du thé.",
+       "en": "Emma eats some bread and drinks some tea."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Après, Max saute sur la table.",
+       "en": "Afterwards, Max jumps onto the table."
+      },
+      {
+       "fr": "Max aime la fenêtre.",
+       "en": "Max likes the window."
+      },
+      {
+       "fr": "Il regarde par la fenêtre.",
+       "en": "He looks out of the window."
+      },
+      {
+       "fr": "Dehors, il fait beau.",
+       "en": "Outside, the weather is nice."
+      },
+      {
+       "fr": "Le chat voit un grand arbre.",
+       "en": "The cat sees a big tree."
+      },
+      {
+       "fr": "Dans l'arbre, il y a un oiseau.",
+       "en": "In the tree, there is a bird."
+      },
+      {
+       "fr": "L'oiseau est petit et bleu.",
+       "en": "The bird is small and blue."
+      },
+      {
+       "fr": "Max regarde l'oiseau et l'oiseau regarde Max.",
+       "en": "Max looks at the bird and the bird looks at Max."
+      }
+     ],
+     "pic": {
+      "id": "max-1-1",
+      "alt": "Max the grey cat watches a little blue bird in the tree outside the window."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Max veut attraper l'oiseau.",
+       "en": "Max wants to catch the bird."
+      },
+      {
+       "fr": "Il pense : « Je veux jouer avec l'oiseau ! »",
+       "en": "He thinks: “I want to play with the bird!”"
+      },
+      {
+       "fr": "Max saute vers la grande fenêtre.",
+       "en": "Max jumps toward the big window."
+      },
+      {
+       "fr": "Mais la fenêtre est fermée !",
+       "en": "But the window is closed!"
+      },
+      {
+       "fr": "Max tombe dans son bol d'eau.",
+       "en": "Max falls into his bowl of water."
+      },
+      {
+       "fr": "Le chat est tout mouillé !",
+       "en": "The cat is all wet!"
+      },
+      {
+       "fr": "Emma rit et dit : « Pauvre Max ! »",
+       "en": "Emma laughs and says: “Poor Max!”"
+      },
+      {
+       "fr": "Dehors, l'oiseau chante dans l'arbre, très content.",
+       "en": "Outside, the bird sings in the tree, very happy."
+      }
+     ],
+     "pic": {
+      "id": "max-1-2",
+      "alt": "Max has fallen into his water bowl and Emma laughs while the bird sings outside."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Max n'est pas content.",
+       "en": "Max is not happy."
+      },
+      {
+       "fr": "Emma prend le chat dans ses bras.",
+       "en": "Emma takes the cat in her arms."
+      },
+      {
+       "fr": "Maintenant, Max a faim.",
+       "en": "Now, Max is hungry."
+      },
+      {
+       "fr": "Emma donne un petit poisson à Max.",
+       "en": "Emma gives a little fish to Max."
+      },
+      {
+       "fr": "Max mange et il veut dormir.",
+       "en": "Max eats and he wants to sleep."
+      },
+      {
+       "fr": "Il dort sur le lit d'Emma.",
+       "en": "He sleeps on Emma's bed."
+      },
+      {
+       "fr": "Max aime dormir avec Emma.",
+       "en": "Max likes to sleep with Emma."
+      },
+      {
+       "fr": "Mais demain, Max veut encore l'oiseau !",
+       "en": "But tomorrow, Max still wants the bird!"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

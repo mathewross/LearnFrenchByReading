@@ -1,0 +1,202 @@
+{
+ "id": "lea-3",
+ "series_id": "lea-paris",
+ "episode": 3,
+ "title": "Léa au marché",
+ "title_en": "Léa at the market",
+ "level": "A1",
+ "summary_en": "Léa visits a busy street market to buy fruit. The friendly seller has a very funny name.",
+ "tags": [
+  "market",
+  "food",
+  "numbers"
+ ],
+ "key_vocab": [
+  "marché",
+  "pomme",
+  "poire",
+  "euro",
+  "vendeur",
+  "fruit",
+  "kilo",
+  "rire",
+  "coûter",
+  "prendre",
+  "vouloir",
+  "sourire"
+ ],
+ "cover": "lea-3-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Ce matin, Léa va au marché.",
+       "en": "This morning, Léa goes to the market."
+      },
+      {
+       "fr": "Le marché est près du parc.",
+       "en": "The market is near the park."
+      },
+      {
+       "fr": "Il y a beaucoup de monde au marché.",
+       "en": "There are a lot of people at the market."
+      },
+      {
+       "fr": "Il y a des fruits et des légumes.",
+       "en": "There are fruits and vegetables."
+      },
+      {
+       "fr": "Les pommes sont rouges et les poires sont jaunes.",
+       "en": "The apples are red and the pears are yellow."
+      },
+      {
+       "fr": "Léa regarde tout et elle a faim.",
+       "en": "Léa looks at everything and she is hungry."
+      },
+      {
+       "fr": "Elle veut des pommes rouges.",
+       "en": "She wants some red apples."
+      },
+      {
+       "fr": "Les fruits sont bons.",
+       "en": "The fruits are good."
+      }
+     ],
+     "pic": {
+      "id": "lea-3-1",
+      "alt": "Léa walks among the busy market stalls full of fruit."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Un vendeur sourit à Léa.",
+       "en": "A seller smiles at Léa."
+      },
+      {
+       "fr": "Il est grand et très gentil.",
+       "en": "He is tall and very kind."
+      },
+      {
+       "fr": "« Bonjour, mademoiselle ! » dit le vendeur.",
+       "en": "\"Hello, miss!\" says the seller."
+      },
+      {
+       "fr": "« Bonjour, monsieur ! » répond Léa.",
+       "en": "\"Hello, sir!\" replies Léa."
+      },
+      {
+       "fr": "« Je m'appelle Monsieur Poire. »",
+       "en": "\"My name is Mr. Pear.\""
+      },
+      {
+       "fr": "Léa rit : « Monsieur Poire vend des poires ? »",
+       "en": "Léa laughs: \"Mr. Pear sells pears?\""
+      },
+      {
+       "fr": "« Oui, et aussi des pommes ! » dit-il.",
+       "en": "\"Yes, and apples too!\" he says."
+      },
+      {
+       "fr": "Il rit aussi.",
+       "en": "He laughs too."
+      }
+     ],
+     "pic": {
+      "id": "lea-3-2",
+      "alt": "Léa laughs with the friendly seller, Mr. Pear, at his stall."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Combien coûtent les pommes ? » demande Léa.",
+       "en": "\"How much are the apples?\" asks Léa."
+      },
+      {
+       "fr": "« Deux euros le kilo », répond Monsieur Poire.",
+       "en": "\"Two euros a kilo,\" replies Mr. Pear."
+      },
+      {
+       "fr": "Léa prend un kilo de pommes.",
+       "en": "Léa takes a kilo of apples."
+      },
+      {
+       "fr": "Elle veut aussi un sac.",
+       "en": "She also wants a bag."
+      },
+      {
+       "fr": "Le kilo de pommes est dans le sac.",
+       "en": "The kilo of apples is in the bag."
+      },
+      {
+       "fr": "Elle veut deux poires aussi.",
+       "en": "She also wants two pears."
+      },
+      {
+       "fr": "« Les deux poires coûtent un euro. »",
+       "en": "\"The two pears cost one euro.\""
+      },
+      {
+       "fr": "« Ça fait trois euros », dit le vendeur.",
+       "en": "\"That makes three euros,\" says the seller."
+      },
+      {
+       "fr": "Léa donne cinq euros à Monsieur Poire.",
+       "en": "Léa gives five euros to Mr. Pear."
+      },
+      {
+       "fr": "Il prend les cinq euros.",
+       "en": "He takes the five euros."
+      },
+      {
+       "fr": "Puis il rend deux euros à Léa.",
+       "en": "Then he gives two euros back to Léa."
+      },
+      {
+       "fr": "Léa sourit : « Merci, monsieur ! »",
+       "en": "Léa smiles: \"Thank you, sir!\""
+      },
+      {
+       "fr": "Elle pense : « Ça ne coûte pas beaucoup ! »",
+       "en": "She thinks: \"That doesn't cost much!\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Léa mange une poire.",
+       "en": "Léa eats a pear."
+      },
+      {
+       "fr": "« Elle est très bonne ! » dit-elle.",
+       "en": "\"It is very good!\" she says."
+      },
+      {
+       "fr": "Monsieur Poire sourit : « Bien sûr ! »",
+       "en": "Mr. Pear smiles: \"Of course!\""
+      },
+      {
+       "fr": "« Je suis Monsieur Poire, pas Monsieur Pomme ! »",
+       "en": "\"I am Mr. Pear, not Mr. Apple!\""
+      },
+      {
+       "fr": "Léa rit encore et dit : « Au revoir ! »",
+       "en": "Léa laughs again and says: \"Goodbye!\""
+      },
+      {
+       "fr": "Elle prend ses fruits et va au parc.",
+       "en": "She takes her fruit and goes to the park."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

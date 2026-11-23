@@ -1,0 +1,232 @@
+{
+ "id": "premier-jour-travail",
+ "series_id": null,
+ "episode": null,
+ "title": "Mon premier jour de travail",
+ "title_en": "My first day at work",
+ "level": "A2",
+ "summary_en": "Sarah starts her first day in a small bookshop. She is nervous, and a customer asks for a book she cannot find.",
+ "tags": [
+  "work",
+  "bookshop",
+  "kindness"
+ ],
+ "key_vocab": [
+  "livre",
+  "librairie",
+  "cliente",
+  "chercher",
+  "trouver",
+  "aider",
+  "étagère",
+  "travail",
+  "jour",
+  "heureux"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Ce matin, je me suis réveillée très tôt.",
+       "en": "This morning, I woke up very early."
+      },
+      {
+       "fr": "J'étais nerveuse, parce que c'était mon premier jour de travail.",
+       "en": "I was nervous, because it was my first day of work."
+      },
+      {
+       "fr": "Je commençais à travailler dans une petite librairie près de la gare.",
+       "en": "I was starting to work in a small bookshop near the station."
+      },
+      {
+       "fr": "Je rêvais de ce travail depuis longtemps.",
+       "en": "I had dreamed of this job for a long time."
+      },
+      {
+       "fr": "Je ne voulais pas arriver en retard.",
+       "en": "I didn't want to arrive late."
+      },
+      {
+       "fr": "Alors je suis partie de la maison à huit heures.",
+       "en": "So I left the house at eight o'clock."
+      },
+      {
+       "fr": "Dans la rue, mon cœur battait très vite.",
+       "en": "In the street, my heart was beating very fast."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La patronne m'a accueillie devant la porte.",
+       "en": "The boss welcomed me at the door."
+      },
+      {
+       "fr": "Elle avait des lunettes rondes et un visage gentil.",
+       "en": "She had round glasses and a kind face."
+      },
+      {
+       "fr": "« Bienvenue, Sarah ! Tu vas être heureuse ici », a dit Madame Girard.",
+       "en": "\"Welcome, Sarah! You are going to be happy here,\" said Madame Girard."
+      },
+      {
+       "fr": "Elle m'a présenté mon collègue, Hugo.",
+       "en": "She introduced my colleague, Hugo, to me."
+      },
+      {
+       "fr": "Il était grand et il rangeait des livres sur les étagères.",
+       "en": "He was tall and he was putting books away on the shelves."
+      },
+      {
+       "fr": "Il aimait aider les clients.",
+       "en": "He liked helping the customers."
+      },
+      {
+       "fr": "Il m'a montré la caisse et le bureau.",
+       "en": "He showed me the till and the office."
+      },
+      {
+       "fr": "Dans la librairie, j'aimais déjà l'odeur des livres.",
+       "en": "In the bookshop, I already liked the smell of the books."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Au début, j'avais peur de tout.",
+       "en": "At first, I was afraid of everything."
+      },
+      {
+       "fr": "Mes mains tremblaient un peu.",
+       "en": "My hands were shaking a little."
+      },
+      {
+       "fr": "Puis une cliente est entrée dans la librairie.",
+       "en": "Then a customer came into the bookshop."
+      },
+      {
+       "fr": "Elle cherchait un livre pour sa fille.",
+       "en": "She was looking for a book for her daughter."
+      },
+      {
+       "fr": "« Vous avez le nouveau livre de Marie Leroy ? » a-t-elle demandé.",
+       "en": "\"Do you have Marie Leroy's new book?\" she asked."
+      },
+      {
+       "fr": "J'ai cherché sur toutes les étagères, mais je n'ai pas trouvé ce livre.",
+       "en": "I looked on all the shelves, but I didn't find this book."
+      },
+      {
+       "fr": "Je me suis sentie très bête.",
+       "en": "I felt very silly."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Alors j'ai pris un autre livre sur l'étagère.",
+       "en": "So I took another book from the shelf."
+      },
+      {
+       "fr": "Je l'ai donné à la cliente.",
+       "en": "I gave it to the customer."
+      },
+      {
+       "fr": "Mais c'était le mauvais livre !",
+       "en": "But it was the wrong book!"
+      },
+      {
+       "fr": "La dame a regardé la couverture et elle a souri.",
+       "en": "The lady looked at the cover and she smiled."
+      },
+      {
+       "fr": "« Ce n'est pas le même auteur », a-t-elle dit.",
+       "en": "\"It's not the same author,\" she said."
+      },
+      {
+       "fr": "J'ai rougi et je ne savais pas quoi faire.",
+       "en": "I blushed and I didn't know what to do."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Hugo est venu m'aider.",
+       "en": "Hugo came to help me."
+      },
+      {
+       "fr": "Il a cherché sur l'ordinateur, puis il est parti dans le petit bureau.",
+       "en": "He searched on the computer, then he went into the small office."
+      },
+      {
+       "fr": "« Ne t'inquiète pas, Sarah », a-t-il dit.",
+       "en": "\"Don't worry, Sarah,\" he said."
+      },
+      {
+       "fr": "« Ça m'est arrivé aussi. On va trouver ce livre ! »",
+       "en": "\"It happened to me too. We are going to find this book!\"",
+       "ov": {
+        "3": {
+         "g": "to happen"
+        }
+       }
+      },
+      {
+       "fr": "Il a trouvé le livre dans une grande boîte.",
+       "en": "He found the book in a big box."
+      },
+      {
+       "fr": "La cliente était contente et elle a acheté deux livres.",
+       "en": "The customer was happy and she bought two books."
+      },
+      {
+       "fr": "Hugo m'a souri, et j'étais heureuse.",
+       "en": "Hugo smiled at me, and I was happy."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "À midi, nous avons mangé des sandwichs ensemble.",
+       "en": "At noon, we ate sandwiches together."
+      },
+      {
+       "fr": "C'était un long jour.",
+       "en": "It was a long day."
+      },
+      {
+       "fr": "Madame Girard m'a dit : « Pour un premier jour, c'est très bien. »",
+       "en": "Madame Girard said to me: \"For a first day, that's very good.\""
+      },
+      {
+       "fr": "Ce soir, je suis fatiguée, mais je suis heureuse.",
+       "en": "Tonight, I am tired, but I am happy."
+      },
+      {
+       "fr": "Je suis fière de mon nouveau travail.",
+       "en": "I am proud of my new job."
+      },
+      {
+       "fr": "Demain, je vais apprendre le nom de tous les auteurs.",
+       "en": "Tomorrow, I am going to learn the names of all the authors."
+      },
+      {
+       "fr": "Et Hugo va encore m'aider.",
+       "en": "And Hugo is going to help me again."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

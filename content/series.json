@@ -1,3 +1,14 @@
 {
-  "lea-paris": {"title": "Léa à Paris", "title_en": "Léa in Paris"}
+  "lea-paris": {
+    "title": "Léa à Paris",
+    "title_en": "Léa in Paris"
+  },
+  "max-chat": {
+    "title": "Max le chat",
+    "title_en": "Max the cat"
+  },
+  "inspecteur-roche": {
+    "title": "L'inspecteur Roche",
+    "title_en": "Inspector Roche"
+  }
 }

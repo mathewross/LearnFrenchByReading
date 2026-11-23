@@ -1,0 +1,211 @@
+{
+ "id": "la-lettre",
+ "series_id": null,
+ "episode": null,
+ "title": "La lettre",
+ "title_en": "The letter",
+ "level": "B1",
+ "summary_en": "Hélène finds an old unsent letter inside a second-hand book. She decides to find the friend it was meant for.",
+ "tags": [
+  "friendship",
+  "letter",
+  "lyon"
+ ],
+ "key_vocab": [
+  "lettre",
+  "livre",
+  "amie",
+  "enveloppe",
+  "libraire",
+  "retrouver",
+  "téléphone",
+  "numéro",
+  "lire",
+  "penser"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Un samedi de novembre, Hélène flânait chez un vieux libraire de Lyon.",
+       "en": "One Saturday in November, Hélène was browsing in an old bookseller's shop in Lyon."
+      },
+      {
+       "fr": "Elle adorait les livres d'occasion, parce qu'ils avaient déjà vécu avant elle.",
+       "en": "She loved second-hand books, because they had already lived before her."
+      },
+      {
+       "fr": "Elle a acheté un roman dont la couverture était un peu abîmée.",
+       "en": "She bought a novel whose cover was a little damaged."
+      },
+      {
+       "fr": "Le libraire, un vieil homme aimable, lui a fait un petit prix.",
+       "en": "The bookseller, a kind old man, gave her a small discount."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le soir, chez elle, elle a ouvert le livre et une enveloppe jaune est tombée par terre.",
+       "en": "In the evening, at home, she opened the book and a yellow envelope fell on the floor."
+      },
+      {
+       "fr": "L'enveloppe n'avait pas de timbre, et elle n'était pas fermée.",
+       "en": "The envelope had no stamp, and it was not sealed."
+      },
+      {
+       "fr": "Hélène a hésité, car elle n'aimait pas lire les secrets des autres.",
+       "en": "Hélène hesitated, because she did not like to read other people's secrets."
+      },
+      {
+       "fr": "Mais la lettre était si vieille que personne ne pourrait lui en vouloir, pensait-elle.",
+       "en": "But the letter was so old that no one could be angry with her, she thought."
+      },
+      {
+       "fr": "Alors elle s'est assise sur le canapé et elle a lu.",
+       "en": "So she sat down on the sofa and read."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Chère Jeanne, je ne sais pas si tu liras jamais ces mots. »",
+       "en": "\"Dear Jeanne, I do not know whether you will ever read these words.\"",
+       "ov": {
+        "9": {
+         "g": "ever"
+        }
+       }
+      },
+      {
+       "fr": "« Nous nous étions disputées pour une chose sans importance, et je n'avais pas osé t'appeler. »",
+       "en": "\"We had quarrelled over something unimportant, and I had not dared to call you.\""
+      },
+      {
+       "fr": "« Depuis, je pense à toi chaque dimanche, quand je passe devant le banc où nous mangions nos gâteaux. »",
+       "en": "\"Since then, I think of you every Sunday, when I pass the bench where we used to eat our cakes.\""
+      },
+      {
+       "fr": "« Si tu étais là, je te dirais que je regrette. Pardonne-moi. Colette. »",
+       "en": "\"If you were here, I would tell you that I am sorry. Forgive me. Colette.\""
+      },
+      {
+       "fr": "Il y avait une date en bas de la page : la lettre avait été écrite quarante ans plus tôt.",
+       "en": "There was a date at the bottom of the page: the letter had been written forty years earlier."
+      },
+      {
+       "fr": "Hélène avait le cœur serré.",
+       "en": "Hélène's heart felt heavy."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Toute la nuit, elle a pensé à cette femme qui n'avait jamais envoyé sa lettre.",
+       "en": "All night, she thought about this woman who had never sent her letter."
+      },
+      {
+       "fr": "« Il faut que je retrouve Jeanne, a-t-elle décidé le matin, même si c'est difficile. »",
+       "en": "\"I must find Jeanne,\" she decided in the morning, \"even if it is difficult.\"",
+       "ov": {
+        "9": {
+         "g": "even",
+         "p": "ADV"
+        }
+       }
+      },
+      {
+       "fr": "Mais comment retrouver Jeanne ? Chercher une Jeanne dans une grande ville, c'était chercher une aiguille dans une botte de foin.",
+       "en": "But how could she find Jeanne? Looking for a Jeanne in a big city was like looking for a needle in a haystack."
+      },
+      {
+       "fr": "Hélène est retournée chez le libraire et elle lui a montré la lettre.",
+       "en": "Hélène went back to the bookseller's and showed him the letter."
+      },
+      {
+       "fr": "Il n'avait pas de numéro de téléphone, mais il connaissait la maison.",
+       "en": "He had no telephone number, but he knew the house."
+      },
+      {
+       "fr": "« Ce livre venait d'une maison de la rue des Tilleuls, a-t-il dit. Un monsieur nous l'avait donné le mois dernier. »",
+       "en": "\"This book came from a house on the rue des Tilleuls,\" he said. \"A gentleman had given it to us last month.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Dans cette rue, un jeune homme lui a ouvert la porte.",
+       "en": "In that street, a young man opened the door to her."
+      },
+      {
+       "fr": "« Jeanne Perrin ? C'était ma grand-mère, a-t-il répondu. Elle habite maintenant dans une maison de retraite près du parc. »",
+       "en": "\"Jeanne Perrin? She was my grandmother,\" he answered. \"She now lives in a retirement home near the park.\""
+      },
+      {
+       "fr": "« Elle parle encore de son amie Colette, dont la famille avait quitté la ville après leur dispute. »",
+       "en": "\"She still talks about her friend Colette, whose family left the city after their quarrel.\""
+      },
+      {
+       "fr": "Hélène a marché jusqu'au parc, le cœur plein d'espoir, car elle voulait retrouver Jeanne avant la nuit.",
+       "en": "Hélène walked to the park, her heart full of hope, because she wanted to find Jeanne before nightfall."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Jeanne était une petite dame aux cheveux blancs, qui l'a accueillie avec un grand sourire.",
+       "en": "Jeanne was a small lady with white hair, who welcomed her with a big smile."
+      },
+      {
+       "fr": "Elle a lu la lettre lentement, et ses mains tremblaient.",
+       "en": "She read the letter slowly, and her hands were trembling."
+      },
+      {
+       "fr": "Elle a regardé Hélène longtemps, puis elle a dit doucement : « Merci, ma petite, vous ne savez pas ce que cette lettre veut dire. »",
+       "en": "She looked at Hélène for a long time, then said softly: \"Thank you, my dear, you don't know what this letter means.\"",
+       "ov": {}
+      },
+      {
+       "fr": "« Colette ! J'avais gardé son adresse pendant dix ans, mais j'avais perdu le papier, a-t-elle dit. »",
+       "en": "\"Colette! I had kept her address for ten years, but I had lost the paper,\" she said."
+      },
+      {
+       "fr": "Au dos de l'enveloppe, Hélène a vu un petit numéro de téléphone, écrit au crayon.",
+       "en": "On the back of the envelope, Hélène saw a small telephone number, written in pencil."
+      },
+      {
+       "fr": "Elle a composé le numéro, et une voix très douce a répondu : « Allô ? »",
+       "en": "She dialled the number, and a very soft voice answered: \"Hello?\""
+      },
+      {
+       "fr": "Hélène a donné le téléphone à Jeanne, qui pleurait et riait en même temps.",
+       "en": "Hélène handed the phone to Jeanne, who was crying and laughing at the same time."
+      },
+      {
+       "fr": "« Colette, c'est moi, a dit Jeanne. Il n'est jamais trop tard, tu sais ! »",
+       "en": "\"Colette, it's me,\" said Jeanne. \"It is never too late, you know!\""
+      },
+      {
+       "fr": "Hélène est sortie sans bruit, car les deux amies avaient beaucoup de choses à se dire.",
+       "en": "Hélène left without a sound, because the two friends had a lot to say to each other."
+      },
+      {
+       "fr": "Dimanche prochain, les deux amies mangeront des gâteaux sur le même banc.",
+       "en": "Next Sunday, the two friends will eat cakes on the same bench."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

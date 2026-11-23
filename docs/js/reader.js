@@ -29,9 +29,11 @@ export class Reader {
     const st = this.story;
     let html = `<header class="story-head"><div class="eyebrow">${esc(st.level)}${st.series_id && st.episode ? ' · Episode ' + st.episode : ''}</div>`
       + `<h1>${esc(st.title)}</h1><div class="sub">${esc(st.title_en)}</div></header>`;
-    st.chapters.forEach((ch) => {
+    st.chapters.forEach((ch, ci) => {
       if (ch.title) html += `<h2 class="ch">${esc(ch.title)}</h2>`;
-      ch.paragraphs.forEach((para) => {
+      ch.paragraphs.forEach((para, pi) => {
+        const pic = (st.pics || {})[`${ci}.${pi}`];
+        if (pic) html += `<figure class="pic"><img src="${esc(pic.src)}" alt="${esc(pic.alt)}" width="640" height="400" decoding="async" draggable="false"><figcaption>${esc(pic.alt)}</figcaption></figure>`;
         html += '<p>';
         para.forEach((s) => {
           const si = this.sents.length;
@@ -62,6 +64,7 @@ export class Reader {
     this.W = W;
     const p = this.pages;
     p.style.transform = 'none';
+    p.style.setProperty('--pic-h', Math.round(Math.max(110, Math.min(H * 0.3, W * 0.62))) + 'px'); // fixed height: pages don't jump as images load
     p.style.width = W + 'px';
     p.style.height = H + 'px';
     p.style.columnWidth = W + 'px';

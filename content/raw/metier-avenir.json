@@ -1,0 +1,105 @@
+{
+  "id": "metier-avenir",
+  "series_id": null,
+  "episode": null,
+  "title": "Un métier d'avenir",
+  "title_en": "A job with a future",
+  "level": "B2",
+  "summary_en": "Inès, twenty-two, must choose between the secure career her father recommends and her real passion, restoring old furniture. An old cabinetmaker offers her a trial week in his workshop.",
+  "tags": ["work", "family", "craft", "choices"],
+  "key_vocab": ["métier", "avenir", "meuble", "atelier", "bois", "choisir", "sécurité", "passion", "restaurer", "formation", "doute", "ébéniste", "père"],
+  "source": "original",
+  "license": "CC0",
+  "chapters": [
+    {
+      "title": "Deux chemins",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Depuis qu'elle était petite, Inès passait ses dimanches dans le garage de sa grand-mère, à poncer de vieux meubles dont personne ne voulait plus.", "en": "Ever since she was little, Inès had spent her Sundays in her grandmother's garage, sanding old pieces of furniture that nobody wanted anymore."},
+          {"fr": "À vingt-deux ans, elle venait de terminer une licence d'économie, et le moment de choisir était enfin arrivé.", "en": "At twenty-two, she had just finished a degree in economics, and the moment to choose had finally come."},
+          {"fr": "Son père, qui travaillait dans une banque à Nantes depuis trente ans, avait une idée très précise de ce qu'elle devait faire.", "en": "Her father, who had been working in a bank in Nantes for thirty years, had a very precise idea of what she ought to do.", "ov": {"19": {"p": "PRON", "g": "what (ce que = what)", "m": "relative pronoun (before a vowel)"}}},
+          {"fr": "Il lui avait trouvé une formation en analyse de données, un métier d'avenir, comme il aimait le répéter.", "en": "He had found her a training course in data analysis, a job with a future, as he liked to repeat.", "ov": {"17": {"p": "PRON", "g": "it", "m": "object pronoun"}}}
+        ]},
+        {"sentences": [
+          {"fr": "Un soir, pendant le dîner, il a posé une brochure sur la table.", "en": "One evening, during dinner, he put a brochure on the table."},
+          {"fr": "« Regarde, les entreprises cherchent ces profils partout, et les salaires sont excellents dès la première année », a-t-il dit.", "en": "“Look, companies are looking for these profiles everywhere, and the salaries are excellent from the very first year,” he said.", "ov": {"4": {"p": "DET", "g": "these"}}},
+          {"fr": "Inès a feuilleté les pages consacrées à la formation sans vraiment les lire.", "en": "Inès leafed through the pages about the course without really reading them.", "ov": {"11": {"p": "PRON", "g": "them", "m": "object pronoun"}}},
+          {"fr": "Elle pensait au buffet en chêne qui l'attendait chez sa grand-mère, avec ses portes abîmées et son vernis fatigué.", "en": "She was thinking about the oak sideboard waiting for her at her grandmother's, with its damaged doors and its tired varnish.", "ov": {"7": {"p": "PRON", "g": "her", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "« Papa, je ne suis pas sûre que ce soit pour moi », a-t-elle répondu prudemment.", "en": "“Dad, I'm not sure it's for me,” she answered cautiously."}
+        ]},
+        {"sentences": [
+          {"fr": "Son père a soupiré, puis il a parlé longtemps de sécurité, de crédit immobilier et de retraite.", "en": "Her father sighed, then he talked for a long time about security, mortgages and retirement."},
+          {"fr": "Il lui a rappelé que lui-même avait grandi dans un petit appartement où l'on comptait chaque euro à la fin du mois.", "en": "He reminded her that he himself had grown up in a small flat where every euro was counted at the end of the month.", "ov": {"13": {"p": "PRON", "g": "(not translated: l'on = on, for smoother sound)", "m": "before on"}}},
+          {"fr": "« Je ne te demande pas d'abandonner ta passion », a-t-il ajouté plus doucement.", "en": "“I'm not asking you to give up your passion,” he added more gently."},
+          {"fr": "« Je te demande simplement d'en faire un loisir, pas un métier. »", "en": "“I'm simply asking you to make it a hobby, not a job.”", "ov": {"5": {"p": "PRON", "g": "of it (en faire un loisir = to make it a hobby)", "m": "pronoun"}}},
+          {"fr": "Inès savait qu'il avait raison sur bien des points, et c'était précisément ce qui nourrissait ses doutes.", "en": "Inès knew that he was right about many things, and that was precisely what fed her doubts."}
+        ]},
+        {"sentences": [
+          {"fr": "Le lendemain, avant de choisir quoi que ce soit, elle a décidé de demander conseil à quelqu'un qui connaissait le métier de l'intérieur.", "en": "The next day, before choosing anything at all, she decided to ask advice from someone who knew the trade from the inside."},
+          {"fr": "Monsieur Lacombe, un ébéniste de soixante-dix ans, tenait encore un petit atelier au fond d'une cour, près du marché.", "en": "Monsieur Lacombe, a seventy-year-old cabinetmaker, still ran a small workshop at the back of a courtyard, near the market."},
+          {"fr": "L'atelier sentait la cire, la colle et la sciure, et des meubles de toutes les époques attendaient patiemment d'être restaurés.", "en": "The workshop smelled of wax, glue and sawdust, and furniture from every period was patiently waiting to be restored."}
+        ]}
+      ]
+    },
+    {
+      "title": "La semaine d'essai",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Le vieil homme a écouté Inès sans l'interrompre, en caressant du bout des doigts le bois d'une commode.", "en": "The old man listened to Inès without interrupting her, stroking the wood of a chest of drawers with his fingertips.", "ov": {"7": {"p": "PRON", "g": "her", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "« Votre père n'a pas tort », a-t-il fini par dire.", "en": "“Your father isn't wrong,” he said in the end."},
+          {"fr": "« Ce métier est beau, mais il est exigeant, mal payé au début, et personne ne vous garantira jamais la sécurité d'un salaire fixe. »", "en": "“This trade is beautiful, but it is demanding, badly paid at the beginning, and nobody will ever guarantee you the security of a fixed salary.”", "ov": {"0": {"p": "DET", "g": "this"}}},
+          {"fr": "Il lui a alors proposé de venir travailler une semaine à l'atelier, afin qu'elle se fasse sa propre idée.", "en": "He then offered her a week of work at the workshop, so that she could make up her own mind."}
+        ]},
+        {"sentences": [
+          {"fr": "Le lundi, Inès a été chargée de décaper une vieille table de ferme, ce qui lui a pris la journée entière.", "en": "On Monday, Inès was given the job of stripping an old farmhouse table, which took her the whole day."},
+          {"fr": "Le mardi, elle s'est coupé le doigt avec un ciseau à bois et elle a dû recommencer un assemblage trois fois.", "en": "On Tuesday, she cut her finger with a wood chisel and had to redo a joint three times."},
+          {"fr": "Le soir, elle rentrait chez elle épuisée, les mains couvertes de vernis, et ses doutes revenaient aussitôt.", "en": "In the evening, she came home exhausted, her hands covered in varnish, and her doubts came back at once."},
+          {"fr": "Et si son père avait raison, après tout ?", "en": "What if her father was right, after all?"}
+        ]},
+        {"sentences": [
+          {"fr": "Pourtant, le jeudi, quelque chose a changé.", "en": "Yet on Thursday, something changed."},
+          {"fr": "Monsieur Lacombe lui a confié une chaise du dix-huitième siècle, dont le dossier avait été brisé lors d'un déménagement.", "en": "Monsieur Lacombe entrusted her with an eighteenth-century chair whose back had been broken during a house move."},
+          {"fr": "Pendant des heures, elle a recollé les morceaux, renforcé les fibres une à une et teinté le bois pour que la réparation soit invisible.", "en": "For hours, she glued the pieces back together, reinforced the fibres one by one and stained the wood so that the repair would be invisible."},
+          {"fr": "Quand elle a enfin levé les yeux, il faisait nuit, et elle ne s'était pas aperçue que le temps passait.", "en": "When she finally looked up, it was dark, and she hadn't noticed time passing."},
+          {"fr": "Elle comprenait soudain que sa passion n'était pas un caprice, mais une forme de concentration absolue.", "en": "She suddenly understood that her passion was not a whim, but a form of absolute concentration."},
+          {"fr": "« Ce que les clients appellent du talent, moi, j'appelle ça de la patience », a dit l'ébéniste en souriant.", "en": "“What customers call talent, I call patience,” said the cabinetmaker with a smile.", "ov": {"1": {"p": "PRON", "g": "what (ce que = what)", "m": "relative pronoun"}, "5": {"g": "some (partitive, often not translated)", "m": "de + le, partitive"}, "11": {"g": "some (partitive: de la = some, often not translated)"}}}
+        ]},
+        {"sentences": [
+          {"fr": "Le vendredi, ils ont parlé longuement de l'avenir du métier.", "en": "On Friday, they talked at length about the future of the trade."},
+          {"fr": "Contrairement à ce qu'Inès imaginait, Monsieur Lacombe ne méprisait pas la modernité : il vendait des meubles restaurés sur internet et formait ses apprentis à des logiciels de conception.", "en": "Contrary to what Inès had imagined, Monsieur Lacombe did not look down on modern things: he sold restored furniture online and trained his apprentices on design software.", "ov": {"2": {"p": "PRON", "g": "what (ce que = what)", "m": "relative pronoun (before a vowel)"}}},
+          {"fr": "« La tradition, ce n'est pas refuser le changement, c'est transmettre ce qui mérite de durer », lui a-t-il expliqué.", "en": "“Tradition isn't refusing change, it's passing on what deserves to last,” he explained to her."},
+          {"fr": "Il lui a aussi avoué que, faute de successeur, il fermerait sans doute l'atelier d'ici deux ou trois ans.", "en": "He also admitted to her that, for lack of a successor, he would probably close the workshop within two or three years."}
+        ]}
+      ]
+    },
+    {
+      "title": "Le choix",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Le dimanche suivant, Inès a invité son père à l'atelier plutôt que de lui parler à la maison.", "en": "The following Sunday, Inès invited her father to the workshop rather than talking to him at home."},
+          {"fr": "Il est venu à contrecœur, persuadé qu'on allait encore lui reprocher son manque d'imagination.", "en": "He came reluctantly, convinced that he was once again going to be blamed for his lack of imagination."},
+          {"fr": "Mais en voyant la chaise réparée, il est resté silencieux un long moment.", "en": "But when he saw the repaired chair, he stayed silent for a long moment."},
+          {"fr": "« C'est toi qui as fait ça ? » a-t-il demandé, et Inès a lu dans ses yeux une fierté qu'il ne cherchait pas à cacher.", "en": "“Did you do that?” he asked, and Inès read in his eyes a pride he wasn't trying to hide.", "ov": {"18": {"p": "PRON", "g": "that, which (relative)", "m": "relative pronoun (before a vowel)"}}}
+        ]},
+        {"sentences": [
+          {"fr": "Ils ont discuté toute la soirée, honnêtement, sans jamais élever la voix.", "en": "They talked the whole evening, honestly, without ever raising their voices."},
+          {"fr": "Inès a reconnu que la sécurité comptait autant que la passion, et qu'elle ne voulait pas dépendre de ses parents à trente ans.", "en": "Inès admitted that security mattered as much as passion, and that she did not want to depend on her parents at thirty."},
+          {"fr": "Son père, de son côté, a admis qu'un métier d'avenir n'était peut-être pas seulement un métier qui rapporte, mais un métier qui donne envie de se lever le matin.", "en": "Her father, for his part, admitted that a job with a future was perhaps not only a job that pays, but a job that makes you want to get up in the morning."},
+          {"fr": "Ensemble, ils ont élaboré un compromis qui leur semblait raisonnable à tous les deux.", "en": "Together, they worked out a compromise that seemed reasonable to both of them."}
+        ]},
+        {"sentences": [
+          {"fr": "Inès suivrait une formation d'ébéniste en alternance, en partie rémunérée, auprès de Monsieur Lacombe.", "en": "Inès would take a work-study course in cabinetmaking, partly paid, with Monsieur Lacombe."},
+          {"fr": "Parallèlement, elle prendrait quelques cours de gestion, au cas où il faudrait un jour reprendre l'atelier.", "en": "At the same time, she would take a few management classes, in case she had to take over the workshop one day."},
+          {"fr": "Son père, qui avait toujours été prudent, a même proposé de l'aider à rédiger un plan de financement.", "en": "Her father, who had always been cautious, even offered to help her write a financing plan.", "ov": {"11": {"p": "PRON", "g": "her", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "« Après tout, je connais un peu les banques », a-t-il dit en riant.", "en": "“After all, I know a thing or two about banks,” he said, laughing."}
+        ]},
+        {"sentences": [
+          {"fr": "Quelques semaines plus tard, le buffet en chêne de sa grand-mère a été entièrement restauré.", "en": "A few weeks later, her grandmother's oak sideboard was completely restored."},
+          {"fr": "Il trône désormais dans le salon de ses parents, et son père ne manque jamais une occasion de le montrer aux invités.", "en": "It now takes pride of place in her parents' living room, and her father never misses a chance to show it to guests.", "ov": {"13": {"l": "manquer", "p": "VERB", "m": "present (il/elle)"}, "18": {"p": "PRON", "g": "it", "m": "object pronoun"}}},
+          {"fr": "Inès a encore des doutes, bien sûr, car aucun chemin n'est complètement sûr.", "en": "Inès still has doubts, of course, because no path is completely safe."},
+          {"fr": "Mais chaque matin, en ouvrant la porte de l'atelier, elle sait qu'elle a choisi un métier d'avenir : le sien.", "en": "But every morning, as she opens the workshop door, she knows she has chosen a job with a future: her own."}
+        ]}
+      ]
+    }
+  ]
+}

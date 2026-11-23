@@ -1,0 +1,516 @@
+{
+  "id": "photographe-belleville",
+  "series_id": null,
+  "episode": null,
+  "title": "Le photographe de Belleville",
+  "title_en": "The photographer of Belleville",
+  "level": "C1",
+  "summary_en": "At dawn, an ageing street photographer walks the steep streets of Belleville with his young apprentice. She cannot understand why he never photographs faces, and she means to find out.",
+  "tags": [
+    "photography",
+    "paris",
+    "friendship",
+    "art"
+  ],
+  "key_vocab": [
+    "visage",
+    "photographe",
+    "photographier",
+    "appareil",
+    "lumière",
+    "rue",
+    "ombre",
+    "main",
+    "attendre",
+    "café",
+    "déclencher",
+    "patron",
+    "quartier",
+    "regard"
+  ],
+  "source": "original",
+  "license": "CC0",
+  "chapters": [
+    {
+      "title": "L'heure bleue",
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "fr": "À cinq heures et demie, quand Belleville n'était encore qu'une rumeur de volets et de camions de livraison, Lucien Ferrand descendit la rue des Envierges, son vieux Leica en bandoulière, comme d'autres descendent chercher le pain.",
+              "en": "At half past five, when Belleville was still nothing but a murmur of shutters and delivery vans, Lucien Ferrand went down the rue des Envierges, his old Leica slung across his shoulder, the way other people go down to fetch the bread.",
+              "ov": {
+                "7": {
+                  "g": "only (ne... que = only)"
+                },
+                "22": {
+                  "l": "de",
+                  "p": "PREP",
+                  "m": "de + les"
+                }
+              }
+            },
+            {
+              "fr": "Il avait soixante-sept ans, des genoux qui grinçaient dans les escaliers et une patience de pêcheur à la ligne.",
+              "en": "He was sixty-seven, with knees that creaked on the stairs and the patience of an angler.",
+              "ov": {
+                "1": {
+                  "m": "imparfait (il/elle)"
+                }
+              }
+            },
+            {
+              "fr": "Derrière lui, essoufflée, Inès traînait les pieds en serrant un gobelet de café trop chaud.",
+              "en": "Behind him, out of breath, Inès dragged her feet, clutching a paper cup of coffee that was too hot."
+            },
+            {
+              "fr": "Elle avait vingt-deux ans, sortait des Beaux-Arts et s'était juré d'apprendre le métier auprès de lui, quitte à se lever avant les éboueurs.",
+              "en": "She was twenty-two, fresh out of art school, and had sworn to learn the trade at his side, even if it meant getting up before the bin men.",
+              "ov": {
+                "1": {
+                  "m": "imparfait (il/elle)"
+                },
+                "5": {
+                  "l": "de",
+                  "p": "PREP",
+                  "m": "de + les"
+                },
+                "9": {
+                  "m": "imparfait (il/elle), auxiliary"
+                },
+                "10": {
+                  "g": "sworn (s'était juré = had sworn to herself)"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "« Vous savez qu'on a inventé une heure qui s'appelle midi ? » grommela-t-elle.",
+              "en": "“You know someone has invented an hour called noon?” she grumbled."
+            },
+            {
+              "fr": "« La lumière de midi, c'est un interrogatoire de police, répondit Lucien sans se retourner. Celle de l'aube, c'est une confidence. »",
+              "en": "“The light at noon is a police interrogation,” Lucien answered without turning round. “The light at dawn is a confidence.”"
+            },
+            {
+              "fr": "« Vous préparez cette phrase depuis combien de temps ? »",
+              "en": "“How long have you been preparing that line?”"
+            },
+            {
+              "fr": "« Depuis mille neuf cent quatre-vingt-trois, mais elle fait toujours son petit effet. »",
+              "en": "“Since nineteen eighty-three, but it still makes quite an impression.”"
+            },
+            {
+              "fr": "Inès leva les yeux au ciel, mais elle sortit quand même son carnet.",
+              "en": "Inès rolled her eyes, but she took out her notebook all the same."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "Ils débouchèrent sur le parc de Belleville au moment où le ciel virait du gris au bleu pâle.",
+              "en": "They came out into the Parc de Belleville just as the sky was turning from grey to pale blue."
+            },
+            {
+              "fr": "En contrebas, Paris s'étirait encore sous une couette de brume, et la tour Eiffel, minuscule, ressemblait à une épingle oubliée sur un drap.",
+              "en": "Down below, Paris was still stretching beneath a quilt of mist, and the Eiffel Tower, tiny, looked like a pin forgotten on a sheet."
+            },
+            {
+              "fr": "Sur l'esplanade, une dizaine de grands-mères chinoises faisaient du tai-chi avec une lenteur souveraine, tandis qu'un balayeur sifflait du Brassens en poussant son eau dans le caniveau.",
+              "en": "On the esplanade, a dozen or so Chinese grandmothers were doing tai chi with sovereign slowness, while a street sweeper whistled Brassens as he pushed his water along the gutter.",
+              "ov": {
+                "9": {
+                  "g": "some (partitive: faire du tai-chi = to do tai chi)"
+                },
+                "19": {
+                  "g": "some (partitive: siffler du Brassens = to whistle Brassens songs)"
+                }
+              }
+            },
+            {
+              "fr": "Lucien s'arrêta, plissa les yeux et attendit la lumière.",
+              "en": "Lucien stopped, narrowed his eyes and waited for the light."
+            },
+            {
+              "fr": "Il attendait toujours ; c'était même, disait-il, l'essentiel du métier de photographe, le reste n'étant qu'une affaire de doigts.",
+              "en": "He always waited; it was even, he used to say, the essence of a photographer's trade, the rest being merely a matter of fingers.",
+              "ov": {
+                "17": {
+                  "g": "only (ne... que = only)"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "Puis il leva l'appareil, cadra longuement et déclencha une seule fois : une main ridée suspendue dans l'air, deux ombres jumelles sur le bitume, et rien d'autre.",
+              "en": "Then he raised the camera, framed for a long time and pressed the shutter just once: a wrinkled hand hanging in the air, two twin shadows on the asphalt, and nothing else."
+            },
+            {
+              "fr": "« Vous auriez pu prendre leurs visages, observa Inès. Elles étaient magnifiques, ces dames. »",
+              "en": "“You could have taken their faces,” Inès remarked. “They were magnificent, those ladies.”"
+            },
+            {
+              "fr": "« Justement, dit-il. Leurs visages sont à elles. »",
+              "en": "“Precisely,” he said. “Their faces belong to them.”",
+              "ov": {
+                "5": {
+                  "g": "to (être à = to belong to)"
+                }
+              }
+            },
+            {
+              "fr": "Il remit le bouchon sur l'objectif et reprit sa marche, laissant la phrase en suspens comme une porte entrouverte.",
+              "en": "He put the cap back on the lens and set off again, leaving the sentence hanging like a door left ajar.",
+              "ov": {
+                "17": {
+                  "l": "porte",
+                  "p": "NOUN",
+                  "m": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Les murs qui parlent",
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "fr": "Ils redescendirent par la rue Denoyez, où chaque mur, chaque rideau de fer, chaque gouttière servait de toile à des graffeurs venus de tout Paris.",
+              "en": "They went back down by the rue Denoyez, where every wall, every metal shutter, every drainpipe served as a canvas for graffiti artists from all over Paris."
+            },
+            {
+              "fr": "Un renard géant aux yeux d'or s'étalait sur une façade, à côté d'un poème dont la pluie avait mangé la moitié des mots.",
+              "en": "A giant fox with golden eyes sprawled across a façade, next to a poem half of whose words the rain had eaten away.",
+              "ov": {
+                "22": {
+                  "l": "de",
+                  "p": "PREP",
+                  "m": "de + les"
+                }
+              }
+            },
+            {
+              "fr": "Lucien photographia le renard, puis l'ombre d'une poubelle renversée sous le poème, puis le reflet d'un néon dans une flaque.",
+              "en": "Lucien photographed the fox, then the shadow of an overturned bin beneath the poem, then the reflection of a neon sign in a puddle."
+            },
+            {
+              "fr": "Il déclenchait souvent sans même viser, l'appareil à hauteur de hanche, comme on joue à pile ou face.",
+              "en": "He often pressed the shutter without even aiming, the camera at hip height, the way you play heads or tails."
+            },
+            {
+              "fr": "Inès, elle, photographiait Lucien en train de photographier, ce qui l'amusait beaucoup et l'agaçait un peu.",
+              "en": "Inès, for her part, photographed Lucien photographing, which amused him a great deal and annoyed him a little.",
+              "ov": {
+                "8": {
+                  "p": "PRON",
+                  "g": "him",
+                  "m": "object pronoun (before a vowel)"
+                },
+                "12": {
+                  "p": "PRON",
+                  "g": "him",
+                  "m": "object pronoun (before a vowel)"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "« Vous êtes le seul photographe de rue que je connaisse qui fuie les gens, finit-elle par lâcher. Doisneau, Ronis, Cartier-Bresson, ils allaient tous chercher les visages. »",
+              "en": "“You're the only street photographer I know who runs away from people,” she finally let slip. “Doisneau, Ronis, Cartier-Bresson, they all went looking for faces.”",
+              "ov": {
+                "7": {
+                  "p": "PRON",
+                  "g": "that, whom (relative pronoun)"
+                }
+              }
+            },
+            {
+              "fr": "« Ronis a fait des merveilles ici, concéda Lucien. Il a photographié Belleville et Ménilmontant quand les gamins jouaient encore au milieu de la rue et que les ateliers sentaient la colle et le cuir. »",
+              "en": "“Ronis worked wonders here,” Lucien conceded. “He photographed Belleville and Ménilmontant when kids still played in the middle of the street and the workshops smelled of glue and leather.”",
+              "ov": {
+                "2": {
+                  "m": "past participle"
+                }
+              }
+            },
+            {
+              "fr": "« Alors pourquoi pas vous ? »",
+              "en": "“So why not you?”"
+            },
+            {
+              "fr": "« Parce que je ne suis pas Ronis, et que Belleville n'est plus tout à fait Belleville. »",
+              "en": "“Because I'm not Ronis, and Belleville isn't quite Belleville any more.”"
+            },
+            {
+              "fr": "C'était une pirouette, et le regard qu'ils échangèrent disait assez qu'ils le savaient tous les deux.",
+              "en": "It was a dodge, and the look they exchanged said clearly enough that they both knew it.",
+              "ov": {
+                "7": {
+                  "p": "PRON",
+                  "g": "that, which (relative pronoun)"
+                },
+                "10": {
+                  "g": "said, showed"
+                },
+                "14": {
+                  "p": "PRON",
+                  "g": "it",
+                  "m": "object pronoun"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "Rue de Belleville, le quartier se réveillait, et les rideaux de fer se levaient un à un dans un fracas de tôle.",
+              "en": "On the rue de Belleville, the neighbourhood was waking up, and the metal shutters were going up one by one with a clatter of sheet iron."
+            },
+            {
+              "fr": "La boulangerie tunisienne exhalait déjà son parfum de miel et de fleur d'oranger, le traiteur chinois empilait ses caisses de choux, et devant le Vieux Belleville, le patron passait la serpillière en fredonnant une valse musette.",
+              "en": "The Tunisian bakery was already giving off its scent of honey and orange blossom, the Chinese caterer was stacking his crates of cabbages, and outside the Vieux Belleville, the owner was mopping the floor, humming a musette waltz."
+            },
+            {
+              "fr": "Lucien serra des mains, salua tout le monde par son prénom, et chacun lui rendit son salut, sans qu'il prenne une seule photo.",
+              "en": "Lucien shook hands, greeted everyone by their first name, and each of them greeted him back, without his taking a single photo.",
+              "ov": {
+                "1": {
+                  "g": "shook (serrer des mains = to shake hands)"
+                }
+              }
+            },
+            {
+              "fr": "« Vous ne faites jamais de photos de vos amis ? » demanda Inès.",
+              "en": "“Don't you ever take photos of your friends?” Inès asked."
+            },
+            {
+              "fr": "« Mes amis, je les garde ici, répondit-il en se tapotant la tempe. C'est moins encombrant qu'un album, et personne ne s'y trouve mal cadré. »",
+              "en": "“My friends, I keep them in here,” he replied, tapping his temple. “It takes up less room than an album, and nobody in there is badly framed.”",
+              "ov": {
+                "3": {
+                  "p": "PRON",
+                  "g": "them",
+                  "m": "object pronoun"
+                },
+                "4": {
+                  "l": "garder",
+                  "p": "VERB",
+                  "m": "present (je)"
+                },
+                "24": {
+                  "g": "is (se trouver = to be, to find oneself)"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "Au numéro soixante-douze, il s'arrêta devant une plaque grise.",
+              "en": "At number seventy-two, he stopped in front of a grey plaque."
+            },
+            {
+              "fr": "« C'est ici que Piaf serait née, sur les marches, dans la pèlerine d'un agent de police, dit-il. C'est faux, bien sûr, elle est née à l'hôpital Tenon, mais à Belleville on préfère les légendes aux registres. »",
+              "en": "“This is where Piaf was supposedly born, on the steps, in a policeman's cape,” he said. “It's not true, of course, she was born at the Tenon hospital, but in Belleville people prefer legends to registers.”",
+              "ov": {
+                "22": {
+                  "m": "present (il/elle), auxiliary"
+                }
+              }
+            },
+            {
+              "fr": "Il fredonna à mi-voix « Ménilmontant, mais oui madame », se trompa de chanteur, de quartier et de tonalité, et ne s'en excusa pas.",
+              "en": "Under his breath he hummed “Ménilmontant, mais oui madame”, got the singer, the neighbourhood and the key wrong, and did not apologise for it."
+            },
+            {
+              "fr": "Inès sourit malgré elle : on ne pouvait décidément pas rester fâchée contre cet homme plus de dix minutes.",
+              "en": "Inès smiled in spite of herself: you really could not stay cross with this man for more than ten minutes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le portrait",
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "fr": "Ils s'installèrent au comptoir d'un vieux café de la rue Ramponeau, entre un livreur qui faisait ses mots croisés et deux infirmières qui sortaient de leur garde.",
+              "en": "They settled at the counter of an old café on the rue Ramponeau, between a delivery man doing his crossword and two nurses coming off their shift."
+            },
+            {
+              "fr": "Le patron posa devant eux deux cafés serrés et un croissant que personne n'avait commandé.",
+              "en": "The owner set down in front of them two strong coffees and a croissant that nobody had ordered."
+            },
+            {
+              "fr": "Inès tourna longtemps sa cuillère, puis revint à la charge.",
+              "en": "Inès stirred her spoon for a long time, then returned to the attack."
+            },
+            {
+              "fr": "« Lucien, sérieusement, pourquoi jamais de visages ? »",
+              "en": "“Lucien, seriously, why never any faces?”"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "Il resta silencieux un long moment, le regard posé sur la vitre embuée, comme s'il cherchait ses mots de l'autre côté.",
+              "en": "He remained silent for a long moment, his gaze resting on the misted window, as if he were looking for his words on the other side."
+            },
+            {
+              "fr": "« Il y a trois ans, un ophtalmo m'a annoncé que j'avais une dégénérescence maculaire, finit-il par dire. Le centre de l'image s'en va, petit à petit, et il ne reste que les bords. »",
+              "en": "“Three years ago, an eye doctor told me I had macular degeneration,” he said at last. “The centre of the picture fades away, little by little, and only the edges remain.”",
+              "ov": {
+                "0": {
+                  "g": "ago (il y a trois ans = three years ago)"
+                }
+              }
+            },
+            {
+              "fr": "Inès posa sa tasse sans bruit.",
+              "en": "Inès put her cup down without a sound."
+            },
+            {
+              "fr": "« Les mains, les ombres, les chats sur les rebords de fenêtre, tout ça, je le vois encore du coin de l'œil, poursuivit-il. Mais quand je regarde quelqu'un en face, son visage se dissout comme un sucre dans le café. »",
+              "en": "“Hands, shadows, cats on windowsills, all that I can still see out of the corner of my eye,” he went on. “But when I look someone in the face, their face dissolves like a sugar lump in coffee.”",
+              "ov": {
+                "14": {
+                  "p": "PRON",
+                  "g": "it (all that)",
+                  "m": "object pronoun"
+                }
+              }
+            },
+            {
+              "fr": "« Un photographe, paraît-il, c'est quelqu'un qui a l'œil ; moi, il ne me reste que le coin de l'œil. »",
+              "en": "“A photographer, they say, is someone who has an eye; all I have left is the corner of mine.”"
+            },
+            {
+              "fr": "« Vous ne m'avez jamais rien dit. »",
+              "en": "“You never told me anything.”"
+            },
+            {
+              "fr": "« Tu ne m'as jamais vu rater une photo non plus, répondit-il avec un sourire en coin. Et puis ce que je t'ai dit au parc était vrai : un visage appartient à celui qui le porte, et je n'aime pas voler ce que je ne vois plus. »",
+              "en": "“You've never seen me miss a photo either,” he replied with a crooked smile. “And besides, what I told you in the park was true: a face belongs to the person who wears it, and I don't like stealing what I can no longer see.”",
+              "ov": {
+                "31": {
+                  "p": "PRON",
+                  "g": "it",
+                  "m": "object pronoun"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "Il fit glisser le Leica sur le zinc jusqu'à elle.",
+              "en": "He slid the Leica along the zinc counter over to her."
+            },
+            {
+              "fr": "« Les visages, désormais, ce sera ton rayon, dit-il. Commence par le mien, tant qu'il est encore à peu près présentable. »",
+              "en": "“From now on, faces will be your department,” he said. “Start with mine, while it's still more or less presentable.”"
+            },
+            {
+              "fr": "Inès hésita, puis leva l'appareil, et pour la première fois elle ne le trouva pas lourd.",
+              "en": "Inès hesitated, then raised the camera, and for the first time she did not find it heavy.",
+              "ov": {
+                "13": {
+                  "p": "PRON",
+                  "g": "it",
+                  "m": "object pronoun"
+                }
+              }
+            },
+            {
+              "fr": "Dans le viseur, elle vit les rides creusées par soixante ans de soleil et de patience, les sourcils en broussaille, et ce regard qui visait un peu à côté d'elle, là où il la voyait le mieux.",
+              "en": "In the viewfinder she saw the wrinkles carved by sixty years of sun and patience, the bushy eyebrows, and that gaze aimed slightly to one side of her, where he could see her best.",
+              "ov": {
+                "20": {
+                  "p": "DET",
+                  "g": "that"
+                },
+                "31": {
+                  "p": "PRON",
+                  "g": "her",
+                  "m": "object pronoun"
+                }
+              }
+            },
+            {
+              "fr": "Elle attendit, comme il le lui avait appris, et déclencha au moment exact où il se mit à rire.",
+              "en": "She waited, as he had taught her, and pressed the shutter at the exact moment he started to laugh.",
+              "ov": {
+                "4": {
+                  "p": "PRON",
+                  "g": "it",
+                  "m": "object pronoun"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "fr": "« Alors ? demanda-t-il. Raconte-moi. »",
+              "en": "“Well?” he asked. “Tell me.”"
+            },
+            {
+              "fr": "Elle lui décrivit son visage lentement, trait par trait, comme on fait visiter un quartier qu'on aime à quelqu'un qui revient de très loin.",
+              "en": "She described his face to him slowly, feature by feature, the way you show a neighbourhood you love to someone who has come back from very far away.",
+              "ov": {
+                "12": {
+                  "p": "PRON",
+                  "g": "that, which (relative pronoun)"
+                }
+              }
+            },
+            {
+              "fr": "Le patron avait cessé d'essuyer ses verres, et le livreur, le stylo en l'air, avait oublié ses mots croisés.",
+              "en": "The owner had stopped wiping his glasses, and the delivery man, pen in the air, had forgotten his crossword."
+            },
+            {
+              "fr": "Lucien écouta les yeux fermés, puis hocha la tête.",
+              "en": "Lucien listened with his eyes closed, then nodded."
+            },
+            {
+              "fr": "« Tu vois, murmura-t-il, un visage, c'est peut-être ça : quelqu'un qui prend le temps de te le rendre. »",
+              "en": "“You see,” he murmured, “maybe that's what a face is: someone who takes the time to give it back to you.”",
+              "ov": {
+                "16": {
+                  "p": "PRON",
+                  "g": "it",
+                  "m": "object pronoun"
+                }
+              }
+            },
+            {
+              "fr": "Dehors, la lumière avait fini par atteindre le bas de la rue, et Belleville, sans se faire prier, entrait tout entier dans le matin.",
+              "en": "Outside, the light had finally reached the bottom of the street, and Belleville, without needing to be asked twice, was stepping wholly into the morning."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "boulangerie",
+ "series_id": null,
+ "episode": null,
+ "title": "À la boulangerie",
+ "title_en": "At the bakery",
+ "level": "A1",
+ "summary_en": "Before work, Claire stops at the bakery for bread and pastries. The baker is very friendly.",
+ "tags": [
+  "food",
+  "shopping",
+  "daily life"
+ ],
+ "key_vocab": [
+  "boulanger",
+  "pain",
+  "baguette",
+  "croissant",
+  "euro",
+  "coûter",
+  "donner",
+  "merci",
+  "madame",
+  "cadeau",
+  "s'il vous plaît",
+  "gentil"
+ ],
+ "cover": "boulangerie-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Il est sept heures du matin.",
+       "en": "It is seven o'clock in the morning."
+      },
+      {
+       "fr": "Claire va au travail, mais elle a faim.",
+       "en": "Claire is going to work, but she is hungry."
+      },
+      {
+       "fr": "Elle veut acheter du pain.",
+       "en": "She wants to buy some bread."
+      },
+      {
+       "fr": "Elle entre dans la boulangerie.",
+       "en": "She goes into the bakery."
+      },
+      {
+       "fr": "Il y a une bonne odeur de pain.",
+       "en": "There is a good smell of bread."
+      },
+      {
+       "fr": "Les croissants sont beaux et chauds.",
+       "en": "The croissants look nice and warm."
+      },
+      {
+       "fr": "Le pain est chaud aussi.",
+       "en": "The bread is warm too."
+      },
+      {
+       "fr": "Le boulanger est très gentil.",
+       "en": "The baker is very nice."
+      },
+      {
+       "fr": "Il sourit à Claire.",
+       "en": "He smiles at Claire."
+      }
+     ],
+     "pic": {
+      "id": "boulangerie-1",
+      "alt": "Claire stops outside the warm-smelling bakery on her way to work."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Bonjour, madame ! » dit le boulanger.",
+       "en": "“Hello, madam!” says the baker."
+      },
+      {
+       "fr": "« Bonjour, monsieur ! » répond Claire.",
+       "en": "“Hello, sir!” replies Claire."
+      },
+      {
+       "fr": "« Je prends une baguette, s'il vous plaît », dit-elle.",
+       "en": "“I'll take a baguette, please,” she says."
+      },
+      {
+       "fr": "« Voilà votre baguette, madame, elle coûte un euro. »",
+       "en": "“Here is your baguette, madam, it costs one euro.”"
+      },
+      {
+       "fr": "« Et avec ça, madame ? »",
+       "en": "“And with that, madam?”"
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Deux croissants et un pain au chocolat, s'il vous plaît. »",
+       "en": "“Two croissants and a pain au chocolat, please.”"
+      },
+      {
+       "fr": "Le boulanger prépare un petit sac.",
+       "en": "The baker prepares a small bag."
+      },
+      {
+       "fr": "« Un croissant coûte un euro, madame. »",
+       "en": "“A croissant costs one euro, madam.”"
+      },
+      {
+       "fr": "« Le pain au chocolat coûte deux euros. »",
+       "en": "“The pain au chocolat costs two euros.”"
+      },
+      {
+       "fr": "« Ça fait cinq euros, s'il vous plaît, madame. »",
+       "en": "“That makes five euros, please, madam.”"
+      },
+      {
+       "fr": "Claire donne cinq euros au boulanger.",
+       "en": "Claire gives five euros to the baker."
+      },
+      {
+       "fr": "Le boulanger dit : « Merci, madame ! »",
+       "en": "The baker says: “Thank you, madam!”"
+      },
+      {
+       "fr": "Il donne le sac à Claire.",
+       "en": "He gives the bag to Claire."
+      }
+     ],
+     "pic": {
+      "id": "boulangerie-2",
+      "alt": "Claire pays the smiling baker for her croissants and pain au chocolat."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le boulanger sourit et dit : « Attendez ! »",
+       "en": "The baker smiles and says: “Wait!”"
+      },
+      {
+       "fr": "Il donne un autre croissant à Claire.",
+       "en": "He gives another croissant to Claire."
+      },
+      {
+       "fr": "« Un cadeau pour vous, madame ! » dit-il.",
+       "en": "“A gift for you, madam!” he says."
+      },
+      {
+       "fr": "« C'est parce que vous êtes gentille. »",
+       "en": "“It's because you are kind.”"
+      },
+      {
+       "fr": "« Un cadeau ? Oh, merci beaucoup, monsieur ! » dit Claire.",
+       "en": "“A gift? Oh, thank you very much, sir!” says Claire."
+      },
+      {
+       "fr": "Elle pense : « Il est très gentil ! »",
+       "en": "She thinks: “He is very kind!”"
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Bonne journée, madame ! »",
+       "en": "“Have a nice day, madam!”"
+      },
+      {
+       "fr": "« Merci, vous aussi, et au revoir ! »",
+       "en": "“Thank you, you too, and goodbye!”"
+      },
+      {
+       "fr": "Claire ouvre la porte.",
+       "en": "Claire opens the door."
+      },
+      {
+       "fr": "Dehors, il fait beau.",
+       "en": "Outside, the weather is nice."
+      },
+      {
+       "fr": "Claire sort avec sa baguette et son sac.",
+       "en": "Claire leaves with her baguette and her bag."
+      },
+      {
+       "fr": "Dans le bus, elle mange son cadeau.",
+       "en": "On the bus, she eats her gift."
+      },
+      {
+       "fr": "Elle sourit : la journée commence bien !",
+       "en": "She smiles: the day is starting well!"
+      }
+     ],
+     "pic": {
+      "id": "boulangerie-3",
+      "alt": "On the bus, Claire happily eats the croissant the baker gave her."
+     }
+    }
+   ]
+  }
+ ]
+}

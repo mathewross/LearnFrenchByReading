@@ -1,0 +1,145 @@
+{
+  "id": "dernier-train",
+  "series_id": null,
+  "episode": null,
+  "title": "Le dernier train",
+  "title_en": "The last train",
+  "level": "B2",
+  "summary_en": "After two exhausting days of meetings in Bordeaux, Hélène misses the last train home to La Rochelle by one minute. Alone in the nearly empty station, she is joined on her bench by an old man with a thermos who seems to be waiting for a train that does not exist.",
+  "tags": ["travel", "night", "kindness", "strangers"],
+  "key_vocab": ["train", "gare", "quai", "rater", "attendre", "banc", "thé", "thermos", "horloge", "voyageur", "inconnu", "raconter", "histoire", "nuit", "dernier"],
+  "source": "original",
+  "license": "CC0",
+  "chapters": [
+    {
+      "title": "Une minute de trop",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Quand Hélène est arrivée sur le quai, essoufflée, sa valise à la main, les feux rouges du dernier train disparaissaient déjà dans la nuit.", "en": "When Hélène reached the platform, out of breath, her suitcase in her hand, the red lights of the last train were already disappearing into the night."},
+          {"fr": "Elle l'avait raté d'une minute, peut-être moins.", "en": "She had missed it by a minute, maybe less.",
+           "ov": {"1": {"p": "PRON", "g": "it", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "Pendant un long moment, elle est restée immobile, comme si le train allait revenir, comme si l'on pouvait négocier avec un horaire.", "en": "For a long moment she stood still, as if the train were going to come back, as if one could negotiate with a timetable.",
+           "ov": {"14": {"g": "(euphonic l' before on, not translated)"}}},
+          {"fr": "Puis elle a levé les yeux vers la grande horloge de la gare Saint-Jean, qui indiquait vingt-deux heures deux.", "en": "Then she looked up at the big clock of the Saint-Jean station, which showed two minutes past ten."}
+        ]},
+        {"sentences": [
+          {"fr": "Ces deux journées à Bordeaux avaient été épuisantes.", "en": "These two days in Bordeaux had been exhausting."},
+          {"fr": "Elle avait enchaîné les réunions, présenté le même projet à trois clients différents et souri jusqu'à en avoir mal aux joues.", "en": "She had gone from one meeting to the next, presented the same project to three different clients and smiled until her cheeks hurt."},
+          {"fr": "Le dîner avec le directeur régional, qui devait durer une heure, s'était prolongé bien au-delà du dessert.", "en": "The dinner with the regional director, which was supposed to last an hour, had gone on well beyond dessert."},
+          {"fr": "Elle n'avait pas osé partir la première, et c'était précisément cette politesse qui lui coûtait maintenant son retour à La Rochelle.", "en": "She had not dared to leave first, and it was precisely this politeness that was now costing her the journey home to La Rochelle."}
+        ]},
+        {"sentences": [
+          {"fr": "Sur le guichet fermé, une affiche lui a appris que le prochain train ne partirait qu'à six heures dix.", "en": "On the closed ticket office, a notice told her that the next train would not leave until ten past six.",
+           "ov": {"15": {"g": "only (ne ... que)"}}},
+          {"fr": "Elle a appelé deux hôtels proches de la gare, mais on lui a répondu poliment qu'il ne restait plus une seule chambre, à cause d'un congrès médical.", "en": "She called two hotels near the station, but she was politely told that there was not a single room left, because of a medical conference."},
+          {"fr": "Sa batterie affichait onze pour cent.", "en": "Her battery showed eleven percent."},
+          {"fr": "Elle a envoyé un message à son mari pour lui dire qu'elle rentrerait le lendemain matin, puis elle a éteint son téléphone afin d'économiser ce qui restait.", "en": "She sent a message to her husband to tell him that she would come home the next morning, then she switched off her phone to save what was left."},
+          {"fr": "Il ne lui restait plus qu'à attendre.", "en": "All she could do now was wait.",
+           "ov": {"5": {"g": "only (ne ... que)"}}}
+        ]},
+        {"sentences": [
+          {"fr": "Elle s'est assise sur un banc du grand hall, presque vide à cette heure de la nuit.", "en": "She sat down on a bench in the big hall, almost empty at this time of night."},
+          {"fr": "Les derniers voyageurs étaient partis depuis longtemps.", "en": "The last travellers had left long ago."},
+          {"fr": "Un agent de sécurité faisait lentement sa ronde, deux pigeons se disputaient une miette de croissant, et une voix enregistrée répétait des annonces que personne n'écoutait.", "en": "A security guard was slowly doing his rounds, two pigeons were fighting over a croissant crumb, and a recorded voice was repeating announcements that nobody listened to.",
+           "ov": {"21": {"p": "PRON", "g": "that, which, whom (relative pronoun)"}}},
+          {"fr": "Au-dessus des quais, l'horloge avançait avec une lenteur presque moqueuse.", "en": "Above the platforms, the clock moved forward with an almost mocking slowness.",
+           "ov": {"1": {"l": "de", "p": "PREP", "m": "de + les"}}},
+          {"fr": "Hélène se sentait ridicule et, surtout, terriblement seule.", "en": "Hélène felt ridiculous and, above all, terribly alone."},
+          {"fr": "Elle pensait à sa fille, qui aurait sans doute voulu qu'on lui lise une histoire ce soir.", "en": "She thought of her daughter, who would no doubt have wanted someone to read her a story tonight."},
+          {"fr": "À quel moment sa vie était-elle devenue une course entre deux trains ?", "en": "When had her life become a race between two trains?"}
+        ]}
+      ]
+    },
+    {
+      "title": "L'inconnu au thermos",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Vers vingt-trois heures, un vieil homme est venu s'asseoir à l'autre bout du banc.", "en": "Around eleven p.m., an old man came and sat down at the other end of the bench."},
+          {"fr": "Il portait un manteau gris, soigneusement boutonné, et il tenait sur ses genoux un sac de toile d'où dépassait un thermos.", "en": "He was wearing a grey coat, carefully buttoned, and he held on his knees a canvas bag with a thermos sticking out of it."},
+          {"fr": "Hélène a instinctivement rapproché sa valise.", "en": "Hélène instinctively pulled her suitcase closer."},
+          {"fr": "Elle n'avait rien contre les inconnus, mais la nuit, dans une gare, la prudence lui semblait plus raisonnable que la curiosité.", "en": "She had nothing against strangers, but at night, in a station, caution seemed more sensible to her than curiosity.",
+           "ov": {"19": {"g": "than"}}}
+        ]},
+        {"sentences": [
+          {"fr": "« Vous avez raté le dernier train pour La Rochelle, n'est-ce pas ? » a-t-il demandé sans la regarder.", "en": "“You missed the last train to La Rochelle, didn't you?” he asked without looking at her.",
+           "ov": {"12": {"p": "PRON", "g": "her", "m": "object pronoun (feminine)"}}},
+          {"fr": "Surprise, elle a voulu savoir comment il l'avait deviné.", "en": "Surprised, she wanted to know how he had guessed it.",
+           "ov": {"7": {"p": "PRON", "g": "it", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "Il a souri et lui a expliqué que les gens qui ratent le dernier train ont tous le même air, un mélange de colère et d'incrédulité.", "en": "He smiled and explained to her that people who miss the last train all have the same look, a mixture of anger and disbelief.",
+           "ov": {"16": {"p": "PRON", "g": "all (of them)", "m": "plural"}}},
+          {"fr": "Selon lui, ils ressemblent à des gens à qui l'on aurait volé quelque chose.", "en": "According to him, they look like people who have had something stolen from them.",
+           "ov": {"9": {"g": "(euphonic l' before on, not translated)"}}},
+          {"fr": "Puis il a dévissé son thermos et lui a proposé du thé.", "en": "Then he unscrewed his thermos and offered her some tea."}
+        ]},
+        {"sentences": [
+          {"fr": "Hélène a hésité.", "en": "Hélène hesitated."},
+          {"fr": "Tout ce qu'on lui avait appris depuis l'enfance lui conseillait de refuser poliment.", "en": "Everything she had been taught since childhood advised her to refuse politely.",
+           "ov": {"0": {"p": "PRON", "g": "everything (tout ce que = everything that)"}, "2": {"p": "PRON", "g": "that, which, whom (relative pronoun)"}}},
+          {"fr": "Pourtant, il y avait dans la voix de cet inconnu une douceur si tranquille qu'elle a fini par accepter le gobelet.", "en": "And yet there was such a calm gentleness in this stranger's voice that she ended up accepting the cup.",
+           "ov": {"10": {"p": "ADV", "g": "so"}}},
+          {"fr": "Le thé était brûlant, légèrement sucré, et il avait un goût de menthe.", "en": "The tea was very hot, slightly sweet, and it tasted of mint."}
+        ]},
+        {"sentences": [
+          {"fr": "« Je m'appelle Lucien, a-t-il dit, et je viens ici tous les mardis soir. »", "en": "“My name is Lucien,” he said, “and I come here every Tuesday evening.”"},
+          {"fr": "Hélène s'est demandé s'il attendait quelqu'un.", "en": "Hélène wondered whether he was waiting for someone.",
+           "ov": {"4": {"l": "si", "p": "CONJ", "g": "if, whether", "m": "before il"}}},
+          {"fr": "Elle l'a observé du coin de l'œil : il jetait régulièrement un regard vers l'horloge, puis vers le tableau des départs, pourtant presque vide.", "en": "She watched him out of the corner of her eye: he regularly glanced at the clock, then at the departures board, which was nevertheless almost empty.",
+           "ov": {"1": {"p": "PRON", "g": "him", "m": "object pronoun (before a vowel)"}, "17": {"l": "de", "p": "PREP", "m": "de + les"}}},
+          {"fr": "Une inquiétude diffuse l'a gagnée.", "en": "A vague unease came over her.",
+           "ov": {"3": {"p": "PRON", "g": "her", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "Était-il perdu, malade, ou simplement très seul ?", "en": "Was he lost, ill, or simply very lonely?"}
+        ]},
+        {"sentences": [
+          {"fr": "Elle a fini par lui demander quel train il attendait.", "en": "In the end she asked him which train he was waiting for."},
+          {"fr": "« Le dernier, a-t-il répondu, toujours le dernier. »", "en": "“The last one,” he replied, “always the last one.”"},
+          {"fr": "Cette réponse, loin de la rassurer, l'a troublée davantage.", "en": "This answer, far from reassuring her, troubled her even more.",
+           "ov": {"4": {"p": "PRON", "g": "her", "m": "object pronoun (feminine)"}, "6": {"p": "PRON", "g": "her", "m": "object pronoun (before a vowel)"}}}
+        ]}
+      ]
+    },
+    {
+      "title": "Ceux qui restent",
+      "paragraphs": [
+        {"sentences": [
+          {"fr": "Alors Lucien lui a raconté son histoire.", "en": "So Lucien told her his story."},
+          {"fr": "Un soir de novembre, bien des années plus tôt, il venait de perdre son emploi à l'usine et il avait raté ce même train.", "en": "One November evening, many years earlier, he had just lost his job at the factory and he had missed this same train."},
+          {"fr": "Il se souvenait d'avoir pensé que plus rien n'avait de sens.", "en": "He remembered thinking that nothing made sense any more."},
+          {"fr": "Une employée du guichet, qui terminait son service, l'avait remarqué sur ce banc ; elle lui avait apporté un thé et elle était restée avec lui toute la nuit.", "en": "A ticket office clerk who was finishing her shift had noticed him on this bench; she had brought him a tea and she had stayed with him all night.",
+           "ov": {"8": {"p": "PRON", "g": "him", "m": "object pronoun (before a vowel)"}}}
+        ]},
+        {"sentences": [
+          {"fr": "« Elle ne m'a donné aucun conseil, a-t-il précisé, elle m'a seulement écouté, et c'était exactement ce dont j'avais besoin. »", "en": "“She didn't give me any advice,” he explained, “she only listened to me, and that was exactly what I needed.”"},
+          {"fr": "Cette employée s'appelait Mireille, et deux ans plus tard, ils s'étaient mariés.", "en": "This clerk was called Mireille, and two years later they had got married."},
+          {"fr": "Pendant trente ans, elle avait été connue de tous les cheminots comme la dame qui ne laissait jamais un voyageur seul.", "en": "For thirty years, she had been known to all the railway workers as the lady who never left a traveller alone.",
+           "ov": {"7": {"g": "by (passive: connue de = known by)"}}},
+          {"fr": "Lucien a ajouté, avec un sourire où se mêlaient la tendresse et le chagrin, que Mireille était décédée l'hiver dernier.", "en": "Lucien added, with a smile in which tenderness and sorrow mingled, that Mireille had passed away last winter.",
+           "ov": {"5": {"p": "NOUN", "g": "smile (noun)"}, "6": {"g": "in which"}}},
+          {"fr": "Depuis, chaque mardi, il revenait avec son thermos, à l'heure où le dernier train quittait la gare.", "en": "Since then, every Tuesday, he came back with his thermos, at the time when the last train left the station.",
+           "ov": {"11": {"g": "when (l'heure où = the time when)"}}}
+        ]},
+        {"sentences": [
+          {"fr": "Hélène a enfin compris.", "en": "Hélène finally understood."},
+          {"fr": "Lucien ne cherchait pas un train sur le tableau des départs : il cherchait les voyageurs que le train avait laissés derrière lui.", "en": "Lucien was not looking for a train on the departures board: he was looking for the travellers the train had left behind.",
+           "ov": {"9": {"l": "de", "p": "PREP", "m": "de + les"}, "15": {"p": "PRON", "g": "that, which, whom (relative pronoun)"}}},
+          {"fr": "« Le dernier train, a dit Lucien doucement, c'est celui des gens qui restent. »", "en": "“The last train,” Lucien said gently, “is the one for the people who stay behind.”",
+           "ov": {"8": {"m": "present (il/elle)"}, "10": {"l": "de", "p": "PREP", "m": "de + les"}}},
+          {"fr": "Ils ont parlé pendant des heures de La Rochelle, de la fatigue, des enfants qui grandissent trop vite, et de ces choses qu'on confie parfois plus facilement à un inconnu.", "en": "They talked for hours about La Rochelle, tiredness, children who grow up too fast, and those things you sometimes confide more easily to a stranger.",
+           "ov": {"1": {"m": "present (ils/elles), auxiliary"}, "6": {"g": "about (parler de = to talk about)"}, "11": {"l": "de", "p": "PREP", "m": "de + les"}, "21": {"p": "PRON", "g": "that, which, whom (relative pronoun)"}}},
+          {"fr": "Hélène, à son tour, lui a raconté des choses qu'elle n'avait jamais dites à personne.", "en": "Hélène, in turn, told him things she had never said to anyone.",
+           "ov": {"7": {"p": "PRON", "g": "that, which, whom (relative pronoun)"}}}
+        ]},
+        {"sentences": [
+          {"fr": "À six heures, le train pour La Rochelle a été annoncé, et Hélène a été surprise de constater qu'elle n'avait pas regardé l'horloge depuis longtemps.", "en": "At six o'clock, the train to La Rochelle was announced, and Hélène was surprised to notice that she had not looked at the clock for a long time."},
+          {"fr": "Lucien l'a accompagnée jusqu'au quai, a refusé d'être remercié et lui a souhaité un bon retour.", "en": "Lucien walked her to the platform, refused to be thanked and wished her a safe journey home.",
+           "ov": {"1": {"p": "PRON", "g": "her", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "Par la fenêtre, elle l'a regardé s'éloigner, petit homme gris dans la lumière pâle du matin.", "en": "Through the window, she watched him walk away, a small grey man in the pale morning light.",
+           "ov": {"4": {"p": "PRON", "g": "him", "m": "object pronoun (before a vowel)"}}},
+          {"fr": "Elle avait raté un train, certes, mais elle avait l'impression étrange d'en avoir attrapé un autre, plus lent et plus important.", "en": "She had missed a train, admittedly, but she had the strange feeling that she had caught another one, slower and more important.",
+           "ov": {"16": {"p": "PRON", "g": "one"}}},
+          {"fr": "Elle raconterait cette histoire à sa fille, se disait-elle, et elle se promettait que la prochaine fois qu'elle verrait quelqu'un seul sur un banc, elle s'arrêterait.", "en": "She would tell this story to her daughter, she told herself, and she promised herself that the next time she saw someone alone on a bench, she would stop.",
+           "ov": {"16": {"g": "that (la prochaine fois que = the next time)"}}}
+        ]}
+      ]
+    }
+  ]
+}

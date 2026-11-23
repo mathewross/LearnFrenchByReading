@@ -1,0 +1,216 @@
+{
+ "id": "lea-4",
+ "series_id": "lea-paris",
+ "episode": 4,
+ "title": "Léa téléphone à sa mère",
+ "title_en": "Léa phones her mother",
+ "level": "A1",
+ "summary_en": "In the evening, Léa phones her mother and tells her about her days in Paris. Her mother asks lots of simple questions.",
+ "tags": [
+  "family",
+  "travel",
+  "city"
+ ],
+ "key_vocab": [
+  "mère",
+  "maman",
+  "aimer",
+  "métro",
+  "parc",
+  "marché",
+  "manger",
+  "hôtel",
+  "content",
+  "prendre"
+ ],
+ "cover": "lea-4-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Le soir, Léa est dans sa chambre.",
+       "en": "In the evening, Léa is in her room."
+      },
+      {
+       "fr": "L'hôtel est petit et calme.",
+       "en": "The hotel is small and quiet."
+      },
+      {
+       "fr": "Elle prend son téléphone.",
+       "en": "She picks up her phone."
+      },
+      {
+       "fr": "Elle téléphone à sa mère.",
+       "en": "She phones her mother.",
+       "ov": {
+        "1": {
+         "l": "téléphoner",
+         "p": "VERB",
+         "m": "present (il/elle)",
+         "g": "to phone"
+        }
+       }
+      },
+      {
+       "fr": "« Allô, maman ? » dit Léa.",
+       "en": "\"Hello, Mum?\" says Léa."
+      },
+      {
+       "fr": "« Léa ! » dit sa mère.",
+       "en": "\"Léa!\" says her mother."
+      },
+      {
+       "fr": "« Ça va ? »",
+       "en": "\"Are you okay?\""
+      }
+     ],
+     "pic": {
+      "id": "lea-4-1",
+      "alt": "Sitting on her hotel bed, Léa phones her mother."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Oui, maman, je suis très contente ! »",
+       "en": "\"Yes, Mum, I'm very happy!\""
+      },
+      {
+       "fr": "« Tu es contente ? »",
+       "en": "\"Are you happy?\""
+      },
+      {
+       "fr": "« Tu aimes Paris ? » demande sa mère.",
+       "en": "\"Do you like Paris?\" asks her mother."
+      },
+      {
+       "fr": "« Oui, j'aime beaucoup Paris ! » dit Léa.",
+       "en": "\"Yes, I like Paris a lot!\" says Léa."
+      },
+      {
+       "fr": "« Je suis dans un petit hôtel près du parc. »",
+       "en": "\"I am in a small hotel near the park.\""
+      },
+      {
+       "fr": "« Et le train ? Il est bien ? » demande sa mère.",
+       "en": "\"And the train? Is it good?\" asks her mother."
+      },
+      {
+       "fr": "« Le train est grand et très beau ! »",
+       "en": "\"The train is big and very nice!\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Tu manges bien ? » demande sa mère.",
+       "en": "\"Are you eating well?\" asks her mother."
+      },
+      {
+       "fr": "« Oui, je mange un croissant au café. »",
+       "en": "\"Yes, I eat a croissant at the café.\""
+      },
+      {
+       "fr": "« Et tu manges des légumes ? »",
+       "en": "\"And do you eat vegetables?\""
+      },
+      {
+       "fr": "« Oui, des légumes et des fruits ! »",
+       "en": "\"Yes, vegetables and fruit!\""
+      },
+      {
+       "fr": "« Et tu prends le métro ? »",
+       "en": "\"And do you take the metro?\""
+      },
+      {
+       "fr": "« Oui, je prends le métro jaune. »",
+       "en": "\"Yes, I take the yellow metro.\""
+      },
+      {
+       "fr": "« Le métro est plein, mais ça va. »",
+       "en": "\"The metro is full, but it's fine.\""
+      },
+      {
+       "fr": "« Je vais aussi au grand parc. »",
+       "en": "\"I also go to the big park.\""
+      },
+      {
+       "fr": "« Il y a des arbres dans le parc. »",
+       "en": "\"There are trees in the park.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Le matin, je vais au marché ! » dit Léa.",
+       "en": "\"In the morning, I go to the market!\" says Léa."
+      },
+      {
+       "fr": "« Au marché, j'achète des pommes et des poires. »",
+       "en": "\"At the market, I buy apples and pears.\""
+      },
+      {
+       "fr": "« Le marché est près du parc. »",
+       "en": "\"The market is near the park.\""
+      },
+      {
+       "fr": "« Le vendeur s'appelle Monsieur Poire ! »",
+       "en": "\"The seller is called Mr. Pear!\""
+      },
+      {
+       "fr": "« Monsieur Poire ? » rit sa mère.",
+       "en": "\"Mr. Pear?\" laughs her mother."
+      },
+      {
+       "fr": "« Oui, maman ! Il est très gentil. »",
+       "en": "\"Yes, Mum! He is very kind.\""
+      },
+      {
+       "fr": "La mère de Léa est contente.",
+       "en": "Léa's mother is happy."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Tu es loin, mais je pense à toi. »",
+       "en": "\"You are far away, but I think of you.\""
+      },
+      {
+       "fr": "« Je t'aime, maman », dit Léa.",
+       "en": "\"I love you, Mum,\" says Léa."
+      },
+      {
+       "fr": "« Bonne nuit, ma Léa. »",
+       "en": "\"Good night, my Léa.\""
+      },
+      {
+       "fr": "Léa regarde par la fenêtre de l'hôtel.",
+       "en": "Léa looks out of the hotel window."
+      },
+      {
+       "fr": "La nuit, Paris est belle.",
+       "en": "At night, Paris is beautiful."
+      },
+      {
+       "fr": "Elle est heureuse.",
+       "en": "She is happy."
+      }
+     ],
+     "pic": {
+      "id": "lea-4-2",
+      "alt": "At night, Léa looks out at the lights of Paris and the Eiffel Tower."
+     }
+    }
+   ]
+  }
+ ]
+}

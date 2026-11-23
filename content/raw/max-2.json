@@ -1,0 +1,182 @@
+{
+ "id": "max-2",
+ "series_id": "max-chat",
+ "episode": 2,
+ "title": "Max et le poisson rouge",
+ "title_en": "Max and the goldfish",
+ "level": "A1",
+ "summary_en": "Max the grey cat discovers a goldfish named Bulle in a bowl. He watches it and tries to touch it, until Emma arrives.",
+ "tags": [
+  "cat",
+  "pets",
+  "humour"
+ ],
+ "key_vocab": [
+  "chat",
+  "poisson",
+  "bol",
+  "eau",
+  "regarder",
+  "toucher",
+  "vouloir",
+  "petit",
+  "nager",
+  "rouge",
+  "patte",
+  "vite"
+ ],
+ "cover": "max-2-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Max est un chat gris.",
+       "en": "Max is a grey cat."
+      },
+      {
+       "fr": "Il a de grands yeux verts.",
+       "en": "He has big green eyes."
+      },
+      {
+       "fr": "Il habite avec Emma dans un petit appartement.",
+       "en": "He lives with Emma in a small flat."
+      },
+      {
+       "fr": "Le chat est seul dans la cuisine.",
+       "en": "The cat is alone in the kitchen."
+      },
+      {
+       "fr": "Aujourd'hui, il y a un bol sur la table.",
+       "en": "Today, there is a bowl on the table."
+      },
+      {
+       "fr": "Dans le bol, il y a un petit poisson rouge.",
+       "en": "In the bowl, there is a small goldfish."
+      },
+      {
+       "fr": "Le poisson s'appelle Bulle.",
+       "en": "The fish is called Bulle."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Max saute vite sur la table.",
+       "en": "Max quickly jumps onto the table."
+      },
+      {
+       "fr": "Le chat regarde le poisson rouge.",
+       "en": "The cat looks at the goldfish."
+      },
+      {
+       "fr": "Le poisson rouge nage dans l'eau.",
+       "en": "The goldfish swims in the water."
+      },
+      {
+       "fr": "Max ne bouge pas.",
+       "en": "Max does not move."
+      },
+      {
+       "fr": "Max regarde l'eau et le poisson.",
+       "en": "Max watches the water and the fish."
+      },
+      {
+       "fr": "Il regarde Bulle très longtemps.",
+       "en": "He watches Bulle for a very long time."
+      },
+      {
+       "fr": "Bulle regarde Max aussi.",
+       "en": "Bulle looks at Max too."
+      }
+     ],
+     "pic": {
+      "id": "max-2-1",
+      "alt": "Max sits on the table and stares at Bulle the goldfish in her bowl."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Max veut toucher le poisson.",
+       "en": "Max wants to touch the fish."
+      },
+      {
+       "fr": "Il veut jouer avec le poisson.",
+       "en": "He wants to play with the fish."
+      },
+      {
+       "fr": "Il touche l'eau du bol avec sa patte.",
+       "en": "He touches the water in the bowl with his paw."
+      },
+      {
+       "fr": "L'eau est froide !",
+       "en": "The water is cold!"
+      },
+      {
+       "fr": "Max retire vite sa patte.",
+       "en": "Max quickly pulls back his paw."
+      },
+      {
+       "fr": "Sa petite patte est mouillée.",
+       "en": "His little paw is wet."
+      },
+      {
+       "fr": "Bulle nage vite, nage et nage encore.",
+       "en": "Bulle swims fast, and swims and swims again."
+      },
+      {
+       "fr": "Max veut encore toucher le petit poisson.",
+       "en": "Max still wants to touch the little fish."
+      }
+     ],
+     "pic": {
+      "id": "max-2-2",
+      "alt": "Max puts his paw into the cold water and Bulle swims away."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Emma arrive dans la cuisine.",
+       "en": "Emma comes into the kitchen."
+      },
+      {
+       "fr": "« Max ! Non ! » dit-elle.",
+       "en": "“Max! No!” she says."
+      },
+      {
+       "fr": "Max est mouillé et il a l'air triste.",
+       "en": "Max is wet and he looks sad."
+      },
+      {
+       "fr": "Emma rit : « Pauvre petit chat ! »",
+       "en": "Emma laughs: “Poor little cat!”"
+      },
+      {
+       "fr": "« Le poisson n'est pas un jouet. »",
+       "en": "“The fish is not a toy.”"
+      },
+      {
+       "fr": "Elle prend Max dans ses bras.",
+       "en": "She takes Max in her arms."
+      },
+      {
+       "fr": "Max regarde Bulle, et Bulle regarde Max.",
+       "en": "Max looks at Bulle, and Bulle looks at Max."
+      },
+      {
+       "fr": "Ils sont peut-être amis.",
+       "en": "Maybe they are friends."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "id": "au-restaurant",
+ "series_id": null,
+ "episode": null,
+ "title": "Au restaurant",
+ "title_en": "At the restaurant",
+ "level": "A1",
+ "summary_en": "Julie and Hugo have dinner in a small restaurant. The waiter is kind, but one dish is not available.",
+ "tags": [
+  "food",
+  "couple",
+  "restaurant"
+ ],
+ "key_vocab": [
+  "restaurant",
+  "table",
+  "menu",
+  "serveur",
+  "poulet",
+  "poisson",
+  "vouloir",
+  "dire",
+  "addition",
+  "soupe",
+  "aimer"
+ ],
+ "cover": "au-restaurant-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Julie et Hugo entrent dans un petit restaurant.",
+       "en": "Julie and Hugo go into a small restaurant."
+      },
+      {
+       "fr": "Il y a beaucoup de monde dans le restaurant.",
+       "en": "There are a lot of people in the restaurant."
+      },
+      {
+       "fr": "Une table est près de la fenêtre.",
+       "en": "A table is near the window."
+      },
+      {
+       "fr": "Ils vont à la table.",
+       "en": "They go to the table."
+      },
+      {
+       "fr": "Le serveur arrive avec le menu.",
+       "en": "The waiter arrives with the menu."
+      }
+     ],
+     "pic": {
+      "id": "au-restaurant-1",
+      "alt": "Julie and Hugo sit at a table near the window while the waiter brings the menu."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Il est grand et très gentil.",
+       "en": "He is tall and very kind."
+      },
+      {
+       "fr": "« Bonsoir ! Voici le menu », dit-il.",
+       "en": "“Good evening! Here is the menu,” he says."
+      },
+      {
+       "fr": "Julie regarde le menu.",
+       "en": "Julie looks at the menu."
+      },
+      {
+       "fr": "Elle aime le poulet.",
+       "en": "She likes chicken."
+      },
+      {
+       "fr": "Elle a faim et Hugo aussi.",
+       "en": "She is hungry and so is Hugo."
+      },
+      {
+       "fr": "« Je veux le poulet », dit Julie.",
+       "en": "“I want the chicken,” says Julie."
+      },
+      {
+       "fr": "Hugo veut une soupe et des pâtes.",
+       "en": "Hugo wants a soup and some pasta."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Et pour boire ? » demande le serveur.",
+       "en": "“And to drink?” asks the waiter."
+      },
+      {
+       "fr": "« De l'eau, s'il vous plaît », dit Hugo.",
+       "en": "“Some water, please,” says Hugo."
+      },
+      {
+       "fr": "« Un verre de vin pour moi », dit Julie.",
+       "en": "“A glass of wine for me,” says Julie."
+      },
+      {
+       "fr": "Le serveur apporte l'eau et le vin.",
+       "en": "The waiter brings the water and the wine."
+      },
+      {
+       "fr": "« Désolé, il n'y a plus de poulet », dit-il.",
+       "en": "“Sorry, there is no more chicken,” he says."
+      },
+      {
+       "fr": "Julie sourit : « Alors, je prends le poisson. »",
+       "en": "Julie smiles: “Then I'll have the fish.”"
+      }
+     ],
+     "pic": {
+      "id": "au-restaurant-2",
+      "alt": "The waiter pours the wine and brings the water."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le poisson est très bon.",
+       "en": "The fish is very good."
+      },
+      {
+       "fr": "Hugo mange sa soupe et ses pâtes.",
+       "en": "Hugo eats his soup and his pasta."
+      },
+      {
+       "fr": "Julie aime beaucoup le poisson.",
+       "en": "Julie likes the fish a lot."
+      },
+      {
+       "fr": "Hugo aime aussi sa soupe.",
+       "en": "Hugo also likes his soup."
+      },
+      {
+       "fr": "Ils parlent et ils rient.",
+       "en": "They talk and they laugh."
+      },
+      {
+       "fr": "Sur la table, il y a une petite bougie.",
+       "en": "On the table, there is a small candle."
+      },
+      {
+       "fr": "Ils veulent un gâteau au chocolat.",
+       "en": "They want a chocolate cake."
+      }
+     ],
+     "pic": {
+      "id": "au-restaurant-3",
+      "alt": "Julie and Hugo laugh over their fish, soup and pasta by candlelight."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« L'addition, s'il vous plaît », dit Hugo.",
+       "en": "“The bill, please,” says Hugo."
+      },
+      {
+       "fr": "Le serveur sourit et apporte l'addition.",
+       "en": "The waiter smiles and brings the bill."
+      },
+      {
+       "fr": "Hugo paie l'addition avec sa carte.",
+       "en": "Hugo pays the bill with his card."
+      },
+      {
+       "fr": "Le serveur dit : « Bonne soirée ! »",
+       "en": "The waiter says: “Have a nice evening!”"
+      },
+      {
+       "fr": "Julie prend la main de Hugo.",
+       "en": "Julie takes Hugo's hand."
+      },
+      {
+       "fr": "Le restaurant est petit, mais la soirée est belle.",
+       "en": "The restaurant is small, but the evening is lovely."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

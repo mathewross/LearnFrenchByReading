@@ -1,0 +1,188 @@
+{
+ "id": "nouveau-voisin",
+ "series_id": null,
+ "episode": null,
+ "title": "Un nouveau voisin",
+ "title_en": "A new neighbour",
+ "level": "A1",
+ "summary_en": "Inès meets her new neighbour Karim in the stairwell, surrounded by his moving boxes. She offers to help.",
+ "tags": [
+  "neighbours",
+  "city",
+  "friendship"
+ ],
+ "key_vocab": [
+  "voisin",
+  "boîte",
+  "appartement",
+  "étage",
+  "nouveau",
+  "café",
+  "escalier",
+  "venir",
+  "habiter",
+  "dire"
+ ],
+ "cover": "nouveau-voisin-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Inès monte l'escalier avec son sac.",
+       "en": "Inès goes up the stairs with her bag."
+      },
+      {
+       "fr": "Il y a beaucoup de boîtes devant une porte.",
+       "en": "There are a lot of boxes in front of a door."
+      },
+      {
+       "fr": "Un homme est à côté de la porte.",
+       "en": "A man is next to the door."
+      },
+      {
+       "fr": "Il porte une grande boîte.",
+       "en": "He is carrying a big box."
+      },
+      {
+       "fr": "Il est jeune et il sourit.",
+       "en": "He is young and he smiles."
+      }
+     ],
+     "pic": {
+      "id": "nouveau-voisin-1",
+      "alt": "Inès meets Karim, who is carrying a big box among his moving boxes."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Bonjour ! Vous êtes le nouveau voisin ? » dit Inès.",
+       "en": "“Hello! Are you the new neighbour?” says Inès."
+      },
+      {
+       "fr": "« Oui, je m'appelle Karim », répond l'homme.",
+       "en": "“Yes, my name is Karim,” replies the man."
+      },
+      {
+       "fr": "« Moi, je m'appelle Inès. »",
+       "en": "“Me, my name is Inès.”"
+      },
+      {
+       "fr": "Inès habite au deuxième étage.",
+       "en": "Inès lives on the second floor."
+      },
+      {
+       "fr": "Karim habite ici aussi, à côté.",
+       "en": "Karim lives here too, next door."
+      },
+      {
+       "fr": "Il y a deux appartements à cet étage.",
+       "en": "There are two flats on this floor."
+      },
+      {
+       "fr": "L'escalier est petit et vieux.",
+       "en": "The stairwell is small and old."
+      },
+      {
+       "fr": "Karim et Inès habitent au même étage.",
+       "en": "Karim and Inès live on the same floor."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "« Vous venez d'où ? » demande Inès.",
+       "en": "“Where do you come from?” asks Inès."
+      },
+      {
+       "fr": "« Je viens de Marseille », dit Karim.",
+       "en": "“I come from Marseille,” says Karim."
+      },
+      {
+       "fr": "« Je suis cuisinier dans un restaurant. »",
+       "en": "“I am a cook in a restaurant.”"
+      },
+      {
+       "fr": "« Quel beau métier ! » dit Inès.",
+       "en": "“What a lovely job!” says Inès."
+      },
+      {
+       "fr": "Karim rit : « Oui, mais je suis fatigué ! »",
+       "en": "Karim laughs: “Yes, but I am tired!”"
+      },
+      {
+       "fr": "Il travaille le soir.",
+       "en": "He works in the evening."
+      },
+      {
+       "fr": "Inès vient de Lyon.",
+       "en": "Inès comes from Lyon."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Il y a trop de boîtes dans l'escalier.",
+       "en": "There are too many boxes on the stairs."
+      },
+      {
+       "fr": "« Je peux vous aider ? » demande Inès.",
+       "en": "“Can I help you?” asks Inès."
+      },
+      {
+       "fr": "« Oui, merci ! » répond Karim.",
+       "en": "“Yes, thank you!” replies Karim."
+      },
+      {
+       "fr": "Ils portent les boîtes dans l'appartement.",
+       "en": "They carry the boxes into the flat."
+      },
+      {
+       "fr": "L'appartement est petit, mais il est joli.",
+       "en": "The flat is small, but it is pretty."
+      },
+      {
+       "fr": "« Bienvenue, nouveau voisin ! » dit Inès.",
+       "en": "“Welcome, new neighbour!” says Inès."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Puis Inès dit : « Vous voulez un café ? »",
+       "en": "Then Inès says: “Do you want a coffee?”"
+      },
+      {
+       "fr": "« J'ai du très bon café. »",
+       "en": "“I have some very good coffee.”"
+      },
+      {
+       "fr": "« Avec plaisir ! » dit Karim.",
+       "en": "“With pleasure!” says Karim."
+      },
+      {
+       "fr": "Ils boivent le café ensemble.",
+       "en": "They drink the coffee together."
+      },
+      {
+       "fr": "Inès est contente : son nouveau voisin est gentil.",
+       "en": "Inès is happy: her new neighbour is nice."
+      }
+     ],
+     "pic": {
+      "id": "nouveau-voisin-2",
+      "alt": "Inès and Karim drink coffee together in the new flat."
+     }
+    }
+   ]
+  }
+ ]
+}

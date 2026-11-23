@@ -118,5 +118,38 @@ class LibraryTests(unittest.TestCase):
                 self.assertIn(lib["lemmas"][i], st["lemmas"])
 
 
+class PictureTests(unittest.TestCase):
+    def setUp(self):
+        self.forms, self.phrases, self.lemmas = build.load_lexicon()
+
+    def with_pic(self, pic):
+        raw = story([{"fr": "Le train.", "en": "The train."}])
+        raw["chapters"][0]["paragraphs"][0]["pic"] = pic
+        errors = []
+        res = build.enrich_story(raw, self.forms, self.phrases, self.lemmas, errors)
+        return res, errors
+
+    def test_missing_image_file_fails(self):
+        _, errors = self.with_pic({"id": "no-such-scene", "alt": "x"})
+        self.assertTrue(any("missing image" in e for e in errors))
+
+    def test_picture_needs_alt_text(self):
+        _, errors = self.with_pic({"id": "lea-1-train", "alt": ""})
+        self.assertTrue(any("alt text" in e for e in errors))
+
+    def test_valid_picture_is_keyed_by_chapter_and_paragraph(self):
+        res, errors = self.with_pic({"id": "lea-1-train", "alt": "A train."})
+        self.assertEqual(errors, [])
+        self.assertEqual(res[0]["pics"]["0.0"], {"src": "img/lea-1-train.svg", "alt": "A train."})
+
+    def test_every_shipped_picture_is_wellformed_and_small(self):
+        import xml.etree.ElementTree as ET
+        imgs = sorted((Path(__file__).resolve().parent.parent.parent / "docs" / "img").glob("*.svg"))
+        self.assertTrue(imgs)
+        for f in imgs:
+            ET.parse(f)
+            self.assertLessEqual(f.stat().st_size, build.MAX_IMG)
+
+
 if __name__ == "__main__":
     unittest.main()

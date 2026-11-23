@@ -1,0 +1,186 @@
+{
+ "id": "mon-appartement",
+ "series_id": null,
+ "episode": null,
+ "title": "Mon appartement",
+ "title_en": "My flat",
+ "level": "A1",
+ "summary_en": "A young man shows his small flat room by room, but he cannot find his keys anywhere.",
+ "tags": [
+  "home",
+  "daily life",
+  "humour"
+ ],
+ "key_vocab": [
+  "appartement",
+  "clé",
+  "chambre",
+  "cuisine",
+  "salon",
+  "chercher",
+  "grand",
+  "petit",
+  "lit",
+  "table",
+  "frigo",
+  "il y a"
+ ],
+ "cover": "mon-appartement-1",
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Je m'appelle Théo.",
+       "en": "My name is Théo."
+      },
+      {
+       "fr": "J'habite dans un petit appartement.",
+       "en": "I live in a small flat."
+      },
+      {
+       "fr": "Il y a une chambre, une cuisine et un salon.",
+       "en": "There is a bedroom, a kitchen and a living room."
+      },
+      {
+       "fr": "Aujourd'hui, je montre mon appartement.",
+       "en": "Today, I show my flat."
+      },
+      {
+       "fr": "Mais je cherche mes clés !",
+       "en": "But I am looking for my keys!"
+      }
+     ],
+     "pic": {
+      "id": "mon-appartement-1",
+      "alt": "Théo stands between the living room, the kitchen and the bedroom of his small flat."
+     }
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Voici mon salon, il est bleu.",
+       "en": "Here is my living room, it is blue."
+      },
+      {
+       "fr": "Il y a un grand canapé gris.",
+       "en": "There is a big grey sofa."
+      },
+      {
+       "fr": "Il y a aussi une table et deux chaises.",
+       "en": "There is also a table and two chairs."
+      },
+      {
+       "fr": "Dans le salon, je regarde la télé.",
+       "en": "In the living room, I watch TV."
+      },
+      {
+       "fr": "Les clés ne sont pas sur la table.",
+       "en": "The keys are not on the table."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Voici ma cuisine, elle est petite.",
+       "en": "Here is my kitchen, it is small."
+      },
+      {
+       "fr": "Elle est blanche et jaune.",
+       "en": "It is white and yellow."
+      },
+      {
+       "fr": "Il y a un petit frigo blanc.",
+       "en": "There is a small white fridge."
+      },
+      {
+       "fr": "Dans la cuisine, je mange à la table.",
+       "en": "In the kitchen, I eat at the table."
+      },
+      {
+       "fr": "Je cherche mes clés ici.",
+       "en": "I look for my keys here."
+      },
+      {
+       "fr": "Elles ne sont pas là.",
+       "en": "They are not there."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Voici ma chambre, elle est petite mais belle.",
+       "en": "Here is my bedroom, it is small but nice."
+      },
+      {
+       "fr": "Les murs sont verts.",
+       "en": "The walls are green."
+      },
+      {
+       "fr": "Il y a une grande fenêtre.",
+       "en": "There is a big window."
+      },
+      {
+       "fr": "Il y a un grand lit et une lampe.",
+       "en": "There is a big bed and a lamp."
+      },
+      {
+       "fr": "Dans ma chambre, je dors et je lis.",
+       "en": "In my bedroom, I sleep and I read."
+      },
+      {
+       "fr": "Les clés ne sont pas sur le lit.",
+       "en": "The keys are not on the bed."
+      },
+      {
+       "fr": "Je cherche mes clés sous le lit.",
+       "en": "I look for my keys under the bed."
+      },
+      {
+       "fr": "Elles ne sont pas là non plus.",
+       "en": "They are not there either."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Maintenant, je veux un verre de lait.",
+       "en": "Now, I want a glass of milk."
+      },
+      {
+       "fr": "Je vais dans la cuisine.",
+       "en": "I go into the kitchen."
+      },
+      {
+       "fr": "J'ouvre le frigo.",
+       "en": "I open the fridge."
+      },
+      {
+       "fr": "Mes clés sont dans le frigo, avec le lait !",
+       "en": "My keys are in the fridge, with the milk!"
+      },
+      {
+       "fr": "Je ris et je bois mon lait.",
+       "en": "I laugh and I drink my milk."
+      },
+      {
+       "fr": "J'aime mon petit appartement !",
+       "en": "I love my little flat!"
+      }
+     ],
+     "pic": {
+      "id": "mon-appartement-2",
+      "alt": "Théo laughs: his keys are in the fridge, next to the milk."
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,475 @@
+{
+ "id": "la-traversee",
+ "series_id": null,
+ "episode": null,
+ "title": "La traversée",
+ "title_en": "The crossing",
+ "level": "C1",
+ "summary_en": "After thirty years in Montreal, Soazig takes the night boat back to the Breton island where she was born, to deal with her late father's house. On deck, an old islander recognises her and starts to remember.",
+ "tags": [
+  "sea",
+  "family",
+  "memory",
+  "brittany"
+ ],
+ "key_vocab": [
+  "mer",
+  "île",
+  "nuit",
+  "lumière",
+  "sel",
+  "phare",
+  "vent",
+  "père",
+  "revenir",
+  "voix",
+  "pont",
+  "regarder"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "Le quai",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Le bateau de nuit quittait Brest à onze heures, et Soazig arriva sur le quai bien avant l'heure, comme on arrive trop tôt à un rendez-vous que l'on redoute.",
+       "en": "The night boat left Brest at eleven o'clock, and Soazig reached the quay well ahead of time, the way one arrives too early for a meeting one dreads.",
+       "ov": {
+        "28": {
+         "p": "PRON",
+         "g": "(euphonic l' before on; not translated)",
+         "m": "before a vowel"
+        }
+       }
+      },
+      {
+       "fr": "Il y avait trente ans qu'elle n'avait pas vu l'île où elle était née, trente ans passés à Montréal à parler une autre langue, à aimer d'autres hivers, à se convaincre qu'on peut vivre sans la mer.",
+       "en": "It had been thirty years since she had seen the island where she was born, thirty years spent in Montreal speaking another language, loving other winters, convincing herself that one can live without the sea.",
+       "ov": {
+        "0": {
+         "g": "it had been (il y avait trente ans que = it had been thirty years since)"
+        }
+       }
+      },
+      {
+       "fr": "Elle s'était trompée, bien sûr, et elle savait depuis longtemps qu'elle reviendrait.",
+       "en": "She had been wrong, of course, and she had known for a long time that she would come back."
+      },
+      {
+       "fr": "Mais il avait fallu la lettre du notaire, la maison de son père à vider, à vendre peut-être, pour qu'elle achète enfin ce billet.",
+       "en": "But it had taken the notary's letter, her father's house to empty, perhaps to sell, for her to finally buy that ticket."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le port sentait le gasoil et le sel, cette odeur lourde et douce qu'aucun parfum de grande ville n'avait jamais réussi à effacer de sa mémoire.",
+       "en": "The harbour smelled of diesel and salt, that heavy, sweet smell that no big-city perfume had ever managed to wipe from her memory."
+      },
+      {
+       "fr": "Sous les lampadaires, des mouettes se disputaient des restes de poisson avec une obstination presque humaine.",
+       "en": "Under the street lamps, gulls fought over scraps of fish with an almost human stubbornness."
+      },
+      {
+       "fr": "Un employé en ciré orange vérifia son billet sans la regarder, puis lui fit signe de monter.",
+       "en": "An employee in an orange oilskin checked her ticket without looking at her, then signalled to her to board.",
+       "ov": {
+        "9": {
+         "p": "PRON",
+         "g": "her",
+         "m": "object pronoun"
+        }
+       }
+      },
+      {
+       "fr": "La passerelle trembla sous ses pieds ; elle se tint à la rampe, soudain incapable de dire si c'était le métal ou ses jambes qui vacillaient.",
+       "en": "The gangway shook under her feet; she held on to the rail, suddenly unable to tell whether it was the metal or her legs that were wobbling."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le bateau n'était pas grand : une salle aux banquettes de skaï bleu, un bar fermé, quelques tables vissées au plancher et, à l'arrière, un pont ouvert au vent.",
+       "en": "The boat was not big: a lounge with blue imitation-leather benches, a closed bar, a few tables screwed to the floor and, at the stern, a deck open to the wind."
+      },
+      {
+       "fr": "Les autres passagers s'installaient déjà pour la nuit, avec la résignation tranquille des gens qui font ce trajet depuis toujours.",
+       "en": "The other passengers were already settling in for the night, with the quiet resignation of people who have always made this journey.",
+       "ov": {
+        "13": {
+         "l": "de",
+         "p": "PREP",
+         "g": "of the",
+         "m": "de + les"
+        }
+       }
+      },
+      {
+       "fr": "Une famille partageait un paquet de crêpes dentelle, deux ouvriers dormaient la tête contre la vitre, et une jeune fille écoutait de la musique, les yeux fermés, en remuant les lèvres.",
+       "en": "A family was sharing a packet of lace crêpes, two workmen were sleeping with their heads against the window, and a girl was listening to music, eyes closed, moving her lips."
+      },
+      {
+       "fr": "Personne ne la remarqua, et elle en fut reconnaissante.",
+       "en": "Nobody noticed her, and she was grateful for it.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "her",
+         "m": "object pronoun"
+        },
+        "6": {
+         "p": "PRON",
+         "g": "for it (en = of/for it)"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Quand les moteurs se mirent à gronder, elle sortit sur le pont.",
+       "en": "When the engines started to rumble, she went out on deck."
+      },
+      {
+       "fr": "Les lumières de Brest reculaient lentement, se brouillaient, devenaient une poussière d'or posée sur l'eau noire, puis une simple lueur au bord du ciel.",
+       "en": "The lights of Brest slowly drew back, blurred, became a gold dust lying on the black water, then a mere glow at the edge of the sky."
+      },
+      {
+       "fr": "Le vent lui fouettait le visage, salé, froid, familier comme une voix qu'on croyait avoir oubliée.",
+       "en": "The wind whipped her face, salty, cold, familiar like a voice one thought one had forgotten."
+      },
+      {
+       "fr": "Elle pensa à Proust et à sa madeleine, et sourit de sa propre pédanterie : elle n'avait besoin d'aucun gâteau, l'air suffisait.",
+       "en": "She thought of Proust and his madeleine, and smiled at her own pedantry: she needed no cake, the air was enough."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Le vieil homme",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Elle ne l'entendit pas approcher.",
+       "en": "She did not hear him approach.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "him",
+         "m": "object pronoun (before a vowel)"
+        }
+       }
+      },
+      {
+       "fr": "« À cette heure, on ne voit plus rien, mais on sait où on est rien qu'à l'odeur », dit une voix derrière elle.",
+       "en": "“At this hour you can't see a thing any more, but you know where you are just from the smell,” said a voice behind her."
+      },
+      {
+       "fr": "C'était un vieil homme en vareuse bleue, la casquette enfoncée jusqu'aux sourcils, le visage creusé comme une écorce par des décennies de vent et de sel.",
+       "en": "It was an old man in a blue fisherman's smock, his cap pulled down to his eyebrows, his face furrowed like bark by decades of wind and salt."
+      },
+      {
+       "fr": "Il s'accouda au bastingage à côté d'elle, sans plus de cérémonie, comme si leur conversation avait commencé bien avant ce soir.",
+       "en": "He leaned his elbows on the rail next to her, without further ceremony, as if their conversation had begun long before tonight."
+      },
+      {
+       "fr": "« Là, on passe le goulet », ajouta-t-il en désignant l'obscurité d'un mouvement du menton.",
+       "en": "“There, we're going through the Goulet,” he added, pointing at the darkness with a movement of his chin."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ils restèrent un moment silencieux, à écouter la mer battre contre la coque.",
+       "en": "They stayed silent for a moment, listening to the sea beating against the hull."
+      },
+      {
+       "fr": "Puis il la dévisagea longuement, avec cette franchise des insulaires qui ne s'excusent jamais de regarder.",
+       "en": "Then he studied her face for a long time, with that frankness of islanders who never apologise for looking.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "her",
+         "m": "object pronoun"
+        },
+        "8": {
+         "l": "de",
+         "p": "PREP",
+         "g": "of the",
+         "m": "de + les"
+        }
+       }
+      },
+      {
+       "fr": "« Vous êtes de l'île, vous », dit-il enfin, et ce n'était pas une question.",
+       "en": "“You're from the island, you are,” he said at last, and it was not a question.",
+       "ov": {
+        "9": {
+         "p": "PRON",
+         "g": "it (ce n'était pas = it wasn't)"
+        }
+       }
+      },
+      {
+       "fr": "Elle voulut répondre qu'elle était de Montréal, de nulle part, de partout, mais les mots restèrent dans sa gorge.",
+       "en": "She wanted to answer that she was from Montreal, from nowhere, from everywhere, but the words stayed in her throat."
+      },
+      {
+       "fr": "« Je suis la fille de Jean Kerhervé », murmura-t-elle.",
+       "en": "“I'm Jean Kerhervé's daughter,” she murmured."
+      },
+      {
+       "fr": "« Le gardien du phare », dit le vieil homme, et sa voix changea.",
+       "en": "“The lighthouse keeper,” said the old man, and his voice changed."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Il s'appelait Fanch, et il avait connu son père avant même qu'elle ne vienne au monde.",
+       "en": "His name was Fanch, and he had known her father even before she was born."
+      },
+      {
+       "fr": "Ils avaient pêché le homard ensemble, autrefois, avant que Jean ne prenne la garde du phare et ne passe ses nuits là-haut, seul avec la lumière.",
+       "en": "They had fished for lobster together, long ago, before Jean took charge of the lighthouse and spent his nights up there, alone with the light.",
+       "ov": {
+        "17": {
+         "m": "subjonctif present (qu'il/elle)",
+         "g": "to spend (time)"
+        }
+       }
+      },
+      {
+       "fr": "Fanch se souvenait de tout : de la mère de Soazig qui chantait des gwerz en étendant le linge, de la petite fille aux genoux écorchés qui courait sur la grève, du jour où elle était partie sur ce même bateau avec une valise trop grande pour elle.",
+       "en": "Fanch remembered everything: Soazig's mother singing gwerz ballads as she hung out the washing, the little girl with grazed knees running along the shore, the day she had left on this very boat with a suitcase too big for her.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "everything"
+        }
+       }
+      },
+      {
+       "fr": "« Vous aviez dix-huit ans et vous ne vous êtes pas retournée une seule fois », dit-il sans reproche.",
+       "en": "“You were eighteen and you didn't look back even once,” he said without reproach."
+      },
+      {
+       "fr": "« Je vous regardais depuis la jetée. »",
+       "en": "“I was watching you from the pier.”"
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Soazig sentit quelque chose céder en elle, une digue patiemment construite pendant trente ans.",
+       "en": "Soazig felt something give way inside her, a dyke patiently built over thirty years."
+      },
+      {
+       "fr": "Elle lui raconta Montréal, la neige qui tombe en silence, le fleuve gelé, le métier de traductrice qui lui avait permis de vivre entre deux langues sans jamais habiter tout à fait ni l'une ni l'autre.",
+       "en": "She told him about Montreal, the snow that falls in silence, the frozen river, the translator's trade that had let her live between two languages without ever fully inhabiting either one."
+      },
+      {
+       "fr": "Elle lui avoua aussi qu'elle n'était pas revenue pour l'enterrement, qu'elle avait toujours eu une raison, un contrat, un hiver, un avion trop cher.",
+       "en": "She also admitted that she had not come back for the funeral, that she had always had a reason, a contract, a winter, a plane ticket too expensive."
+      },
+      {
+       "fr": "Fanch hocha la tête.",
+       "en": "Fanch nodded."
+      },
+      {
+       "fr": "« Les gens de mer savent qu'on ne revient pas quand on veut, mais quand la marée le permet », répondit-il.",
+       "en": "“Seafaring people know that you don't come back when you want, but when the tide allows it,” he replied.",
+       "ov": {
+        "15": {
+         "p": "PRON",
+         "g": "it",
+         "m": "object pronoun"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Il lui parla alors des dernières années de son père.",
+       "en": "Then he told her about her father's last years.",
+       "ov": {
+        "4": {
+         "l": "de",
+         "p": "PREP",
+         "g": "of the",
+         "m": "de + les"
+        }
+       }
+      },
+      {
+       "fr": "Le phare était automatisé depuis longtemps, mais Jean continuait de monter chaque soir les deux cent vingt marches, par habitude, disait-il, ou par fidélité.",
+       "en": "The lighthouse had been automated for a long time, but Jean kept climbing the two hundred and twenty steps every evening, out of habit, he said, or out of loyalty."
+      },
+      {
+       "fr": "Il regardait le faisceau balayer la mer et comptait les secondes entre les éclats, comme d'autres égrènent un chapelet.",
+       "en": "He watched the beam sweep the sea and counted the seconds between the flashes, the way others tell their rosary beads."
+      },
+      {
+       "fr": "« Il disait que la lumière, c'était sa façon de vous écrire », dit Fanch.",
+       "en": "“He used to say that the light was his way of writing to you,” said Fanch."
+      },
+      {
+       "fr": "« Toutes les nuits, il vous envoyait un signal vers l'ouest, vers le Canada. »",
+       "en": "“Every night, he sent you a signal towards the west, towards Canada.”"
+      },
+      {
+       "fr": "Soazig se mit à rire, les yeux mouillés de larmes, parce que c'était absurde et parce que c'était exactement son père.",
+       "en": "Soazig began to laugh, her eyes wet with tears, because it was absurd and because it was exactly like her father."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "L'aube",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Vers cinq heures, le ciel commença à pâlir à l'est, d'abord gris, puis d'un mauve si délicat qu'on osait à peine le nommer.",
+       "en": "Around five o'clock, the sky began to pale in the east, grey at first, then a mauve so delicate that one hardly dared name it.",
+       "ov": {
+        "10": {
+         "l": "est",
+         "p": "NOUN",
+         "m": ""
+        },
+        "23": {
+         "p": "PRON",
+         "g": "it",
+         "m": "object pronoun"
+        }
+       }
+      },
+      {
+       "fr": "La mer, qui n'avait été toute la nuit qu'une rumeur, reprit ses couleurs : ardoise, puis étain, puis un vert profond strié d'écume.",
+       "en": "The sea, which all night had been nothing but a murmur, took on its colours again: slate, then pewter, then a deep green streaked with foam.",
+       "ov": {
+        "9": {
+         "g": "only (ne ... que = nothing but, only)"
+        }
+       }
+      },
+      {
+       "fr": "Les passagers se réveillaient un à un, s'étiraient, cherchaient leurs sacs.",
+       "en": "The passengers were waking up one by one, stretching, looking for their bags."
+      },
+      {
+       "fr": "La jeune fille à la musique était sortie sur le pont, elle aussi, et regardait l'horizon avec une gravité d'adulte.",
+       "en": "The girl with the music had come out on deck too, and was looking at the horizon with a grown-up's seriousness."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Et puis l'île apparut.",
+       "en": "And then the island appeared."
+      },
+      {
+       "fr": "Elle était plus petite que dans son souvenir, plus basse, presque fragile : une longue échine de lande rase, quelques maisons blanches serrées autour du port et, tout au bout, le phare.",
+       "en": "It was smaller than she remembered, lower, almost fragile: a long spine of close-cropped moorland, a few white houses huddled around the harbour and, at the very end, the lighthouse."
+      },
+      {
+       "fr": "À cette heure, il ne tournait plus ; le jour l'avait déjà éteint.",
+       "en": "At this hour it no longer turned; daylight had already put it out.",
+       "ov": {
+        "9": {
+         "p": "PRON",
+         "g": "it",
+         "m": "object pronoun (before a vowel)"
+        }
+       }
+      },
+      {
+       "fr": "Mais Soazig crut voir, l'espace d'un instant, un dernier éclat traverser la brume, et elle ne chercha pas à savoir si c'était le soleil sur la vitre ou autre chose.",
+       "en": "But Soazig thought she saw, for the space of an instant, one last flash cross the mist, and she did not try to find out whether it was the sun on the glass or something else."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Fanch lui posa la main sur l'épaule.",
+       "en": "Fanch put his hand on her shoulder."
+      },
+      {
+       "fr": "« La maison, vous allez la vendre ? » demanda-t-il doucement.",
+       "en": "“The house, are you going to sell it?” he asked gently.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "it",
+         "m": "object pronoun"
+        }
+       }
+      },
+      {
+       "fr": "Elle regarda le village qui grandissait, les barques colorées dans le port, les silhouettes qui attendaient déjà sur la cale, et elle sentit le sel sécher sur ses joues.",
+       "en": "She looked at the village growing larger, the brightly coloured boats in the harbour, the figures already waiting on the slipway, and she felt the salt drying on her cheeks."
+      },
+      {
+       "fr": "Elle pensa à la neige de Montréal, à son appartement, à sa vie là-bas, qui n'était pas une erreur, simplement une autre rive.",
+       "en": "She thought of the snow in Montreal, of her apartment, of her life over there, which was not a mistake, simply another shore."
+      },
+      {
+       "fr": "« Je ne sais pas encore », dit-elle.",
+       "en": "“I don't know yet,” she said."
+      },
+      {
+       "fr": "« Mais ce soir, je monterai au phare. »",
+       "en": "“But tonight, I'll climb up to the lighthouse.”"
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le bateau ralentit, vira lentement, et le moteur se tut.",
+       "en": "The boat slowed, turned slowly, and the engine fell silent."
+      },
+      {
+       "fr": "Dans le silence soudain, on entendit les mouettes, le clapotis contre le quai, la voix d'un enfant qui appelait quelqu'un.",
+       "en": "In the sudden silence, one could hear the gulls, the lapping against the quay, the voice of a child calling someone.",
+       "ov": {
+        "19": {
+         "l": "appeler",
+         "m": "imparfait (il/elle)"
+        }
+       }
+      },
+      {
+       "fr": "Soazig prit sa valise, qui n'était plus trop grande pour elle, et, avant de descendre la passerelle, elle se retourna une fois vers la mer, comme on salue quelqu'un que l'on reverra.",
+       "en": "Soazig picked up her suitcase, which was no longer too big for her, and, before going down the gangway, she turned back once towards the sea, the way one waves to someone one will see again.",
+       "ov": {
+        "31": {
+         "p": "PRON",
+         "g": "(euphonic l' before on; not translated)",
+         "m": "before a vowel"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

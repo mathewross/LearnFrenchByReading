@@ -1,0 +1,265 @@
+{
+ "id": "weekend-mer",
+ "series_id": null,
+ "episode": null,
+ "title": "Un week-end à la mer",
+ "title_en": "A weekend at the seaside",
+ "level": "A2",
+ "summary_en": "The Roux family drives to the sea for the weekend. The wind, a lost hat and a small crab make the day an adventure.",
+ "tags": [
+  "family",
+  "sea",
+  "weather"
+ ],
+ "key_vocab": [
+  "mer",
+  "plage",
+  "chapeau",
+  "crabe",
+  "vent",
+  "pluie",
+  "voiture",
+  "famille",
+  "eau",
+  "ciel",
+  "soleil",
+  "pique-nique"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Samedi matin, la famille Roux est partie à la mer.",
+       "en": "Saturday morning, the Roux family set off for the sea."
+      },
+      {
+       "fr": "Il faisait beau et le ciel était bleu.",
+       "en": "The weather was nice and the sky was blue."
+      },
+      {
+       "fr": "Papa conduisait la voiture et Maman regardait la route.",
+       "en": "Dad was driving the car and Mom was watching the road."
+      },
+      {
+       "fr": "Julie et son petit frère Hugo chantaient dans la voiture.",
+       "en": "Julie and her little brother Hugo were singing in the car."
+      },
+      {
+       "fr": "Les enfants étaient très contents.",
+       "en": "The children were very happy."
+      },
+      {
+       "fr": "Après trois heures, Papa a dit : « Regardez, la mer ! »",
+       "en": "After three hours, Dad said, “Look, the sea!”",
+       "ov": {
+        "5": {
+         "m": "past participle"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ils sont arrivés à la plage vers midi.",
+       "en": "They arrived at the beach around noon."
+      },
+      {
+       "fr": "Il y avait beaucoup de monde sur la plage et le soleil brillait.",
+       "en": "There were a lot of people on the beach and the sun was shining."
+      },
+      {
+       "fr": "La famille a trouvé une place près de l'eau.",
+       "en": "The family found a spot near the water."
+      },
+      {
+       "fr": "Hugo avait faim.",
+       "en": "Hugo was hungry."
+      },
+      {
+       "fr": "Maman a sorti le pique-nique du sac.",
+       "en": "Mom took the picnic out of the bag."
+      },
+      {
+       "fr": "Il y avait du pain, du fromage et des pommes.",
+       "en": "There was bread, cheese and apples.",
+       "ov": {
+        "1": {
+         "g": "some",
+         "m": "partitive (some)"
+        },
+        "3": {
+         "g": "some",
+         "m": "partitive (some)"
+        }
+       }
+      },
+      {
+       "fr": "Les enfants se sont assis sur le sable.",
+       "en": "The children sat down on the sand."
+      },
+      {
+       "fr": "Ils ont mangé tout de suite.",
+       "en": "They ate right away."
+      },
+      {
+       "fr": "Hugo a mangé deux pommes !",
+       "en": "Hugo ate two apples!"
+      },
+      {
+       "fr": "Le pique-nique était très bon.",
+       "en": "The picnic was very good."
+      },
+      {
+       "fr": "Après le pique-nique, les enfants ont joué dans l'eau.",
+       "en": "After the picnic, the children played in the water."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Soudain, le vent a commencé à souffler.",
+       "en": "Suddenly, the wind began to blow."
+      },
+      {
+       "fr": "Le vent était froid et le ciel est devenu gris.",
+       "en": "The wind was cold and the sky turned gray."
+      },
+      {
+       "fr": "Sur la mer, les vagues sont devenues grosses.",
+       "en": "On the sea, the waves became big."
+      },
+      {
+       "fr": "Le chapeau de Julie a volé dans l'air.",
+       "en": "Julie's hat flew through the air."
+      },
+      {
+       "fr": "« Mon chapeau ! » a crié Julie.",
+       "en": "“My hat!” shouted Julie."
+      },
+      {
+       "fr": "Elle a couru derrière lui, mais le vent était plus fort qu'elle.",
+       "en": "She ran after it, but the wind was stronger than she was."
+      },
+      {
+       "fr": "Le chapeau est tombé dans l'eau.",
+       "en": "The hat fell into the water."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Le chapeau flottait près des pierres.",
+       "en": "The hat was floating near the rocks.",
+       "ov": {
+        "4": {
+         "l": "de",
+         "p": "PREP",
+         "m": "de + les"
+        }
+       }
+      },
+      {
+       "fr": "« Regarde, Julie ! Un crabe est assis sur ton chapeau ! » a dit Hugo.",
+       "en": "“Look, Julie! A crab is sitting on your hat!” said Hugo.",
+       "ov": {
+        "10": {
+         "m": "past participle"
+        },
+        "0": {
+         "m": "imperative (tu)"
+        }
+       }
+      },
+      {
+       "fr": "Julie a ri, mais elle avait peur du crabe.",
+       "en": "Julie laughed, but she was afraid of the crab."
+      },
+      {
+       "fr": "Le petit crabe ne bougeait pas.",
+       "en": "The little crab did not move."
+      },
+      {
+       "fr": "Papa a pris un bâton.",
+       "en": "Dad took a stick."
+      },
+      {
+       "fr": "Doucement, il a sorti le chapeau de l'eau.",
+       "en": "Gently, he took the hat out of the water."
+      },
+      {
+       "fr": "Le crabe est descendu du chapeau et il est parti sous une pierre.",
+       "en": "The crab climbed down from the hat and went under a rock."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Alors la pluie a commencé.",
+       "en": "Then the rain began."
+      },
+      {
+       "fr": "Elle était froide et très forte.",
+       "en": "It was cold and very heavy."
+      },
+      {
+       "fr": "Toute la famille a couru vers la voiture.",
+       "en": "The whole family ran to the car."
+      },
+      {
+       "fr": "Dans la voiture, ils se sont regardés et ils ont ri.",
+       "en": "In the car, they looked at each other and laughed."
+      },
+      {
+       "fr": "La famille écoutait la pluie sur la voiture.",
+       "en": "The family listened to the rain on the car."
+      },
+      {
+       "fr": "Julie a mis le chapeau mouillé sur sa tête.",
+       "en": "Julie put the wet hat on her head."
+      },
+      {
+       "fr": "Après la pluie, le soleil est revenu.",
+       "en": "After the rain, the sun came back."
+      },
+      {
+       "fr": "Un bel arc-en-ciel est apparu dans le ciel.",
+       "en": "A beautiful rainbow appeared in the sky."
+      },
+      {
+       "fr": "Le soleil brillait encore sur la plage.",
+       "en": "The sun was still shining on the beach."
+      },
+      {
+       "fr": "Maman a dit : « Demain, nous allons faire un grand château de sable. »",
+       "en": "Mom said, “Tomorrow, we are going to build a big sandcastle.”",
+       "ov": {
+        "2": {
+         "m": "past participle"
+        }
+       }
+      },
+      {
+       "fr": "« Et mon chapeau va rester sur ma tête ! » a dit Julie.",
+       "en": "“And my hat is going to stay on my head!” said Julie.",
+       "ov": {
+        "9": {
+         "m": "past participle"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
