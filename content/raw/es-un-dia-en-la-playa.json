@@ -1,0 +1,262 @@
+{
+ "id": "es-un-dia-en-la-playa",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Un día en la playa",
+ "title_en": "A day at the beach",
+ "level": "A1",
+ "summary_en": "A family spends a hot, sunny day at the beach. Then a strong wind takes Ana's yellow hat.",
+ "tags": [
+  "beach",
+  "family",
+  "summer"
+ ],
+ "key_vocab": [
+  "playa",
+  "mar",
+  "sombrero",
+  "agua",
+  "arena",
+  "sombrilla",
+  "viento",
+  "buscar",
+  "papá",
+  "mamá",
+  "correr",
+  "helado"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Hoy la familia va a la playa.",
+       "en": "Today the family goes to the beach."
+      },
+      {
+       "fr": "Hace mucho sol y mucho calor.",
+       "en": "It is very sunny and very hot.",
+       "ov": {
+        "0": {
+         "g": "it is (weather)"
+        }
+       }
+      },
+      {
+       "fr": "Papá lleva una sombrilla grande.",
+       "en": "Dad carries a big beach umbrella."
+      },
+      {
+       "fr": "Mamá lleva la comida y el agua.",
+       "en": "Mum carries the food and the water."
+      },
+      {
+       "fr": "Ana tiene un sombrero amarillo.",
+       "en": "Ana has a yellow hat."
+      },
+      {
+       "fr": "Ana es una niña de seis años.",
+       "en": "Ana is a six-year-old girl."
+      },
+      {
+       "fr": "Su hermano Pablo tiene ocho años.",
+       "en": "Her brother Pablo is eight years old."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La playa es larga y bonita.",
+       "en": "The beach is long and pretty."
+      },
+      {
+       "fr": "La arena está muy caliente.",
+       "en": "The sand is very hot."
+      },
+      {
+       "fr": "Los niños corren hacia el mar.",
+       "en": "The children run towards the sea."
+      },
+      {
+       "fr": "El agua está fría, pero ellos ríen.",
+       "en": "The water is cold, but they laugh."
+      },
+      {
+       "fr": "Papá pone la sombrilla en la arena.",
+       "en": "Dad puts the umbrella in the sand."
+      },
+      {
+       "fr": "Mamá lee un libro debajo de la sombrilla.",
+       "en": "Mum reads a book under the umbrella."
+      },
+      {
+       "fr": "Ana y Pablo hacen un castillo de arena.",
+       "en": "Ana and Pablo make a sandcastle."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "De repente, hay mucho viento.",
+       "en": "Suddenly, there is a lot of wind."
+      },
+      {
+       "fr": "El sombrero de Ana vuela por la playa.",
+       "en": "Ana's hat flies across the beach."
+      },
+      {
+       "fr": "El viento lleva el sombrero lejos.",
+       "en": "The wind carries the hat far away."
+      },
+      {
+       "fr": "«¡Mi sombrero!», grita Ana.",
+       "en": "\"My hat!\" shouts Ana."
+      },
+      {
+       "fr": "Pablo corre detrás del sombrero.",
+       "en": "Pablo runs after the hat."
+      },
+      {
+       "fr": "Ana corre detrás de Pablo.",
+       "en": "Ana runs after Pablo."
+      },
+      {
+       "fr": "Pero el viento es fuerte.",
+       "en": "But the wind is strong."
+      },
+      {
+       "fr": "El sombrero cae en el mar.",
+       "en": "The hat falls into the sea."
+      },
+      {
+       "fr": "«¡Papá, mi sombrero está en el agua!»",
+       "en": "\"Dad, my hat is in the water!\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Papá entra en el mar y busca.",
+       "en": "Dad goes into the sea and looks."
+      },
+      {
+       "fr": "Mamá busca en la arena.",
+       "en": "Mum looks in the sand."
+      },
+      {
+       "fr": "Papá busca, pero no ve el sombrero.",
+       "en": "Dad looks, but he does not see the hat."
+      },
+      {
+       "fr": "Ana mira el agua y llora un poco.",
+       "en": "Ana looks at the water and cries a little."
+      },
+      {
+       "fr": "Pablo ve algo amarillo cerca de una roca.",
+       "en": "Pablo sees something yellow near a rock."
+      },
+      {
+       "fr": "«¡Allí está!», dice Pablo.",
+       "en": "\"There it is!\" says Pablo."
+      },
+      {
+       "fr": "Papá nada hasta la roca y toma el sombrero.",
+       "en": "Dad swims to the rock and takes the hat."
+      },
+      {
+       "fr": "El sombrero está mojado, pero Ana está feliz.",
+       "en": "The hat is wet, but Ana is happy."
+      },
+      {
+       "fr": "Mamá compra helados para todos.",
+       "en": "Mum buys ice creams for everyone."
+      },
+      {
+       "fr": "Pablo come un helado blanco.",
+       "en": "Pablo eats a white ice cream."
+      },
+      {
+       "fr": "Ana come su helado con el sombrero puesto.",
+       "en": "Ana eats her ice cream with her hat on.",
+       "ov": {
+        "7": {
+         "g": "on (being worn)"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿De qué color es el sombrero de Ana?",
+   "q_en": "What colour is Ana's hat?",
+   "o": [
+    {
+     "fr": "Rojo",
+     "en": "Red"
+    },
+    {
+     "fr": "Amarillo",
+     "en": "Yellow"
+    },
+    {
+     "fr": "Azul",
+     "en": "Blue"
+    }
+   ],
+   "a": 1,
+   "why": "'Ana tiene un sombrero amarillo.'"
+  },
+  {
+   "q": "¿Quién se lleva el sombrero?",
+   "q_en": "What takes the hat away?",
+   "o": [
+    {
+     "fr": "El viento",
+     "en": "The wind"
+    },
+    {
+     "fr": "Un perro",
+     "en": "A dog"
+    },
+    {
+     "fr": "Pablo",
+     "en": "Pablo"
+    }
+   ],
+   "a": 0,
+   "why": "'El sombrero de Ana vuela por la playa.'"
+  },
+  {
+   "q": "¿Quién ve el sombrero en el mar?",
+   "q_en": "Who spots the hat in the sea?",
+   "o": [
+    {
+     "fr": "Mamá",
+     "en": "Mum"
+    },
+    {
+     "fr": "Papá",
+     "en": "Dad"
+    },
+    {
+     "fr": "Pablo",
+     "en": "Pablo"
+    }
+   ],
+   "a": 2,
+   "why": "'Pablo ve algo amarillo cerca de una roca.'"
+  }
+ ]
+}

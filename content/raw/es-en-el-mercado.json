@@ -1,0 +1,260 @@
+{
+ "id": "es-en-el-mercado",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "En el mercado",
+ "title_en": "At the market",
+ "level": "A1",
+ "summary_en": "Mateo goes to the Saturday market with his grandmother and carries a very big bag. Then something rolls away down the street.",
+ "tags": [
+  "market",
+  "food",
+  "family"
+ ],
+ "key_vocab": [
+  "mercado",
+  "abuelo",
+  "naranja",
+  "comprar",
+  "cesta",
+  "bolsa",
+  "gente",
+  "vendedor",
+  "kilo",
+  "reír",
+  "correr",
+  "euro"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Hoy es sábado y Mateo va al mercado.",
+       "en": "Today is Saturday and Mateo goes to the market."
+      },
+      {
+       "fr": "Va con su abuela Rosa.",
+       "en": "He goes with his grandmother Rosa."
+      },
+      {
+       "fr": "Hay mucha gente en el mercado.",
+       "en": "There are lots of people at the market."
+      },
+      {
+       "fr": "La abuela quiere comprar la fruta.",
+       "en": "Grandma wants to buy the fruit."
+      },
+      {
+       "fr": "Hay fruta, verdura, pescado y flores.",
+       "en": "There is fruit, vegetables, fish and flowers."
+      },
+      {
+       "fr": "La abuela lleva una cesta grande.",
+       "en": "Grandma carries a big basket."
+      },
+      {
+       "fr": "Mateo lleva la lista.",
+       "en": "Mateo carries the list."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "«Primero, tomates», dice la abuela.",
+       "en": "\"First, tomatoes,\" says Grandma."
+      },
+      {
+       "fr": "La vendedora tiene tomates rojos y grandes.",
+       "en": "The seller has big red tomatoes."
+      },
+      {
+       "fr": "«¿Cuánto cuestan?», pregunta la abuela.",
+       "en": "\"How much are they?\" asks Grandma."
+      },
+      {
+       "fr": "«Dos euros el kilo», responde la vendedora.",
+       "en": "\"Two euros a kilo,\" answers the seller."
+      },
+      {
+       "fr": "La abuela compra un kilo.",
+       "en": "Grandma buys a kilo."
+      },
+      {
+       "fr": "Mateo pone los tomates en la cesta.",
+       "en": "Mateo puts the tomatoes in the basket."
+      },
+      {
+       "fr": "Luego compran pan, queso y naranjas.",
+       "en": "Then they buy bread, cheese and oranges."
+      },
+      {
+       "fr": "Las naranjas cuestan un euro el kilo.",
+       "en": "The oranges cost one euro a kilo."
+      },
+      {
+       "fr": "La abuela da cinco euros a la vendedora.",
+       "en": "Grandma gives five euros to the seller."
+      },
+      {
+       "fr": "La cesta ya pesa mucho.",
+       "en": "The basket already weighs a lot."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Mateo quiere llevar la bolsa de naranjas.",
+       "en": "Mateo wants to carry the bag of oranges."
+      },
+      {
+       "fr": "La bolsa es grande y pesa mucho.",
+       "en": "The bag is big and heavy."
+      },
+      {
+       "fr": "De repente, la bolsa se rompe.",
+       "en": "Suddenly, the bag breaks."
+      },
+      {
+       "fr": "Las naranjas salen rodando por la calle.",
+       "en": "The oranges go rolling down the street."
+      },
+      {
+       "fr": "Mateo corre detrás de las naranjas.",
+       "en": "Mateo runs after the oranges."
+      },
+      {
+       "fr": "Corre entre la gente.",
+       "en": "He runs between the people."
+      },
+      {
+       "fr": "Corre y corre por la calle.",
+       "en": "He runs and runs down the street."
+      },
+      {
+       "fr": "Una naranja pasa entre las piernas de un señor.",
+       "en": "One orange passes between a man's legs."
+      },
+      {
+       "fr": "Otra naranja cae en el sombrero de una señora.",
+       "en": "Another orange falls into a lady's hat."
+      },
+      {
+       "fr": "«¡Mis naranjas!», grita Mateo.",
+       "en": "\"My oranges!\" shouts Mateo."
+      },
+      {
+       "fr": "La gente mira a Mateo.",
+       "en": "The people look at Mateo."
+      },
+      {
+       "fr": "Toda la gente del mercado ríe.",
+       "en": "All the people in the market laugh."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La señora ríe también y da la naranja a Mateo.",
+       "en": "The lady laughs too and gives the orange to Mateo."
+      },
+      {
+       "fr": "Mateo también ríe.",
+       "en": "Mateo laughs too."
+      },
+      {
+       "fr": "La vendedora trae una bolsa nueva.",
+       "en": "The seller brings a new bag."
+      },
+      {
+       "fr": "Mateo cuenta las naranjas: son diez.",
+       "en": "Mateo counts the oranges: there are ten."
+      },
+      {
+       "fr": "La abuela sonríe y dice: «Gracias, Mateo.»",
+       "en": "Grandma smiles and says: \"Thank you, Mateo.\""
+      },
+      {
+       "fr": "«Mañana llevo yo el pan», dice Mateo.",
+       "en": "\"Tomorrow I will carry the bread,\" says Mateo."
+      },
+      {
+       "fr": "«Muy bien», dice la abuela. «El pan no rueda.»",
+       "en": "\"Very good,\" says Grandma. \"Bread doesn't roll.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Con quién va Mateo al mercado?",
+   "q_en": "Who does Mateo go to the market with?",
+   "o": [
+    {
+     "fr": "Con su abuela",
+     "en": "With his grandmother"
+    },
+    {
+     "fr": "Con su perro",
+     "en": "With his dog"
+    },
+    {
+     "fr": "Con su padre",
+     "en": "With his father"
+    }
+   ],
+   "a": 0,
+   "why": "'Va con su abuela Rosa.'"
+  },
+  {
+   "q": "¿Qué pasa con la bolsa de naranjas?",
+   "q_en": "What happens to the bag of oranges?",
+   "o": [
+    {
+     "fr": "Es muy pequeña",
+     "en": "It is very small"
+    },
+    {
+     "fr": "Se rompe",
+     "en": "It breaks"
+    },
+    {
+     "fr": "Es para el pan",
+     "en": "It is for the bread"
+    }
+   ],
+   "a": 1,
+   "why": "'De repente, la bolsa se rompe.'"
+  },
+  {
+   "q": "¿Dónde cae una naranja?",
+   "q_en": "Where does an orange fall?",
+   "o": [
+    {
+     "fr": "En la cesta",
+     "en": "In the basket"
+    },
+    {
+     "fr": "En el mercado de pescado",
+     "en": "In the fish market"
+    },
+    {
+     "fr": "En el sombrero de una señora",
+     "en": "In a lady's hat"
+    }
+   ],
+   "a": 2,
+   "why": "'Otra naranja cae en el sombrero de una señora.'"
+  }
+ ]
+}

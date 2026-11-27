@@ -1,0 +1,248 @@
+{
+ "id": "es-mi-casa",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Mi casa",
+ "title_en": "My house",
+ "level": "A1",
+ "summary_en": "A man proudly shows his friend Marta around his new house, room by room. Then he cannot find something important.",
+ "tags": [
+  "house",
+  "home",
+  "keys"
+ ],
+ "key_vocab": [
+  "casa",
+  "cocina",
+  "sala",
+  "llave",
+  "puerta",
+  "ventana",
+  "jardín",
+  "mesa",
+  "dormitorio",
+  "buscar",
+  "abrir",
+  "grande"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Hola, Marta, bienvenida a mi casa nueva.",
+       "en": "Hello, Marta, welcome to my new house."
+      },
+      {
+       "fr": "Abro la puerta con la llave.",
+       "en": "I open the door with the key."
+      },
+      {
+       "fr": "Entra, por favor.",
+       "en": "Come in, please."
+      },
+      {
+       "fr": "Es mi primera casa.",
+       "en": "It is my first house."
+      },
+      {
+       "fr": "Aquí está la sala.",
+       "en": "Here is the living room."
+      },
+      {
+       "fr": "La sala es grande y tiene una ventana.",
+       "en": "The living room is big and has a window."
+      },
+      {
+       "fr": "Hay un sofá azul y una mesa.",
+       "en": "There is a blue sofa and a table."
+      },
+      {
+       "fr": "Me gusta mucho el sofá.",
+       "en": "I like the sofa a lot."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ahora ven a la cocina.",
+       "en": "Now come to the kitchen."
+      },
+      {
+       "fr": "La cocina es blanca y muy limpia.",
+       "en": "The kitchen is white and very clean."
+      },
+      {
+       "fr": "Hay una mesa con cuatro sillas.",
+       "en": "There is a table with four chairs."
+      },
+      {
+       "fr": "Hay pan y fruta en la mesa.",
+       "en": "There is bread and fruit on the table."
+      },
+      {
+       "fr": "Abro la ventana de la cocina.",
+       "en": "I open the kitchen window."
+      },
+      {
+       "fr": "Aquí tomo café por la mañana.",
+       "en": "Here I have coffee in the morning."
+      },
+      {
+       "fr": "¿Quieres un café, Marta?",
+       "en": "Do you want a coffee, Marta?"
+      },
+      {
+       "fr": "«No, gracias, quiero ver la casa», dice Marta.",
+       "en": "\"No, thank you, I want to see the house,\" says Marta."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Mira, este es el dormitorio.",
+       "en": "Look, this is the bedroom."
+      },
+      {
+       "fr": "El dormitorio es tranquilo.",
+       "en": "The bedroom is quiet."
+      },
+      {
+       "fr": "La cama es grande y cómoda.",
+       "en": "The bed is big and comfortable."
+      },
+      {
+       "fr": "Desde la ventana veo el jardín.",
+       "en": "From the window I see the garden."
+      },
+      {
+       "fr": "El baño es pequeño, pero bonito.",
+       "en": "The bathroom is small, but pretty."
+      },
+      {
+       "fr": "Ahora vamos al jardín.",
+       "en": "Now we go to the garden."
+      },
+      {
+       "fr": "El jardín es grande, con un árbol y flores.",
+       "en": "The garden is big, with a tree and flowers."
+      },
+      {
+       "fr": "La puerta del jardín está cerrada.",
+       "en": "The garden door is closed."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Quiero abrir la puerta con la llave.",
+       "en": "I want to open the door with the key."
+      },
+      {
+       "fr": "¿Dónde está la llave?",
+       "en": "Where is the key?"
+      },
+      {
+       "fr": "No está en mi bolsillo.",
+       "en": "It is not in my pocket."
+      },
+      {
+       "fr": "Busco en la sala y en la cocina.",
+       "en": "I look in the living room and in the kitchen."
+      },
+      {
+       "fr": "Busco en el baño.",
+       "en": "I look in the bathroom."
+      },
+      {
+       "fr": "Busco en el dormitorio también.",
+       "en": "I look in the bedroom too."
+      },
+      {
+       "fr": "Marta ríe y dice: «Mira la puerta de entrada.»",
+       "en": "Marta laughs and says: \"Look at the front door.\""
+      },
+      {
+       "fr": "¡Las llaves están en la puerta!",
+       "en": "The keys are in the door!"
+      },
+      {
+       "fr": "Toda mi casa está abierta para todos.",
+       "en": "My whole house is open to everyone."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cómo es la cocina?",
+   "q_en": "What is the kitchen like?",
+   "o": [
+    {
+     "fr": "Blanca y limpia",
+     "en": "White and clean"
+    },
+    {
+     "fr": "Pequeña y oscura",
+     "en": "Small and dark"
+    },
+    {
+     "fr": "Azul y grande",
+     "en": "Blue and big"
+    }
+   ],
+   "a": 0,
+   "why": "'La cocina es blanca y muy limpia.'"
+  },
+  {
+   "q": "¿Qué quiere abrir el hombre en el jardín?",
+   "q_en": "What does the man want to open in the garden?",
+   "o": [
+    {
+     "fr": "La ventana",
+     "en": "The window"
+    },
+    {
+     "fr": "La puerta",
+     "en": "The door"
+    },
+    {
+     "fr": "El baño",
+     "en": "The bathroom"
+    }
+   ],
+   "a": 1,
+   "why": "'Quiero abrir la puerta con la llave.'"
+  },
+  {
+   "q": "¿Dónde están las llaves?",
+   "q_en": "Where are the keys?",
+   "o": [
+    {
+     "fr": "En el bolsillo",
+     "en": "In the pocket"
+    },
+    {
+     "fr": "En la cocina",
+     "en": "In the kitchen"
+    },
+    {
+     "fr": "En la puerta de entrada",
+     "en": "In the front door"
+    }
+   ],
+   "a": 2,
+   "why": "'¡Las llaves están en la puerta!'"
+  }
+ ]
+}

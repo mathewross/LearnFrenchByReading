@@ -1,0 +1,255 @@
+{
+ "id": "es-la-cafeteria",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "La cafetería",
+ "title_en": "The cafe",
+ "level": "A1",
+ "summary_en": "It is eight in the morning in a small cafe, and the waitress is in a hurry. Two customers get the wrong orders.",
+ "tags": [
+  "cafe",
+  "food",
+  "morning"
+ ],
+ "key_vocab": [
+  "café",
+  "camarero",
+  "mesa",
+  "señor",
+  "chocolate",
+  "tostada",
+  "pedir",
+  "traer",
+  "sonreír",
+  "reír",
+  "error"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Son las ocho de la mañana.",
+       "en": "It is eight in the morning."
+      },
+      {
+       "fr": "Marta abre la cafetería pequeña.",
+       "en": "Marta opens the small cafe."
+      },
+      {
+       "fr": "Huele a café y a pan.",
+       "en": "It smells of coffee and bread."
+      },
+      {
+       "fr": "Hay cinco mesas y una barra.",
+       "en": "There are five tables and a bar."
+      },
+      {
+       "fr": "Marta es la camarera.",
+       "en": "Marta is the waitress."
+      },
+      {
+       "fr": "Trae el pan a la barra.",
+       "en": "She brings the bread to the bar."
+      },
+      {
+       "fr": "Hoy hay mucha gente.",
+       "en": "Today there are lots of people."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Un señor se sienta en la mesa uno.",
+       "en": "A man sits at table one."
+      },
+      {
+       "fr": "Es el señor Pons.",
+       "en": "It is Mr Pons."
+      },
+      {
+       "fr": "«Un café solo, por favor», pide el señor.",
+       "en": "\"A black coffee, please,\" orders the man."
+      },
+      {
+       "fr": "«Y una tostada con tomate.»",
+       "en": "\"And a tomato toast.\""
+      },
+      {
+       "fr": "Una señora se sienta en la mesa dos.",
+       "en": "A lady sits at table two."
+      },
+      {
+       "fr": "Es la señora Gil.",
+       "en": "It is Mrs Gil."
+      },
+      {
+       "fr": "«Un chocolate caliente, por favor», pide ella.",
+       "en": "\"A hot chocolate, please,\" she orders."
+      },
+      {
+       "fr": "«Y una tostada con mermelada.»",
+       "en": "\"And a toast with jam.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Marta tiene mucha prisa.",
+       "en": "Marta is in a big hurry."
+      },
+      {
+       "fr": "La camarera trae dos bandejas a las mesas.",
+       "en": "She brings two trays to the tables."
+      },
+      {
+       "fr": "Pero hay un error.",
+       "en": "But there is a mistake."
+      },
+      {
+       "fr": "El señor Pons recibe el chocolate.",
+       "en": "Mr Pons gets the chocolate."
+      },
+      {
+       "fr": "La señora Gil recibe el café solo.",
+       "en": "Mrs Gil gets the black coffee."
+      },
+      {
+       "fr": "Las tostadas también están en la mesa equivocada.",
+       "en": "The toasts are also at the wrong table."
+      },
+      {
+       "fr": "El señor mira el chocolate con sorpresa.",
+       "en": "The man looks at the chocolate in surprise."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La camarera ve el error y dice: «¡Ay, lo siento!»",
+       "en": "Marta sees the mistake and says: \"Oh, I'm sorry!\""
+      },
+      {
+       "fr": "«No pasa nada», dicen los dos.",
+       "en": "\"No problem,\" say the two of them."
+      },
+      {
+       "fr": "El señor prueba el chocolate y sonríe.",
+       "en": "The man tries the chocolate and smiles."
+      },
+      {
+       "fr": "«¡Mmm, qué rico!», dice.",
+       "en": "\"Mmm, how delicious!\" he says."
+      },
+      {
+       "fr": "La señora prueba el café.",
+       "en": "The lady tries the coffee."
+      },
+      {
+       "fr": "«Es fuerte, pero me gusta», dice ella.",
+       "en": "\"It is strong, but I like it,\" she says."
+      },
+      {
+       "fr": "La señora sonríe también.",
+       "en": "The lady smiles too."
+      },
+      {
+       "fr": "Los dos ríen y hablan en la misma mesa.",
+       "en": "The two laugh and talk at the same table."
+      },
+      {
+       "fr": "También ríen los otros clientes.",
+       "en": "The other customers laugh too."
+      },
+      {
+       "fr": "Marta ríe también.",
+       "en": "Marta laughs too."
+      },
+      {
+       "fr": "Marta trae dos churros gratis.",
+       "en": "Marta brings two free churros."
+      },
+      {
+       "fr": "Marta sonríe: es un error muy feliz.",
+       "en": "Marta smiles: it is a very happy mistake."
+      },
+      {
+       "fr": "Al final, el señor pide otro chocolate.",
+       "en": "In the end, the man orders another hot chocolate."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué hora es al principio?",
+   "q_en": "What time is it at the beginning?",
+   "o": [
+    {
+     "fr": "Las ocho de la mañana",
+     "en": "Eight in the morning"
+    },
+    {
+     "fr": "Las diez de la noche",
+     "en": "Ten at night"
+    },
+    {
+     "fr": "Las cinco de la tarde",
+     "en": "Five in the afternoon"
+    }
+   ],
+   "a": 0,
+   "why": "'Son las ocho de la mañana.'"
+  },
+  {
+   "q": "¿Qué pasa con las bebidas?",
+   "q_en": "What happens with the drinks?",
+   "o": [
+    {
+     "fr": "Marta no trae nada",
+     "en": "Marta brings nothing"
+    },
+    {
+     "fr": "Hay un error",
+     "en": "There is a mistake"
+    },
+    {
+     "fr": "Hay mucha agua",
+     "en": "There is a lot of water"
+    }
+   ],
+   "a": 1,
+   "why": "'Pero hay un error.'"
+  },
+  {
+   "q": "¿Cómo termina la historia?",
+   "q_en": "How does the story end?",
+   "o": [
+    {
+     "fr": "Los dos están contentos",
+     "en": "Both are happy"
+    },
+    {
+     "fr": "La señora se va",
+     "en": "The lady leaves"
+    },
+    {
+     "fr": "Marta no trabaja más",
+     "en": "Marta stops working"
+    }
+   ],
+   "a": 0,
+   "why": "They laugh, talk at the same table and Marta brings free churros."
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "id": "es-ana-en-madrid",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Ana en Madrid",
+ "title_en": "Ana in Madrid",
+ "level": "A1",
+ "summary_en": "Ana arrives in Madrid with a heavy suitcase and climbs the stairs to her new flat. On the way, someone opens a door.",
+ "tags": [
+  "city",
+  "home",
+  "neighbours"
+ ],
+ "key_vocab": [
+  "piso",
+  "maleta",
+  "calle",
+  "gato",
+  "vecino",
+  "ayudar",
+  "ventana",
+  "café",
+  "puerta",
+  "abrir",
+  "mirar",
+  "llegar"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Ana llega a Madrid en tren.",
+       "en": "Ana arrives in Madrid by train."
+      },
+      {
+       "fr": "Tiene una maleta grande y una mochila roja.",
+       "en": "She has a big suitcase and a red backpack."
+      },
+      {
+       "fr": "Hay mucha gente en la estación.",
+       "en": "There are lots of people in the station."
+      },
+      {
+       "fr": "Ana toma el metro con su maleta.",
+       "en": "Ana takes the metro with her suitcase."
+      },
+      {
+       "fr": "Llega a la calle de la Luna.",
+       "en": "She arrives at Luna Street."
+      },
+      {
+       "fr": "Su piso nuevo está en esa calle.",
+       "en": "Her new flat is on that street."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "El edificio es viejo y muy bonito.",
+       "en": "The building is old and very pretty."
+      },
+      {
+       "fr": "Ana mira la puerta grande: es el siete.",
+       "en": "Ana looks at the big door: it is number seven."
+      },
+      {
+       "fr": "No hay ascensor en el edificio.",
+       "en": "There is no lift in the building."
+      },
+      {
+       "fr": "Su piso está en el tercero.",
+       "en": "Her flat is on the third floor."
+      },
+      {
+       "fr": "Ana sube con la maleta pesada.",
+       "en": "Ana climbs up with the heavy suitcase."
+      },
+      {
+       "fr": "Por fin llega al segundo piso.",
+       "en": "At last she reaches the second floor."
+      },
+      {
+       "fr": "Está muy cansada.",
+       "en": "She is very tired."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ahora, una puerta se abre.",
+       "en": "Now, a door opens."
+      },
+      {
+       "fr": "Una señora mayor mira a Ana.",
+       "en": "An older lady looks at Ana."
+      },
+      {
+       "fr": "Tiene un gato negro en los brazos.",
+       "en": "She has a black cat in her arms."
+      },
+      {
+       "fr": "El gato mira a Ana con calma.",
+       "en": "The cat looks at Ana calmly."
+      },
+      {
+       "fr": "«Hola, ¿eres la vecina nueva?», pregunta la señora.",
+       "en": "\"Hello, are you the new neighbour?\" the lady asks."
+      },
+      {
+       "fr": "«Sí, me llamo Ana», dice Ana.",
+       "en": "\"Yes, my name is Ana,\" says Ana."
+      },
+      {
+       "fr": "«Yo soy Carmen y él es Pepe», dice la señora.",
+       "en": "\"I am Carmen and he is Pepe,\" says the lady."
+      },
+      {
+       "fr": "Carmen es la vecina de Ana.",
+       "en": "Carmen is Ana's neighbour."
+      },
+      {
+       "fr": "«¿Te ayudo con la maleta?», pregunta Carmen.",
+       "en": "\"Shall I help you with the suitcase?\" asks Carmen."
+      },
+      {
+       "fr": "Carmen ayuda a Ana a subir.",
+       "en": "Carmen helps Ana go up."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Ana abre la puerta de su piso.",
+       "en": "Ana opens the door of her flat."
+      },
+      {
+       "fr": "Es pequeño, pero tiene mucha luz.",
+       "en": "It is small, but it has a lot of light."
+      },
+      {
+       "fr": "Hay una mesa, una cama y una ventana.",
+       "en": "There is a table, a bed and a window."
+      },
+      {
+       "fr": "La ventana es grande y bonita.",
+       "en": "The window is big and pretty."
+      },
+      {
+       "fr": "Ana abre la ventana y ve la calle.",
+       "en": "Ana opens the window and sees the street."
+      },
+      {
+       "fr": "«¿Quieres un café?», pregunta Carmen.",
+       "en": "\"Do you want a coffee?\" Carmen asks."
+      },
+      {
+       "fr": "«Sí, gracias, tengo mucha sed», responde Ana.",
+       "en": "\"Yes, thanks, I am very thirsty,\" answers Ana."
+      },
+      {
+       "fr": "Carmen vuelve con dos cafés y galletas.",
+       "en": "Carmen comes back with two coffees and biscuits."
+      },
+      {
+       "fr": "El café está caliente y rico.",
+       "en": "The coffee is hot and tasty."
+      },
+      {
+       "fr": "Hoy Carmen ayuda mucho a Ana.",
+       "en": "Today Carmen helps Ana a lot."
+      },
+      {
+       "fr": "El gato salta a la cama de Ana.",
+       "en": "The cat jumps onto Ana's bed."
+      },
+      {
+       "fr": "Ana sonríe: ya tiene una vecina simpática en Madrid.",
+       "en": "Ana smiles: she already has a nice neighbour in Madrid."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cómo llega Ana a Madrid?",
+   "q_en": "How does Ana arrive in Madrid?",
+   "o": [
+    {
+     "fr": "En tren",
+     "en": "By train"
+    },
+    {
+     "fr": "En coche",
+     "en": "By car"
+    },
+    {
+     "fr": "En avión",
+     "en": "By plane"
+    }
+   ],
+   "a": 0,
+   "why": "'Ana llega a Madrid en tren.'"
+  },
+  {
+   "q": "¿Quién abre una puerta en el segundo piso?",
+   "q_en": "Who opens a door on the second floor?",
+   "o": [
+    {
+     "fr": "Un señor",
+     "en": "A man"
+    },
+    {
+     "fr": "Una señora con un gato",
+     "en": "A lady with a cat"
+    },
+    {
+     "fr": "Una niña",
+     "en": "A girl"
+    }
+   ],
+   "a": 1,
+   "why": "A lady with a black cat in her arms opens the door."
+  },
+  {
+   "q": "¿Qué hace Carmen al final?",
+   "q_en": "What does Carmen do at the end?",
+   "o": [
+    {
+     "fr": "Lleva café y galletas",
+     "en": "She brings coffee and biscuits"
+    },
+    {
+     "fr": "Busca la calle",
+     "en": "She looks for the street"
+    },
+    {
+     "fr": "Toma el metro",
+     "en": "She takes the metro"
+    }
+   ],
+   "a": 0,
+   "why": "'Carmen vuelve con dos cafés y galletas.'"
+  }
+ ]
+}

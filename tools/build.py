@@ -41,9 +41,13 @@ def norm(s):
     return s.lower().replace("’", "'")
 
 
-def tokenize(text):
+PLAIN_TOKEN_RE = re.compile(r"[^\W\d_]+(?:-[^\W\d_]+)*")  # languages without elision (Spanish)
+
+
+def tokenize(text, lang="fr"):
     """Return [(start, end, normalised_text)] for word tokens (punctuation is skipped)."""
-    return [(m.start(), m.end(), norm(m.group())) for m in TOKEN_RE.finditer(text)]
+    rx = TOKEN_RE if lang == "fr" else PLAIN_TOKEN_RE
+    return [(m.start(), m.end(), norm(m.group())) for m in rx.finditer(text)]
 
 
 def count_words(text):
@@ -53,6 +57,8 @@ def count_words(text):
 # ---------------------------------------------------------------- lexicon
 
 def _rows(path):
+    if not path.exists():
+        return
     for n, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
         line = line.strip()
         if line and not line.startswith("#"):
@@ -104,6 +110,11 @@ def load_sidecar(path):
     return forms, phrases, lemmas
 
 
+def base_lexicon(lang):
+    """Shared lexicon for a language: content/lexicon for French, content/lexicon/<lang> otherwise."""
+    return load_lexicon(LEX if lang == "fr" else LEX / lang)
+
+
 def lexicon_for(sid, base):
     """Shared lexicon + this story's sidecar (if any)."""
     forms, phrases, lemmas = base
@@ -114,12 +125,14 @@ def lexicon_for(sid, base):
     return {**forms, **f2}, {**phrases, **p2}, {**lemmas, **l2}
 
 
-def noun_article(lemma, info):
-    """Definite article for display: le/la/l' (derived from gender + first letter)."""
+def noun_article(lemma, info, lang="fr"):
+    """Definite article for display: le/la/l' (French) or el/la (Spanish), derived from gender."""
     if info.get("p") != "NOUN" or not info.get("gender"):
         return None
     if info.get("art"):
         return info["art"]
+    if lang != "fr":
+        return "el" if info["gender"] == "m" else "la"
     if lemma[0].lower() in VOWEL:
         return "l'"
     return "le" if info["gender"] == "m" else "la"
@@ -159,6 +172,7 @@ def enrich_story(raw, forms, phrases, lemmas, errors, missing=None):
         errors.append(f"{sid}: bad level {raw['level']}")
         return None
 
+    lang = raw.get("lang", "fr")
     story_lemmas, chapters_out, pics = {}, [], {}
     sent_lens, word_len_sum, token_total, tense_sents, sent_total = [], 0, 0, 0, 0
     total_words, lemma_tokens = 0, []
@@ -182,7 +196,7 @@ def enrich_story(raw, forms, phrases, lemmas, errors, missing=None):
                 if not fr or not en:
                     errors.append(f"{where}: sentence needs fr and en")
                     continue
-                merged = merge_phrases(tokenize(fr), phrases)
+                merged = merge_phrases(tokenize(fr, lang), phrases)
                 ov_all = s.get("ov", {})
                 toks, has_tense = [], False
                 for ti, m in enumerate(merged):
@@ -213,13 +227,13 @@ def enrich_story(raw, forms, phrases, lemmas, errors, missing=None):
                     toks.append(t)
                     if lemma not in story_lemmas:
                         sl = {"g": info["g"], "p": info["p"]}
-                        art = noun_article(lemma, info)
+                        art = noun_article(lemma, info, lang)
                         if art:
                             sl["a"] = art
                             sl["x"] = info["gender"]
                         story_lemmas[lemma] = sl
                     lemma_tokens.append(lemma)
-                    if any(k in morph for k in ("imparfait", "past participle", "futur", "conditionnel", "subjonctif", "passé simple")):
+                    if any(k in morph for k in ("imparfait", "past participle", "futur", "conditionnel", "subjonctif", "passé simple", "pretérito", "imperfecto", "participio", "futuro", "condicional", "subjuntivo")):
                         has_tense = True
                 for ov_key in ov_all:
                     if int(ov_key) >= len(merged):
@@ -231,8 +245,8 @@ def enrich_story(raw, forms, phrases, lemmas, errors, missing=None):
                 total_words += wl
                 sent_total += 1
                 tense_sents += 1 if has_tense else 0
-                word_len_sum += sum(t[1] - t[0] for t in tokenize(fr))
-                token_total += len(tokenize(fr))
+                word_len_sum += sum(t[1] - t[0] for t in tokenize(fr, lang))
+                token_total += len(tokenize(fr, lang))
                 sents_out.append({"fr": fr, "en": en, "tk": toks})
             paras_out.append(sents_out)
         chapters_out.append({"title": ch.get("title", ""), "paragraphs": paras_out})
@@ -281,7 +295,7 @@ def enrich_story(raw, forms, phrases, lemmas, errors, missing=None):
         warnings.append(f"{sid}: declared {raw['level']} but provisional score {difficulty} reads as {derived}")
 
     story = {
-        "id": raw["id"], "title": raw["title"], "title_en": raw["title_en"], "level": raw["level"],
+        "id": raw["id"], "lang": lang, "title": raw["title"], "title_en": raw["title_en"], "level": raw["level"],
         "series_id": raw.get("series_id"), "episode": raw.get("episode"),
         "summary_en": raw["summary_en"], "tags": raw["tags"], "source": raw["source"], "license": raw["license"],
         "words": total_words, "difficulty": difficulty,
@@ -348,7 +362,7 @@ def build_library(stories, series, extra):
                 lemma_list.append(lemma)
             lx.append(lemma_idx[lemma])
         entries.append({
-            "id": st["id"], "title": st["title"], "title_en": st["title_en"], "level": st["level"],
+            "id": st["id"], "lang": st.get("lang", "fr"), "title": st["title"], "title_en": st["title_en"], "level": st["level"],
             "difficulty": st["difficulty"], "words": st["words"], "tags": st["tags"],
             "series": st["series_id"], "episode": st["episode"], "summary": st["summary_en"],
             "source": st["source"], "lx": sorted(lx),
@@ -374,10 +388,12 @@ def stamp_service_worker(docs=DOCS):
 
 def check(paths):
     """Validate individual raw stories without writing any output (used while authoring)."""
-    base = load_lexicon()
+    bases = {}
     code = 0
     for p in paths:
         raw = json.loads(Path(p).read_text(encoding="utf-8"))
+        lg = raw.get("lang", "fr")
+        base = bases.setdefault(lg, base_lexicon(lg))
         errors, missing = [], {}
         f, ph, lm = lexicon_for(raw.get("id", ""), base)
         res = enrich_story(raw, f, ph, lm, errors, missing)
@@ -406,11 +422,13 @@ def check(paths):
 def main():
     if len(sys.argv) > 1 and sys.argv[1] == "--check":
         return check(sys.argv[2:])
-    base = load_lexicon()
+    bases = {}
     series = json.loads((ROOT / "content" / "series.json").read_text(encoding="utf-8"))
     errors, warnings, stories, rows = [], [], [], []
     for path in sorted(RAW.glob("*.json")):
         raw = json.loads(path.read_text(encoding="utf-8"))
+        lg = raw.get("lang", "fr")
+        base = bases.setdefault(lg, base_lexicon(lg))
         f, ph, lm = lexicon_for(raw.get("id", ""), base)
         res = enrich_story(raw, f, ph, lm, errors)
         if res:
@@ -450,7 +468,11 @@ def main():
     for st in stories:
         (OUT / "stories" / f"{st['id']}.json").write_text(json.dumps(st, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (OUT / "library.json").write_text(json.dumps(build_library(stories, series, None), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    (OUT / "examples.json").write_text(json.dumps(build_examples(stories), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    for old in OUT.glob("examples*.json"):
+        old.unlink()
+    for lg in sorted({st.get("lang", "fr") for st in stories}):
+        name = "examples.json" if lg == "fr" else f"examples_{lg}.json"
+        (OUT / name).write_text(json.dumps(build_examples([st for st in stories if st.get("lang", "fr") == lg]), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     print("\nLibrary ladder (sorted by provisional difficulty):")
     print(f"  {'id':<18}{'level':<6}{'score':<7}{'words':<7}{'avg sent':<10}{'max':<5}{'lemmas'}")

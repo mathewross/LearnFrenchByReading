@@ -5,7 +5,8 @@ import { Reader } from './reader.js';
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
 const COLORS = ['#5f7f73', '#9b6f5a', '#5d7088', '#857550', '#8c5f6a', '#4f7c82'];
 const THEME_COLORS = { light: '#f6f4ef', sepia: '#f1e7d0', dark: '#17181a' };
-const DEFAULTS = { theme: 'light', font: 'serif', size: 20, lh: 1.6, margin: 22, rate: 0.9, pics: 'on', auto: 'off' };
+const DEFAULTS = { theme: 'light', font: 'serif', size: 20, lh: 1.6, margin: 22, rate: 0.9, pics: 'on', auto: 'off', lang: 'fr' };
+const LANGS = { fr: { name: 'Français', en: 'French', test: 'Bonjour ! Il fait beau à Paris aujourd’hui.', sample: 'Il fait beau à Paris. Léa mange un croissant.' }, es: { name: 'Español', en: 'Spanish', test: '¡Hola! Hoy hace sol en Madrid.', sample: 'Hoy hace sol en Madrid. Ana toma un café.' } };
 const POS = { NOUN: 'noun', VERB: 'verb', ADJ: 'adjective', ADV: 'adverb', PRON: 'pronoun', DET: 'determiner', PREP: 'preposition', CONJ: 'conjunction', INTJ: 'interjection', EXPR: 'expression', NUM: 'number', PROPN: 'name', AUX: 'auxiliary' };
 
 const ICON = {
@@ -29,7 +30,7 @@ const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&l
 const app = $('#app');
 let lib = null;
 let settings = { ...DEFAULTS };
-let examples = null;
+const examplesByLang = {};
 const storyCache = new Map();
 const L = { q: '', level: 'All', sort: 'recommended' };
 
@@ -60,12 +61,16 @@ async function loadStory(id) {
   return s;
 }
 async function loadExamples() {
-  if (examples) return examples;
-  try { examples = await (await fetch('data/examples.json')).json(); } catch (e) { examples = {}; }
-  return examples;
+  const l = settings.lang;
+  if (examplesByLang[l]) return examplesByLang[l];
+  try { examplesByLang[l] = await (await fetch(l === 'fr' ? 'data/examples.json' : `data/examples_${l}.json`)).json(); } catch (e) { examplesByLang[l] = {}; }
+  return examplesByLang[l];
 }
 
-const words = () => get('words', {});
+const wkey = () => (settings.lang === 'fr' ? 'words' : 'words_' + settings.lang);
+const words = () => get(wkey(), {});
+const inLang = (st) => (st.lang || 'fr') === settings.lang;
+function setLang(l) { settings.lang = l; saveSettings(); tts.setLang(l); L.level = 'All'; L.q = ''; }
 const progress = () => get('progress', {});
 function coverage(entry) {
   if (!entry.lx.length) return 1;
@@ -124,6 +129,7 @@ function visibleStories() {
   const q = L.q.trim().toLowerCase();
   const P = progress();
   let list = lib.stories.filter((s) => {
+    if (!inLang(s)) return false;
     if (L.level !== 'All' && s.level !== L.level) return false;
     if (!q) return true;
     const ser = s.series && lib.series[s.series] ? lib.series[s.series].title : '';
@@ -158,7 +164,9 @@ function cardHtml(s) {
     ${P.frac ? `<div class="bar-prog"><i style="width:${Math.round(P.frac * 100)}%"></i></div>` : ''}</div></button>`;
 }
 function viewLibrary() {
+  const langs = [...new Set(lib.stories.map((x) => x.lang || 'fr'))];
   app.innerHTML = `<div class="view"><h1>Lecture</h1>
+    ${langs.length > 1 ? `<div class="chips" id="langs">${langs.map((l) => `<button class="chip ${settings.lang === l ? 'on' : ''}" data-lang="${l}">${LANGS[l] ? LANGS[l].name : l}</button>`).join('')}</div>` : ''}
     <input class="search" id="q" type="search" placeholder="Search title, topic or series" value="${esc(L.q)}" autocomplete="off">
     <div class="chips" id="chips">${['All', ...LEVELS].map((l) => `<button class="chip ${L.level === l ? 'on' : ''}" data-l="${l}">${l}</button>`).join('')}</div>
     <div class="toolbar"><span id="count"></span><label>Sort&nbsp;<select id="sort">${[['recommended', 'Recommended'], ['difficulty', 'Difficulty'], ['level', 'Level'], ['length', 'Length'], ['title', 'Title']].map(([v, t]) => `<option value="${v}" ${L.sort === v ? 'selected' : ''}>${t}</option>`).join('')}</select></label></div>
@@ -169,6 +177,7 @@ function viewLibrary() {
     $('#grid').innerHTML = list.length ? list.map(cardHtml).join('') : '<p class="empty" style="grid-column:1/-1">No stories match.</p>';
   };
   paint();
+  if ($('#langs')) $('#langs').addEventListener('click', (e) => { const b = e.target.closest('[data-lang]'); if (b) { setLang(b.dataset.lang); viewLibrary(); } });
   $('#q').addEventListener('input', (e) => { L.q = e.target.value; paint(); });
   $('#sort').addEventListener('change', (e) => { L.sort = e.target.value; paint(); });
   $('#chips').addEventListener('click', (e) => {
@@ -235,6 +244,7 @@ async function openReader(id) {
     <div class="rbar bottom"><span>${entry.level}</span><div class="bar-prog rprog"><i id="pfill" style="width:0"></i></div><span class="pg" id="pg"></span></div></div>`;
   try { story = await loadStory(id); } catch (e) { toast('Could not load this story. Are you offline?'); location.hash = '#/'; return; }
   if (location.hash !== `#/read/${id}`) return; // navigated away while loading
+  if ((story.lang || 'fr') !== settings.lang) setLang(story.lang || 'fr');
 
   let listening = false, timer = null, relayoutT = null, ro = null;
   const P0 = progress()[id] || {};
@@ -250,7 +260,7 @@ async function openReader(id) {
       const rec = W[lemma] || (W[lemma] = {});
       if (!rec.looked && !rec.saved) rec.known = true;
     }
-    set('words', W);
+    set(wkey(), W);
   };
   const savePos = (info) => {
     const P = progress(); const p = P[id] || { secs: 0 };
@@ -305,7 +315,7 @@ async function openReader(id) {
     const pos = tk.p || info.p; const gloss = tk.g || info.g;
     reader.highlightWord(i);
     const W = words(); const rec = W[tk.l] || (W[tk.l] = {});
-    if (pos !== 'PROPN') { rec.looked = (rec.looked || 0) + 1; rec.known = false; set('words', W); }
+    if (pos !== 'PROPN') { rec.looked = (rec.looked || 0) + 1; rec.known = false; set(wkey(), W); }
     const surface = t.text;
     const differs = tk.l.toLowerCase() !== surface.toLowerCase().replace(/’/g, "'");
     let lemmaLine = '';
@@ -341,7 +351,7 @@ async function openReader(id) {
           r.ctx = { form: surface, g: gloss, p: pos, a: info.a ? artText(info, tk.l) : '', fr: sent.fr, en: sent.en, story: id };
           btn.classList.add('on'); $('span', btn).textContent = 'Saved';
         }
-        set('words', W2);
+        set(wkey(), W2);
       }
     } });
   }
@@ -442,7 +452,7 @@ function viewSaved() {
     </div>${tabs('saved')}`;
   app.querySelector('.view').addEventListener('click', (e) => {
     const x = e.target.closest('.x'); if (!x) return;
-    if (x.dataset.w) { const w = words(); delete w[x.dataset.w].saved; delete w[x.dataset.w].ctx; set('words', w); }
+    if (x.dataset.w) { const w = words(); delete w[x.dataset.w].saved; delete w[x.dataset.w].ctx; set(wkey(), w); }
     if (x.dataset.s) set('sentences', get('sentences', []).filter((s) => s.fr !== x.dataset.s));
     viewSaved();
   });
@@ -457,10 +467,10 @@ function streak(days) {
   return n;
 }
 function viewStats() {
-  const P = progress(); const W = words(); const S = get('stats', { days: {} });
+  const P0 = progress(); const ids = new Set(lib.stories.filter(inLang).map((x) => x.id)); const P = Object.fromEntries(Object.entries(P0).filter(([k]) => ids.has(k))); const W = words(); const S = get('stats', { days: {} });
   const totalSecs = Object.values(P).reduce((a, p) => a + (p.secs || 0), 0);
   const met = new Set();
-  lib.stories.forEach((s) => { if (P[s.id] && P[s.id].pos > 0) s.lx.forEach((i) => met.add(lib.lemmas[i])); });
+  lib.stories.filter(inLang).forEach((s) => { if (P[s.id] && P[s.id].pos > 0) s.lx.forEach((i) => met.add(lib.lemmas[i])); });
   Object.keys(W).forEach((l) => { if (W[l].looked) met.add(l); });
   const known = Object.values(W).filter((w) => w.known).length;
   const finished = Object.values(P).filter((p) => p.done).length;
@@ -476,7 +486,8 @@ function viewStats() {
 function viewSettings() {
   const v = tts.status();
   app.innerHTML = `<div class="view"><h1>Settings</h1>
-    <div class="panel"><h3>Reading</h3>${displayControlsHtml()}<div class="sample" id="sample">Il fait beau à Paris. Léa mange un croissant.</div></div>
+    ${new Set(lib.stories.map((x) => x.lang || 'fr')).size > 1 ? `<div class="panel"><h3>Language</h3><div class="row"><label>Learning</label><div class="seg" id="langseg">${[...new Set(lib.stories.map((x) => x.lang || 'fr'))].map((l) => `<button class="${settings.lang === l ? 'on' : ''}" data-lang="${l}">${LANGS[l] ? LANGS[l].name : l}</button>`).join('')}</div></div><div class="hint">Saved words and the library are kept separately for each language.</div></div>` : ''}
+    <div class="panel"><h3>Reading</h3>${displayControlsHtml()}<div class="sample" id="sample">${LANGS[settings.lang].sample}</div></div>
     <div class="panel"><h3>Listening</h3>
       ${listenRowHtml()}
       <div class="row"><label>Speech speed</label><input type="range" id="rate" min="0.5" max="1.2" step="0.05" value="${settings.rate}"></div>
@@ -489,10 +500,11 @@ function viewSettings() {
       <div class="hint">Browsers can clear site data. Export your progress regularly and keep the file somewhere safe.</div>
       <div class="setting-btns"><button class="btn" id="exp">Export progress</button><button class="btn" id="imp">Import…</button><button class="btn" id="persist">Keep my data</button></div>
       <input type="file" id="file" accept="application/json,.json" hidden></div>
-    <p class="muted" style="font-size:13px">Lecture · milestone M3 preview · ${lib.stories.length} stories</p></div>${tabs('settings')}`;
+    <p class="muted" style="font-size:13px">Lecture · milestone M3 preview · ${lib.stories.filter(inLang).length} stories</p></div>${tabs('settings')}`;
   bindDisplayControls(app, () => {});
+  const ls = $('#langseg'); if (ls) ls.addEventListener('click', (e) => { const b = e.target.closest('[data-lang]'); if (b) { setLang(b.dataset.lang); viewSettings(); } });
   $('#rate').addEventListener('input', (e) => { settings.rate = parseFloat(e.target.value); saveSettings(); });
-  $('#test').addEventListener('click', () => { if (!tts.speak('Bonjour ! Il fait beau à Paris aujourd’hui.', { rate: settings.rate })) toast(tts.status().text); setTimeout(() => { const s = tts.status(); const el = $('#voice'); if (el) el.textContent = s.text; }, 400); });
+  $('#test').addEventListener('click', () => { if (!tts.speak(LANGS[settings.lang].test, { rate: settings.rate })) toast(tts.status().text); setTimeout(() => { const s = tts.status(); const el = $('#voice'); if (el) el.textContent = s.text; }, 400); });
   $('#dl').addEventListener('click', async (e) => {
     const btn = e.currentTarget;
     if (!('caches' in window)) { toast('Offline storage is not available here.'); return; }
@@ -530,6 +542,7 @@ function viewSettings() {
   await initStore();
   settings = { ...DEFAULTS, ...get('settings', {}) };
   applySettings();
+  tts.setLang(settings.lang);
   ensureSheet();
   try { lib = await (await fetch('data/library.json')).json(); }
   catch (e) { app.innerHTML = '<div class="view"><p class="empty">Couldn’t load the library. Check your connection and reload.</p></div>'; return; }

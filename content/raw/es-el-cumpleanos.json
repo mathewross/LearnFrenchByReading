@@ -1,0 +1,276 @@
+{
+ "id": "es-el-cumpleanos",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "El cumpleaños",
+ "title_en": "The birthday",
+ "level": "A1",
+ "summary_en": "It is Elena's birthday, but nobody seems to remember it. Her husband invites her to dinner.",
+ "tags": [
+  "birthday",
+  "friends",
+  "surprise"
+ ],
+ "key_vocab": [
+  "cumpleaños",
+  "cena",
+  "sorpresa",
+  "amigo",
+  "casa",
+  "pastel",
+  "vela",
+  "regalo",
+  "mesa",
+  "familia",
+  "feliz",
+  "triste"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Hoy es el cumpleaños de Elena.",
+       "en": "Today is Elena's birthday."
+      },
+      {
+       "fr": "Elena tiene treinta años.",
+       "en": "Elena is thirty years old."
+      },
+      {
+       "fr": "Trabaja en una tienda de flores.",
+       "en": "She works in a flower shop."
+      },
+      {
+       "fr": "Por la mañana, nadie dice nada.",
+       "en": "In the morning, nobody says anything."
+      },
+      {
+       "fr": "Su marido Javier no dice nada.",
+       "en": "Her husband Javier says nothing."
+      },
+      {
+       "fr": "Sus amigos no llaman.",
+       "en": "Her friends do not call."
+      },
+      {
+       "fr": "Elena está triste.",
+       "en": "Elena is sad."
+      },
+      {
+       "fr": "Piensa: «Todos olvidan mi cumpleaños.»",
+       "en": "She thinks: \"Everyone forgets my birthday.\""
+      },
+      {
+       "fr": "Está muy triste.",
+       "en": "She is very sad."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Por la tarde, Javier llama a Elena.",
+       "en": "In the afternoon, Javier calls Elena."
+      },
+      {
+       "fr": "«Vamos a cenar en casa de mi madre.»",
+       "en": "\"We are going to have dinner at my mother's house.\""
+      },
+      {
+       "fr": "«Estoy cansada», dice Elena.",
+       "en": "\"I am tired,\" says Elena."
+      },
+      {
+       "fr": "«Es solo una cena pequeña, por favor.»",
+       "en": "\"It is just a small dinner, please.\""
+      },
+      {
+       "fr": "Elena dice que sí.",
+       "en": "Elena says yes."
+      },
+      {
+       "fr": "En el coche, Elena mira por la ventana.",
+       "en": "In the car, Elena looks out of the window."
+      },
+      {
+       "fr": "Los dos llegan a la casa.",
+       "en": "The two of them arrive at the house."
+      },
+      {
+       "fr": "La casa está oscura y muy tranquila.",
+       "en": "The house is dark and very quiet."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Elena abre la puerta.",
+       "en": "Elena opens the door."
+      },
+      {
+       "fr": "De repente, hay luz.",
+       "en": "Suddenly, there is light."
+      },
+      {
+       "fr": "«¡Sorpresa!», gritan todos.",
+       "en": "\"Surprise!\" everyone shouts."
+      },
+      {
+       "fr": "Los amigos están allí, y también la familia.",
+       "en": "Her friends are there, and her family too."
+      },
+      {
+       "fr": "Hay globos, flores y una mesa grande.",
+       "en": "There are balloons, flowers and a big table."
+      },
+      {
+       "fr": "Es una cena de cumpleaños.",
+       "en": "It is a birthday dinner."
+      },
+      {
+       "fr": "Es una sorpresa para Elena.",
+       "en": "It is a surprise for Elena."
+      },
+      {
+       "fr": "Hay música y mucha comida en la mesa.",
+       "en": "There is music and lots of food on the table."
+      },
+      {
+       "fr": "Elena llora y ríe a la vez.",
+       "en": "Elena cries and laughs at the same time."
+      },
+      {
+       "fr": "Javier está feliz también.",
+       "en": "Javier is happy too."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Javier trae un pastel con velas.",
+       "en": "Javier brings a cake with candles."
+      },
+      {
+       "fr": "El pastel es grande y blanco.",
+       "en": "The cake is big and white."
+      },
+      {
+       "fr": "Hay treinta velas en el pastel.",
+       "en": "There are thirty candles on the cake."
+      },
+      {
+       "fr": "Los amigos y la familia cantan «Cumpleaños feliz».",
+       "en": "Friends and family sing \"Happy Birthday\"."
+      },
+      {
+       "fr": "Elena mira las velas y sonríe.",
+       "en": "Elena looks at the candles and smiles."
+      },
+      {
+       "fr": "Los niños comen pastel y ríen.",
+       "en": "The children eat cake and laugh."
+      },
+      {
+       "fr": "Su abuela da un regalo a Elena.",
+       "en": "Her grandmother gives Elena a present."
+      },
+      {
+       "fr": "Hay un regalo de Javier también.",
+       "en": "There is a present from Javier too."
+      },
+      {
+       "fr": "El regalo es un libro con fotos de la familia.",
+       "en": "The present is a book with photos of the family."
+      },
+      {
+       "fr": "«Es una sorpresa muy bonita», dice Elena.",
+       "en": "\"It is a very nice surprise,\" says Elena."
+      },
+      {
+       "fr": "Todos están en la mesa.",
+       "en": "Everyone is at the table."
+      },
+      {
+       "fr": "«Gracias a todos, es una cena perfecta», dice Elena.",
+       "en": "\"Thank you all, it is a perfect dinner,\" says Elena."
+      },
+      {
+       "fr": "Ahora Elena no está triste, está feliz.",
+       "en": "Now Elena is not sad, she is happy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cómo está Elena por la mañana?",
+   "q_en": "How is Elena in the morning?",
+   "o": [
+    {
+     "fr": "Feliz",
+     "en": "Happy"
+    },
+    {
+     "fr": "Triste",
+     "en": "Sad"
+    },
+    {
+     "fr": "Enferma",
+     "en": "Ill"
+    }
+   ],
+   "a": 1,
+   "why": "'Elena está triste.'"
+  },
+  {
+   "q": "¿Dónde es la cena?",
+   "q_en": "Where is the dinner?",
+   "o": [
+    {
+     "fr": "En un restaurante",
+     "en": "In a restaurant"
+    },
+    {
+     "fr": "En el trabajo",
+     "en": "At work"
+    },
+    {
+     "fr": "En casa de la madre de Javier",
+     "en": "At Javier's mother's house"
+    }
+   ],
+   "a": 2,
+   "why": "'Vamos a cenar en casa de mi madre.'"
+  },
+  {
+   "q": "¿Qué trae Javier?",
+   "q_en": "What does Javier bring?",
+   "o": [
+    {
+     "fr": "Un pastel con velas",
+     "en": "A cake with candles"
+    },
+    {
+     "fr": "Un libro",
+     "en": "A book"
+    },
+    {
+     "fr": "Flores",
+     "en": "Flowers"
+    }
+   ],
+   "a": 0,
+   "why": "'Javier trae un pastel con velas.'"
+  }
+ ]
+}

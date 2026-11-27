@@ -1,0 +1,252 @@
+{
+ "id": "es-el-perro-de-luis",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "El perro de Luis",
+ "title_en": "Luis's dog",
+ "level": "A1",
+ "summary_en": "Luis takes his little dog Toby to the park to play ball. Then Toby sees a cat and runs off.",
+ "tags": [
+  "dog",
+  "park",
+  "animals"
+ ],
+ "key_vocab": [
+  "perro",
+  "parque",
+  "correr",
+  "pelota",
+  "gato",
+  "árbol",
+  "niña",
+  "buscar",
+  "ver",
+  "jugar",
+  "detrás",
+  "mirar"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Luis tiene un perro.",
+       "en": "Luis has a dog."
+      },
+      {
+       "fr": "El perro se llama Toby.",
+       "en": "The dog is called Toby."
+      },
+      {
+       "fr": "Toby es pequeño y marrón.",
+       "en": "Toby is small and brown."
+      },
+      {
+       "fr": "Hoy Luis va al parque para jugar.",
+       "en": "Today Luis goes to the park to play."
+      },
+      {
+       "fr": "El parque es grande y bonito.",
+       "en": "The park is big and pretty."
+      },
+      {
+       "fr": "Hay árboles, flores y niños.",
+       "en": "There are trees, flowers and children."
+      },
+      {
+       "fr": "Luis tiene una pelota roja.",
+       "en": "Luis has a red ball."
+      },
+      {
+       "fr": "Toby quiere jugar con la pelota.",
+       "en": "Toby wants to play with the ball."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Luis lanza la pelota lejos.",
+       "en": "Luis throws the ball far away."
+      },
+      {
+       "fr": "Toby corre y toma la pelota.",
+       "en": "Toby runs and takes the ball."
+      },
+      {
+       "fr": "De pronto, Toby ve un gato.",
+       "en": "Suddenly, Toby sees a cat."
+      },
+      {
+       "fr": "El gato es blanco y negro.",
+       "en": "The cat is white and black."
+      },
+      {
+       "fr": "¡Toby corre detrás del gato!",
+       "en": "Toby runs after the cat!"
+      },
+      {
+       "fr": "«¡Toby, ven aquí!», grita Luis.",
+       "en": "\"Toby, come here!\" shouts Luis."
+      },
+      {
+       "fr": "Pero el perro no escucha.",
+       "en": "But the dog does not listen."
+      },
+      {
+       "fr": "Luis corre detrás del perro.",
+       "en": "Luis runs after the dog."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "El gato corre por el parque.",
+       "en": "The cat runs through the park."
+      },
+      {
+       "fr": "Toby corre por el parque también.",
+       "en": "Toby runs through the park too."
+      },
+      {
+       "fr": "Luis busca a Toby entre los árboles.",
+       "en": "Luis looks for Toby among the trees."
+      },
+      {
+       "fr": "Busca detrás de un árbol.",
+       "en": "He looks behind a tree."
+      },
+      {
+       "fr": "No ve al perro.",
+       "en": "He does not see the dog."
+      },
+      {
+       "fr": "Una niña ve a Toby y sonríe.",
+       "en": "A girl sees Toby and smiles."
+      },
+      {
+       "fr": "«¿Buscas un perro marrón?», pregunta la niña.",
+       "en": "\"Are you looking for a brown dog?\" asks the girl."
+      },
+      {
+       "fr": "«Sí, se llama Toby», dice Luis.",
+       "en": "\"Yes, he is called Toby,\" says Luis."
+      },
+      {
+       "fr": "«Está allí, debajo de ese árbol.»",
+       "en": "\"He is over there, under that tree.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Luis mira hacia el árbol y corre.",
+       "en": "Luis looks towards the tree and runs."
+      },
+      {
+       "fr": "El gato está arriba, en el árbol.",
+       "en": "The cat is up there, in the tree."
+      },
+      {
+       "fr": "Toby está debajo y ladra mucho.",
+       "en": "Toby is underneath and barks a lot."
+      },
+      {
+       "fr": "Luis toma a Toby en los brazos.",
+       "en": "Luis takes Toby in his arms."
+      },
+      {
+       "fr": "«Toby, no puedes correr así», dice Luis.",
+       "en": "\"Toby, you can't run like that,\" says Luis."
+      },
+      {
+       "fr": "La niña ríe y mira al gato.",
+       "en": "The girl laughs and looks at the cat."
+      },
+      {
+       "fr": "Toby deja la pelota en el suelo.",
+       "en": "Toby leaves the ball on the ground."
+      },
+      {
+       "fr": "Ahora Luis, la niña y Toby juegan.",
+       "en": "Now Luis, the girl and Toby play."
+      },
+      {
+       "fr": "El gato mira el juego desde el árbol.",
+       "en": "The cat watches the game from the tree."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué ve Toby en el parque?",
+   "q_en": "What does Toby see in the park?",
+   "o": [
+    {
+     "fr": "Un gato",
+     "en": "A cat"
+    },
+    {
+     "fr": "Una niña",
+     "en": "A girl"
+    },
+    {
+     "fr": "Un pájaro",
+     "en": "A bird"
+    }
+   ],
+   "a": 0,
+   "why": "'De pronto, Toby ve un gato.'"
+  },
+  {
+   "q": "¿Quién ve a Toby?",
+   "q_en": "Who sees Toby?",
+   "o": [
+    {
+     "fr": "El gato",
+     "en": "The cat"
+    },
+    {
+     "fr": "Una niña",
+     "en": "A girl"
+    },
+    {
+     "fr": "Una mujer",
+     "en": "A woman"
+    }
+   ],
+   "a": 1,
+   "why": "'Una niña ve a Toby y sonríe.'"
+  },
+  {
+   "q": "¿Dónde está el gato al final?",
+   "q_en": "Where is the cat at the end?",
+   "o": [
+    {
+     "fr": "En el suelo",
+     "en": "On the ground"
+    },
+    {
+     "fr": "En el parque",
+     "en": "In the park"
+    },
+    {
+     "fr": "En el árbol",
+     "en": "In the tree"
+    }
+   ],
+   "a": 2,
+   "why": "'El gato está arriba, en el árbol.'"
+  }
+ ]
+}

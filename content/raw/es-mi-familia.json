@@ -1,0 +1,260 @@
+{
+ "id": "es-mi-familia",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Mi familia",
+ "title_en": "My family",
+ "level": "A1",
+ "summary_en": "Lucía introduces her family and her two pets. One Saturday, her dad comes home with a moving box.",
+ "tags": [
+  "family",
+  "pets",
+  "home"
+ ],
+ "key_vocab": [
+  "familia",
+  "mamá",
+  "papá",
+  "hermano",
+  "perro",
+  "gato",
+  "sorpresa",
+  "caja",
+  "conejo",
+  "casa",
+  "abuelo",
+  "grande"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "sentences": [
+      {
+       "fr": "Me llamo Lucía y tengo ocho años.",
+       "en": "My name is Lucía and I am eight years old."
+      },
+      {
+       "fr": "Esta es mi familia.",
+       "en": "This is my family."
+      },
+      {
+       "fr": "Vivimos en una casa grande con jardín.",
+       "en": "We live in a big house with a garden."
+      },
+      {
+       "fr": "Mi familia es grande y simpática.",
+       "en": "My family is big and friendly."
+      },
+      {
+       "fr": "Mi mamá se llama Elena.",
+       "en": "My mum is called Elena."
+      },
+      {
+       "fr": "Es doctora y le gusta cantar.",
+       "en": "She is a doctor and likes to sing."
+      },
+      {
+       "fr": "Mi papá se llama Javier.",
+       "en": "My dad is called Javier."
+      },
+      {
+       "fr": "Es alto y cocina muy bien.",
+       "en": "He is tall and cooks very well."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Tengo un hermano.",
+       "en": "I have a brother."
+      },
+      {
+       "fr": "Se llama Pablo y tiene cinco años.",
+       "en": "He is called Pablo and is five years old."
+      },
+      {
+       "fr": "Pablo es pequeño, pero habla mucho.",
+       "en": "Pablo is small, but he talks a lot."
+      },
+      {
+       "fr": "Mi hermano y el perro corren por el jardín.",
+       "en": "My brother and the dog run around the garden."
+      },
+      {
+       "fr": "También vive con nosotros mi abuelo Tomás.",
+       "en": "My grandfather Tomás also lives with us."
+      },
+      {
+       "fr": "El abuelo lee el periódico en el jardín.",
+       "en": "Grandpa reads the newspaper in the garden."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Tenemos dos animales en casa.",
+       "en": "We have two animals at home."
+      },
+      {
+       "fr": "Toby es nuestro perro.",
+       "en": "Toby is our dog."
+      },
+      {
+       "fr": "Es grande y marrón.",
+       "en": "He is big and brown."
+      },
+      {
+       "fr": "Luna es nuestra gata.",
+       "en": "Luna is our cat."
+      },
+      {
+       "fr": "Es pequeña y negra.",
+       "en": "She is small and black."
+      },
+      {
+       "fr": "El perro come mucho.",
+       "en": "The dog eats a lot."
+      },
+      {
+       "fr": "La gata duerme todo el día.",
+       "en": "The cat sleeps all day."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Es sábado y papá llega a casa con una caja.",
+       "en": "It is Saturday and Dad arrives home with a box."
+      },
+      {
+       "fr": "«¡Tenemos una sorpresa!», dice mamá.",
+       "en": "\"We have a surprise!\" says Mum."
+      },
+      {
+       "fr": "¿Qué es la sorpresa?",
+       "en": "What is the surprise?"
+      },
+      {
+       "fr": "La caja se mueve.",
+       "en": "The box moves."
+      },
+      {
+       "fr": "Mi hermano grita: «¡Hay un monstruo!»",
+       "en": "My brother shouts: \"There is a monster!\""
+      },
+      {
+       "fr": "El abuelo sonríe y mira la caja.",
+       "en": "Grandpa smiles and looks at the box."
+      },
+      {
+       "fr": "Yo abro la caja con cuidado.",
+       "en": "I open the box carefully."
+      },
+      {
+       "fr": "Dentro hay un conejo blanco.",
+       "en": "Inside there is a white rabbit."
+      },
+      {
+       "fr": "Es muy pequeño y tiene las orejas largas.",
+       "en": "It is very small and has long ears."
+      },
+      {
+       "fr": "El conejo mueve la nariz.",
+       "en": "The rabbit twitches its nose."
+      },
+      {
+       "fr": "El perro y la gata miran el conejo.",
+       "en": "The dog and the cat look at the rabbit."
+      },
+      {
+       "fr": "«Se llama Zanahoria», dice Pablo.",
+       "en": "\"He is called Carrot,\" says Pablo."
+      },
+      {
+       "fr": "Mamá y papá sonríen.",
+       "en": "Mum and Dad smile."
+      },
+      {
+       "fr": "Es una sorpresa muy bonita.",
+       "en": "It is a very nice surprise."
+      },
+      {
+       "fr": "Ahora nuestra familia es más grande.",
+       "en": "Now our family is bigger."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cuántos años tiene Pablo?",
+   "q_en": "How old is Pablo?",
+   "o": [
+    {
+     "fr": "Cinco",
+     "en": "Five"
+    },
+    {
+     "fr": "Ocho",
+     "en": "Eight"
+    },
+    {
+     "fr": "Tres",
+     "en": "Three"
+    }
+   ],
+   "a": 0,
+   "why": "'Se llama Pablo y tiene cinco años.'"
+  },
+  {
+   "q": "¿Cómo es la gata Luna?",
+   "q_en": "What is the cat Luna like?",
+   "o": [
+    {
+     "fr": "Grande y marrón",
+     "en": "Big and brown"
+    },
+    {
+     "fr": "Pequeña y negra",
+     "en": "Small and black"
+    },
+    {
+     "fr": "Blanca y larga",
+     "en": "White and long"
+    }
+   ],
+   "a": 1,
+   "why": "'Luna es nuestra gata. Es pequeña y negra.'"
+  },
+  {
+   "q": "¿Qué hay dentro de la caja?",
+   "q_en": "What is inside the box?",
+   "o": [
+    {
+     "fr": "Un monstruo",
+     "en": "A monster"
+    },
+    {
+     "fr": "Un periódico",
+     "en": "A newspaper"
+    },
+    {
+     "fr": "Un conejo",
+     "en": "A rabbit"
+    }
+   ],
+   "a": 2,
+   "why": "'Dentro hay un conejo blanco.'"
+  }
+ ]
+}
