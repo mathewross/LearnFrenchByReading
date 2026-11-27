@@ -1,0 +1,250 @@
+{
+ "id": "es-en-la-tienda-de-ropa",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "En la tienda de ropa",
+ "title_en": "In the clothes shop",
+ "level": "A1",
+ "summary_en": "It is cold, so Lucía goes into a shop to buy a new jacket. The first one is not quite right.",
+ "tags": [
+  "shopping",
+  "clothes",
+  "jacket"
+ ],
+ "key_vocab": [
+  "chaqueta",
+  "tienda",
+  "talla",
+  "probador",
+  "grande",
+  "euro",
+  "precio",
+  "negro",
+  "dependiente",
+  "querer",
+  "frío"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-en-la-tienda-de-ropa-1",
+      "alt": "Cold Lucía walks into the clothes shop and the shop assistant greets her."
+     },
+     "sentences": [
+      {
+       "fr": "Hoy hace mucho frío.",
+       "en": "Today it is very cold."
+      },
+      {
+       "fr": "Lucía tiene frío y quiere una chaqueta nueva.",
+       "en": "Lucía is cold and wants a new jacket."
+      },
+      {
+       "fr": "No tiene mucho dinero.",
+       "en": "She does not have much money."
+      },
+      {
+       "fr": "Entra en una tienda de ropa.",
+       "en": "She goes into a clothes shop."
+      },
+      {
+       "fr": "Hay muchas chaquetas en la tienda.",
+       "en": "There are many jackets in the shop."
+      },
+      {
+       "fr": "Hay chaquetas rojas, azules y negras.",
+       "en": "There are red, blue and black jackets."
+      },
+      {
+       "fr": "Un dependiente dice: «Buenos días. ¿Qué desea?»",
+       "en": "A shop assistant says: \"Good morning. What would you like?\""
+      },
+      {
+       "fr": "El dependiente es muy amable.",
+       "en": "The shop assistant is very friendly."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "«Quiero una chaqueta negra», dice Lucía.",
+       "en": "\"I want a black jacket,\" says Lucía."
+      },
+      {
+       "fr": "«¿Qué talla necesita?», pregunta el dependiente.",
+       "en": "\"What size do you need?\" asks the shop assistant."
+      },
+      {
+       "fr": "«Mediana, por favor.»",
+       "en": "\"Medium, please.\""
+      },
+      {
+       "fr": "El dependiente trae una chaqueta negra.",
+       "en": "The shop assistant brings a black jacket."
+      },
+      {
+       "fr": "Lucía va al probador.",
+       "en": "Lucía goes to the fitting room."
+      },
+      {
+       "fr": "En el probador hay un espejo grande.",
+       "en": "In the fitting room there is a big mirror."
+      },
+      {
+       "fr": "La chaqueta es bonita, pero es muy pequeña.",
+       "en": "The jacket is pretty, but it is very small."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-en-la-tienda-de-ropa-2",
+      "alt": "Lucía smiles in the mirror, and the assistant shows her the sale price."
+     },
+     "sentences": [
+      {
+       "fr": "Lucía sale del probador.",
+       "en": "Lucía comes out of the fitting room."
+      },
+      {
+       "fr": "«¿Tiene una talla más grande?», pregunta.",
+       "en": "\"Do you have a bigger size?\" she asks."
+      },
+      {
+       "fr": "«Sí, aquí tiene una talla más grande», dice el dependiente.",
+       "en": "\"Yes, here you have a bigger size,\" says the shop assistant."
+      },
+      {
+       "fr": "Lucía vuelve al probador.",
+       "en": "Lucía goes back to the fitting room."
+      },
+      {
+       "fr": "Se mira en el espejo y sonríe.",
+       "en": "She looks at herself in the mirror and smiles."
+      },
+      {
+       "fr": "Ahora la chaqueta es perfecta y muy cómoda.",
+       "en": "Now the jacket is perfect and very comfortable."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Lucía mira el precio: sesenta euros.",
+       "en": "Lucía looks at the price: sixty euros."
+      },
+      {
+       "fr": "«¡Es muy cara!», piensa.",
+       "en": "\"It is very expensive!\" she thinks."
+      },
+      {
+       "fr": "Pregunta al dependiente: «¿Es este el precio?»",
+       "en": "She asks the shop assistant: \"Is this the price?\"",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "this one"
+        }
+       }
+      },
+      {
+       "fr": "«Hoy hay una oferta», dice él.",
+       "en": "\"Today there is a sale,\" he says."
+      },
+      {
+       "fr": "«El nuevo precio es cuarenta euros.»",
+       "en": "\"The new price is forty euros.\""
+      },
+      {
+       "fr": "«¡Perfecto! Quiero esta chaqueta», dice Lucía.",
+       "en": "\"Perfect! I want this jacket,\" says Lucía."
+      },
+      {
+       "fr": "Paga cuarenta euros y sale de la tienda.",
+       "en": "She pays forty euros and leaves the shop."
+      },
+      {
+       "fr": "Es una buena chaqueta para el invierno.",
+       "en": "It is a good jacket for the winter."
+      },
+      {
+       "fr": "Con su chaqueta nueva, ya no tiene frío.",
+       "en": "With her new jacket, she is not cold any more."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué quiere comprar Lucía?",
+   "q_en": "What does Lucía want to buy?",
+   "o": [
+    {
+     "fr": "Una chaqueta",
+     "en": "A jacket"
+    },
+    {
+     "fr": "Un libro",
+     "en": "A book"
+    },
+    {
+     "fr": "Unos zapatos",
+     "en": "Some shoes"
+    }
+   ],
+   "a": 0,
+   "why": "'Lucía tiene frío y quiere una chaqueta nueva.'"
+  },
+  {
+   "q": "¿Cuál es el problema de la primera chaqueta?",
+   "q_en": "What is the problem with the first jacket?",
+   "o": [
+    {
+     "fr": "Es muy cara",
+     "en": "It is very expensive"
+    },
+    {
+     "fr": "Es muy pequeña",
+     "en": "It is very small"
+    },
+    {
+     "fr": "Es azul",
+     "en": "It is blue"
+    }
+   ],
+   "a": 1,
+   "why": "'La chaqueta es bonita, pero es muy pequeña.'"
+  },
+  {
+   "q": "¿Cuánto paga Lucía?",
+   "q_en": "How much does Lucía pay?",
+   "o": [
+    {
+     "fr": "Sesenta euros",
+     "en": "Sixty euros"
+    },
+    {
+     "fr": "Veinte euros",
+     "en": "Twenty euros"
+    },
+    {
+     "fr": "Cuarenta euros",
+     "en": "Forty euros"
+    }
+   ],
+   "a": 2,
+   "why": "'El nuevo precio es cuarenta euros.'"
+  }
+ ],
+ "cover": "es-en-la-tienda-de-ropa-1"
+}

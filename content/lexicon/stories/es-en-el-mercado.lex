@@ -103,7 +103,7 @@ F|euro|euro|NOUN|
 L|Mateo|PROPN|Mateo (a boy's name)
 L|Rosa|PROPN|Rosa (a woman's name)
 L|a|PREP|to, at
-L|abuelo|NOUN|grandfather|m
+L|abuelo|NOUN|grandfather (fem. abuela: grandmother)|m
 L|bien|ADV|well, good
 L|bolsa|NOUN|bag|f
 L|caer|VERB|to fall
@@ -169,7 +169,7 @@ L|romper|VERB|to break
 L|salir|VERB|to come out, to go out
 L|se|PRON|himself, herself, itself (reflexive)
 L|ser|VERB|to be (permanent)
-L|señor|NOUN|man, gentleman, Mr|m
+L|señor|NOUN|man, gentleman, Mr (fem. señora: lady, Mrs)|m
 L|sombrero|NOUN|hat|m
 L|sonreír|VERB|to smile
 L|su|DET|his, her, their

@@ -169,7 +169,7 @@ L|se|PRON|himself, herself, itself (reflexive)
 L|sed|NOUN|thirst|f
 L|segundo|ADJ|second
 L|ser|VERB|to be (permanent)
-L|señor|NOUN|man, gentleman, Mr|m
+L|señor|NOUN|man, gentleman, Mr (fem. señora: lady, Mrs)|m
 L|siete|NUM|seven
 L|simpático|ADJ|nice, friendly
 L|sonreír|VERB|to smile

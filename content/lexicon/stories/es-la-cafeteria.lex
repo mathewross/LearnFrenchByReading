@@ -59,7 +59,7 @@ F|pasa|pasar|VERB|presente (él/ella)
 F|ríe|reír|VERB|presente (él/ella)
 F|ríen|reír|VERB|presente (ellos)
 F|trae|traer|VERB|presente (él/ella)
-F|mañana|mañana|ADV|
+F|mañana|mañana|NOUN|
 F|hablan|hablar|VERB|presente (ellos)
 F|sorpresa|sorpresa|NOUN|
 F|cafetería|cafetería|NOUN|
@@ -100,7 +100,7 @@ L|barra|NOUN|bar, counter|f
 L|cafetería|NOUN|cafe|f
 L|café|NOUN|coffee|m
 L|caliente|ADJ|hot
-L|camarero|NOUN|waiter|m
+L|camarero|NOUN|waiter (fem. camarera: waitress)|m
 L|chocolate|NOUN|chocolate, hot chocolate|m
 L|churro|NOUN|churro (fried dough stick)|m
 L|cinco|NUM|five
@@ -155,7 +155,7 @@ L|rico|ADJ|delicious
 L|se|PRON|himself, herself, itself (reflexive)
 L|sentarse|VERB|to sit down
 L|ser|VERB|to be (permanent)
-L|señor|NOUN|man, gentleman, Mr|m
+L|señor|NOUN|man, gentleman, Mr (fem. señora: lady, Mrs)|m
 L|solo|ADJ|black (coffee), plain
 L|sonreír|VERB|to smile
 L|sorpresa|NOUN|surprise|f

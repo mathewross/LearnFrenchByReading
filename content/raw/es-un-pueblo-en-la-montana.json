@@ -1,0 +1,398 @@
+{
+ "id": "es-un-pueblo-en-la-montana",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Un pueblo en la montaña",
+ "title_en": "A village in the mountains",
+ "level": "B1",
+ "summary_en": "An overworked office employee from Madrid rents a house in a mountain village for a week, sure she will be bored. The slow rhythm of the place surprises her.",
+ "tags": [
+  "village",
+  "rest",
+  "change"
+ ],
+ "key_vocab": [
+  "pueblo",
+  "queso",
+  "móvil",
+  "luz",
+  "vecino",
+  "hora",
+  "trabajar",
+  "mirar",
+  "oveja",
+  "prisa",
+  "noche",
+  "ciudad"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-un-pueblo-en-la-montana-1",
+      "alt": "Lucía arrives in the mountain village, where her phone has no signal."
+     },
+     "sentences": [
+      {
+       "fr": "Lucía trabajaba en una oficina de Madrid y casi nunca salía antes de las nueve de la noche.",
+       "en": "Lucía worked in an office in Madrid and almost never left before nine at night."
+      },
+      {
+       "fr": "Un día su médico le dijo: «Necesita descansar, o se pondrá enferma.»",
+       "en": "One day her doctor told her: \"You need to rest, or you will get ill.\""
+      },
+      {
+       "fr": "Así que pidió una semana de vacaciones y alquiló una casita en un pueblo de montaña.",
+       "en": "So she asked for a week of vacation and rented a small house in a mountain village."
+      },
+      {
+       "fr": "«Me aburriré muchísimo —pensó—, pero al menos nadie me llamará por teléfono.»",
+       "en": "\"I will be terribly bored,\" she thought, \"but at least nobody will call me on the phone.\""
+      },
+      {
+       "fr": "Llegó un domingo por la tarde, después de dos horas de curvas.",
+       "en": "She arrived on a Sunday afternoon, after two hours of winding road."
+      },
+      {
+       "fr": "El pueblo tenía una plaza, una iglesia, una tienda y apenas treinta casas de piedra.",
+       "en": "The village had a square, a church, a shop and barely thirty stone houses."
+      },
+      {
+       "fr": "En su móvil casi no había cobertura.",
+       "en": "On her phone there was almost no signal."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "A la mañana siguiente la despertó un ruido extraño: eran las campanas de la iglesia.",
+       "en": "The next morning a strange noise woke her: it was the church bells.",
+       "ov": {
+        "4": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      },
+      {
+       "fr": "Eran las siete y, por primera vez en años, no tenía ninguna prisa.",
+       "en": "It was seven o'clock and, for the first time in years, she was in no hurry."
+      },
+      {
+       "fr": "En la tienda conoció a Remedios.",
+       "en": "In the shop she met Remedios."
+      },
+      {
+       "fr": "Era una mujer mayor que vendía pan, queso y manzanas.",
+       "en": "She was an older woman who sold bread, cheese and apples.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "who"
+        }
+       }
+      },
+      {
+       "fr": "«¿Eres de la ciudad?», le preguntó Remedios. «Se nota: siempre vas con prisa.»",
+       "en": "\"Are you from the city?\" Remedios asked her. \"You can tell: you're always in a hurry.\""
+      },
+      {
+       "fr": "Lucía se rio y compró un queso enorme que no necesitaba.",
+       "en": "Lucía laughed and bought an enormous cheese that she didn't need.",
+       "ov": {
+        "8": {
+         "p": "PRON",
+         "g": "that"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-un-pueblo-en-la-montana-2",
+      "alt": "Lucía sits among the sheep with the shepherd don Anselmo."
+     },
+     "sentences": [
+      {
+       "fr": "Estaba acostumbrada al ritmo de la ciudad.",
+       "en": "She was used to the pace of the city."
+      },
+      {
+       "fr": "Durante los primeros días no sabía qué hacer con tanto tiempo libre.",
+       "en": "During the first days she didn't know what to do with so much free time."
+      },
+      {
+       "fr": "Caminaba por el bosque, miraba el móvil cada cinco minutos y se sentía culpable por no trabajar.",
+       "en": "She walked in the forest, looked at her phone every five minutes and felt guilty for not working."
+      },
+      {
+       "fr": "El miércoles encontró a un pastor, don Anselmo, que cuidaba sus ovejas en un prado.",
+       "en": "On Wednesday she came across a shepherd, Don Anselmo, who was looking after his sheep in a meadow.",
+       "ov": {
+        "8": {
+         "p": "PRON",
+         "g": "who"
+        }
+       }
+      },
+      {
+       "fr": "«¿Tiene prisa, señorita?», le dijo. «Descanse un rato. Las ovejas no corren y, aun así, llegan a todas partes.»",
+       "en": "\"Are you in a hurry, miss?\" he said to her. \"Rest for a while. The sheep don't run and, even so, they get everywhere.\""
+      },
+      {
+       "fr": "Lucía se sentó a su lado, entre las ovejas, y durante una hora no dijeron casi nada.",
+       "en": "Lucía sat down beside him, among the sheep, and for an hour they hardly said anything."
+      },
+      {
+       "fr": "Fue la hora más tranquila de toda su vida adulta.",
+       "en": "It was the calmest hour of her whole adult life."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "El jueves por la noche estalló una tormenta y se fue la luz en todo el pueblo.",
+       "en": "On Thursday night a storm broke out and the power went out in the whole village."
+      },
+      {
+       "fr": "Lucía, nerviosa, no encontraba las velas.",
+       "en": "Lucía, nervous, couldn't find the candles."
+      },
+      {
+       "fr": "De pronto alguien llamó a la puerta.",
+       "en": "Suddenly someone knocked at the door."
+      },
+      {
+       "fr": "Era Remedios, con una linterna y su nieto Pablo, de diez años.",
+       "en": "It was Remedios, with a flashlight and her grandson Pablo, aged ten."
+      },
+      {
+       "fr": "«Cuando no hay luz, los vecinos nos reunimos en mi casa», dijo ella. «Es mejor que estar sola.»",
+       "en": "\"When there is no electricity, the neighbours get together at my house,\" she said. \"It's better than being alone.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Lucía los acompañó a casa de Remedios, donde ocho vecinos cenaban pan, queso y sopa a la luz de las velas.",
+       "en": "Lucía went with them to Remedios's house, where eight neighbours were having bread, cheese and soup by candlelight.",
+       "ov": {
+        "1": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      },
+      {
+       "fr": "Aquella noche se rieron, cantaron y contaron historias hasta la madrugada.",
+       "en": "That night they laughed, sang and told stories until the small hours."
+      },
+      {
+       "fr": "En Madrid, pensó Lucía, ni siquiera sabía cómo se llamaban sus vecinos.",
+       "en": "In Madrid, Lucía thought, she didn't even know what her neighbours were called."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-un-pueblo-en-la-montana-3",
+      "alt": "On the hill at night Pablo shows Lucía the stars."
+     },
+     "sentences": [
+      {
+       "fr": "El viernes Pablo le enseñó el mejor sitio del pueblo.",
+       "en": "On Friday Pablo showed her the best spot in the village."
+      },
+      {
+       "fr": "Era una colina desde donde se veía todo el valle.",
+       "en": "It was a hill from which the whole valley could be seen."
+      },
+      {
+       "fr": "Cuando oscureció, el cielo se llenó de estrellas.",
+       "en": "When it got dark, the sky filled with stars."
+      },
+      {
+       "fr": "«¿Nunca las habías visto?», preguntó el niño, sorprendido.",
+       "en": "\"Had you never seen them?\" the boy asked, surprised.",
+       "ov": {
+        "1": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      },
+      {
+       "fr": "«En la ciudad hay demasiada luz», explicó Lucía. «Y yo siempre miro el suelo o la pantalla.»",
+       "en": "\"In the city there is too much light,\" Lucía explained. \"And I'm always looking at the ground or the screen.\""
+      },
+      {
+       "fr": "Entonces se dio cuenta de que llevaba tres días sin mirar el móvil.",
+       "en": "Then she realised she had gone three days without looking at her phone."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "El domingo, antes de irse, fue a despedirse de Remedios.",
+       "en": "On Sunday, before leaving, she went to say goodbye to Remedios.",
+       "ov": {
+        "5": {
+         "l": "ir"
+        }
+       }
+      },
+      {
+       "fr": "«¿Volverás?», le preguntó la mujer.",
+       "en": "\"Will you come back?\" the woman asked her."
+      },
+      {
+       "fr": "«Volveré, pero antes tengo que cambiar algunas cosas», contestó Lucía.",
+       "en": "\"I will come back, but first I have to change a few things,\" Lucía answered."
+      },
+      {
+       "fr": "«Cuando llegue a Madrid, hablaré con mi jefe. Pediré trabajar menos horas, y quizá desde casa.»",
+       "en": "\"When I get to Madrid, I will talk to my boss. I will ask to work fewer hours, and perhaps from home.\""
+      },
+      {
+       "fr": "«Si no me lo permite, buscaré otro trabajo.»",
+       "en": "\"If he doesn't allow it, I will look for another job.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Remedios sonrió y le dio un queso más pequeño: «Para el camino. Y para que no te olvides de nosotros.»",
+       "en": "Remedios smiled and gave her a smaller cheese: \"For the road. And so that you don't forget us.\""
+      },
+      {
+       "fr": "Al salir del pueblo, Lucía apagó la radio.",
+       "en": "As she left the village, Lucía turned off the radio."
+      },
+      {
+       "fr": "Bajó la ventanilla para oír las campanas por última vez.",
+       "en": "She lowered the window to hear the bells one last time."
+      },
+      {
+       "fr": "Sabía que su vida en Madrid ya no sería igual.",
+       "en": "She knew that her life in Madrid would no longer be the same."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Por qué va Lucía al pueblo?",
+   "q_en": "Why does Lucía go to the village?",
+   "o": [
+    {
+     "fr": "Porque su médico dice que debe descansar",
+     "en": "Because her doctor says she must rest"
+    },
+    {
+     "fr": "Porque quiere vender una casa",
+     "en": "Because she wants to sell a house"
+    },
+    {
+     "fr": "Porque su jefe la envía allí",
+     "en": "Because her boss sends her there"
+    }
+   ],
+   "a": 0,
+   "why": "'Necesita descansar, o se pondrá enferma.'"
+  },
+  {
+   "q": "¿Qué quiere enseñar don Anselmo con el ejemplo de las ovejas?",
+   "q_en": "What does Don Anselmo want to teach with the example of the sheep?",
+   "o": [
+    {
+     "fr": "Que se puede llegar lejos sin ir con prisa",
+     "en": "That you can get far without being in a hurry"
+    },
+    {
+     "fr": "Que los animales son más rápidos que las personas",
+     "en": "That animals are faster than people"
+    },
+    {
+     "fr": "Que Lucía debe comprar algunas ovejas",
+     "en": "That Lucía should buy some sheep"
+    }
+   ],
+   "a": 0,
+   "why": "'Las ovejas no corren y, aun así, llegan a todas partes' is his gentle way of telling her to slow down (inference)."
+  },
+  {
+   "q": "¿Qué ocurre el jueves por la noche?",
+   "q_en": "What happens on Thursday night?",
+   "o": [
+    {
+     "fr": "Lucía pierde el móvil",
+     "en": "Lucía loses her phone"
+    },
+    {
+     "fr": "Hay una tormenta y los vecinos cenan juntos",
+     "en": "There is a storm and the neighbours have dinner together"
+    },
+    {
+     "fr": "Pablo se pierde en el bosque",
+     "en": "Pablo gets lost in the forest"
+    }
+   ],
+   "a": 1,
+   "why": "A storm cuts the power and eight neighbours have dinner by candlelight at Remedios's house."
+  },
+  {
+   "q": "¿Qué sugiere la frase sobre los vecinos de Madrid?",
+   "q_en": "What does the sentence about the neighbours in Madrid suggest?",
+   "o": [
+    {
+     "fr": "Que en Madrid se siente sola",
+     "en": "That she feels lonely in Madrid"
+    },
+    {
+     "fr": "Que sus vecinos son muy simpáticos",
+     "en": "That her neighbours are very friendly"
+    },
+    {
+     "fr": "Que quiere mudarse a otro barrio",
+     "en": "That she wants to move to another neighbourhood"
+    }
+   ],
+   "a": 0,
+   "why": "She does not even know her neighbours' names, which suggests an isolated life in the city (inference)."
+  },
+  {
+   "q": "¿Qué piensa hacer Lucía al volver a Madrid?",
+   "q_en": "What does Lucía plan to do on returning to Madrid?",
+   "o": [
+    {
+     "fr": "Dejar el trabajo inmediatamente",
+     "en": "Quit her job immediately"
+    },
+    {
+     "fr": "Pedir menos horas de trabajo a su jefe",
+     "en": "Ask her boss for fewer working hours"
+    },
+    {
+     "fr": "Comprar una casa en el pueblo",
+     "en": "Buy a house in the village"
+    }
+   ],
+   "a": 1,
+   "why": "'Hablaré con mi jefe. Pediré trabajar menos horas.' She would look for another job only if he refuses."
+  }
+ ],
+ "cover": "es-un-pueblo-en-la-montana-1"
+}

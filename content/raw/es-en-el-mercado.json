@@ -65,6 +65,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-en-el-mercado-1",
+      "alt": "Mateo and his grandmother buy tomatoes and oranges at a market stall."
+     },
      "sentences": [
       {
        "fr": "«Primero, tomates», dice la abuela.",
@@ -109,6 +113,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-en-el-mercado-2",
+      "alt": "The bag breaks and oranges roll through the market while Mateo chases them."
+     },
      "sentences": [
       {
        "fr": "Mateo quiere llevar la bolsa de naranjas.",
@@ -152,7 +160,12 @@
       },
       {
        "fr": "La gente mira a Mateo.",
-       "en": "The people look at Mateo."
+       "en": "The people look at Mateo.",
+       "ov": {
+        "3": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "Toda la gente del mercado ríe.",
@@ -256,5 +269,6 @@
    "a": 2,
    "why": "'Otra naranja cae en el sombrero de una señora.'"
   }
- ]
+ ],
+ "cover": "es-en-el-mercado-1"
 }

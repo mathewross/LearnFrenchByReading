@@ -70,6 +70,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-un-dia-en-la-playa-1",
+      "alt": "The family sets up on the beach: Mum under the umbrella, the kids with a sandcastle."
+     },
      "sentences": [
       {
        "fr": "La playa es larga y bonita.",
@@ -102,6 +106,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-un-dia-en-la-playa-2",
+      "alt": "The wind blows Ana's yellow hat into the sea as the kids run after it."
+     },
      "sentences": [
       {
        "fr": "De repente, hay mucho viento.",
@@ -142,6 +150,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-un-dia-en-la-playa-3",
+      "alt": "Everyone eats ice cream, and Ana wears her rescued hat."
+     },
      "sentences": [
       {
        "fr": "Papá entra en el mar y busca.",
@@ -177,7 +189,13 @@
       },
       {
        "fr": "Mamá compra helados para todos.",
-       "en": "Mum buys ice creams for everyone."
+       "en": "Mum buys ice creams for everyone.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
       },
       {
        "fr": "Pablo come un helado blanco.",
@@ -219,8 +237,8 @@
    "why": "'Ana tiene un sombrero amarillo.'"
   },
   {
-   "q": "¿Quién se lleva el sombrero?",
-   "q_en": "What takes the hat away?",
+   "q": "¿Quién o qué se lleva el sombrero?",
+   "q_en": "Who or what takes the hat away?",
    "o": [
     {
      "fr": "El viento",
@@ -258,5 +276,6 @@
    "a": 2,
    "why": "'Pablo ve algo amarillo cerca de una roca.'"
   }
- ]
+ ],
+ "cover": "es-un-dia-en-la-playa-1"
 }

@@ -1,0 +1,409 @@
+{
+ "id": "es-la-carta-de-mi-abuelo",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "La carta de mi abuelo",
+ "title_en": "My grandfather's letter",
+ "level": "B1",
+ "summary_en": "While clearing out her late grandfather's house, a woman finds an unsent letter hidden in a book of poems. She sets out to find the person it was written for.",
+ "tags": [
+  "family",
+  "letters",
+  "memories"
+ ],
+ "key_vocab": [
+  "carta",
+  "libro",
+  "abuelo",
+  "sobre",
+  "nombre",
+  "calle",
+  "casa",
+  "pueblo",
+  "ojo",
+  "abrir",
+  "poema",
+  "madre"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-la-carta-de-mi-abuelo-1",
+      "alt": "While emptying her grandfather's house, a letter falls out of an old book."
+     },
+     "sentences": [
+      {
+       "fr": "El mes pasado, mi madre y yo vaciamos la casa de mi abuelo Manuel.",
+       "en": "Last month, my mother and I cleared out my grandfather Manuel's house."
+      },
+      {
+       "fr": "Había libros por todas partes: en la sala, en el pasillo y hasta en la cocina.",
+       "en": "There were books everywhere: in the living room, in the hallway and even in the kitchen."
+      },
+      {
+       "fr": "Yo quería quedarme con algunos, porque de niña pasaba las tardes leyendo a su lado.",
+       "en": "I wanted to keep a few, because as a child I spent my afternoons reading by his side."
+      },
+      {
+       "fr": "Una tarde abrí un viejo libro de poemas y una carta cayó al suelo.",
+       "en": "One afternoon I opened an old book of poems and a letter fell on the floor."
+      },
+      {
+       "fr": "Era un sobre amarillo, cerrado, con un nombre escrito a mano: Elena Ruiz.",
+       "en": "It was a yellow envelope, sealed, with a name written by hand: Elena Ruiz."
+      },
+      {
+       "fr": "No tenía sello, así que mi abuelo nunca la había enviado.",
+       "en": "It had no stamp, so my grandfather had never sent it.",
+       "ov": {
+        "7": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Me quedé un buen rato con el sobre en las manos.",
+       "en": "I stood for a good while with the envelope in my hands."
+      },
+      {
+       "fr": "Debajo del nombre había una dirección: calle del Olivo, número doce, en un pueblo de la sierra.",
+       "en": "Under the name there was an address: Olivo Street, number twelve, in a mountain village."
+      },
+      {
+       "fr": "La tinta estaba tan gastada que apenas se leía el nombre del pueblo.",
+       "en": "The ink was so faded that the name of the village could hardly be read."
+      },
+      {
+       "fr": "«¿Quién es Elena?», le pregunté a mi madre.",
+       "en": "\"Who is Elena?\" I asked my mother."
+      },
+      {
+       "fr": "«No lo sé —dijo ella—. Mi padre nunca habló de ninguna Elena.»",
+       "en": "\"I don't know,\" she said. \"My father never spoke of any Elena.\""
+      },
+      {
+       "fr": "«Si la abres, quizá lo sabrás», añadió, «pero yo, en tu lugar, no lo haría.»",
+       "en": "\"If you open it, you may find out,\" she added, \"but in your place I wouldn't do it.\"",
+       "ov": {
+        "1": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "No la abrí.",
+       "en": "I didn't open it.",
+       "ov": {
+        "1": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      },
+      {
+       "fr": "Prefería encontrar a Elena y entregar la carta yo misma.",
+       "en": "I preferred to find Elena and hand over the letter myself."
+      },
+      {
+       "fr": "Esa noche busqué su nombre en internet, pero no apareció nada útil.",
+       "en": "That night I searched for her name online, but nothing useful came up."
+      },
+      {
+       "fr": "Al día siguiente llamé a mi tía Pilar, que conoce muy bien la historia de la familia.",
+       "en": "The next day I called my aunt Pilar, who knows the family's history very well.",
+       "ov": {
+        "8": {
+         "p": "PRON",
+         "g": "who"
+        }
+       }
+      },
+      {
+       "fr": "«Elena... —repitió despacio—. Creo que era la hermana de tu abuelo.»",
+       "en": "\"Elena...\" she repeated slowly. \"I think she was your grandfather's sister.\""
+      },
+      {
+       "fr": "«¡Pero él siempre decía que no tenía hermanos!», contesté sorprendida.",
+       "en": "\"But he always said he had no siblings!\" I answered, surprised."
+      },
+      {
+       "fr": "«Se pelearon por la casa de sus padres. Después, ninguno de los dos quiso dar el primer paso.»",
+       "en": "\"They quarreled over their parents' house. Afterwards, neither of the two wanted to take the first step.\""
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-la-carta-de-mi-abuelo-2",
+      "alt": "In Olive Street a young woman opens the door at number twelve."
+     },
+     "sentences": [
+      {
+       "fr": "El sábado mi madre y yo fuimos en coche al pueblo, que estaba a tres horas de casa.",
+       "en": "On Saturday my mother and I drove to the village, which was three hours from home.",
+       "ov": {
+        "11": {
+         "p": "PRON",
+         "g": "which"
+        }
+       }
+      },
+      {
+       "fr": "La calle del Olivo era estrecha y estaba llena de macetas con flores rojas.",
+       "en": "Olivo Street was narrow and full of pots with red flowers."
+      },
+      {
+       "fr": "En el número doce nos abrió la puerta una chica joven.",
+       "en": "At number twelve a young girl opened the door for us."
+      },
+      {
+       "fr": "«Buscamos a Elena Ruiz», dije con la voz temblorosa.",
+       "en": "\"We are looking for Elena Ruiz,\" I said in a shaky voice."
+      },
+      {
+       "fr": "«Es mi abuela —respondió la chica—. Está en el patio. Pasen, por favor.»",
+       "en": "\"She is my grandmother,\" the girl answered. \"She is in the courtyard. Please come in.\""
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-la-carta-de-mi-abuelo-3",
+      "alt": "Elena reads the letter in the patio with tears in her eyes."
+     },
+     "sentences": [
+      {
+       "fr": "Elena era una mujer pequeña, de pelo blanco, con los mismos ojos que mi abuelo.",
+       "en": "Elena was a small woman with white hair, with the same eyes as my grandfather."
+      },
+      {
+       "fr": "Le di el sobre sin decir nada.",
+       "en": "I gave her the envelope without saying anything."
+      },
+      {
+       "fr": "Ella lo miró un momento y lo abrió con cuidado.",
+       "en": "She looked at it for a moment and opened it carefully."
+      },
+      {
+       "fr": "Leyó en voz baja, y yo vi cómo se le llenaban los ojos de lágrimas.",
+       "en": "She read in a low voice, and I saw her eyes fill with tears."
+      },
+      {
+       "fr": "Más tarde me enseñó lo que decía la carta.",
+       "en": "Later she showed me what the letter said.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "what, that which"
+        }
+       }
+      },
+      {
+       "fr": "«Querida Elena: hoy he vuelto a pensar en nuestra casa y te pido perdón. Si algún día me llamas, iré.»",
+       "en": "\"Dear Elena: today I thought about our house again and I ask your forgiveness. If one day you call me, I will come.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "«Tu abuelo era tan orgulloso como yo», dijo Elena mientras se secaba los ojos.",
+       "en": "\"Your grandfather was as proud as I am,\" said Elena as she dried her eyes."
+      },
+      {
+       "fr": "«Me enteré de su muerte en primavera, pero no tuve valor para ir al entierro.»",
+       "en": "\"I found out about his death in spring, but I didn't have the courage to go to the funeral.\""
+      },
+      {
+       "fr": "«Yo también le escribí muchas cartas, pero nunca las envié.»",
+       "en": "\"I also wrote him many letters, but I never sent them.\"",
+       "ov": {
+        "8": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      },
+      {
+       "fr": "Se levantó, abrió un cajón y sacó un sobre blanco.",
+       "en": "She got up, opened a drawer and took out a white envelope."
+      },
+      {
+       "fr": "«Esta es para él. Ya sé que llega tarde.»",
+       "en": "\"This one is for him. I know it arrives late.\"",
+       "ov": {
+        "8": {
+         "g": "late",
+         "p": "ADV"
+        }
+       }
+      },
+      {
+       "fr": "«Quizá no llegue tarde», le dije. «Yo la guardaré en el libro de poemas, junto a la de él.»",
+       "en": "\"Maybe it won't be late,\" I told her. \"I will keep it in the book of poems, next to his.\"",
+       "ov": {
+        "3": {
+         "g": "late",
+         "p": "ADV"
+        },
+        "7": {
+         "l": "lo",
+         "p": "PRON"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Pasamos el resto del día en el patio, tomando café y hablando de él.",
+       "en": "We spent the rest of the day in the courtyard, drinking coffee and talking about him."
+      },
+      {
+       "fr": "Elena me contó recuerdos de su infancia que yo nunca había oído.",
+       "en": "Elena told me memories of her childhood that I had never heard.",
+       "ov": {
+        "7": {
+         "p": "PRON",
+         "g": "that, which"
+        }
+       }
+      },
+      {
+       "fr": "Cuando nos despedimos, me abrazó y dijo: «Vuelve pronto, y trae a tu madre.»",
+       "en": "When we said goodbye, she hugged me and said: \"Come back soon, and bring your mother.\""
+      },
+      {
+       "fr": "Ahora las dos cartas están juntas en el libro de poemas, en mi estantería.",
+       "en": "Now the two letters are together in the book of poems, on my shelf."
+      },
+      {
+       "fr": "Y cada verano, cuando llegue el calor, volveré a la calle del Olivo.",
+       "en": "And every summer, when the heat arrives, I will go back to Olivo Street."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Dónde encuentra la narradora la carta?",
+   "q_en": "Where does the narrator find the letter?",
+   "o": [
+    {
+     "fr": "En un libro de poemas",
+     "en": "In a book of poems"
+    },
+    {
+     "fr": "En un cajón de la cocina",
+     "en": "In a kitchen drawer"
+    },
+    {
+     "fr": "En el buzón de la casa",
+     "en": "In the mailbox of the house"
+    }
+   ],
+   "a": 0,
+   "why": "'Una tarde abrí un viejo libro de poemas y una carta cayó al suelo.'"
+  },
+  {
+   "q": "¿Cómo descubre quién es Elena?",
+   "q_en": "How does she find out who Elena is?",
+   "o": [
+    {
+     "fr": "Lo busca en internet",
+     "en": "She looks it up online"
+    },
+    {
+     "fr": "Se lo cuenta su tía Pilar",
+     "en": "Her aunt Pilar tells her"
+    },
+    {
+     "fr": "Lo lee en la carta",
+     "en": "She reads it in the letter"
+    }
+   ],
+   "a": 1,
+   "why": "The internet search gave nothing; aunt Pilar says Elena was her grandfather's sister."
+  },
+  {
+   "q": "¿Por qué piensa la narradora que su abuelo nunca habló de Elena?",
+   "q_en": "Why does the narrator think her grandfather never spoke of Elena?",
+   "o": [
+    {
+     "fr": "Porque no se acordaba de ella",
+     "en": "Because he did not remember her"
+    },
+    {
+     "fr": "Porque la pelea todavía le dolía",
+     "en": "Because the quarrel still hurt him"
+    },
+    {
+     "fr": "Porque Elena vivía muy lejos",
+     "en": "Because Elena lived very far away"
+    }
+   ],
+   "a": 1,
+   "why": "Pilar says they quarreled over the family house and neither would take the first step, so he stayed silent (inference)."
+  },
+  {
+   "q": "¿Qué indica el hecho de que Elena también escribiera cartas que nunca envió?",
+   "q_en": "What does the fact that Elena also wrote letters she never sent suggest?",
+   "o": [
+    {
+     "fr": "Que ella también echaba de menos a su hermano",
+     "en": "That she also missed her brother"
+    },
+    {
+     "fr": "Que ella no quería saber nada de él",
+     "en": "That she wanted nothing to do with him"
+    },
+    {
+     "fr": "Que no sabía su dirección",
+     "en": "That she did not know his address"
+    }
+   ],
+   "a": 0,
+   "why": "She says she wrote him many letters but never sent them, which suggests she missed him too and was equally proud (inference)."
+  },
+  {
+   "q": "¿Qué hará la narradora con la carta de Elena?",
+   "q_en": "What will the narrator do with Elena's letter?",
+   "o": [
+    {
+     "fr": "La guardará junto a la de su abuelo",
+     "en": "Keep it next to her grandfather's"
+    },
+    {
+     "fr": "La tirará a la basura",
+     "en": "Throw it away"
+    },
+    {
+     "fr": "Se la dará a su madre",
+     "en": "Give it to her mother"
+    }
+   ],
+   "a": 0,
+   "why": "'Yo la guardaré en el libro de poemas, junto a la de él.'"
+  }
+ ],
+ "cover": "es-la-carta-de-mi-abuelo-1"
+}

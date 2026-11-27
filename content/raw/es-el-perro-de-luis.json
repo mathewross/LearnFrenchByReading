@@ -33,6 +33,10 @@
    "title": "",
    "paragraphs": [
     {
+     "pic": {
+      "id": "es-el-perro-de-luis-1",
+      "alt": "Luis throws a red ball in the park while Toby watches."
+     },
      "sentences": [
       {
        "fr": "Luis tiene un perro.",
@@ -116,7 +120,12 @@
       },
       {
        "fr": "Luis busca a Toby entre los árboles.",
-       "en": "Luis looks for Toby among the trees."
+       "en": "Luis looks for Toby among the trees.",
+       "ov": {
+        "2": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "Busca detrás de un árbol.",
@@ -124,11 +133,21 @@
       },
       {
        "fr": "No ve al perro.",
-       "en": "He does not see the dog."
+       "en": "He does not see the dog.",
+       "ov": {
+        "2": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "Una niña ve a Toby y sonríe.",
-       "en": "A girl sees Toby and smiles."
+       "en": "A girl sees Toby and smiles.",
+       "ov": {
+        "3": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "«¿Buscas un perro marrón?», pregunta la niña.",
@@ -145,6 +164,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-el-perro-de-luis-2",
+      "alt": "Toby barks under the tree where the cat is stuck, while Luis and the girl look on."
+     },
      "sentences": [
       {
        "fr": "Luis mira hacia el árbol y corre.",
@@ -160,7 +183,12 @@
       },
       {
        "fr": "Luis toma a Toby en los brazos.",
-       "en": "Luis takes Toby in his arms."
+       "en": "Luis takes Toby in his arms.",
+       "ov": {
+        "2": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "«Toby, no puedes correr así», dice Luis.",
@@ -168,7 +196,12 @@
       },
       {
        "fr": "La niña ríe y mira al gato.",
-       "en": "The girl laughs and looks at the cat."
+       "en": "The girl laughs and looks at the cat.",
+       "ov": {
+        "5": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "Toby deja la pelota en el suelo.",
@@ -248,5 +281,6 @@
    "a": 2,
    "why": "'El gato está arriba, en el árbol.'"
   }
- ]
+ ],
+ "cover": "es-el-perro-de-luis-1"
 }

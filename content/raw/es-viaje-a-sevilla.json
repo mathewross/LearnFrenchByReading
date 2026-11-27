@@ -1,0 +1,336 @@
+{
+ "id": "es-viaje-a-sevilla",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Viaje a Sevilla",
+ "title_en": "Trip to Seville",
+ "level": "A2",
+ "summary_en": "Lucas takes the train from Madrid to visit his friend Irene in Seville. Something distracts him on the way to meet her.",
+ "tags": [
+  "travel",
+  "train",
+  "seville"
+ ],
+ "key_vocab": [
+  "tren",
+  "autobús",
+  "estación",
+  "maleta",
+  "catedral",
+  "calle",
+  "viaje",
+  "llegar",
+  "caminar",
+  "parada"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-viaje-a-sevilla-1",
+      "alt": "Lucas waits at the station in Madrid with his suitcase and a coffee."
+     },
+     "sentences": [
+      {
+       "fr": "Lucas quería visitar a su amiga Irene en Sevilla.",
+       "en": "Lucas wanted to visit his friend Irene in Seville.",
+       "ov": {
+        "3": {
+         "g": "(personal a, not translated)"
+        }
+       }
+      },
+      {
+       "fr": "Por eso, compró un billete de tren.",
+       "en": "So he bought a train ticket."
+      },
+      {
+       "fr": "El tren salía de Madrid a las nueve.",
+       "en": "The train left Madrid at nine."
+      },
+      {
+       "fr": "Lucas llegó a la estación con su maleta y mucho tiempo.",
+       "en": "Lucas got to the station with his suitcase and plenty of time."
+      },
+      {
+       "fr": "En la estación había mucha gente.",
+       "en": "There were a lot of people at the station."
+      },
+      {
+       "fr": "Tomó un café y buscó su andén.",
+       "en": "He had a coffee and looked for his platform."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-viaje-a-sevilla-2",
+      "alt": "On the train Pilar chats away while olive fields roll past the window."
+     },
+     "sentences": [
+      {
+       "fr": "El viaje era largo, pero cómodo.",
+       "en": "The journey was long, but comfortable."
+      },
+      {
+       "fr": "Lucas se sentó junto a la ventana y miró el paisaje.",
+       "en": "Lucas sat by the window and looked at the scenery."
+      },
+      {
+       "fr": "Había campos de olivos y pueblos blancos.",
+       "en": "There were olive groves and white villages."
+      },
+      {
+       "fr": "A su lado viajaba una señora simpática.",
+       "en": "A friendly lady was travelling next to him."
+      },
+      {
+       "fr": "Se llamaba Pilar y hablaba sin parar.",
+       "en": "Her name was Pilar and she talked non-stop."
+      },
+      {
+       "fr": "Durante todo el viaje, le contó historias de Sevilla.",
+       "en": "All through the journey, she told him stories about Seville."
+      },
+      {
+       "fr": "A media mañana, Lucas comió un bocadillo.",
+       "en": "Mid-morning, Lucas ate a sandwich."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "El tren llegó a Sevilla a las once y media.",
+       "en": "The train arrived in Seville at half past eleven."
+      },
+      {
+       "fr": "Irene no pudo ir a la estación.",
+       "en": "Irene could not go to the station."
+      },
+      {
+       "fr": "Trabajaba esa mañana.",
+       "en": "She was working that morning."
+      },
+      {
+       "fr": "Por eso le escribió un mensaje.",
+       "en": "So she sent him a message."
+      },
+      {
+       "fr": "«Toma el autobús y baja en la parada de la catedral.»",
+       "en": "\"Take the bus and get off at the cathedral stop.\""
+      },
+      {
+       "fr": "Lucas subió al autobús con su maleta.",
+       "en": "Lucas got on the bus with his suitcase."
+      },
+      {
+       "fr": "El autobús estaba lleno de gente.",
+       "en": "The bus was full of people."
+      },
+      {
+       "fr": "Miraba la ciudad por la ventana.",
+       "en": "He looked at the city through the window."
+      },
+      {
+       "fr": "También hablaba por teléfono con su madre.",
+       "en": "He was also talking on the phone with his mother."
+      },
+      {
+       "fr": "De repente, vio una calle que no conocía.",
+       "en": "Suddenly, he saw a street he did not know.",
+       "ov": {
+        "4": {
+         "p": "PRON",
+         "g": "that, which"
+        }
+       }
+      },
+      {
+       "fr": "«¡Ay, no! ¡Me pasé de parada!», pensó.",
+       "en": "\"Oh no! I missed my stop!\" he thought."
+      },
+      {
+       "fr": "La parada de la catedral ya estaba lejos.",
+       "en": "The cathedral stop was already far away."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-viaje-a-sevilla-3",
+      "alt": "In Seville an old man points Lucas towards the tall cathedral tower."
+     },
+     "sentences": [
+      {
+       "fr": "Lucas bajó en la parada siguiente y empezó a caminar.",
+       "en": "Lucas got off at the next stop and started to walk."
+      },
+      {
+       "fr": "Hacía mucho calor y la maleta pesaba.",
+       "en": "It was very hot and the suitcase was heavy."
+      },
+      {
+       "fr": "Caminar con una maleta no era fácil.",
+       "en": "Walking with a suitcase was not easy."
+      },
+      {
+       "fr": "Preguntó a un hombre mayor: «Perdone, ¿dónde está la catedral?»",
+       "en": "He asked an older man: \"Excuse me, where is the cathedral?\""
+      },
+      {
+       "fr": "El hombre sonrió y señaló una torre alta.",
+       "en": "The man smiled and pointed at a tall tower."
+      },
+      {
+       "fr": "«Está allí, todo recto. No está lejos», dijo.",
+       "en": "\"It is over there, straight ahead. It is not far,\" he said.",
+       "ov": {
+        "2": {
+         "p": "ADV",
+         "g": "all (todo recto: straight on)"
+        }
+       }
+      },
+      {
+       "fr": "Lucas caminó veinte minutos por calles pequeñas.",
+       "en": "Lucas walked for twenty minutes through small streets."
+      },
+      {
+       "fr": "Había flores en todos los balcones de la calle.",
+       "en": "There were flowers on all the balconies along the street."
+      },
+      {
+       "fr": "Por fin llegó a la plaza de la catedral.",
+       "en": "At last he reached the cathedral square."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Irene lo esperaba con una gran sonrisa.",
+       "en": "Irene was waiting for him with a big smile."
+      },
+      {
+       "fr": "«¿Dónde estabas? Estaba preocupada», dijo.",
+       "en": "\"Where were you? I was worried,\" she said."
+      },
+      {
+       "fr": "«Perdona, me pasé de parada», dijo Lucas.",
+       "en": "\"Sorry, I missed my stop,\" said Lucas."
+      },
+      {
+       "fr": "Irene rio y lo abrazó.",
+       "en": "Irene laughed and hugged him."
+      },
+      {
+       "fr": "Esa noche cenaron tapas juntos.",
+       "en": "That night they had tapas together."
+      },
+      {
+       "fr": "«¿Qué tal el viaje?», preguntó.",
+       "en": "\"How was the trip?\" she asked."
+      },
+      {
+       "fr": "«Largo, pero muy bonito», contestó Lucas.",
+       "en": "\"Long, but very nice,\" replied Lucas."
+      },
+      {
+       "fr": "«La próxima vez no voy a hablar por teléfono», dijo.",
+       "en": "\"Next time I am not going to talk on the phone,\" he said."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cómo viajó Lucas de Madrid a Sevilla?",
+   "q_en": "How did Lucas travel from Madrid to Seville?",
+   "o": [
+    {
+     "fr": "En autobús",
+     "en": "By bus"
+    },
+    {
+     "fr": "En tren",
+     "en": "By train"
+    },
+    {
+     "fr": "En coche",
+     "en": "By car"
+    }
+   ],
+   "a": 1,
+   "why": "'Compró un billete de tren' y 'el tren llegó a Sevilla'."
+  },
+  {
+   "q": "¿Por qué no bajó Lucas en la parada correcta?",
+   "q_en": "Why did Lucas not get off at the right stop?",
+   "o": [
+    {
+     "fr": "Hablaba por teléfono con su madre",
+     "en": "He was talking on the phone with his mother"
+    },
+    {
+     "fr": "Dormía en el autobús",
+     "en": "He was asleep on the bus"
+    },
+    {
+     "fr": "No tenía billete",
+     "en": "He had no ticket"
+    }
+   ],
+   "a": 0,
+   "why": "'Hablaba por teléfono con su madre' y 'me pasé de parada'."
+  },
+  {
+   "q": "¿Quién ayudó a Lucas en la calle?",
+   "q_en": "Who helped Lucas in the street?",
+   "o": [
+    {
+     "fr": "Irene",
+     "en": "Irene"
+    },
+    {
+     "fr": "Pilar",
+     "en": "Pilar"
+    },
+    {
+     "fr": "Un hombre mayor",
+     "en": "An older man"
+    }
+   ],
+   "a": 2,
+   "why": "Un hombre mayor señaló la torre de la catedral."
+  },
+  {
+   "q": "¿Qué dijo Irene cuando vio a Lucas?",
+   "q_en": "What did Irene say when she saw Lucas?",
+   "o": [
+    {
+     "fr": "Que estaba preocupada",
+     "en": "That she was worried"
+    },
+    {
+     "fr": "Que tenía hambre",
+     "en": "That she was hungry"
+    },
+    {
+     "fr": "Que llegaba tarde",
+     "en": "That she was late"
+    }
+   ],
+   "a": 0,
+   "why": "'¿Dónde estabas? Estaba preocupada.'"
+  }
+ ],
+ "cover": "es-viaje-a-sevilla-1"
+}

@@ -1,0 +1,272 @@
+{
+ "id": "es-el-autobus",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "El autobús",
+ "title_en": "The bus",
+ "level": "A1",
+ "summary_en": "Elena is in a hurry to get to work on Monday morning. Then she notices the bus is going the wrong way.",
+ "tags": [
+  "bus",
+  "morning",
+  "work"
+ ],
+ "key_vocab": [
+  "autobús",
+  "parada",
+  "oficina",
+  "subir",
+  "bajar",
+  "conductor",
+  "número",
+  "tarde",
+  "prisa",
+  "llegar",
+  "calle"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-el-autobus-1",
+      "alt": "Elena runs along the street towards the bus stop as a bus arrives."
+     },
+     "sentences": [
+      {
+       "fr": "Es lunes por la mañana.",
+       "en": "It is Monday morning."
+      },
+      {
+       "fr": "Elena tiene prisa.",
+       "en": "Elena is in a hurry."
+      },
+      {
+       "fr": "Hoy tiene una reunión en la oficina.",
+       "en": "Today she has a meeting at the office."
+      },
+      {
+       "fr": "No quiere llegar tarde.",
+       "en": "She does not want to be late."
+      },
+      {
+       "fr": "Corre a la parada del autobús.",
+       "en": "She runs to the bus stop."
+      },
+      {
+       "fr": "Un autobús llega y ella sube.",
+       "en": "A bus arrives and she gets on."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Elena paga el billete al conductor.",
+       "en": "Elena pays the driver for her ticket."
+      },
+      {
+       "fr": "Hay mucha gente en el autobús.",
+       "en": "There are a lot of people on the bus."
+      },
+      {
+       "fr": "Ella se sienta cerca de la ventana.",
+       "en": "She sits near the window."
+      },
+      {
+       "fr": "Mira su teléfono y lee un mensaje.",
+       "en": "She looks at her phone and reads a message."
+      },
+      {
+       "fr": "Después mira la calle.",
+       "en": "Then she looks at the street."
+      },
+      {
+       "fr": "Esta no es la calle de siempre.",
+       "en": "This is not the usual street.",
+       "ov": {
+        "0": {
+         "p": "PRON",
+         "g": "this one"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-el-autobus-2",
+      "alt": "Elena asks the driver whether this bus goes to the office."
+     },
+     "sentences": [
+      {
+       "fr": "Elena está nerviosa y tiene mucha prisa.",
+       "en": "Elena is nervous and in a big hurry."
+      },
+      {
+       "fr": "Pregunta al conductor: «¿Va este autobús a la oficina?»",
+       "en": "She asks the driver: \"Does this bus go to the office?\""
+      },
+      {
+       "fr": "«No, señora. Este es el número doce», dice el conductor.",
+       "en": "\"No, madam. This is number twelve,\" says the driver.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "this one"
+        }
+       }
+      },
+      {
+       "fr": "«Va al parque, no a la oficina.»",
+       "en": "\"It goes to the park, not to the office.\""
+      },
+      {
+       "fr": "«¡Ay, no! Mi autobús es el número catorce», dice Elena.",
+       "en": "\"Oh no! My bus is number fourteen,\" says Elena."
+      },
+      {
+       "fr": "«¿Dónde puedo bajar?», pregunta.",
+       "en": "\"Where can I get off?\" she asks."
+      },
+      {
+       "fr": "El conductor sonríe. «Puede bajar en la próxima parada.»",
+       "en": "The driver smiles. \"You can get off at the next stop.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Elena baja del autobús.",
+       "en": "Elena gets off the bus."
+      },
+      {
+       "fr": "Está en una calle grande, lejos de la oficina.",
+       "en": "She is on a big street, far from the office."
+      },
+      {
+       "fr": "Ya es tarde.",
+       "en": "It is already late."
+      },
+      {
+       "fr": "Mira el reloj: son las ocho y media.",
+       "en": "She looks at the clock: it is half past eight."
+      },
+      {
+       "fr": "Pero hay otra parada al lado.",
+       "en": "But there is another stop next to it."
+      },
+      {
+       "fr": "Un minuto después, llega el número catorce.",
+       "en": "One minute later, number fourteen arrives."
+      },
+      {
+       "fr": "Elena quiere subir ya.",
+       "en": "Elena wants to get on right away."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Elena sube al autobús otra vez.",
+       "en": "Elena gets on the bus again."
+      },
+      {
+       "fr": "Esta vez el autobús va a la oficina.",
+       "en": "This time the bus goes to the office."
+      },
+      {
+       "fr": "Llega a las nueve menos diez.",
+       "en": "She arrives at ten to nine."
+      },
+      {
+       "fr": "¡No llega tarde!",
+       "en": "She is not late!"
+      },
+      {
+       "fr": "Su jefe sonríe y dice: «Buenos días, Elena.»",
+       "en": "Her boss smiles and says: \"Good morning, Elena.\""
+      },
+      {
+       "fr": "Ahora Elena no tiene prisa.",
+       "en": "Now Elena is not in a hurry."
+      },
+      {
+       "fr": "«¡Qué mañana!», dice ella.",
+       "en": "\"What a morning!\" she says."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Por qué tiene prisa Elena?",
+   "q_en": "Why is Elena in a hurry?",
+   "o": [
+    {
+     "fr": "Tiene hambre",
+     "en": "She is hungry"
+    },
+    {
+     "fr": "Tiene una reunión",
+     "en": "She has a meeting"
+    },
+    {
+     "fr": "Quiere ir al parque",
+     "en": "She wants to go to the park"
+    }
+   ],
+   "a": 1,
+   "why": "'Hoy tiene una reunión en la oficina.'"
+  },
+  {
+   "q": "¿A dónde va el autobús número doce?",
+   "q_en": "Where does bus number twelve go?",
+   "o": [
+    {
+     "fr": "A la oficina",
+     "en": "To the office"
+    },
+    {
+     "fr": "A la casa de Elena",
+     "en": "To Elena's house"
+    },
+    {
+     "fr": "Al parque",
+     "en": "To the park"
+    }
+   ],
+   "a": 2,
+   "why": "'No, señora. Este es el número doce... Va al parque, no a la oficina.'"
+  },
+  {
+   "q": "¿Qué pasa al final?",
+   "q_en": "What happens at the end?",
+   "o": [
+    {
+     "fr": "Elena llega a tiempo",
+     "en": "Elena arrives on time"
+    },
+    {
+     "fr": "Elena llega tarde",
+     "en": "Elena arrives late"
+    },
+    {
+     "fr": "Elena va a casa",
+     "en": "Elena goes home"
+    }
+   ],
+   "a": 0,
+   "why": "'¡No llega tarde!'"
+  }
+ ],
+ "cover": "es-el-autobus-1"
+}

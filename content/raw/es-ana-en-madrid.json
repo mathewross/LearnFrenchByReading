@@ -33,6 +33,10 @@
    "title": "",
    "paragraphs": [
     {
+     "pic": {
+      "id": "es-ana-en-madrid-1",
+      "alt": "Ana arrives on a Madrid street with her big suitcase and red backpack."
+     },
      "sentences": [
       {
        "fr": "Ana llega a Madrid en tren.",
@@ -93,6 +97,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-ana-en-madrid-2",
+      "alt": "Neighbour Carmen, holding her black cat Pepe, meets Ana in the hallway."
+     },
      "sentences": [
       {
        "fr": "Ahora, una puerta se abre.",
@@ -100,7 +108,12 @@
       },
       {
        "fr": "Una señora mayor mira a Ana.",
-       "en": "An older lady looks at Ana."
+       "en": "An older lady looks at Ana.",
+       "ov": {
+        "4": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "Tiene un gato negro en los brazos.",
@@ -108,7 +121,12 @@
       },
       {
        "fr": "El gato mira a Ana con calma.",
-       "en": "The cat looks at Ana calmly."
+       "en": "The cat looks at Ana calmly.",
+       "ov": {
+        "3": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "«Hola, ¿eres la vecina nueva?», pregunta la señora.",
@@ -137,6 +155,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-ana-en-madrid-3",
+      "alt": "In her new flat, Ana sits by the window with a coffee while Pepe the cat joins her."
+     },
      "sentences": [
       {
        "fr": "Ana abre la puerta de su piso.",
@@ -252,5 +274,6 @@
    "a": 0,
    "why": "'Carmen vuelve con dos cafés y galletas.'"
   }
- ]
+ ],
+ "cover": "es-ana-en-madrid-1"
 }

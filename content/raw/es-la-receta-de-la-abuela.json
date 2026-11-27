@@ -1,0 +1,341 @@
+{
+ "id": "es-la-receta-de-la-abuela",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "La receta de la abuela",
+ "title_en": "Grandma's recipe",
+ "level": "A2",
+ "summary_en": "Sara's grandmother teaches her to make a Spanish potato omelette. The lesson does not go quite to plan.",
+ "tags": [
+  "cooking",
+  "family",
+  "food"
+ ],
+ "key_vocab": [
+  "tortilla",
+  "patata",
+  "huevo",
+  "cebolla",
+  "aceite",
+  "sartén",
+  "abuela",
+  "sal",
+  "plato",
+  "cocinar",
+  "trozo"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-la-receta-de-la-abuela-1",
+      "alt": "Grandma Rosa and her granddaughter in the kitchen with the tortilla ingredients."
+     },
+     "sentences": [
+      {
+       "fr": "El domingo fui a casa de mi abuela Rosa.",
+       "en": "On Sunday I went to my grandmother Rosa's house."
+      },
+      {
+       "fr": "Ella me quería enseñar su receta de tortilla de patatas.",
+       "en": "She wanted to teach me her potato omelette recipe."
+      },
+      {
+       "fr": "«Es muy fácil», dijo.",
+       "en": "\"It is very easy,\" she said."
+      },
+      {
+       "fr": "«Solo necesitas patatas, huevos, cebolla, aceite y sal.»",
+       "en": "\"You only need potatoes, eggs, onion, oil and salt.\"",
+       "ov": {
+        "0": {
+         "p": "ADV",
+         "g": "only"
+        }
+       }
+      },
+      {
+       "fr": "Yo estaba nerviosa, porque casi nunca cocinaba.",
+       "en": "I was nervous, because I hardly ever cooked."
+      },
+      {
+       "fr": "«Hoy vas a cocinar tú, Sara», dijo mi abuela.",
+       "en": "\"Today you are going to cook, Sara,\" said my grandmother."
+      },
+      {
+       "fr": "Su cocina era pequeña, pero muy bonita.",
+       "en": "Her kitchen was small, but very pretty."
+      },
+      {
+       "fr": "Mi abuela sacó los huevos y la cebolla.",
+       "en": "My grandmother took out the eggs and the onion."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-la-receta-de-la-abuela-2",
+      "alt": "Eyes watering from the onion, they cook the potatoes in the pan."
+     },
+     "sentences": [
+      {
+       "fr": "Primero pelé las patatas y las corté en trozos pequeños.",
+       "en": "First I peeled the potatoes and cut them into small pieces.",
+       "ov": {
+        "5": {
+         "l": "lo",
+         "p": "PRON",
+         "m": ""
+        }
+       }
+      },
+      {
+       "fr": "Mis trozos eran grandes y feos.",
+       "en": "My pieces were big and ugly."
+      },
+      {
+       "fr": "Mi abuela cortó la cebolla.",
+       "en": "My grandmother cut the onion."
+      },
+      {
+       "fr": "Las dos lloramos un poco.",
+       "en": "We both cried a little."
+      },
+      {
+       "fr": "Luego puso mucho aceite en la sartén.",
+       "en": "Then she put a lot of oil in the pan."
+      },
+      {
+       "fr": "Cuando el aceite estaba caliente, echamos las patatas y la cebolla.",
+       "en": "When the oil was hot, we added the potatoes and the onion."
+      },
+      {
+       "fr": "«Ahora la sal», dijo la abuela.",
+       "en": "\"Now the salt,\" said my grandmother."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Entonces me equivoqué: eché demasiada sal.",
+       "en": "Then I made a mistake: I added too much salt."
+      },
+      {
+       "fr": "«No pasa nada», dijo la abuela.",
+       "en": "\"Don't worry,\" said my grandmother."
+      },
+      {
+       "fr": "Después miré el teléfono un minuto.",
+       "en": "Then I looked at my phone for a minute."
+      },
+      {
+       "fr": "Las patatas se quemaron un poco.",
+       "en": "The potatoes burned a little."
+      },
+      {
+       "fr": "Olía a patata quemada.",
+       "en": "It smelled of burnt potato."
+      },
+      {
+       "fr": "La abuela movió la cabeza, pero sonrió.",
+       "en": "My grandmother shook her head, but she smiled."
+      },
+      {
+       "fr": "«Cocinar no es tan fácil», pensé.",
+       "en": "\"Cooking is not that easy,\" I thought."
+      },
+      {
+       "fr": "Batimos los huevos y los echamos en la sartén.",
+       "en": "We beat the eggs and added them to the pan.",
+       "ov": {
+        "4": {
+         "l": "lo",
+         "p": "PRON",
+         "m": ""
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-la-receta-de-la-abuela-3",
+      "alt": "The tortilla broke in two, and grandmother and granddaughter laugh."
+     },
+     "sentences": [
+      {
+       "fr": "Llegó el momento más difícil: dar la vuelta a la tortilla.",
+       "en": "The hardest moment came: flipping the omelette."
+      },
+      {
+       "fr": "Yo tenía mucho miedo.",
+       "en": "I was very scared."
+      },
+      {
+       "fr": "Puse un plato grande encima de la sartén.",
+       "en": "I put a big plate on top of the pan."
+      },
+      {
+       "fr": "«Rápido, con un solo movimiento», dijo la abuela.",
+       "en": "\"Quick, in one single movement,\" said my grandmother."
+      },
+      {
+       "fr": "Di la vuelta a la sartén, pero la tortilla se rompió.",
+       "en": "I flipped the pan, but the omelette broke."
+      },
+      {
+       "fr": "La mitad cayó en el plato.",
+       "en": "Half fell on the plate."
+      },
+      {
+       "fr": "La otra mitad cayó en la mesa.",
+       "en": "The other half fell on the table."
+      },
+      {
+       "fr": "Mi abuela me miró y no dijo nada.",
+       "en": "My grandmother looked at me and said nothing."
+      },
+      {
+       "fr": "Nos miramos y nos reímos muchísimo.",
+       "en": "We looked at each other and laughed so much."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "La abuela juntó los trozos y los puso en el plato.",
+       "en": "My grandmother gathered the pieces and put them on the plate.",
+       "ov": {
+        "6": {
+         "l": "lo",
+         "p": "PRON",
+         "m": ""
+        }
+       }
+      },
+      {
+       "fr": "«Ahora no es una tortilla. Es un revuelto», dijo.",
+       "en": "\"Now it is not an omelette. It is a scramble,\" she said."
+      },
+      {
+       "fr": "Comimos juntas, con pan.",
+       "en": "We ate together, with bread."
+      },
+      {
+       "fr": "Estaba un poco salada y un poco quemada.",
+       "en": "It was a little salty and a little burnt."
+      },
+      {
+       "fr": "Pero era la mejor tortilla del mundo.",
+       "en": "But it was the best omelette in the world."
+      },
+      {
+       "fr": "«El domingo que viene, otra vez», dijo la abuela.",
+       "en": "\"Next Sunday, again,\" said my grandmother.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "that, which"
+        }
+       }
+      },
+      {
+       "fr": "Desde ese día, cocino con ella cada domingo.",
+       "en": "Since that day, I cook with her every Sunday."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Qué quería enseñar la abuela a Sara?",
+   "q_en": "What did the grandmother want to teach Sara?",
+   "o": [
+    {
+     "fr": "Una receta de paella",
+     "en": "A paella recipe"
+    },
+    {
+     "fr": "Una receta de tortilla",
+     "en": "An omelette recipe"
+    },
+    {
+     "fr": "Una receta de sopa",
+     "en": "A soup recipe"
+    }
+   ],
+   "a": 1,
+   "why": "'Ella me quería enseñar su receta de tortilla de patatas.'"
+  },
+  {
+   "q": "¿Cuál fue el primer error de Sara?",
+   "q_en": "What was Sara's first mistake?",
+   "o": [
+    {
+     "fr": "Echó demasiada sal",
+     "en": "She added too much salt"
+    },
+    {
+     "fr": "Olvidó los huevos",
+     "en": "She forgot the eggs"
+    },
+    {
+     "fr": "Rompió un plato",
+     "en": "She broke a plate"
+    }
+   ],
+   "a": 0,
+   "why": "'Me equivoqué: eché demasiada sal.'"
+  },
+  {
+   "q": "¿Qué pasó al dar la vuelta a la tortilla?",
+   "q_en": "What happened when they flipped the omelette?",
+   "o": [
+    {
+     "fr": "Se quemó",
+     "en": "It burned"
+    },
+    {
+     "fr": "Salió perfecta",
+     "en": "It came out perfect"
+    },
+    {
+     "fr": "Se rompió",
+     "en": "It broke"
+    }
+   ],
+   "a": 2,
+   "why": "'La tortilla se rompió.'"
+  },
+  {
+   "q": "¿Qué piensa Sara de la comida al final?",
+   "q_en": "What does Sara think of the food at the end?",
+   "o": [
+    {
+     "fr": "Que no es buena",
+     "en": "That it is not good"
+    },
+    {
+     "fr": "Que es la mejor del mundo",
+     "en": "That it is the best in the world"
+    },
+    {
+     "fr": "Que está muy fría",
+     "en": "That it is very cold"
+    }
+   ],
+   "a": 1,
+   "why": "'Pero era la mejor tortilla del mundo.'"
+  }
+ ],
+ "cover": "es-la-receta-de-la-abuela-1"
+}

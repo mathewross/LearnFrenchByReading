@@ -24,7 +24,7 @@ L|de|PREP|of, from||
 L|de repente|EXPR|suddenly||
 L|debajo|ADV|underneath, under||
 L|decir|VERB|to say||
-L|detrás|ADV|behind||
+L|detrás|PREP|behind, after||
 L|el|DET|the||
 L|ellos|PRON|they||
 L|en|PREP|in, on, at||
@@ -149,7 +149,7 @@ F|lejos|lejos|ADV|
 F|mi|mi|DET|
 F|grita|gritar|VERB|presente (él/ella)
 F|corre|correr|VERB|presente (él/ella)
-F|detrás|detrás|ADV|
+F|detrás|detrás|PREP|
 F|del|de|PREP|de + el
 F|fuerte|fuerte|ADJ|
 F|cae|caer|VERB|presente (él/ella)

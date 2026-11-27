@@ -1,0 +1,352 @@
+{
+ "id": "es-el-nuevo-compañero",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "El nuevo compañero",
+ "title_en": "The new colleague",
+ "level": "A2",
+ "summary_en": "A shy new colleague joins the office and barely speaks. Over one week, the narrator discovers what he is really good at.",
+ "tags": [
+  "work",
+  "friendship",
+  "office"
+ ],
+ "key_vocab": [
+  "compañero",
+  "tímido",
+  "oficina",
+  "equipo",
+  "semana",
+  "jefe",
+  "hablar",
+  "dibujo",
+  "sonreír"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-el-nuevo-companero-1",
+      "alt": "The new colleague Daniel sits alone and quiet at his desk."
+     },
+     "sentences": [
+      {
+       "fr": "El lunes llegó un compañero nuevo a mi oficina.",
+       "en": "On Monday a new colleague arrived at my office."
+      },
+      {
+       "fr": "Se llamaba Daniel y parecía muy tímido.",
+       "en": "His name was Daniel and he seemed very shy."
+      },
+      {
+       "fr": "Era su primera semana de trabajo.",
+       "en": "It was his first week of work."
+      },
+      {
+       "fr": "Nuestro jefe lo presentó a todo el equipo.",
+       "en": "Our boss introduced him to the whole team."
+      },
+      {
+       "fr": "Daniel dijo «hola» en voz baja.",
+       "en": "Daniel said \"hello\" in a low voice."
+      },
+      {
+       "fr": "Después se sentó en su mesa.",
+       "en": "Then he sat down at his desk.",
+       "ov": {
+        "4": {
+         "g": "desk (Spain; LatAm: escritorio)"
+        }
+       }
+      },
+      {
+       "fr": "Durante toda la mañana no habló con nadie.",
+       "en": "All morning he did not talk to anyone."
+      },
+      {
+       "fr": "No sonrió ni una vez.",
+       "en": "He did not smile even once."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "El martes comió solo en la cocina de la oficina.",
+       "en": "On Tuesday he ate alone in the office kitchen."
+      },
+      {
+       "fr": "Nadie hablaba con él.",
+       "en": "Nobody talked to him."
+      },
+      {
+       "fr": "Esa tarde trabajó sin decir una palabra.",
+       "en": "That afternoon he worked without saying a word."
+      },
+      {
+       "fr": "Yo pensé: «Es tímido, pero parece simpático.»",
+       "en": "I thought: \"He is shy, but he seems nice.\""
+      },
+      {
+       "fr": "Yo quería ser amable con él.",
+       "en": "I wanted to be kind to him."
+      },
+      {
+       "fr": "El miércoles decidí hablar con él.",
+       "en": "On Wednesday I decided to talk to him."
+      },
+      {
+       "fr": "Me senté a su lado y le pregunté: «¿Qué te gusta hacer?»",
+       "en": "I sat next to him and asked: \"What do you like to do?\""
+      },
+      {
+       "fr": "Daniel se puso rojo, pero contestó: «Me gusta dibujar.»",
+       "en": "Daniel went red, but answered: \"I like to draw.\""
+      },
+      {
+       "fr": "Su respuesta me sorprendió mucho.",
+       "en": "His answer surprised me a lot.",
+       "ov": {
+        "4": {
+         "p": "ADV",
+         "g": "a lot"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-el-nuevo-companero-2",
+      "alt": "Daniel shows his sketchbook of cats, buildings and people on the metro."
+     },
+     "sentences": [
+      {
+       "fr": "Me enseñó su cuaderno.",
+       "en": "He showed me his notebook."
+      },
+      {
+       "fr": "Tenía dibujos de gatos, de edificios y de gente en el metro.",
+       "en": "It had drawings of cats, of buildings and of people on the metro."
+      },
+      {
+       "fr": "Eran muy buenos.",
+       "en": "They were very good."
+      },
+      {
+       "fr": "Cada dibujo tenía un detalle gracioso.",
+       "en": "Every drawing had a funny detail."
+      },
+      {
+       "fr": "Me contó que dibujaba en el metro cada día.",
+       "en": "He told me that he drew on the metro every day."
+      },
+      {
+       "fr": "«¿Puedo ver más dibujos?», le pedí.",
+       "en": "\"Can I see more drawings?\" I asked him."
+      },
+      {
+       "fr": "Él sonrió por primera vez.",
+       "en": "He smiled for the first time."
+      },
+      {
+       "fr": "Esa tarde hablamos durante una hora.",
+       "en": "That afternoon we talked for an hour."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-el-nuevo-companero-3",
+      "alt": "The whole team laughs in front of Daniel's drawing of them as animals."
+     },
+     "sentences": [
+      {
+       "fr": "El jueves, Daniel trajo un dibujo de todo el equipo.",
+       "en": "On Thursday, Daniel brought a drawing of the whole team."
+      },
+      {
+       "fr": "Éramos animales: el jefe era un oso grande.",
+       "en": "We were animals: the boss was a big bear."
+      },
+      {
+       "fr": "Yo era una jirafa, porque soy muy alta.",
+       "en": "I was a giraffe, because I am very tall."
+      },
+      {
+       "fr": "Pegó el dibujo en la pared de la oficina.",
+       "en": "He stuck the drawing on the wall of the office."
+      },
+      {
+       "fr": "Todos los compañeros nos reímos mucho.",
+       "en": "All the colleagues laughed a lot.",
+       "ov": {
+        "4": {
+         "p": "ADV",
+         "g": "a lot"
+        }
+       }
+      },
+      {
+       "fr": "«Es el mejor dibujo de la semana», dijo el jefe.",
+       "en": "\"It is the best drawing of the week,\" said the boss."
+      },
+      {
+       "fr": "Todos queríamos ver su cuaderno.",
+       "en": "We all wanted to see his notebook.",
+       "ov": {
+        "0": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "El viernes, Daniel ya no estaba callado.",
+       "en": "On Friday, Daniel was no longer quiet."
+      },
+      {
+       "fr": "En la comida contó chistes y todos lo escuchamos.",
+       "en": "At lunch he told jokes and we all listened to him.",
+       "ov": {
+        "6": {
+         "p": "PRON",
+         "g": "everyone"
+        },
+        "2": {
+         "g": "lunch (the midday meal)"
+        }
+       }
+      },
+      {
+       "fr": "«Voy a traer más dibujos», dijo, sonriendo.",
+       "en": "\"I am going to bring more drawings,\" he said, smiling."
+      },
+      {
+       "fr": "Todos querían comer con él.",
+       "en": "Everyone wanted to eat with him.",
+       "ov": {
+        "0": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
+      },
+      {
+       "fr": "Sus chistes eran muy divertidos.",
+       "en": "His jokes were very funny."
+      },
+      {
+       "fr": "Al final de la semana, ya no era un compañero nuevo.",
+       "en": "By the end of the week, he was no longer a new colleague."
+      },
+      {
+       "fr": "Ya no era tímido.",
+       "en": "He was no longer shy."
+      },
+      {
+       "fr": "Mi oficina ya no era tan silenciosa.",
+       "en": "My office was no longer so quiet."
+      },
+      {
+       "fr": "Era un amigo y parte del equipo.",
+       "en": "He was a friend and part of the team."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cómo era Daniel el lunes?",
+   "q_en": "What was Daniel like on Monday?",
+   "o": [
+    {
+     "fr": "Muy tímido",
+     "en": "Very shy"
+    },
+    {
+     "fr": "Muy alegre",
+     "en": "Very cheerful"
+    },
+    {
+     "fr": "Muy cansado",
+     "en": "Very tired"
+    }
+   ],
+   "a": 0,
+   "why": "'Parecía muy tímido' y 'no habló con nadie'."
+  },
+  {
+   "q": "¿Qué le gusta hacer a Daniel?",
+   "q_en": "What does Daniel like to do?",
+   "o": [
+    {
+     "fr": "Cocinar",
+     "en": "Cooking"
+    },
+    {
+     "fr": "Dibujar",
+     "en": "Drawing"
+    },
+    {
+     "fr": "Cantar",
+     "en": "Singing"
+    }
+   ],
+   "a": 1,
+   "why": "'Me gusta dibujar.'"
+  },
+  {
+   "q": "¿Qué dibujó Daniel para el equipo?",
+   "q_en": "What did Daniel draw for the team?",
+   "o": [
+    {
+     "fr": "Una casa",
+     "en": "A house"
+    },
+    {
+     "fr": "Un mapa",
+     "en": "A map"
+    },
+    {
+     "fr": "Los compañeros como animales",
+     "en": "His colleagues as animals"
+    }
+   ],
+   "a": 2,
+   "why": "'Éramos animales: el jefe era un oso grande.'"
+  },
+  {
+   "q": "¿Cómo terminó la semana?",
+   "q_en": "How did the week end?",
+   "o": [
+    {
+     "fr": "Daniel hablaba con todos",
+     "en": "Daniel was talking with everyone"
+    },
+    {
+     "fr": "Daniel se fue de la oficina",
+     "en": "Daniel left the office"
+    },
+    {
+     "fr": "Daniel seguía solo",
+     "en": "Daniel was still alone"
+    }
+   ],
+   "a": 0,
+   "why": "'Contó chistes y todos lo escuchamos.'"
+  }
+ ],
+ "cover": "es-el-nuevo-companero-1"
+}

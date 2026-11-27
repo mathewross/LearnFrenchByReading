@@ -5,6 +5,7 @@ import { Reader } from './reader.js';
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
 const COLORS = ['#5f7f73', '#9b6f5a', '#5d7088', '#857550', '#8c5f6a', '#4f7c82'];
 const THEME_COLORS = { light: '#f6f4ef', sepia: '#f1e7d0', dark: '#17181a' };
+const THEME_COLORS_ES = { light: '#fbefed', sepia: '#f4e3da', dark: '#1d1617' };
 const DEFAULTS = { theme: 'light', font: 'serif', size: 20, lh: 1.6, margin: 22, rate: 0.9, pics: 'on', auto: 'off', lang: 'fr' };
 const LANGS = { fr: { name: 'Français', en: 'French', test: 'Bonjour ! Il fait beau à Paris aujourd’hui.', sample: 'Il fait beau à Paris. Léa mange un croissant.' }, es: { name: 'Español', en: 'Spanish', test: '¡Hola! Hoy hace sol en Madrid.', sample: 'Hoy hace sol en Madrid. Ana toma un café.' } };
 const POS = { NOUN: 'noun', VERB: 'verb', ADJ: 'adjective', ADV: 'adverb', PRON: 'pronoun', DET: 'determiner', PREP: 'preposition', CONJ: 'conjunction', INTJ: 'interjection', EXPR: 'expression', NUM: 'number', PROPN: 'name', AUX: 'auxiliary' };
@@ -45,10 +46,10 @@ function toast(msg) {
 }
 function applySettings() {
   const s = settings, r = document.documentElement.style;
-  document.body.className = 'theme-' + s.theme + (s.pics === 'off' ? ' nopics' : '');
+  document.body.className = 'theme-' + s.theme + (s.lang === 'es' ? ' lang-es' : '') + (s.pics === 'off' ? ' nopics' : '');
   r.setProperty('--fs', s.size + 'px'); r.setProperty('--lh', s.lh); r.setProperty('--margin', s.margin + 'px');
   r.setProperty('--rfont', s.font === 'sans' ? 'var(--ui)' : 'var(--serif)');
-  $('#theme-color').content = THEME_COLORS[s.theme];
+  $('#theme-color').content = (s.lang === 'es' ? THEME_COLORS_ES : THEME_COLORS)[s.theme];
 }
 function saveSettings() { set('settings', settings); applySettings(); }
 

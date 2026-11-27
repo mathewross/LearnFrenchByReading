@@ -88,7 +88,7 @@ F|monstruo|monstruo|NOUN|
 F|cuidado|cuidado|NOUN|
 F|conejo|conejo|NOUN|
 F|blanco|blanco|ADJ|
-F|orejas|oreja|NOUN|feminine plural
+F|orejas|oreja|NOUN|plural
 F|largas|largo|ADJ|feminine plural
 F|zanahoria|zanahoria|NOUN|
 F|nariz|nariz|NOUN|
@@ -100,6 +100,7 @@ L|Javier|PROPN|Javier (a man's name)
 L|Lucía|PROPN|Lucía (a girl's name)
 L|Luna|PROPN|Luna (a name)
 L|Pablo|PROPN|Pablo (a boy's name)
+L|Zanahoria|PROPN|Zanahoria (the rabbit's name; = carrot)
 L|Toby|PROPN|Toby (the dog's name)
 L|Tomás|PROPN|Tomás (a man's name)
 L|a|PREP|to, at

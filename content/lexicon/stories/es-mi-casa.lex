@@ -59,7 +59,7 @@ L|primero|ADJ|first||
 L|puerta|NOUN|door|f|
 L|querer|VERB|to want||
 L|reír|VERB|to laugh||
-L|sala|NOUN|living room|f|
+L|sala|NOUN|living room (Spain also: salón)|f|
 L|ser|VERB|to be||
 L|silla|NOUN|chair|f|
 L|sofá|NOUN|sofa|m|

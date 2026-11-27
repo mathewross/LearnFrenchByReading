@@ -33,6 +33,10 @@
    "title": "",
    "paragraphs": [
     {
+     "pic": {
+      "id": "es-mi-familia-1",
+      "alt": "Lucía's family lines up in front of their house: parents, brother, grandfather and the dog."
+     },
      "sentences": [
       {
        "fr": "Me llamo Lucía y tengo ocho años.",
@@ -40,7 +44,13 @@
       },
       {
        "fr": "Esta es mi familia.",
-       "en": "This is my family."
+       "en": "This is my family.",
+       "ov": {
+        "0": {
+         "p": "PRON",
+         "g": "this"
+        }
+       }
       },
       {
        "fr": "Vivimos en una casa grande con jardín.",
@@ -129,6 +139,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-mi-familia-2",
+      "alt": "The family gathers round the box and finds a small white rabbit inside."
+     },
      "sentences": [
       {
        "fr": "Es sábado y papá llega a casa con una caja.",
@@ -176,7 +190,12 @@
       },
       {
        "fr": "«Se llama Zanahoria», dice Pablo.",
-       "en": "\"He is called Carrot,\" says Pablo."
+       "en": "\"He is called Carrot,\" says Pablo.",
+       "ov": {
+        "1": {
+         "l": "Zanahoria"
+        }
+       }
       },
       {
        "fr": "Mamá y papá sonríen.",
@@ -256,5 +275,6 @@
    "a": 2,
    "why": "'Dentro hay un conejo blanco.'"
   }
- ]
+ ],
+ "cover": "es-mi-familia-1"
 }

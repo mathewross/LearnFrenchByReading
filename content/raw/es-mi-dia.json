@@ -1,0 +1,253 @@
+{
+ "id": "es-mi-dia",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Mi día",
+ "title_en": "My day",
+ "level": "A1",
+ "summary_en": "Pablo, a student, tells us about his ordinary day. In class, something funny happens with his phone.",
+ "tags": [
+  "student",
+  "daily life",
+  "funny"
+ ],
+ "key_vocab": [
+  "clase",
+  "estudiante",
+  "profesora",
+  "teléfono",
+  "gallo",
+  "mirar",
+  "reír",
+  "amigo"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-mi-dia-1",
+      "alt": "Pablo has breakfast with his mother and sister before going to university."
+     },
+     "sentences": [
+      {
+       "fr": "Me llamo Pablo y soy estudiante.",
+       "en": "My name is Pablo and I am a student."
+      },
+      {
+       "fr": "Vivo con mi madre y mi hermana.",
+       "en": "I live with my mother and my sister."
+      },
+      {
+       "fr": "Me levanto a las siete.",
+       "en": "I get up at seven."
+      },
+      {
+       "fr": "Tomo café y como pan con tomate.",
+       "en": "I have coffee and eat bread with tomato."
+      },
+      {
+       "fr": "Después voy a la universidad en bicicleta.",
+       "en": "Then I go to university by bike."
+      },
+      {
+       "fr": "Mi primera clase es a las nueve.",
+       "en": "My first class is at nine."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-mi-dia-2",
+      "alt": "In English class Pablo's phone suddenly crows like a rooster."
+     },
+     "sentences": [
+      {
+       "fr": "La clase es de inglés.",
+       "en": "It is an English class."
+      },
+      {
+       "fr": "La profesora se llama Carmen.",
+       "en": "The teacher is called Carmen."
+      },
+      {
+       "fr": "Hay veinte estudiantes en la clase.",
+       "en": "There are twenty students in the class."
+      },
+      {
+       "fr": "Me gusta esta clase.",
+       "en": "I like this class."
+      },
+      {
+       "fr": "Hoy la profesora habla de animales.",
+       "en": "Today the teacher talks about animals."
+      },
+      {
+       "fr": "Yo escucho y miro mi libro.",
+       "en": "I listen and look at my book."
+      },
+      {
+       "fr": "De repente, mi teléfono suena: «¡Quiquiriquí!»",
+       "en": "Suddenly, my phone rings: \"Cock-a-doodle-doo!\""
+      },
+      {
+       "fr": "¡Es un gallo!",
+       "en": "It is a rooster!"
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Todos los estudiantes miran mi teléfono.",
+       "en": "All the students look at my phone."
+      },
+      {
+       "fr": "«¿Es un teléfono o un gallo?», pregunta la profesora.",
+       "en": "\"Is it a phone or a rooster?\" asks the teacher."
+      },
+      {
+       "fr": "«Es mi despertador, profesora», digo.",
+       "en": "\"It is my alarm clock, teacher,\" I say."
+      },
+      {
+       "fr": "Mi amigo Luis mira mi teléfono y ríe.",
+       "en": "My friend Luis looks at my phone and laughs."
+      },
+      {
+       "fr": "Mis amigos ríen mucho.",
+       "en": "My friends laugh a lot.",
+       "ov": {
+        "3": {
+         "p": "ADV",
+         "g": "a lot"
+        }
+       }
+      },
+      {
+       "fr": "Yo estoy rojo, pero también río.",
+       "en": "I am red in the face, but I laugh too."
+      },
+      {
+       "fr": "Hasta la profesora ríe.",
+       "en": "Even the teacher laughs.",
+       "ov": {
+        "0": {
+         "p": "ADV",
+         "g": "even"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Por la tarde como con mis amigos.",
+       "en": "In the afternoon I have lunch with my friends."
+      },
+      {
+       "fr": "Ellos preguntan: «¿Dónde está el gallo?»",
+       "en": "They ask: \"Where is the rooster?\""
+      },
+      {
+       "fr": "Después estudio en la biblioteca.",
+       "en": "Then I study in the library."
+      },
+      {
+       "fr": "A las seis vuelvo a casa.",
+       "en": "At six I go back home."
+      },
+      {
+       "fr": "Mi madre prepara la cena.",
+       "en": "My mother makes dinner."
+      },
+      {
+       "fr": "Mi hermana pregunta: «¿Qué tal el día?»",
+       "en": "My sister asks: \"How was your day?\""
+      },
+      {
+       "fr": "«Bien. Pero mi teléfono es un gallo», digo.",
+       "en": "\"Fine. But my phone is a rooster,\" I say."
+      },
+      {
+       "fr": "Ella ríe y yo también.",
+       "en": "She laughs and so do I."
+      },
+      {
+       "fr": "Después de la cena, leo un libro.",
+       "en": "After dinner, I read a book."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Cómo va Pablo a la universidad?",
+   "q_en": "How does Pablo go to university?",
+   "o": [
+    {
+     "fr": "En autobús",
+     "en": "By bus"
+    },
+    {
+     "fr": "En bicicleta",
+     "en": "By bike"
+    },
+    {
+     "fr": "A pie",
+     "en": "On foot"
+    }
+   ],
+   "a": 1,
+   "why": "'Voy a la universidad en bicicleta.'"
+  },
+  {
+   "q": "¿Qué pasa en la clase de inglés?",
+   "q_en": "What happens in the English class?",
+   "o": [
+    {
+     "fr": "El teléfono de Pablo suena como un gallo",
+     "en": "Pablo's phone sounds like a rooster"
+    },
+    {
+     "fr": "La profesora llega tarde",
+     "en": "The teacher arrives late"
+    },
+    {
+     "fr": "Pablo no tiene libro",
+     "en": "Pablo has no book"
+    }
+   ],
+   "a": 0,
+   "why": "'¡Es un gallo! ¡Quiquiriquí!'"
+  },
+  {
+   "q": "¿Qué dice Pablo a su hermana?",
+   "q_en": "What does Pablo say to his sister?",
+   "o": [
+    {
+     "fr": "Que tiene hambre",
+     "en": "That he is hungry"
+    },
+    {
+     "fr": "Que la clase es difícil",
+     "en": "That the class is difficult"
+    },
+    {
+     "fr": "Que su teléfono es un gallo",
+     "en": "That his phone is a rooster"
+    }
+   ],
+   "a": 2,
+   "why": "'Pero mi teléfono es un gallo.'"
+  }
+ ],
+ "cover": "es-mi-dia-1"
+}

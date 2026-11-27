@@ -1,0 +1,353 @@
+{
+ "id": "es-un-dia-de-lluvia",
+ "lang": "es",
+ "series_id": null,
+ "episode": null,
+ "title": "Un día de lluvia",
+ "title_en": "A rainy day",
+ "level": "A2",
+ "summary_en": "Julia leaves home with her red umbrella on a rainy morning. By lunchtime she is standing in the rain without it.",
+ "tags": [
+  "rain",
+  "kindness",
+  "city"
+ ],
+ "key_vocab": [
+  "llover",
+  "lluvia",
+  "paraguas",
+  "cafetería",
+  "parada",
+  "señor",
+  "salir",
+  "autobús"
+ ],
+ "source": "original",
+ "license": "CC0",
+ "chapters": [
+  {
+   "title": "",
+   "paragraphs": [
+    {
+     "pic": {
+      "id": "es-un-dia-de-lluvia-1",
+      "alt": "Julia walks through the rain with her red umbrella and a gift bag."
+     },
+     "sentences": [
+      {
+       "fr": "Aquella mañana llovía mucho en la ciudad.",
+       "en": "That morning it was raining a lot in the city."
+      },
+      {
+       "fr": "Julia salió de casa con su paraguas rojo.",
+       "en": "Julia left home with her red umbrella."
+      },
+      {
+       "fr": "Llevaba también un regalo en una bolsa.",
+       "en": "She was also carrying a gift in a bag."
+      },
+      {
+       "fr": "Iba al centro para ver a su hermana.",
+       "en": "She was going downtown to see her sister.",
+       "ov": {
+        "5": {
+         "g": "(personal a, not translated)"
+        }
+       }
+      },
+      {
+       "fr": "Tenía que tomar el autobús a las doce.",
+       "en": "She had to take the bus at twelve."
+      },
+      {
+       "fr": "Llovía desde la noche.",
+       "en": "It had been raining since last night."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-un-dia-de-lluvia-2",
+      "alt": "Julia finds her umbrella gone from the stand by the cafe door."
+     },
+     "sentences": [
+      {
+       "fr": "Cuando llegó a una cafetería, estaba muy mojada.",
+       "en": "When she reached a cafe, she was very wet."
+      },
+      {
+       "fr": "Dejó el paraguas junto a la puerta.",
+       "en": "She left the umbrella by the door."
+      },
+      {
+       "fr": "En la cafetería hacía calor.",
+       "en": "It was warm in the cafe."
+      },
+      {
+       "fr": "Pidió un café con leche.",
+       "en": "She ordered a coffee with milk."
+      },
+      {
+       "fr": "El café estaba muy bueno.",
+       "en": "The coffee was very good."
+      },
+      {
+       "fr": "Se quedó allí casi una hora, leyendo su libro.",
+       "en": "She stayed there almost an hour, reading her book."
+      },
+      {
+       "fr": "De repente miró el reloj.",
+       "en": "Suddenly she looked at the clock."
+      },
+      {
+       "fr": "¡Era tarde!",
+       "en": "It was late!"
+      },
+      {
+       "fr": "Salió corriendo de la cafetería.",
+       "en": "She ran out of the cafe."
+      },
+      {
+       "fr": "Fuera todavía llovía mucho.",
+       "en": "Outside it was still raining hard."
+      },
+      {
+       "fr": "Buscó el paraguas junto a la puerta.",
+       "en": "She looked for the umbrella by the door."
+      },
+      {
+       "fr": "Pero ya no estaba.",
+       "en": "But it was gone."
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Julia no sabía qué hacer.",
+       "en": "Julia did not know what to do."
+      },
+      {
+       "fr": "La parada del autobús estaba lejos.",
+       "en": "The bus stop was far away."
+      },
+      {
+       "fr": "La lluvia era muy fuerte.",
+       "en": "The rain was very heavy.",
+       "ov": {
+        "4": {
+         "g": "heavy"
+        }
+       }
+      },
+      {
+       "fr": "El próximo autobús salía en diez minutos.",
+       "en": "The next bus left in ten minutes."
+      },
+      {
+       "fr": "Y no tenía otro paraguas.",
+       "en": "And she had no other umbrella."
+      },
+      {
+       "fr": "Julia estaba triste.",
+       "en": "Julia was sad."
+      },
+      {
+       "fr": "Un señor mayor la vio en la puerta.",
+       "en": "An older man saw her at the door.",
+       "ov": {
+        "3": {
+         "l": "lo",
+         "p": "PRON",
+         "m": ""
+        }
+       }
+      },
+      {
+       "fr": "«¿Va a la parada?», le preguntó.",
+       "en": "\"Are you going to the stop?\" he asked her."
+      },
+      {
+       "fr": "«Yo también. Mi paraguas es grande. Puede venir conmigo», dijo.",
+       "en": "\"So am I. My umbrella is big. You can come with me,\" he said."
+      }
+     ]
+    },
+    {
+     "pic": {
+      "id": "es-un-dia-de-lluvia-3",
+      "alt": "Julia and Antonio walk to the bus stop sharing his big umbrella."
+     },
+     "sentences": [
+      {
+       "fr": "Caminaron juntos bajo la lluvia.",
+       "en": "They walked together in the rain."
+      },
+      {
+       "fr": "El señor se llamaba Antonio.",
+       "en": "The man was called Antonio."
+      },
+      {
+       "fr": "También iba a la parada.",
+       "en": "He was going to the stop too."
+      },
+      {
+       "fr": "Hablaba de su jardín y de sus flores.",
+       "en": "He talked about his garden and his flowers."
+      },
+      {
+       "fr": "«Mis flores están felices con esta lluvia», dijo.",
+       "en": "\"My flowers are happy with this rain,\" he said."
+      },
+      {
+       "fr": "Julia hablaba poco, pero el señor hablaba por los dos.",
+       "en": "Julia did not talk much, but the man talked for both of them."
+      },
+      {
+       "fr": "Puso el paraguas sobre Julia.",
+       "en": "He held the umbrella over Julia."
+      },
+      {
+       "fr": "Él se mojó el hombro, pero no dijo nada.",
+       "en": "He got his own shoulder wet, but said nothing."
+      },
+      {
+       "fr": "Llegaron a la parada justo a tiempo.",
+       "en": "They reached the stop just in time."
+      },
+      {
+       "fr": "Julia le dio las gracias muchas veces.",
+       "en": "Julia thanked him many times."
+      },
+      {
+       "fr": "«No es nada», dijo el señor.",
+       "en": "\"It is nothing,\" said the man."
+      },
+      {
+       "fr": "«Un día de lluvia es mejor con compañía.»",
+       "en": "\"A rainy day is better with company.\""
+      }
+     ]
+    },
+    {
+     "sentences": [
+      {
+       "fr": "Dos días después, Julia volvió a la cafetería para preguntar por su paraguas.",
+       "en": "Two days later, Julia went back to the cafe to ask about her umbrella."
+      },
+      {
+       "fr": "El camarero la reconoció y sonrió.",
+       "en": "The waiter recognised her and smiled.",
+       "ov": {
+        "2": {
+         "l": "lo",
+         "p": "PRON",
+         "m": ""
+        }
+       }
+      },
+      {
+       "fr": "«Aquí tiene su paraguas rojo», dijo.",
+       "en": "\"Here is your red umbrella,\" he said."
+      },
+      {
+       "fr": "«Un cliente lo tomó por error y lo devolvió.»",
+       "en": "\"A customer took it by mistake and brought it back.\""
+      },
+      {
+       "fr": "«Lo guardé para usted.»",
+       "en": "\"I kept it for you.\""
+      },
+      {
+       "fr": "Julia sonrió y salió con el paraguas en la mano.",
+       "en": "Julia smiled and went out with the umbrella in her hand."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "¿Dónde dejó Julia el paraguas?",
+   "q_en": "Where did Julia leave her umbrella?",
+   "o": [
+    {
+     "fr": "En el autobús",
+     "en": "On the bus"
+    },
+    {
+     "fr": "En una cafetería",
+     "en": "In a cafe"
+    },
+    {
+     "fr": "En casa de su hermana",
+     "en": "At her sister's house"
+    }
+   ],
+   "a": 1,
+   "why": "'Dejó el paraguas junto a la puerta' de la cafetería."
+  },
+  {
+   "q": "¿Por qué tenía prisa Julia?",
+   "q_en": "Why was Julia in a hurry?",
+   "o": [
+    {
+     "fr": "Tenía que tomar el autobús",
+     "en": "She had to catch the bus"
+    },
+    {
+     "fr": "Tenía una clase",
+     "en": "She had a class"
+    },
+    {
+     "fr": "Tenía hambre",
+     "en": "She was hungry"
+    }
+   ],
+   "a": 0,
+   "why": "'Tenía que tomar el autobús a las doce' y 'era tarde'."
+  },
+  {
+   "q": "¿Quién ayudó a Julia?",
+   "q_en": "Who helped Julia?",
+   "o": [
+    {
+     "fr": "Su hermana",
+     "en": "Her sister"
+    },
+    {
+     "fr": "El camarero",
+     "en": "The waiter"
+    },
+    {
+     "fr": "Un señor mayor",
+     "en": "An older man"
+    }
+   ],
+   "a": 2,
+   "why": "'Puede venir conmigo, mi paraguas es grande.'"
+  },
+  {
+   "q": "¿Qué pasó dos días después?",
+   "q_en": "What happened two days later?",
+   "o": [
+    {
+     "fr": "El camarero le dio su paraguas",
+     "en": "The waiter gave her her umbrella"
+    },
+    {
+     "fr": "Julia compró otro paraguas",
+     "en": "Julia bought another umbrella"
+    },
+    {
+     "fr": "Julia no encontró el paraguas",
+     "en": "Julia did not find the umbrella"
+    }
+   ],
+   "a": 0,
+   "why": "'Aquí tiene su paraguas rojo.'"
+  }
+ ],
+ "cover": "es-un-dia-de-lluvia-1"
+}

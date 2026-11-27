@@ -15,7 +15,7 @@ L|cantar|VERB|to sing||
 L|casa|NOUN|house, home|f|
 L|cena|NOUN|dinner|f|
 L|cenar|VERB|to have dinner||
-L|coche|NOUN|car|m|
+L|coche|NOUN|car (Spain; LatAm: carro, auto)|m|
 L|comer|VERB|to eat||
 L|comida|NOUN|food|f|
 L|con|PREP|with||
@@ -60,7 +60,7 @@ L|no|ADV|no, not||
 L|olvidar|VERB|to forget||
 L|oscuro|ADJ|dark||
 L|para|PREP|for, in order to||
-L|pastel|NOUN|cake|m|
+L|pastel|NOUN|cake (Spain also: tarta)|m|
 L|pensar|VERB|to think||
 L|pequeño|ADJ|small||
 L|perfecto|ADJ|perfect||
@@ -75,6 +75,7 @@ L|solo|ADV|only, just||
 L|sonreír|VERB|to smile||
 L|sorpresa|NOUN|surprise|f|
 L|su|DET|his, her||
+L|nada|PRON|nothing
 L|sí|ADV|yes||
 L|también|ADV|also, too||
 L|tarde|NOUN|afternoon|f|

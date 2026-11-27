@@ -148,3 +148,8 @@ body.nopics .pic { display: none; }
 /* no native text selection / Google "tap to search" panel anywhere except form fields */
 body, .sheet, .quiz, .view { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
 input, textarea, select { -webkit-user-select: text; user-select: text; }
+
+/* Spanish: soft pastel red palette */
+body.lang-es.theme-light { --bg: #fbefed; --fg: #2e2523; --muted: #8a736f; --card: #fff8f6; --line: #efd8d4; --accent: #c4636a; --hl: #f6c9c3; --hl-soft: #f9dcd7; --scrim: rgba(60,25,25,.25); }
+body.lang-es.theme-sepia { --bg: #f4e3da; --fg: #4a3329; --muted: #8f7566; --card: #faece4; --line: #e6cfc2; --accent: #b9605a; --hl: #eec1b0; --hl-soft: #f2d3c6; --scrim: rgba(70,30,15,.25); }
+body.lang-es.theme-dark { --bg: #1d1617; --fg: #dcd0cd; --muted: #937f7c; --card: #2a1f21; --line: #3a2b2d; --accent: #e59a9c; --hl: #5a3436; --hl-soft: #3f2a2b; --scrim: rgba(0,0,0,.5); }

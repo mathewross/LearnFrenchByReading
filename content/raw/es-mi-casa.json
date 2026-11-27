@@ -6,7 +6,7 @@
  "title": "Mi casa",
  "title_en": "My house",
  "level": "A1",
- "summary_en": "A man proudly shows his friend Marta around his new house, room by room. Then he cannot find something important.",
+ "summary_en": "A proud new home-owner shows their friend Marta around the house, room by room. Then something important goes missing.",
  "tags": [
   "house",
   "home",
@@ -33,6 +33,10 @@
    "title": "",
    "paragraphs": [
     {
+     "pic": {
+      "id": "es-mi-casa-1",
+      "alt": "The host welcomes Marta into the living room with its blue sofa."
+     },
      "sentences": [
       {
        "fr": "Hola, Marta, bienvenida a mi casa nueva.",
@@ -64,11 +68,21 @@
       },
       {
        "fr": "Me gusta mucho el sofá.",
-       "en": "I like the sofa a lot."
+       "en": "I like the sofa a lot.",
+       "ov": {
+        "1": {
+         "p": "ADV",
+         "g": "a lot"
+        }
+       }
       }
      ]
     },
     {
+     "pic": {
+      "id": "es-mi-casa-2",
+      "alt": "The host and Marta stand in the white kitchen with bread and fruit on the table."
+     },
      "sentences": [
       {
        "fr": "Ahora ven a la cocina.",
@@ -108,7 +122,13 @@
      "sentences": [
       {
        "fr": "Mira, este es el dormitorio.",
-       "en": "Look, this is the bedroom."
+       "en": "Look, this is the bedroom.",
+       "ov": {
+        "1": {
+         "p": "PRON",
+         "g": "this"
+        }
+       }
       },
       {
        "fr": "El dormitorio es tranquilo.",
@@ -141,6 +161,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-mi-casa-3",
+      "alt": "The keys are in the front door all along, and both of them laugh."
+     },
      "sentences": [
       {
        "fr": "Quiero abrir la puerta con la llave.",
@@ -171,12 +195,18 @@
        "en": "Marta laughs and says: \"Look at the front door.\""
       },
       {
-       "fr": "¡Las llaves están en la puerta!",
-       "en": "The keys are in the door!"
+       "fr": "¡La llave está en la puerta!",
+       "en": "The key is in the door!"
       },
       {
        "fr": "Toda mi casa está abierta para todos.",
-       "en": "My whole house is open to everyone."
+       "en": "My whole house is open to everyone.",
+       "ov": {
+        "6": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
       }
      ]
     }
@@ -205,8 +235,8 @@
    "why": "'La cocina es blanca y muy limpia.'"
   },
   {
-   "q": "¿Qué quiere abrir el hombre en el jardín?",
-   "q_en": "What does the man want to open in the garden?",
+   "q": "En el jardín, ¿qué quiere abrir?",
+   "q_en": "In the garden, what does the host want to open?",
    "o": [
     {
      "fr": "La ventana",
@@ -225,8 +255,8 @@
    "why": "'Quiero abrir la puerta con la llave.'"
   },
   {
-   "q": "¿Dónde están las llaves?",
-   "q_en": "Where are the keys?",
+   "q": "¿Dónde está la llave?",
+   "q_en": "Where is the key?",
    "o": [
     {
      "fr": "En el bolsillo",
@@ -242,7 +272,8 @@
     }
    ],
    "a": 2,
-   "why": "'¡Las llaves están en la puerta!'"
+   "why": "'¡La llave está en la puerta!'"
   }
- ]
+ ],
+ "cover": "es-mi-casa-1"
 }

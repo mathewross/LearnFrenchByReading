@@ -18,7 +18,7 @@ L|debajo|ADV|underneath, under||
 L|decir|VERB|to say||
 L|dejar|VERB|to leave, to put down||
 L|desde|PREP|from, since||
-L|detrás|ADV|behind||
+L|detrás|PREP|behind, after||
 L|el|DET|the||
 L|en|PREP|in, on, at||
 L|entre|PREP|between, among||
@@ -106,7 +106,7 @@ F|ve|ver|VERB|presente (él/ella)
 F|gato|gato|NOUN|
 F|blanco|blanco|ADJ|
 F|negro|negro|ADJ|
-F|detrás|detrás|ADV|
+F|detrás|detrás|PREP|
 F|del|de|PREP|de + el
 F|ven|venir|VERB|imperative (tú)
 F|aquí|aquí|ADV|

@@ -33,6 +33,10 @@
    "title": "",
    "paragraphs": [
     {
+     "pic": {
+      "id": "es-el-cumpleanos-1",
+      "alt": "Elena is sad at the flower shop on her birthday."
+     },
      "sentences": [
       {
        "fr": "Hoy es el cumpleaños de Elena.",
@@ -48,11 +52,21 @@
       },
       {
        "fr": "Por la mañana, nadie dice nada.",
-       "en": "In the morning, nobody says anything."
+       "en": "In the morning, nobody says anything.",
+       "ov": {
+        "5": {
+         "l": "nada"
+        }
+       }
       },
       {
        "fr": "Su marido Javier no dice nada.",
-       "en": "Her husband Javier says nothing."
+       "en": "Her husband Javier says nothing.",
+       "ov": {
+        "5": {
+         "l": "nada"
+        }
+       }
       },
       {
        "fr": "Sus amigos no llaman.",
@@ -64,7 +78,13 @@
       },
       {
        "fr": "Piensa: «Todos olvidan mi cumpleaños.»",
-       "en": "She thinks: \"Everyone forgets my birthday.\""
+       "en": "She thinks: \"Everyone forgets my birthday.\"",
+       "ov": {
+        "1": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
       },
       {
        "fr": "Está muy triste.",
@@ -76,7 +96,12 @@
      "sentences": [
       {
        "fr": "Por la tarde, Javier llama a Elena.",
-       "en": "In the afternoon, Javier calls Elena."
+       "en": "In the afternoon, Javier calls Elena.",
+       "ov": {
+        "5": {
+         "g": "(personal a, not translated)"
+        }
+       }
       },
       {
        "fr": "«Vamos a cenar en casa de mi madre.»",
@@ -109,6 +134,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-el-cumpleanos-2",
+      "alt": "Surprise! Friends and family cheer with balloons and confetti."
+     },
      "sentences": [
       {
        "fr": "Elena abre la puerta.",
@@ -120,7 +149,13 @@
       },
       {
        "fr": "«¡Sorpresa!», gritan todos.",
-       "en": "\"Surprise!\" everyone shouts."
+       "en": "\"Surprise!\" everyone shouts.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
       },
       {
        "fr": "Los amigos están allí, y también la familia.",
@@ -153,6 +188,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-el-cumpleanos-3",
+      "alt": "A big cake with candles and the whole family around the table."
+     },
      "sentences": [
       {
        "fr": "Javier trae un pastel con velas.",
@@ -196,11 +235,23 @@
       },
       {
        "fr": "Todos están en la mesa.",
-       "en": "Everyone is at the table."
+       "en": "Everyone is at the table.",
+       "ov": {
+        "0": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
       },
       {
        "fr": "«Gracias a todos, es una cena perfecta», dice Elena.",
-       "en": "\"Thank you all, it is a perfect dinner,\" says Elena."
+       "en": "\"Thank you all, it is a perfect dinner,\" says Elena.",
+       "ov": {
+        "2": {
+         "p": "PRON",
+         "g": "everyone"
+        }
+       }
       },
       {
        "fr": "Ahora Elena no está triste, está feliz.",
@@ -272,5 +323,6 @@
    "a": 0,
    "why": "'Javier trae un pastel con velas.'"
   }
- ]
+ ],
+ "cover": "es-el-cumpleanos-1"
 }

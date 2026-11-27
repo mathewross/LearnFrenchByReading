@@ -32,6 +32,10 @@
    "title": "",
    "paragraphs": [
     {
+     "pic": {
+      "id": "es-la-cafeteria-1",
+      "alt": "Marta works behind the bar of her small café in the morning."
+     },
      "sentences": [
       {
        "fr": "Son las ocho de la mañana.",
@@ -100,6 +104,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-la-cafeteria-2",
+      "alt": "Marta brings the wrong drinks: the grumpy customers look at the mix-up."
+     },
      "sentences": [
       {
        "fr": "Marta tiene mucha prisa.",
@@ -132,6 +140,10 @@
      ]
     },
     {
+     "pic": {
+      "id": "es-la-cafeteria-3",
+      "alt": "The two customers share a table, laugh and eat free churros."
+     },
      "sentences": [
       {
        "fr": "La camarera ve el error y dice: «¡Ay, lo siento!»",
@@ -251,5 +263,6 @@
    "a": 0,
    "why": "They laugh, talk at the same table and Marta brings free churros."
   }
- ]
+ ],
+ "cover": "es-la-cafeteria-1"
 }
